@@ -1,0 +1,532 @@
+﻿Poison
+Paralysis
+Sleep
+Stun
+Hearing
+Wind Res
+Tremor Res
+Bind Res
+Heat Res
+Cold Res
+ColdBlooded
+HotBlooded
+Anti-Theft
+Def Lock
+Frenzy Res
+Biology
+Bleeding
+Attack
+Defense
+Health
+Fire Res
+Water Res
+Thunder Res
+Ice Res
+Dragon Res
+Blight Res
+Fire Atk
+Water Atk
+Thunder Atk
+Ice Atk
+Dragon Atk
+Elemental
+Status
+Sharpener
+Handicraft
+Sharpness
+Fencing
+Grinder
+Blunt
+Crit Draw
+Punish Draw
+Sheathing
+Sword Polisher
+Blade Scale
+Reload Spd
+Recoil
+Precision
+Normal Up
+Pierce Up
+Pellet Up
+Heavy Up
+Normal S+
+Pierce S+
+Pellet S+
+Crag S+
+Clust S+
+Poison C+
+Para C+
+Sleep C+
+Power C+
+Elem C+
+C.Range C+
+Exhaust C+
+Blast C+
+Rapid Fire
+Dead Eye
+Loading
+Haphazard
+Ammo Saver
+Expert
+Tenderizer
+Chain Crit
+Crit Status
+Crit Element
+Critical Up
+Neg Affinity
+FastCharge
+Stamina
+Constitution
+Stam Recov
+Long-Winded
+Evasion
+Evade Dist
+Bubble
+Guard
+Guard Up
+KO
+Stam Drain
+Maestro
+Artillery
+Destroyer
+Bomb Boost
+Gloves Off
+Spirit
+Unscathed
+Chance
+D.Instinct
+Potential
+Survivor
+Furor
+Crisis
+Guts
+Sense
+Team Player
+TeamLeader
+Mounting
+Vault
+Insight
+Aware
+SP+
+Psychic
+Perception
+Ranger
+Transportr
+Protection
+Hero Shield
+Rec Level
+Rec Speed
+Lasting Pwr
+Wide-Range
+Hunger
+Gluttony
+Eating
+Light Eater
+Carnivore
+Mycology
+Botany
+Combo Rate
+Combo Plus
+Speed Setup
+Gathering
+Honey
+Charmer
+Whim
+Fate
+Carving
+Tranquilzr
+Bherna
+Kokoto
+Pokke
+Yukumo
+W.Airboat
+F.Tavern
+Redhelm
+Snowbaron
+Stonefist
+Drilltusk
+Dreadqueen
+C.beard
+Silverwind
+Deadeye
+Dreadking
+Thunderlord
+Grimclaw
+Hellblade
+Hazewing
+Shredclaw
+Divinesight
+Azurebolt
+Frostpeak
+Bloodlust
+Redhelm G
+Snowbaron G
+Stonefist G
+Drilltusk G
+Dreadqueen G
+C.beard G
+Silverwind G
+Deadeye G
+Dreadking G
+Thunderlord G
+Grimclaw G
+Hellblade G
+Hazewing G
+Shredclaw G
+Divinesight G
+Azurebolt G
+Frostpeak G
+Bloodlust G
+D. Fencing
+Edge Lore
+PowerEater
+Mechanic
+Brawn
+Prayer
+Covert
+Edgemaster
+SteadyHand
+Status Res
+Fury
+Nimbleness
+Sheathed
+Resilience
+Brutality
+Stalwart
+Prudence
+Amplify
+Hoarding
+Avarice
+Anti-Steel
+Anti-Haze
+Anti-Fire
+Mystery
+Charm+
+Torso Up
+
+Negate Poison
+Double Poison
+Negate Paralysis
+Double Paralysis
+Negate Sleep
+Double Sleep
+Halve Stun
+Negate Stun
+Double Stun
+Earplugs
+HG Earplugs
+Windproof (Lo)
+Windproof (Hi)
+Tremor Res
+Negate Bind
+Heat Cancel
+Heat Surge
+Cold Cancel
+Cold Surge
+Polar Hunter
+Tropic Hunter
+Anti-Theft
+Iron Skin
+Antivirus
+Bio Researcher
+Bio Master
+Negate Bleeding
+Double Bleeding
+Attack Up (S)
+Attack Up (M)
+Attack Up (L)
+Attack Down (S)
+Attack Down (M)
+Attack Down (L)
+Defense Up (S)
+Defense Up (M)
+Defense Up (L)
+Defense Down (S)
+Defense Down (M)
+Defense Down (L)
+Health +20
+Health +50
+Health -10
+Health -30
+Fire Res +15
+Fire Res +20
+Fire Res -20
+Water Res +15
+Water Res +20
+Water Res -20
+Thunder Res +15
+Thunder Res +20
+Thunder Res -20
+Ice Res +15
+Ice Res +20
+Ice Res -20
+Dragon Res +15
+Dragon Res +20
+Dragon Res -20
+Blightproof
+Fire Atk +1
+Fire Atk +2
+Fire Atk Down
+Water Atk +1
+Water Atk +2
+Water Atk Down
+Thunder Atk +1
+Thunder Atk +2
+Thunder Atk Down
+Ice Atk +1
+Ice Atk +2
+Ice Atk Down
+Dragon Atk +1
+Dragon Atk +2
+Dragon Atk Down
+Element Atk Up
+Element Atk Down
+Status Atk +1
+Status Atk +2
+Status Atk Down
+Speed Sharpening
+Slow Sharpening
+Sharpness +1
+Sharpness +2
+Razor Sharp
+Blunt Edge
+Mind's Eye
+Blind Eye
+Heavy Polish
+Bludgeoner
+Critical Draw
+Punishing Draw
+Quick Sheath
+Challenger's Sword
+Blade Scl Polish
+Reload Speed +1
+Reload Speed +2
+Reload Speed +3
+Reload Speed -1
+Reload Speed -2
+Reload Speed -3
+Recoil Down +1
+Recoil Down +2
+Recoil Down +3
+Recoil Down -1
+Recoil Down -2
+Recoil Down -3
+Steadiness +1
+Steadiness +2
+Steadiness -1
+Steadiness -2
+Normal/Rapid Up
+Pierce/Pierce Up
+Pellet/Spread Up
+Heavy/Heavy Up
+Use Any Normal S
+Use Lv1 Pierce S
+Use Any Pierce S
+Use Lv1 Pellet S
+Use Any Pellet S
+Use Lv1 Crag S
+Use Any Crag S
+Use Lv1 Clust S
+Use Any Clust S
+Use Poison Coat
+Use Para Coat
+Use Sleep Coat
+Power Phial (Lv1)
+Power Phial (All)
+Element Phial (Lv1)
+Element Phial (All)
+Use C.Range Coat
+Use Exhaust Coat
+Use Blast Coat
+Bonus Shot
+Shot Booster
+Load Up
+TrueShot Up
+Ammo Saver
+Critical Eye +1
+Critical Eye +2
+Critical Eye +3
+Critical Eye -1
+Critical Eye -2
+Critical Eye -3
+Weakness Exploit
+Repeat Offender
+Status Crit
+Elemental Crit
+Critical Boost
+Mad Affinity
+Focus
+Distraction
+Marathon Runner
+Short Sprinter
+Constitution +1
+Constitution +2
+Constitution -1
+Constitution -2
+Stam Recov Up
+Stam Recov Down
+Key Plan
+Evasion +1
+Evasion +2
+Evasion Down
+Evade Extender
+Bubbly Dance
+Guard +1
+Guard +2
+Guard -1
+Guard Up
+Knockout King
+Stamina Thief
+Horn Maestro
+Artillery Novice
+Artillery Expert
+Partbreaker
+Bombardier
+Latent Power +1
+Latent Power +2
+Challenger +1
+Challenger +2
+Peak Performance
+Ace
+Dragon Instinct
+Adrenaline +1
+Adrenaline +2
+Worrywart
+Fortify
+Resentment
+Resuscitate
+Guts
+Sneak
+Taunt
+Palico Rally
+Palico Cheer
+Mounting Master
+Saddle Sore
+Airborne
+Composed
+Alert
+SP Extender
+Detect
+Autotracker
+Capture Guru
+Outdoorsman
+Pro Transporter
+Divine Blessing
+Demonic Blessing
+Hero's Talisman
+Recovery Up
+Recovery Down
+Recovery Spd +1
+Recovery Spd +2
+Recovery Spd -1
+Recovery Spd -2
+Item Use Up
+Item Use Down
+Wide-Range +1
+Wide-Range +2
+Halve Hunger
+Negate Hunger
+Raise Hunger
+Double Hunger
+Gourmand
+Scavenger
+Speed Eating +1
+Speed Eating +2
+Slow Eater
+Rationer
+Meat Lover
+Mushromancer
+Herbology
+Ultra Herbology
+Combination +20%
+Combination +45%
+Combination -10%
+Combination -20%
+Combination Pro
+Trap Master
+Gathering +1
+Gathering +2
+Gathering -1
+Honey Hunter
+Charm Collector
+Charm Chaser
+Spirit's Whim
+Divine Whim
+Spectre's Whim
+Devil's Whim
+Good Luck
+Great Luck
+Miraculous Luck
+Bad Luck
+Horrible Luck
+Carving Pro
+Carving Celebrity
+Capture Expert
+Capture Master
+Soul of Bherna
+Soul of Kokoto
+Soul of Pokke
+Soul of Yukumo
+W.Airboat Heart
+F.Tavern Heart
+Redhelm Soul
+Snowbaron Soul
+Stonefist Soul
+Drilltusk Soul
+Dreadqueen Soul
+Crystalbeard Soul
+Silverwind Soul
+Deadeye Soul
+Dreadking Soul
+Thunderlord Soul
+Grimclaw Soul
+Hellblade Soul
+Hazewing Soul
+Shredclaw Soul
+Divinesight Soul
+Azurebolt Soul
+Frostpeak Soul
+Bloodlust Soul
+Redhelm Soul G
+Snowbaron Soul G
+Stonefist Soul G
+Drilltusk Soul G
+Dreadqueen Soul G
+Crystalbeard Soul G
+Silverwind Soul G
+Deadeye Soul G
+Dreadking Soul G
+Thunderlord Soul G
+Grimclaw Soul G
+Hellblade Soul G
+Hazewing Soul G
+Shredclaw Soul G
+Divinesight Soul G
+Azurebolt Soul G
+Frostpeak Soul G
+Bloodlust Soul G
+Pro Dirty Fencer
+Steady Hand
+Gourmet
+Explosive Trapper
+Aching Pain
+Benediction
+Clandestine
+Honed Blade
+Silver Bullet
+Wellness
+Wrath Awoken
+Acrobat
+Sheath Control
+Iron Wall
+Ruthlessness
+Shield Bearer
+Fleet Feet
+Elementality
+Pack Rat
+Bounty Hunter
+Haze-Skin Vest
+Fiery Defense
+Steel Shell
+Skill Pts +2
+Charm Up

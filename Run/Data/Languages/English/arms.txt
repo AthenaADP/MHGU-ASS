@@ -1,0 +1,1167 @@
+﻿Leather Gloves
+Chainmail Gloves
+Bherna Braces
+Hunting Braces
+Hunting Guards
+Mafumofu Mittens
+Yukumo Kote
+Hunter's Vambraces
+Hunter's Guards
+Bone Vambraces
+Bone Guards
+Trapper's Gauntlets
+Trapper's Gloves
+Maccao Gauntlets
+Maccao Gloves
+Jaggi Gauntlets
+Jaggi Gloves
+Jaggi Vambraces
+Jaggi Guards
+Maccao Braces
+Maccao Guards
+Velociprey Braces
+Velociprey Guards
+Giaprey Vambraces
+Giaprey Guards
+Genprey Vambraces
+Genprey Guards
+Vespoid Vambraces
+Vespoid Guards
+Hornetaur Braces
+Hornetaur Guards
+Bnahabra Gloves
+Bnahabra Sleeves
+Konchu Braces
+Konchu Guards
+Mosswine Gloves
+Rhenoplos Vambraces
+Rhenoplos Guards
+Bulldrome Braces
+Bulldrome Guards
+Arzuros Vambraces
+Arzuros Guards
+Cephalos Braces
+Cephalos Guards
+Derring Gloves
+Alloy Vambraces
+Alloy Guards
+Battle Vambraces
+Battle Guards
+Ingot Vambraces
+Ingot Guards
+High Metal Braces
+High Metal Guards
+Melahoa Branch
+Melahoa Petal
+Makluva Sleeves
+Makluva Sucker
+Obituary Brachia
+Obituary Manus
+Butterfly Brachia
+Butterfly Manus
+Death Stench Grip
+Death Stench Grasp
+Mosgharl Creeper
+Mosgharl Tendril
+Edel Creeper
+Edel Tendril
+Skalda Brachia
+Skalda Manus
+Spio Brachia
+Spio Manus
+Moofah Claws
+Moofah Sleeves
+Velociprey Claws
+Velociprey Gloves
+Genprey Claws
+Genprey Gloves
+Ioprey Claws
+Ioprey Gloves
+Remobra Gloves
+Remobra Hands
+Ioprey Vambraces
+Ioprey Guards
+Kut-Ku Vambraces
+Kut-Ku Guards
+Lagombi Vambraces
+Lagombi Guards
+Gypceros Braces
+Gypceros Guards
+Tetsucabra Braces
+Tetsucabra Guards
+Hermitaur Braces
+Hermitaur Guards
+Volvidon Vambraces
+Volvidon Guards
+Ludroth Braces
+Ludroth Guards
+Malfestio Braces
+Malfestio Guards
+Khezu Vambraces
+Khezu Guards
+Rathian Braces
+Rathian Guards
+Nibelsnarf Braces
+Nibelsnarf Guards
+Blango Vambraces
+Blango Guards
+Ceanataur Braces
+Ceanataur Guards
+Najarala Braces
+Najarala Guards
+Nargacuga Braces
+Nargacuga Guards
+Scholarly Grips
+Scholarly Cuffs
+Vaik Braces
+Vaik Guards
+Aelucanth Brachia
+Aelucanth Manus
+Rhopessa Brachia
+Rhopessa Manus
+Artian Braces
+Artian Guards
+Garuga Vambraces
+Garuga Guards
+Uragaan Vambraces
+Uragaan Guards
+Rathalos Braces
+Rathalos Guards
+Lagiacrus Braces
+Lagiacrus Guards
+Zinogre Braces
+Zinogre Guards
+Mizutsune Braces
+Mizutsune Guards
+Astalos Braces
+Astalos Guards
+Gammoth Braces
+Gammoth Guards
+Glavenus Braces
+Glavenus Guards
+Gore Braces
+Gore Guards
+Regios Vambraces
+Regios Guards
+Tigrex Braces
+Tigrex Guards
+Kirin Longarms
+Kirin Gloves
+Brachydios Braces
+Brachydios Guards
+Arc Vambraces
+Arc Guards
+Storge Braces
+Storge Guards
+Kushala Grip
+Kushala Embrace
+Mizuha Sleeves
+Cham Sleeves
+Kaiser Vambraces
+Kaiser Guards
+Skeletal Humerus
+Decayed Humerus
+Black Claw
+Black Fist
+Black Belt Braces
+Black Belt Guards
+Guild Bard Braces
+Guild Bard Sleeves
+Maiden's Gloves
+French Maid Sleeves
+Helper Sleeves
+Healer Sleeves
+Dianthus Sleeves
+Campanile Sleeves
+Bath Sleeves
+Gourmew Gloves
+Gourmew Mitts
+Leather Braces S
+Leather Guards S
+Chainmail Braces S
+Chainmail Guards S
+Bherna Braces S
+Bherna Guards S
+Hunting Braces S
+Hunting Guards S
+Mafumofu Grips S
+Mafumofu Mittens S
+Yukumo Sky Kote
+Yukumo Land Kote
+Hunter's Vambraces S
+Hunter's Guards S
+Hunter's Braces R
+Hunter's Guards R
+Bone Vambraces S
+Bone Guards S
+Melahoa Branch S
+Melahoa Petal S
+Melahoa Branch U
+Melahoa Petal U
+Makluva Sleeves S
+Makluva Sucker S
+Makluva Sleeves U
+Makluva Sucker U
+Mosgharl Creeper S
+Mosgharl Tendril S
+Edel Creeper S
+Edel Tendril S
+Moofah Claws S
+Moofah Sleeves S
+Velociprey Claws S 
+Velociprey Gloves S
+Giaprey Claws S
+Giaprey Gloves S
+Genprey Claws S
+Genprey Gloves S
+Ioprey Claws S
+Ioprey Gloves S
+Remobra Gloves S
+Remobra Hands S
+Trapper's Gauntlets S
+Trapper's Gloves S
+Maccao Gauntlets S
+Maccao Gloves S
+Jaggi Gauntlets S
+Jaggi Gloves S
+Mosswine Gloves S
+Rhenoplos Braces S
+Rhenoplos Guards S
+Jaggi Vambraces S
+Jaggi Guards S
+Maccao Braces S
+Maccao Guards S
+Velociprey Braces S
+Velociprey Guards S
+Giaprey Braces S
+Giaprey Guards S
+Genprey Vambraces S
+Genprey Guards S
+EX Genprey Braces
+EX Genprey Guards
+Ioprey Vambraces S
+Ioprey Guards S
+EX Ioprey Vambraces
+EX Ioprey Guards
+Vespoid Vambraces S
+Vespoid Guards S
+EX Vespoid Vambraces
+EX Vespoid Guards
+Hornetaur Braces S
+Hornetaur Guards S
+EX Hornetaur Braces
+EX Hornetaur Guards
+Hornetaur Braces R
+Hornetaur Guards R
+Bnahabra Gloves S
+Bnahabra Sleeves S
+Konchu Braces S
+Konchu Guards S
+Bulldrome Braces S
+Bulldrome Guards S
+Arzuros Vambraces S
+Arzuros Guards S
+Cephalos Vambraces S
+Cephalos Guards S
+EX Cephalos Braces
+EX Cephalos Guards
+Kut-Ku Vambraces S
+Kut-Ku Guards S
+Kecha Vambraces
+Kecha Guards
+Lagombi Vambraces S
+Lagombi Guards S
+Gypceros Braces S
+Gypceros Guards S
+Gypceros Braces R
+Gypceros Guards R
+Tetsucabra Braces S
+Tetsucabra Guards S
+Hermitaur Braces S
+Hermitaur Guards S
+EX Hermitaur Braces
+EX Hermitaur Guards
+Hermitaur Braces R
+Hermitaur Guards R
+Volvidon Vambraces S
+Volvidon Guards S
+Conga Vambraces
+Conga Guards
+Ludroth Braces S
+Ludroth Guards S
+Ludroth Braces R
+Ludroth Guards R
+Barroth Vambraces
+Barroth Guards
+Lecturer's Braces
+Lecturer's Guards
+Alloy Vambraces S
+Alloy Guards S
+Alloy Braces R
+Alloy Guards R
+Battle Vambraces S
+Battle Guards S
+Ingot Vambraces S
+Ingot Guards S
+Ingot Vambraces R
+Ingot Guards R
+High Metal Braces S
+High Metal Guards S
+High Metal Braces U
+High Metal Guards U
+Lobster Vambraces
+Lobster Guards
+Obituary Brachia S
+Obituary Manus S
+Butterfly Brachia S
+Butterfly Manus S
+Death Stench Grip S
+Death Stench Grasp S
+Death Stench Grip R
+Death Stench Grasp R
+Vaik Braces S
+Vaik Guards S
+Aelucanth Brachia S
+Aelucanth Manus S
+Rhopessa Brachia S
+Rhopessa Manus S
+Patissier's Gloves
+Patissier's Mitts
+Skalda Brachia S
+Skalda Manus S
+Spio Brachia S
+Spio Manus S
+Basarios Braces
+Basarios Guards
+Malfestio Braces S
+Malfestio Guards S
+Zamtrios Braces
+Zamtrios Guards
+Khezu Vambraces S
+Khezu Guards S
+Khezu Braces R
+Khezu Guards R
+Nerscylla Braces
+Nerscylla Guards
+Rathian Braces S
+Rathian Guards S
+EX Rathian Braces
+EX Rathian Guards
+Rathian Braces R
+Rathian Guards R
+Nibelsnarf Braces S
+Nibelsnarf Guards S
+Plesioth Vambraces
+Plesioth Guards
+Blango Vambraces S
+Blango Guards S
+EX Blango Braces
+EX Blango Guards
+Lavasioth Braces
+Lavasioth Guards
+EX Lavasioth Braces
+EX Lavasioth Guards
+Ceanataur Braces S
+Ceanataur Guards S
+EX Ceanataur Braces
+EX Ceanataur Guards
+Ceanataur Braces R
+Ceanataur Guards R
+Najarala Braces S
+Najarala Guards S
+Nargacuga Braces S
+Nargacuga Guards S
+Garuga Vambraces S
+Garuga Guards S
+Uragaan Vambraces S
+Uragaan Guards S
+Black Belt Braces S
+Black Belt Guards S
+Guardian Braces
+Guardian Guards
+Guardian Braces U
+Guardian Guards U
+Scholar's Gloves
+Scholar's Sleeves
+Sailor Gloves
+Sailor Sleeves
+Luxury Bath Sleeves
+Kita Star Sleeves
+Umi Ocean Sleeves
+Derring Vambraces S
+Derring Guards S
+Dober Vambraces
+Dober Guards
+Damascus Vambraces
+Damascus Guards
+Damascus Braces R
+Damascus Guards R
+Artian Braces S
+Artian Guards S
+Artian Braces R
+Artian Guards R
+Barioth Braces
+Barioth Guards
+Seltas Vambraces
+Seltas Guards
+Rathalos Braces S
+Rathalos Guards S
+EX Rathalos Braces
+EX Rathalos Guards
+Rathalos Braces R
+Rathalos Guards R
+Lagiacrus Braces S
+Lagiacrus Guards S
+Lagiacrus Braces R
+Lagiacrus Guards R
+Zinogre Braces S
+Zinogre Guards S
+EX Zinogre Braces
+EX Zinogre Guards
+Gravios Braces
+Gravios Guards
+Mizutsune Braces S
+Mizutsune Guards S
+Astalos Braces S
+Astalos Guards S
+Gammoth Braces S
+Gammoth Guards S
+Glavenus Braces S
+Glavenus Guards S
+Agnaktor Vambraces
+Agnaktor Guards
+Gore Braces S
+Gore Guards S
+EX Gore Braces
+EX Gore Guards
+Gore Braces R
+Gore Guards R
+Regios Vambraces S
+Regios Guards S
+Duramboros Braces
+Duramboros Guards
+Tigrex Braces S
+Tigrex Guards S
+EX Tigrex Braces
+EX Tigrex Guards
+Tigrex Braces R
+Tigrex Guards R
+Kirin Longarms S
+Kirin Gloves S
+Kirin Longarms R
+Kirin Gloves R
+Brachydios Braces S
+Brachydios Guards S
+EX Brachydios Braces
+EX Brachydios Guards
+Golden Kote
+Puppeteer Gloves
+Vangis Vambraces
+Vangis Guards
+Guild Knight Gloves
+Guild Knight Sleeves
+Maiden's Gloves S
+French Maid Sleeves S
+Blue Guild Gloves
+Blue Guild Sleeves
+Blue Guild Gloves
+Blue Guild Sleeves
+Red Guild Gloves
+Red Guild Sleeves
+Red Guild Gloves
+Red Guild Sleeves
+Helper Sleeves S
+Healer Sleeves S
+Helper Sleeves U
+Healer Sleeves U
+Guild Bard Braces S
+Guild Bard Sleeves S
+Chakra Bracelet
+Dianthus Wealsleeves
+Campanile Wealsleeves
+Ace Vambraces
+Ace Guards
+Sororal Vambraces
+Sororal Guards
+Hawkbraces
+Hawkguards
+Gourmew Gloves S
+Gourmew Mitts S
+Scholarly Grips S
+Scholarly Cuffs S
+Ranger's Gauntlets
+Archer's Gauntlets
+Shinobi Heaven Kote
+Shinobi Land Kote
+Shinobi Sky Kote
+Shinobi Sea Kote
+Ancient Arms
+Ancient Guards
+Master's Gauntlets
+Master's Guards
+Black Claw S
+Black Fist S
+Toka Kote
+Mitsuaoi Kote
+Wisdom Gloves
+Wisdom Cuffs
+Cheerful Vambraces
+Cheerful Guards
+Sailor Gloves
+Sailor Sleeves
+EX Rathian Braces S
+EX Rathian Guards S
+EX Rathalos Braces S
+EX Rathalos Guards S
+EX Tigrex Braces S
+EX Tigrex Guards S
+Diablos Braces
+Diablos Guards
+True Skeletal Humerus
+True Decayed Humerus
+Arc Vambraces S
+Arc Guards S
+Storge Braces S
+Storge Guards S
+EX Arc Vambraces
+EX Arc Guards
+EX Storge Vambraces
+EX Storge Guards
+Arc Braces R
+Arc Guards R
+Storge Braces R
+Storge Guards R
+Bulk Vambraces
+Bulk Guards
+Kushala Grip S
+Kushala Embrace S
+EX Kushala Grip
+EX Kushala Embrace
+Kushala Grip R
+Kushala Embrace R
+Mizuha Sleeves S
+Cham Sleeves S
+EX Mizuha Sleeves
+EX Cham Sleeves
+Kaiser Vambraces S
+Kaiser Guards S
+EX Kaiser Vambraces
+EX Kaiser Guards
+Silver Solbraces
+Silver Solguards
+EX Silver Solbraces
+EX Silver Solguards
+Silver Solbraces R
+Silver Solguards R
+Golden Lunebraces
+Golden Luneguards
+EX Golden Lunebraces
+EX Golden Luneguards
+Divine Ire Kote
+Crusher Braces
+Esurient Vambraces
+Esurient Guards
+Esurient Braces R
+Esurient Guards R
+Akantor Claws
+Akantor Gauntlets
+Akantor Claws R
+Akantor Gauntlets R
+Ukanlos Claws
+Ukanlos Gauntlets
+Tempest Sleeves
+Welkin Sleeves
+Tempest Sleeves R
+Welkin Sleeves R
+Skeletal Humerus R
+Decayed Humerus R
+Astral Vambraces
+Astral Guards
+Escadora Armguards
+Escadora Arma
+Escadora Armguards R
+Escadora Arma R
+Caravaneer's Armlets
+Leather Braces X
+Leather Guards X
+Chainmail Braces X
+Chainmail Guards X
+Bherna Braces X
+Bherna Guards X
+Hunting Braces X
+Hunting Guards X
+Mafumofu Gloves X
+Mafumofu Mittens X
+Yukumo Sky Kote X
+Yukumo Land Kote X
+Luxury Bath Sleeves X
+Hunter's Braces X
+Hunter's Guards X
+Hunter's Braces XR
+Hunter's Guards XR
+Bone Vambraces X
+Bone Guards X
+Trapper's Gauntlets X
+Trapper's Gloves X
+Maccao Gauntlets X
+Maccao Gloves X
+Jaggi Gauntlets X
+Jaggi Gloves X
+Melahoa Branch X
+Melahoa Petal X
+Melahoa Branch Z
+Melahoa Petal Z
+Makluva Sleeves X
+Makluva Sucker X
+Makluva Sleeves Z
+Makluva Sucker Z
+Obituary Brachia X
+Obituary Manus X
+Butterfly Brachia X
+Butterfly Manus X
+Death Stench Grip X
+Death Stench Grasp X
+Death Stench Grip XR
+Death Stench Grasp XR
+Mosgharl Creeper X
+Mosgharl Tendril X
+Edel Creeper X
+Edel Tendril X
+Skalda Brachia X
+Skalda Manus X
+Spio Brachia X
+Spio Manus X
+Alloy Vambraces X
+Alloy Guards X
+Alloy Vambraces XR
+Alloy Guards XR
+Battle Vambraces X
+Battle Guards X
+Ingot Vambraces X
+Ingot Guards X
+Ingot Vambraces XR
+Ingot Guards XR
+High Metal Braces X
+High metal Guards X
+High Metal Braces Z
+High metal Guards Z
+Lobster Vambraces X
+Lobster Guards X
+Vaik Vambraces X
+Vaik Guards X
+Patissier's Gloves X
+Patissier's Mitts X
+Gourmew Gloves X
+Gourmew Gloves X
+Aelucanth Brachia X
+Aelucanth Manus X
+Rhopessa Brachia X
+Rhopessa Manus X
+Lecturer's Braces X
+Lecturer's Guards X
+Derring Vambraces X
+Derring Guards X
+Artian Vambraces X
+Artian Guards X
+Artian Vambraces XR
+Artian Guards XR
+Maiden's Gloves X
+French Maid Sleeves X
+True Dianthus Sleeves
+True Campanile Sleeves
+Hawkbraces X
+Hawkguards X
+Scholarly Grips X
+Scholarly Cuffs X
+Dober Vambraces X
+Dober Guards X
+Scholar's Gloves X
+Scholar's Sleeves X
+Sailor Gloves X
+Sailor Sleeves X
+Marinero Gloves X
+Marinero Sleeves X
+Jaggi Vambraces X
+Jaggi Guards X
+Maccao Vambraces X
+Maccao Guards X
+Velociprey Braces X
+Velociprey Guards X
+Giaprey Braces X
+Giaprey Guards X
+Genprey Braces X
+Genprey Guards X
+GX Genprey Braces
+GX Genprey Guards
+Vespoid Braces X
+Vespoid Guards X
+GX Vespoid Braces
+GX Vespoid Guards
+Hornetaur Braces X
+Hornetaur Guards X
+GX Hornetaur Braces
+GX Hornetaur Guards
+Hornetaur Braces XR
+Hornetaur Guards XR
+Bnahabra Gloves X
+Bnahabra Sleeves X
+Konchu Braces X
+Konchu Guards X
+Mosswine Gloves X
+Rhenoplos Braces X
+Rhenoplos Guards X
+Bulldrome Braces X
+Bulldrome Guards X
+Arzuros Braces X
+Arzuros Guards X
+Cephelos Braces X
+Cephelos Guards X
+GX Cephelos Braces
+GX Cephelos Guards
+Moofah Claws X
+Moofah Sleeves X
+Velociprey Claws X
+Velociprey Gloves X
+Giaprey Claws X
+Giaprey Gloves X
+Genprey Claws X
+Genprey Gloves X
+Ioprey Claws X
+Ioprey Gloves X
+Remobra Gloves X
+Remobra Hands X
+Ioprey Braces X
+Ioprey Guards X
+GX Ioprey Braces
+GX Ioprey Guards
+Kut-Ku Braces X
+Kut-Ku Guards X
+Kecha Braces X
+Kecha Guards X
+Lagombi Braces X
+Lagombi Guards X
+Gypceros Braces X
+Gypceros Guards X
+Gypceros Braces XR
+Gypceros Guards XR
+Tetsucabra Braces X
+Tetsucabra Guards X
+Hermitaur Braces X
+Hermitaur Guards X
+GX Hermitaur Braces
+GX Hermitaur Guards
+Hermitaur Braces XR
+Hermitaur Guards XR
+Volvidon Braces X
+Volvidon Guards X
+Conga Braces X
+Conga Guards X
+GX Conga Braces
+GX Conga Guards
+Ludroth Braces X
+Ludroth Guards X
+Ludroth Braces XR
+Ludroth Guards XR
+Barroth Braces X
+Barroth Guards X
+Basarios Braces X
+Basarios Guards X
+Malfestio Braces X
+Malfestio Guards X
+Zamtrios Braces X
+Zamtrios Guards X
+Khezu Braces X
+Khezu Guards X
+Khezu Braces XR
+Khezu Guards XR
+Nerscylla Braces X
+Nerscylla Guards X
+Rathian Braces X
+Rathian Guards X
+GX Rathian Braces
+GX Rathian Guards
+Rathian Braces XR
+Rathian Guards XR
+Nibelsnarf Braces X
+Nibelsnarf Guards X
+Plesioth Braces X
+Plesioth Guards X
+Blango Braces X
+Blango Guards X
+GX Blango Braces
+GX Blango Guards
+Lavasioth Braces X
+Lavasioth Guards X
+GX Lavasioth Braces
+GX Lavasioth Guards
+Ceanataur Braces X
+Ceanataur Guards X
+GX Ceanataur Braces
+GX Ceanataur Guards
+Ceanataur Braces XR
+Ceanataur Guards XR
+Najarala Braces X
+Najarala Guards X
+Nargacuga Braces X
+Nargacuga Guards X
+Garuga Braces X
+Garuga Guards X
+Uragaan Braces X
+Uragaan Guards X
+GX Kita Star Sleeves
+GX Umi Ocean Sleeves
+Guild Knight Gloves X
+Guild Knight Sleeves X
+Guild Bard Braces X
+Guild Bard Sleeves X
+Helper Sleeves X
+Healer Sleeves X
+Helper Sleeves Z
+Healer Sleeves Z
+Ancient Arms X
+Ancient Guards X
+Ace Vambraces X
+Ace Guards X
+Sororal Vambraces X
+Sororal Guards X
+Citadel Ranger's Gauntlets
+Citadel Archer's Gauntlets
+True Skeletal Humerus
+True Decayed Humerus
+Master's Braces X
+Master's Guards X
+Grand Toka Kote
+Grand Mitsuaoi Kote
+Yaksha Braces
+Carnage Vambraces
+Helios Braces X
+Helios Guards X
+Selene Braces X
+Selene Guards X
+Kaiserin Braces
+Kaiserin Guards
+Wisdom Gloves X
+Wisdom Cuffs X
+Richeruka Gloves
+Richeruka Cuffs
+Cheerful Braces X
+Cheerful Guards X
+Bartender's Gloves
+Bartender's Cuffs
+Barmaid's Gloves
+Barmaid's Cuffs
+Barioth Braces X
+Barioth Guards X
+Seltas Braces X
+Seltas Guards X
+Rathalos Braces X
+Rathalos Guards X
+GX Rathalos Braces
+GX Rathalos Guards
+Rathalos Braces XR
+Rathalos Guards XR
+Lagiacrus Braces X
+Lagiacrus Guards X
+Lagiacrus Braces XR
+Lagiacrus Guards XR
+Zinogre Braces X
+Zinogre Guards X
+GX Zinogre Braces
+GX Zinogre Guards
+Gravios Braces X
+Gravios Guards X
+Mizutsune Braces X
+Mizutsune Guards X
+Astalos Braces X
+Astalos Guards X
+Gammoth Braces X
+Gammoth Guards X
+Glavenus Braces X
+Glavenus Guards X
+Agnaktor Braces X
+Agnaktor Guards X
+Gore Braces X
+Gore Guards X
+GX Gore Braces
+GX Gore Guards
+Gore Braces XR
+Gore Guards XR
+Regios Braces X
+Regios Guards X
+Duramboros Braces X
+Duramboros Guards X
+Tigrex Braces X
+Tigrex Guards X
+GX Tigrex Braces
+GX Tigrex Guards
+Tigrex Braces XR
+Tigrex Guards XR
+Diablos Braces X
+Diablos Guards X
+Diablos Braces XR
+Diablos Guards XR
+Kirin Longarms X
+Kirin Gloves X
+Kirin Longarms XR
+Kirin Gloves XR
+Brachydios Braces X
+Brachydios Guards X
+GX Brachydios Braces
+GX Brachydios Guards
+Arc Braces X
+Arc Guards X
+Philia Braces X
+Philia Guards X
+GX Arc Braces
+GX Arc Guards
+GX Philia Braces
+GX Philia Guards
+Arc Braces XR
+Arc Guards XR
+Philia Braces XR
+Philia Guards XR
+Valfalk Braces X
+Valfalk Guards X
+Grand God's Peer Arms
+Grand Hermit Arms
+Vangis Braces X
+Vangis Guards X
+Chaos Braces
+Chaos Guards
+Nephelim Braces
+Nephelim Guards
+Black Belt Braces X
+Black Belt Guards X
+Guardian Braces X
+Guardian Guards X
+Guardian Braces Z
+Guardian Guards Z
+Blue Guild Gloves X
+Blue Guild Sleeves X
+Blue Guild Gloves X
+Blue Guild Sleeves X
+Red Guild Gloves X
+Red Guild Sleeves X
+Red Guild Gloves X
+Red Guild Sleeves X
+Black Claw X
+Black Fist X
+Damascus Braces X
+Damascus Guards X
+Damascus Braces XR
+Damascus Guards XR
+Caravaneer's Armlets X
+Kushala Grip X
+Kushala Embrace X
+GX Kushala Grip
+GX Kushala Embrace
+Kushala Grip XR
+Kushala Embrace XR
+True Mizuha Sleeves
+True Cham Sleeves
+GX Mizuha Sleeves
+GX Cham Sleeves
+Kaiser Braces X
+Kaiser Guards X
+GX Kaiser Braces
+GX Kaiser Guards
+Silver Solbraces Z
+Silver Solguards Z
+GX Silver Solbraces
+GX Silver Solguards
+Silver Solbraces XR
+Silver Solguards XR
+Golden Lunebraces Z
+Golden Luneguards Z
+GX Golden Lunebraces
+GX Golden Luneguards
+Grand Divine Ire Kote
+Grand Crusher Braces
+Esurient Braces Z
+Esurient Guards Z
+Esurient Braces XR
+Esurient Guards XR
+Bracchium Braces
+Bracchium Guards
+Auroros Gauntlets
+Genesis Gauntlets
+Borealis Gauntlets
+Glyph Gauntlets
+GX Auroros Gauntlets
+GX Genesis Gauntlets
+GX Borealis Gauntlets
+GX Glyph Gauntlets
+Auroros Battle Gauntlets
+Genesis Battle Gauntlets
+Borealis Battle Gauntlets
+Glyph Battle Gauntlets
+Akantor Claws X
+Akantor Gauntlets X
+Akantor Claws XR
+Akantor Gauntlets XR
+Ukanlos Claws X
+Ukanlos Gauntlets X
+True Tempest Sleeves
+True Welkin Sleeves
+Tempest Battle Sleeves
+Welkin Battle Sleeves
+True Skeletal Humerus
+True Decayed Humerus
+Astral Braces X
+Astral Guards X
+Neset Tahad
+Neset Mano
+Dragonclaws
+Dragonfists
+Escadora Armguards X
+Escadora Arma X
+Escadora Armguards XR
+Escadora Arma XR
+Fatalis Crimsonclaw
+Fatalis Cimsonfist
+Fatalis Crimsonclaw XR
+Fatalis Cimsonfist XR
+White Fatalis Claw
+White Fatalis Fist
+Strange Vambraces
+Strange Guards
+Strange Vambraces X
+Strange Guards X
+Redhelm Braces LV1
+Redhelm Guards LV1
+Redhelm Braces LV6
+Redhelm Guards LV6
+Redhelm Braces LV14
+Redhelm Guards LV14
+Snowbaron Braces LV1
+Snowbaron Guards LV1
+Snowbaron Braces LV6
+Snowbaron Guards LV6
+Snowbaron Braces LV14
+Snowbaron Guards LV14
+Stonefist Braces LV1
+Stonefist Guards LV1
+Stonefist Braces LV6
+Stonefist Guards LV6
+Stonefist Braces LV14
+Stonefist Guards LV14
+Dreadqueen Braces LV1
+Dreadqueen Guards LV1
+Dreadqueen Braces LV6
+Dreadqueen Guards LV6
+Dreadqueen Braces LV14
+Dreadqueen Guards LV14
+Drilltusk Braces LV1
+Drilltusk Guards LV1
+Drilltusk Braces LV6
+Drilltusk Guards LV6
+Drilltusk Braces LV14
+Drilltusk Guards LV14
+Silverwind Braces LV1
+Silverwind Guards LV1
+Silverwind Braces LV6
+Silverwind Guards LV6
+Silverwind Braces LV14
+Silverwind Guards LV14
+Crystalbeard Braces LV1
+Crystalbeard Guards LV1
+Crystalbeard Braces LV6
+Crystalbeard Guards LV6
+Crystalbeard Braces LV14
+Crystalbeard Guards LV14
+Deadeye Braces LV1
+Deadeye Guards LV1
+Deadeye Braces LV6
+Deadeye Guards LV6
+Deadeye Braces LV14
+Deadeye Guards LV14
+Dreadking Braces LV1
+Dreadking Guards LV1
+Dreadking Braces LV6
+Dreadking Guards LV6
+Dreadking Braces LV14
+Dreadking Guards LV14
+Thunderlord Braces LV1
+Thunderlord Guards LV1
+Thunderlord Braces LV6
+Thunderlord Guards LV6
+Thunderlord Braces LV14
+Thunderlord Guards LV14
+Grimclaw Braces LV1
+Grimclaw Guards LV1
+Grimclaw Braces LV6
+Grimclaw Guards LV6
+Grimclaw Braces LV14
+Grimclaw Guards LV14
+Hellblade Braces LV1
+Hellblade Guards LV1
+Hellblade Braces LV6
+Hellblade Guards LV6
+Hellblade Braces LV14
+Hellblade Guards LV14
+Hazewing Braces LV1
+Hazewing Guards LV1
+Hazewing Braces LV4
+Hazewing Guards LV4
+Shredclaw Braces LV1
+Shredclaw Guards LV1
+Shredclaw Braces LV4
+Shredclaw Guards LV4
+Divinesight Braces LV1
+Divinesight Guards LV1
+Divinesight Braces LV4
+Divinesight Guards LV4
+Azurebolt Braces LV1
+Azurebolt Guards LV1
+Azurebolt Braces LV4
+Azurebolt Guards LV4
+Silverpeak Braces LV1
+Silverpeak Guards LV1
+Silverpeak Braces LV4
+Silverpeak Guards LV4
+Bloodlust Braces LV1
+Bloodlust Guards LV1
+Bloodlust Braces LV4
+Bloodlust Guards LV4
+Promising Braces
+Halcyon Braces
+Lucid Gauntlets
+Dreamy Gauntlets
+Gudetama Arm Tights
+Gudetama Arm Suit
+Pirate Gloves J
+Pirate Cuffs J
+Buccaneer Gloves J
+Buccaneer Cuffs J
+Zodias Vambraces
+Zodias Guards
+Champion's Wraps
+Strongman's Wraps
+Dynaqlo Glovelettes
+Dynaqlo Gloves
+Blue Star Braces
+Blue Star Sleeves
+Star Knight Vambraces
+Star Knight Guards
+Star Rook Vambraces
+Star Rook Guards
+Promising Archbraces
+Halcyon Archbraces
+Lucid Archbraces
+Dreamy Archbraces
+Gudetama Arm Tights S
+Gudetama Arm Suit S
+Varia Suit Guards
+Varia Suit Shield
+Zero Suit Gloves
+Zero Suit Hands
+Hero's Braces
+Hero's Gloves
+Lodestar Arms
+Lodestar Cuffs
+Braces of Rage
+Guards of Rage
+Braces of Anat
+Guards of Anat
+Hiryu Sky Kote
+Hiryu Land Kote

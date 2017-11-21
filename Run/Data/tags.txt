@@ -1,0 +1,6 @@
+﻿Offensive
+Defensive
+Blademaster
+Bow/Gunner
+Farming
+Resistance

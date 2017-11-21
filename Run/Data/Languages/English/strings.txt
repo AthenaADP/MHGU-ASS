@@ -1,0 +1,256 @@
+﻿#  MHX/Gen ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+-
+
+&File
+&Options
+&Language
+&Help
+&Load
+
+#This string is used in the File menu to save application settings.
+&Save
+
+#This string is used for saving custom charm lists.
+&Update
+
+E&xit
+
+#This options resets all settings to default
+&Clear Settings
+
+#"Bad" skills are ones activated at -10 points or less.
+Allow Ba&d Skills
+
+#This specifically refers to Arena reward helmets, such as the Barrage Piercing
+#and Sword Saint Piercing, which are difficult to obtain.
+Allow A&rena Armor
+
+#Event armor (and Decorations) from DLC quests
+Allow &Event Armor
+
+#Japanese only armor/decorations
+Allow &Japanese-Only DLC
+
+#This setting will ignore gear of a lower tier than you
+Allow &Lower Tier Armor
+
+Show Skill &Points Required for Skills
+
+Sort Skills Alpha&betically
+Allow &Gunner Helms
+&Donate
+&Spend spare slots on extra skills
+&What do the skills do?
+
+#This option opens a browser to my Facebook page
+Check for &Updates
+
+&About
+&Charms
+&Import
+&Quick Search
+&Advanced Search
+Ca&ncel
+&Default
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&None
+
+#This string is used in the combobox that filters solutions by charm
+No Charm
+
+#This string is used in the combobox that sorts solutions by various criteria
+Unsorted
+
+&Search
+Select &None
+Select &Best
+&Add New
+&Reset
+De&lete
+Delete &All
+Move &Up
+Move &Down
+&Trim
+&Close
+&Find Next
+
+#These are used when selecting skills from the Japanese kana/characters
+Jap?
+Select Japanese Skill
+Length %1
+
+Guild Quests
+Village Quests
+Max Weapon Slots
+Male
+Female
+No Extra Skill Filtering
+Sort/Filter Results
+
+#This string is used in the combobox that filters solutions by charm
+Any Charm
+
+Dragon Res
+Fire Res
+Ice Res
+Thunder Res
+Water Res
+Base Defence
+Max Defence
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Difficulty
+
+Rarity
+Slots Spare
+
+#When sorting solutions, "Family" refers to how similar the armor pieces are:
+# Rathalos X + Rathalos X (great!)
+# Rathalos X + Rathalos S (good)
+# Rathalos X + Rathalos U (ok...)
+# Rathalos X + Basarios S (bad)
+Family
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Extra Skills
+
+Charms
+Use no charms
+Use my charms
+
+#When searching using charms that have no skills, but 1-3 slots.
+Use slotted charms
+
+#When searching using charms with at most one skill and possibly some slots
+Use up to one skill charms
+
+#When searching using charms with at most two skills and possibly some slots (i.e. all possible charms)
+Use up to two skill charms
+
+Skill
+Skills
+Skill Filters
+Blademaster
+Gunner
+
+#Used in the Advanced Search dialog
+Select Armor
+
+#For importing charms from a savefile
+Import Charms
+Characters
+Delete Existing Charms
+Are you sure?
+&Sort
+&Sort by Skill 1
+S&ort by Skill 2
+Slots
+(none)
+
+#When a solution has exactly one slot spare
+1 slot spare
+
+#When a solution has multiple slots spare, %1 is that number.
+%1 slots spare
+
+#The following three strings deliberately begin with a space in English
+ (or anything with 1 slot)
+
+#%1 is the number of slots in the armor
+ (or anything with %1 slots)
+
+#This line is appended to armors with Torso Up
+ (or anything with Torso Inc)
+
+#This line is appended to decorations in the torso armor, if Torso Up is in effect
+ (in Torso)
+
+#This line is appended to decorations in the charm, if Charm Up is in effect
+ (in Charm)
+
+Solutions found:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Showing first %1 solutions only:
+
+Save data dump
+Charm list
+File is corrupt.
+Version
+Find
+
+#This string is shown if a charm is loaded that is impossible to obtain legitimately
+You cheater, you.
+
+#Used in some error popups
+Error
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 to %2
+
+Defence
+Table
+Results
+Unknown charm
+Delete All Charms
+ASS Settings
+&Max Results
+Print &Decoration Names
+Print &Material Lists
+Preview Image Default &Zoom
+
+#Showing min/max defence and elemental resists
+%1-%2 Def, %3 Fir, %4 Wat, %5 Ice, %6 Thn, %7 Drg
+
+#This string is used to show decorations as skills, e.g. "+5 Expert Jewel". %1 is the numeric value %2 is the skill name
+%1 %2 Jewel
+
+#Item Type refers to weapon/helm/body armor/etc.
+Item Type
+
+#Hunter Type means Blademaster or Gunner
+Hunter Type
+
+#Both Blademaster and Gunner (for helmets)
+Both
+
+Weapon
+Head
+Body
+Arms
+Waist
+Legs
+
+#This string is for displaying potential extra skills
+(%1 possible)
+
+#Strings for the skill description dialog
+Show
+Description
+Skills
+Skill Trees
+Armors with points of this skill:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+%1☆
+G%1☆
+All
+
+#Format string for showing a skill with the number of skill points required
+%1 (%2)
