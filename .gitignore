@@ -279,6 +279,10 @@ __pycache__/
 *.pyc
 
 # ASS stuff
+*.db
+*.rar
+*.zip
+*.jpg
 Run/
 !Run/Data/
 !Run/credits.txt
