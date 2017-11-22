@@ -283,7 +283,12 @@ __pycache__/
 *.rar
 *.zip
 *.jpg
-Run/
-!Run/Data/
+*.db
+*.rar
+*.zip
+*.jpg
+Run/**
+!Run/Data
+!Run/Data/**
 !Run/credits.txt
 *.exe
