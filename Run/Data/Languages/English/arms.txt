@@ -991,10 +991,14 @@ GX Auroros Gauntlets
 GX Genesis Gauntlets
 GX Borealis Gauntlets
 GX Glyph Gauntlets
-Auroros Battle Gauntlets
-Genesis Battle Gauntlets
-Borealis Battle Gauntlets
-Glyph Battle Gauntlets
+Battle Auroros Gauntlets
+Battle Genesis Gauntlets
+Battle Borealis Gauntlets
+Battle Glyph Gauntlets
+Auroros Kermes Gauntlets
+Genesis Kermes Gauntlets
+Genesis Kermes Gauntlets
+Borealis Kermes Gauntlets
 Akantor Claws X
 Akantor Gauntlets X
 Akantor Claws XR
@@ -1019,10 +1023,14 @@ Escadora Armguards XR
 Escadora Arma XR
 Fatalis Crimsonclaw
 Fatalis Cimsonfist
+GX Fatalis Crimsonclaw
+GX Fatalis Cimsonfist
 Fatalis Crimsonclaw XR
 Fatalis Cimsonfist XR
 White Fatalis Claw
 White Fatalis Fist
+GX White Fatalis Claw
+GX White Fatalis Fist
 Strange Vambraces
 Strange Guards
 Strange Vambraces X
@@ -1127,6 +1135,10 @@ Promising Braces
 Halcyon Braces
 Lucid Gauntlets
 Dreamy Gauntlets
+Arcfire Kote
+Bonfire Kote
+Waka Kote
+Wagaku Kote
 Gudetama Arm Tights
 Gudetama Arm Suit
 Pirate Gloves J
@@ -1149,6 +1161,10 @@ Promising Archbraces
 Halcyon Archbraces
 Lucid Archbraces
 Dreamy Archbraces
+Ruler Arcfire Kote
+Ruler Bonfire Kote
+Ruler Waka Kote
+Ruler Wagaku Kote
 Gudetama Arm Tights S
 Gudetama Arm Suit S
 Varia Suit Guards
@@ -1165,3 +1181,15 @@ Braces of Anat
 Guards of Anat
 Hiryu Sky Kote
 Hiryu Land Kote
+Gon Braces
+Gon Guards
+Criminal Gloves
+Criminal Sleeves
+Supreme Arcfire Kote
+Supreme Bonfire Kote
+Supreme Waka Kote
+Supreme Wagaku Kote
+Golden Knight Guards
+Golden Knight Braces
+Hylian Braces
+Hylian Gloves

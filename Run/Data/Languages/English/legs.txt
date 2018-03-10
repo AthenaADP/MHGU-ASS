@@ -1004,10 +1004,14 @@ GX Auroros Pants
 GX Genesis Pants
 GX Borealis Pants
 GX Glyph Pants
-Auroros Battle Pants
-Genesis Battle Pants
-Borealis Battle Pants
-Glyph Battle Pants
+Battle Auroros Pants
+Battle Genesis Pants
+Battle Borealis Pants
+Battle Glyph Pants
+Auroros Kermes Hakama
+Genesis Kermes Hakama
+Borealis Kermes Pants
+Glyph Kermes Pants
 Akantor Hessian X
 Akantor Boots X
 Akantor Hessian XR
@@ -1032,10 +1036,14 @@ Escadora Sheath XR
 Escadora Scala XR
 Fatalis Crimsonfeet
 Fatalis Crimsonlegs
+GX Fatalis Crimsonfeet
+GX Fatalis Crimsonlegs
 Fatalis Crimsonfeet XR
 Fatalis Crimsonlegs XR
 White Fatalis Feet
 White Fatalis Legs
+GX White Fatalis Feet
+GX White Fatalis Legs
 Strange Greaves
 Strange Leggings
 Strange Greaves X
@@ -1140,6 +1148,10 @@ Promising Sabatons
 Halcyon Sabatons
 Lucid Pleats
 Dreamy Pleats
+Arcfire Hakama
+Bonfire Hakama
+Waka Hakama
+Wagaku Hakama
 Gudetama Leg Tights
 Gudetama Leg Suit
 Pirate Boots J
@@ -1166,6 +1178,10 @@ Promising Archpleats
 Halcyon Archpleats
 Lucid Archpleats
 Dreamy Archpleats
+Ruler Arcfire Hakama
+Ruler Bonfire Hakama
+Ruler Waka Hakama
+Ruler Wagaku Hakama
 Gudetama Leg Tights S
 Gudetama Leg Suit S
 Varia Suit Leg Guards
@@ -1174,13 +1190,25 @@ Zero Suit Boots
 Zero Suit Tights
 Hero's Boots
 Hero's Leggings
-Greaves of Rage
-Leggings of Rage
 Lodestar Boots
 Lodestar Feet
+Greaves of Rage
+Leggings of Rage
 Greaves of Anat
 Leggings of Anat
 Black Leather Chaps
 Black Leather Pants
 Hiryu Sky Boots
 Hiryu Land Boots
+Gon Greaves
+Gon Leggings
+Criminal Greaves
+Criminal Leggings
+Supreme Arcfire Hakama
+Supreme Bonfire Hakama
+Supreme Waka Hakama
+Supreme Wagaku Hakama
+Golden Knight Boots
+Golden Knight Greaves
+Hylian Boots
+Hylian Leggings

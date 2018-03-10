@@ -1002,10 +1002,14 @@ GX Auroros Torso
 GX Genesis Torso
 GX Borealis Chest
 GX Glyph Chest
-Auroros Battle Torso
-Genesis Battle Torso
-Borealis Battle Chest
-Glyph Battle Chest
+Battle Auroros Torso
+Battle Genesis Torso
+Battle Borealis Chest
+Battle Glyph Chest
+Auroros Kermes Torso
+Genesis Kermes Torso
+Borealis Kermes Chest
+Glyph Kermes Chest
 Akantor Aegis X
 Akantor Plate X
 Akantor Aegis XR
@@ -1030,10 +1034,14 @@ Escadora Soul XR
 Escadora Seele XR
 Fatalis Crimsonhide
 Fatalis Crimsonskin
+GX Fatalis Crimsonhide
+GX Fatalis Crimsonskin
 Fatalis Crimsonhide XR
 Fatalis Crimsonskin XR
 White Fatalis Hide
 White Fatalis Skin
+GX White Fatalis Hide
+GX White Fatalis Skin
 Strange Mail
 Strange Vest
 Strange Mail X
@@ -1138,6 +1146,10 @@ Promising Plate
 Halcyon Plate
 Lucid Robe
 Dreamy Robe
+Arcfire Dogi
+Bonfire Dogi
+Waka Dogi
+Wagaku Dogi
 Gudetama Body Tights
 Gudetama Body Suit
 Pirate Suit J
@@ -1166,6 +1178,10 @@ Promising Archplate
 Halcyon Archplate
 Lucid Archrobe
 Dreamy Archrobe
+Ruler Arcfire Dogi
+Ruler Bonfire Dogi
+Ruler Waka Dogi
+Ruler Wagaku Dogi
 Gudetama Body Tights S
 Gudetama Body Suit S
 Varia Suit Armor
@@ -1192,3 +1208,19 @@ X Astalos Jacket
 X Astalos Jersey
 Hiryu Sky Suit
 Hiryu Land Suit
+Gon Mail
+Gon Vest
+Criminal Suit
+Criminal Vest
+Supreme Arcfire Dogi
+Supreme Bonfire Dogi
+Supreme Waka Dogi
+Supreme Wagaku Dogi
+Golden Knight Armor
+Golden Knight Mail
+Blue Clothes
+Blue Tunic
+XX Val Jacket
+XX Val Leather
+XX Devilish Jacket
+XX Devilish Leather

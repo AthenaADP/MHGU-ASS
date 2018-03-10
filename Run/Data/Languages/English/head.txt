@@ -1024,7 +1024,7 @@ Esurient Helm XR
 Esurient Cap XR
 Bracchium Helm
 Bracchium Cap
-Auroros Helm
+Auroros Headpiece
 Genesis Headpiece
 Borealis Crown
 Glyph Crown
@@ -1032,10 +1032,14 @@ GX Auroros Helm
 GX Genesis Headpiece
 GX Borealis Crown
 GX Glyph Crown
-Auroros Battle Crown
-Genesis Battle Crown
-Borealis Battle Crown
-Glyph Battle Crown
+Battle Auroros Headpiece
+Battle Genesis Headpiece
+Battle Borealis Crown
+Battle Glyph Crown
+Auroros Kermes Headpiece
+Genesis Kermes Headpiece
+Borealis Kermes Crown
+Glyph Kermes Crown
 Akantor Mask X
 Akantor Fangs X
 Akantor Mask XR
@@ -1060,10 +1064,14 @@ Escadora Wisdom XR
 Escadora Sagesse XR
 Fatalis Crimsonhead
 Fatalis Crimsoncoif
+GX Fatalis Crimsonhead
+GX Fatalis Crimsoncoif
 Fatalis Crimsonhead XR
 Fatalis Crimsoncoif XR
 White Fatalis Head
 White Fatalis Face
+GX White Fatalis Head
+GX White Fatalis Face
 Strange Helm
 Strange Cap
 Strange Helm X
@@ -1168,6 +1176,10 @@ Promising Helm
 Halcyon Helm
 Lucid Crown
 Dreamy Crown
+Arcfire Kasa
+Bonfire Kasa
+Waka Kasa
+Wagaku Kasa
 Gudetama Head Tights
 Gudetama Head Suit
 Pirate Hat J
@@ -1194,6 +1206,10 @@ Promising Archhelm
 Halcyon Archhelm
 Lucid Miter
 Dreamy Miter
+Ruler Arcfire Kasa
+Ruler Bonfire Kasa
+Ruler Waka Kasa
+Ruler Wagaku Kasa
 Gudetama Head Tights S
 Gudetama Head Suit S
 Varia Suit Visor
@@ -1211,3 +1227,15 @@ Cap of Anat
 Shadow Shades
 Hiryu Sky Mask
 Hiryu Land Mask
+Gon Helm
+Gon Cap
+Criminal Mask
+Criminal Hood
+Supreme Arcfire Kasa
+Supreme Bonfire Kasa
+Supreme Waka Kasa
+Supreme Wagaku Kasa
+Golden Knight Helm
+Golden Knight Cap
+Hylian Hat
+Hylian Hood

@@ -2888,5 +2888,17 @@ EX銀火竜チケット,jEvent
 獰猛化素材
 雄火竜素材
 黒龍(紅)素材
+金雷光素材
 EX桃毛獣チケット
 EX老山龍チケット
+EX老山龍チケットＳ,jEvent
+EX黒龍チケット・紅,jEvent
+EX黒龍チケット・白,jEvent
+スタジオＵパス,jEvent
+スタジオＯパス,jEvent
+ハンター認定書,jEvent
+犯行の証拠,jEvent
+スタジオＸＸパス,jEvent
+ザルバのかけら,jEvent
+ゼルダチケットＧ,jEvent
+モンハン部昇段書,jEvent

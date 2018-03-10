@@ -258,7 +258,7 @@ namespace MHXXASS
 
 				if( filter == 0 || filter == 1 && skill->ability->tags.Count == 0 || 
 					filter == 2 && skill->ability->related ||
-					!!Utility::FindByName( %skill->ability->tags, SkillTag::tags[ filter ]->name ) )
+					!!Utility::Contains( %skill->ability->tags, SkillTag::tags[ filter ] ) )
 				{
 					map[ box->Items->Count ] = skill->static_index;
 					if( mnuShowRequiredSkillPoints->Checked )

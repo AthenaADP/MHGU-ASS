@@ -1293,7 +1293,8 @@ void Solution::CalculateFamilyScore()
 	case 2:
 		family_score[ 1 ] = GetFamilyScore( armors, count2[ 2 ] );
 		{
-			array< unsigned >^ other_armor_families = { -1, -1, -1 };
+			const unsigned max_val = -1;
+			array< unsigned >^ other_armor_families = { max_val, max_val, max_val };
 			int i = 0;
 			for each( Armor^ armor in armors )
 			{

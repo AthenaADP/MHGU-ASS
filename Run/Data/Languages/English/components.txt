@@ -2888,5 +2888,17 @@ Option
 Hyper Item
 Rathalos Item
 Crimson Fatalis Item
+Golden Zinogre Item
 EX Congalala Ticket
 EX Lao Shan Ticket
+EX Lao Shain Ticket S
+EX Crimson Fatalis Ticket
+EX White Fatalis Ticket
+Studio Pass U
+Studio Pass O
+Hunter Certificate
+Crime Evidence
+Studio Pass XX
+Piece of Zaruba
+Zelda Ticket G
+Fan Club Promo

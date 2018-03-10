@@ -951,18 +951,22 @@ Esurient Faulds XR
 Esurient Coat XR
 Bracchium Faulds
 Bracchium Coat
-Aururos Torso
-Genesis Torso
-Borealis Chest
-Glyph Chest
-GX Aururos Torso
-GX Genesis Torso
-GX Borealis Chest
-GX Glyph Chest
-Aururos Battle Torso
-Genesis Battle Torso
-Borealis Battle Chest
-Glyph Battle Chest
+Aururos Tassets
+Genesis Tassets
+Borealis Tassets
+Glyph Tassets
+GX Aururos Tassets
+GX Genesis Tassets
+GX Borealis Tassets
+GX Glyph Tassets
+Aururos Battle Tassets
+Battle Genesis Tassets
+Battle Borealis Tassets
+Battle Glyph Tassets
+Auroros Kermes Tassets
+Genesis Kermes Tassets
+Borealis KermesTassets
+Glyph Kermes Tassets
 Akantor Cincture X
 Akantor Sash X
 Akantor Cincture XR
@@ -987,10 +991,14 @@ Escadora Might XR
 Escadora Force XR
 Fatalis Crimsonspine
 Fatalis Crimsonscale
+GX Fatalis Crimsonspine
+GX Fatalis Crimsonscale
 Fatalis Crimsonspine XR
 Fatalis Crimsonscale XR
 White Fatalis Spine
 White Fatalis Scale
+GX White Fatalis Spine
+GX White Fatalis Scale
 Strange Faulds
 Strange Coat
 Strange Faulds X
@@ -1095,6 +1103,10 @@ Promising Girdle
 Halcyon Girdle
 Lucid Tassets
 Dreamy Tassets
+Arcfire Obi
+Bonfire Obi
+Waka Obi
+Wagaku Obi
 Pirate Coil J
 Pirate Skirt J
 Buccaneer Coil J
@@ -1117,9 +1129,21 @@ Promising Archgirdle
 Halcyon Archgirdle
 Lucid Archgirdle
 Dreamy Archgirdle
+Ruler Arcfire Obi
+Ruler Bonfire Obi
+Ruler Waka Obi
+Ruler Wagaku Obi
 Hero's Belt
 Hero's Band
 Lodestar Coil
 Lodestar Coat
 Hiryu Sky Belt
 Hiryu Land Belt
+Supreme Arcfire Obi
+Supreme Bonfire Obi
+Supreme Waka Obi
+Supreme Wagaku Obi
+Golden Knight Faulds
+Golden Knight Coat
+Hylian Belt
+Hylian Band

@@ -59,17 +59,6 @@ namespace Utility
 		return -1;
 	}
 
-	template< class T >
-	T^ FindByName( List_t< T^ >^ cont, System::String^ name )
-	{
-		for each( T^% item in cont )
-		{
-			if( item->name == name )
-				return item;
-		}
-		return nullptr;
-	}
-
 	void AddAbilitiesToMap( List_t< AbilityPair^ >% _list, Map_t< Ability^, int >% _map, const int mult = 1 );
 
 	System::String^ SlotString( const unsigned slots );
