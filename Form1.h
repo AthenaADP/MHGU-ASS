@@ -949,74 +949,76 @@ namespace MHXXASS
 		/// </summary>
 		void InitializeComponent(void)
 		{
-			this->components = (gcnew System::ComponentModel::Container());
-			System::ComponentModel::ComponentResourceManager^  resources = (gcnew System::ComponentModel::ComponentResourceManager(Form1::typeid));
-			this->groupBox1 = (gcnew System::Windows::Forms::GroupBox());
-			this->nudWeaponSlots = (gcnew System::Windows::Forms::NumericUpDown());
-			this->lblElder = (gcnew System::Windows::Forms::Label());
-			this->lblSlots = (gcnew System::Windows::Forms::Label());
-			this->lblHR = (gcnew System::Windows::Forms::Label());
-			this->grpBSkills = (gcnew System::Windows::Forms::GroupBox());
-			this->btnSearch = (gcnew System::Windows::Forms::Button());
-			this->progressBar1 = (gcnew System::Windows::Forms::ProgressBar());
-			this->txtSolutions = (gcnew System::Windows::Forms::RichTextBox());
-			this->cmsSolutions = (gcnew System::Windows::Forms::ContextMenuStrip(this->components));
-			this->groupBox4 = (gcnew System::Windows::Forms::GroupBox());
-			this->btnAdvancedSearch = (gcnew System::Windows::Forms::Button());
-			this->btnCancel = (gcnew System::Windows::Forms::Button());
-			this->grpResults = (gcnew System::Windows::Forms::GroupBox());
-			this->btnCharms = (gcnew System::Windows::Forms::Button());
-			this->grpBSkillFilters = (gcnew System::Windows::Forms::GroupBox());
-			this->menuStrip1 = (gcnew System::Windows::Forms::MenuStrip());
-			this->mnuFile = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuLoadData = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuSaveData = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuExit = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuOptions = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuClearSettings = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->toolStripSeparator1 = (gcnew System::Windows::Forms::ToolStripSeparator());
-			this->mnuAllowBadSkills = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuAllowArena = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuAllowEventArmor = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuAllowJapaneseOnlyDLC = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuAllowLowerTierArmor = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuAllowGunnerHelms = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->toolStripSeparator2 = (gcnew System::Windows::Forms::ToolStripSeparator());
-			this->mnuMaxResults = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuNumResults = (gcnew System::Windows::Forms::ToolStripTextBox());
-			this->mnuZoom = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuPrintDecoNames = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuPrintMaterials = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuSortSkillsAlphabetically = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuShowRequiredSkillPoints = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuSpendSpareSlots = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuLanguage = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuHelp = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuSkillHelp = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuDonate = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuCheckForUpdates = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->mnuAbout = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->groupBox6 = (gcnew System::Windows::Forms::GroupBox());
-			this->rdoFemale = (gcnew System::Windows::Forms::RadioButton());
-			this->rdoMale = (gcnew System::Windows::Forms::RadioButton());
-			this->tabHunterType = (gcnew System::Windows::Forms::TabControl());
-			this->tabBlademaster = (gcnew System::Windows::Forms::TabPage());
-			this->tabGunner = (gcnew System::Windows::Forms::TabPage());
-			this->grpGSkillFilters = (gcnew System::Windows::Forms::GroupBox());
-			this->grpGSkills = (gcnew System::Windows::Forms::GroupBox());
-			this->grpSortFilter = (gcnew System::Windows::Forms::GroupBox());
-			this->cmbFilterByExtraSkill = (gcnew System::Windows::Forms::ComboBox());
-			this->cmbCharms = (gcnew System::Windows::Forms::ComboBox());
-			this->cmbSort = (gcnew System::Windows::Forms::ComboBox());
-			this->grpCharms = (gcnew System::Windows::Forms::GroupBox());
-			this->cmbCharmSelect = (gcnew System::Windows::Forms::ComboBox());
-			this->cmsCharms = (gcnew System::Windows::Forms::ContextMenuStrip(this->components));
-			this->cmsSkills = (gcnew System::Windows::Forms::ContextMenuStrip(this->components));
-			this->mnuClearSkill = (gcnew System::Windows::Forms::ToolStripMenuItem());
-			this->nudHR = (gcnew MHXXASS::NumericUpDownHR());
-			this->nudElder = (gcnew MHXXASS::NumericUpDownVE());
+			this->components = ( gcnew System::ComponentModel::Container() );
+			System::ComponentModel::ComponentResourceManager^  resources = ( gcnew System::ComponentModel::ComponentResourceManager( Form1::typeid ) );
+			this->groupBox1 = ( gcnew System::Windows::Forms::GroupBox() );
+			this->nudWeaponSlots = ( gcnew System::Windows::Forms::NumericUpDown() );
+			this->lblElder = ( gcnew System::Windows::Forms::Label() );
+			this->lblSlots = ( gcnew System::Windows::Forms::Label() );
+			this->nudHR = ( gcnew MHXXASS::NumericUpDownHR() );
+			this->nudElder = ( gcnew MHXXASS::NumericUpDownVE() );
+			this->lblHR = ( gcnew System::Windows::Forms::Label() );
+			this->grpBSkills = ( gcnew System::Windows::Forms::GroupBox() );
+			this->btnSearch = ( gcnew System::Windows::Forms::Button() );
+			this->progressBar1 = ( gcnew System::Windows::Forms::ProgressBar() );
+			this->txtSolutions = ( gcnew System::Windows::Forms::RichTextBox() );
+			this->cmsSolutions = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
+			this->groupBox4 = ( gcnew System::Windows::Forms::GroupBox() );
+			this->btnAdvancedSearch = ( gcnew System::Windows::Forms::Button() );
+			this->btnCancel = ( gcnew System::Windows::Forms::Button() );
+			this->grpResults = ( gcnew System::Windows::Forms::GroupBox() );
+			this->btnCharms = ( gcnew System::Windows::Forms::Button() );
+			this->grpBSkillFilters = ( gcnew System::Windows::Forms::GroupBox() );
+			this->menuStrip1 = ( gcnew System::Windows::Forms::MenuStrip() );
+			this->mnuFile = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuLoadData = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuSaveData = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuExit = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuOptions = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuClearSettings = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->toolStripSeparator1 = ( gcnew System::Windows::Forms::ToolStripSeparator() );
+			this->mnuAllowBadSkills = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuAllowArena = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuAllowEventArmor = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuAllowJapaneseOnlyDLC = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuAllowLowerTierArmor = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuAllowGunnerHelms = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->toolStripSeparator2 = ( gcnew System::Windows::Forms::ToolStripSeparator() );
+			this->mnuMaxResults = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuNumResults = ( gcnew System::Windows::Forms::ToolStripTextBox() );
+			this->mnuZoom = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuPrintDecoNames = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuPrintMaterials = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuSortSkillsAlphabetically = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuShowRequiredSkillPoints = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuSpendSpareSlots = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuLanguage = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuHelp = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuSkillHelp = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuDonate = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuCheckForUpdates = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuAbout = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->groupBox6 = ( gcnew System::Windows::Forms::GroupBox() );
+			this->rdoFemale = ( gcnew System::Windows::Forms::RadioButton() );
+			this->rdoMale = ( gcnew System::Windows::Forms::RadioButton() );
+			this->tabHunterType = ( gcnew System::Windows::Forms::TabControl() );
+			this->tabBlademaster = ( gcnew System::Windows::Forms::TabPage() );
+			this->tabGunner = ( gcnew System::Windows::Forms::TabPage() );
+			this->grpGSkillFilters = ( gcnew System::Windows::Forms::GroupBox() );
+			this->grpGSkills = ( gcnew System::Windows::Forms::GroupBox() );
+			this->grpSortFilter = ( gcnew System::Windows::Forms::GroupBox() );
+			this->cmbFilterByExtraSkill = ( gcnew System::Windows::Forms::ComboBox() );
+			this->cmbCharms = ( gcnew System::Windows::Forms::ComboBox() );
+			this->cmbSort = ( gcnew System::Windows::Forms::ComboBox() );
+			this->grpCharms = ( gcnew System::Windows::Forms::GroupBox() );
+			this->cmbCharmSelect = ( gcnew System::Windows::Forms::ComboBox() );
+			this->cmsCharms = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
+			this->cmsSkills = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
+			this->mnuClearSkill = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
 			this->groupBox1->SuspendLayout();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudWeaponSlots))->BeginInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots ) )->BeginInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->BeginInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudElder ) )->BeginInit();
 			this->groupBox4->SuspendLayout();
 			this->grpResults->SuspendLayout();
 			this->menuStrip1->SuspendLayout();
@@ -1027,247 +1029,282 @@ namespace MHXXASS
 			this->grpSortFilter->SuspendLayout();
 			this->grpCharms->SuspendLayout();
 			this->cmsSkills->SuspendLayout();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudHR))->BeginInit();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudElder))->BeginInit();
 			this->SuspendLayout();
 			// 
 			// groupBox1
 			// 
-			this->groupBox1->Controls->Add(this->nudWeaponSlots);
-			this->groupBox1->Controls->Add(this->lblElder);
-			this->groupBox1->Controls->Add(this->lblSlots);
-			this->groupBox1->Controls->Add(this->nudHR);
-			this->groupBox1->Controls->Add(this->nudElder);
-			this->groupBox1->Controls->Add(this->lblHR);
-			this->groupBox1->Location = System::Drawing::Point(12, 27);
+			this->groupBox1->Controls->Add( this->nudWeaponSlots );
+			this->groupBox1->Controls->Add( this->lblElder );
+			this->groupBox1->Controls->Add( this->lblSlots );
+			this->groupBox1->Controls->Add( this->nudHR );
+			this->groupBox1->Controls->Add( this->nudElder );
+			this->groupBox1->Controls->Add( this->lblHR );
+			this->groupBox1->Location = System::Drawing::Point( 12, 27 );
 			this->groupBox1->Name = L"groupBox1";
-			this->groupBox1->Size = System::Drawing::Size(154, 111);
+			this->groupBox1->Size = System::Drawing::Size( 154, 111 );
 			this->groupBox1->TabIndex = 0;
 			this->groupBox1->TabStop = false;
 			// 
 			// nudWeaponSlots
 			// 
-			this->nudWeaponSlots->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right));
+			this->nudWeaponSlots->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
 			this->nudWeaponSlots->BackColor = System::Drawing::SystemColors::Control;
-			this->nudWeaponSlots->Location = System::Drawing::Point(109, 80);
-			this->nudWeaponSlots->Maximum = System::Decimal(gcnew cli::array< System::Int32 >(4) {3, 0, 0, 0});
+			this->nudWeaponSlots->Location = System::Drawing::Point( 109, 80 );
+			this->nudWeaponSlots->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
 			this->nudWeaponSlots->Name = L"nudWeaponSlots";
-			this->nudWeaponSlots->Size = System::Drawing::Size(35, 20);
+			this->nudWeaponSlots->Size = System::Drawing::Size( 35, 20 );
 			this->nudWeaponSlots->TabIndex = 5;
 			this->nudWeaponSlots->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
 			// 
 			// lblElder
 			// 
 			this->lblElder->AutoSize = true;
-			this->lblElder->Location = System::Drawing::Point(7, 52);
+			this->lblElder->Location = System::Drawing::Point( 7, 52 );
 			this->lblElder->Name = L"lblElder";
-			this->lblElder->Size = System::Drawing::Size(74, 13);
+			this->lblElder->Size = System::Drawing::Size( 74, 13 );
 			this->lblElder->TabIndex = 2;
 			this->lblElder->Text = L"Village Quests";
 			// 
 			// lblSlots
 			// 
 			this->lblSlots->AutoSize = true;
-			this->lblSlots->Location = System::Drawing::Point(7, 82);
+			this->lblSlots->Location = System::Drawing::Point( 7, 82 );
 			this->lblSlots->Name = L"lblSlots";
-			this->lblSlots->Size = System::Drawing::Size(97, 13);
+			this->lblSlots->Size = System::Drawing::Size( 97, 13 );
 			this->lblSlots->TabIndex = 4;
 			this->lblSlots->Text = L"Max Weapon Slots";
+			// 
+			// nudHR
+			// 
+			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
+			this->nudHR->Location = System::Drawing::Point( 100, 20 );
+			this->nudHR->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 13, 0, 0, 0 } );
+			this->nudHR->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
+			this->nudHR->Name = L"nudHR";
+			this->nudHR->Size = System::Drawing::Size( 44, 20 );
+			this->nudHR->TabIndex = 1;
+			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->nudHR->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 13, 0, 0, 0 } );
+			this->nudHR->ValueChanged += gcnew System::EventHandler( this, &Form1::nudHR_ValueChanged );
+			// 
+			// nudElder
+			// 
+			this->nudElder->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudElder->BackColor = System::Drawing::SystemColors::Control;
+			this->nudElder->Location = System::Drawing::Point( 100, 50 );
+			this->nudElder->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 10, 0, 0, 0 } );
+			this->nudElder->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
+			this->nudElder->Name = L"nudElder";
+			this->nudElder->Size = System::Drawing::Size( 44, 20 );
+			this->nudElder->TabIndex = 3;
+			this->nudElder->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->nudElder->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 10, 0, 0, 0 } );
+			this->nudElder->ValueChanged += gcnew System::EventHandler( this, &Form1::nudElder_ValueChanged );
 			// 
 			// lblHR
 			// 
 			this->lblHR->AutoSize = true;
-			this->lblHR->Location = System::Drawing::Point(7, 22);
+			this->lblHR->Location = System::Drawing::Point( 7, 22 );
 			this->lblHR->Name = L"lblHR";
-			this->lblHR->Size = System::Drawing::Size(67, 13);
+			this->lblHR->Size = System::Drawing::Size( 67, 13 );
 			this->lblHR->TabIndex = 0;
 			this->lblHR->Text = L"Guild Quests";
 			// 
 			// grpBSkills
 			// 
-			this->grpBSkills->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom) 
-				| System::Windows::Forms::AnchorStyles::Left));
-			this->grpBSkills->Location = System::Drawing::Point(6, 8);
+			this->grpBSkills->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
+				| System::Windows::Forms::AnchorStyles::Left ) );
+			this->grpBSkills->Location = System::Drawing::Point( 6, 8 );
 			this->grpBSkills->Name = L"grpBSkills";
-			this->grpBSkills->Size = System::Drawing::Size(183, 209);
+			this->grpBSkills->Size = System::Drawing::Size( 183, 209 );
 			this->grpBSkills->TabIndex = 0;
 			this->grpBSkills->TabStop = false;
 			this->grpBSkills->Text = L"Skills";
 			// 
 			// btnSearch
 			// 
-			this->btnSearch->Location = System::Drawing::Point(6, 12);
+			this->btnSearch->Location = System::Drawing::Point( 6, 12 );
 			this->btnSearch->Name = L"btnSearch";
-			this->btnSearch->Size = System::Drawing::Size(107, 27);
+			this->btnSearch->Size = System::Drawing::Size( 107, 27 );
 			this->btnSearch->TabIndex = 0;
 			this->btnSearch->Text = L"&Quick Search";
 			this->btnSearch->UseVisualStyleBackColor = true;
-			this->btnSearch->Click += gcnew System::EventHandler(this, &Form1::btnSearch_Click);
+			this->btnSearch->Click += gcnew System::EventHandler( this, &Form1::btnSearch_Click );
 			// 
 			// progressBar1
 			// 
-			this->progressBar1->Location = System::Drawing::Point(12, 495);
+			this->progressBar1->Location = System::Drawing::Point( 12, 495 );
 			this->progressBar1->Name = L"progressBar1";
-			this->progressBar1->Size = System::Drawing::Size(353, 10);
+			this->progressBar1->Size = System::Drawing::Size( 353, 10 );
 			this->progressBar1->Step = 1;
 			this->progressBar1->TabIndex = 6;
 			// 
 			// txtSolutions
 			// 
-			this->txtSolutions->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom) 
-				| System::Windows::Forms::AnchorStyles::Left) 
-				| System::Windows::Forms::AnchorStyles::Right));
+			this->txtSolutions->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
+				| System::Windows::Forms::AnchorStyles::Left )
+				| System::Windows::Forms::AnchorStyles::Right ) );
 			this->txtSolutions->ContextMenuStrip = this->cmsSolutions;
-			this->txtSolutions->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 8.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point, 
-				static_cast<System::Byte>(0)));
-			this->txtSolutions->Location = System::Drawing::Point(6, 16);
+			this->txtSolutions->Font = ( gcnew System::Drawing::Font( L"Microsoft Sans Serif", 8.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>( 0 ) ) );
+			this->txtSolutions->Location = System::Drawing::Point( 6, 16 );
 			this->txtSolutions->Name = L"txtSolutions";
 			this->txtSolutions->ReadOnly = true;
-			this->txtSolutions->Size = System::Drawing::Size(332, 454);
+			this->txtSolutions->Size = System::Drawing::Size( 332, 454 );
 			this->txtSolutions->TabIndex = 0;
 			this->txtSolutions->Text = L"";
 			this->txtSolutions->WordWrap = false;
-			this->txtSolutions->KeyDown += gcnew System::Windows::Forms::KeyEventHandler(this, &Form1::KeyDown);
+			this->txtSolutions->KeyDown += gcnew System::Windows::Forms::KeyEventHandler( this, &Form1::KeyDown );
 			// 
 			// cmsSolutions
 			// 
 			this->cmsSolutions->Name = L"contextMenuStrip1";
-			this->cmsSolutions->Size = System::Drawing::Size(61, 4);
-			this->cmsSolutions->Opening += gcnew System::ComponentModel::CancelEventHandler(this, &Form1::contextMenuStrip1_Opening);
+			this->cmsSolutions->Size = System::Drawing::Size( 61, 4 );
+			this->cmsSolutions->Opening += gcnew System::ComponentModel::CancelEventHandler( this, &Form1::contextMenuStrip1_Opening );
 			// 
 			// groupBox4
 			// 
-			this->groupBox4->Controls->Add(this->btnAdvancedSearch);
-			this->groupBox4->Controls->Add(this->btnCancel);
-			this->groupBox4->Controls->Add(this->btnSearch);
-			this->groupBox4->Location = System::Drawing::Point(12, 443);
+			this->groupBox4->Controls->Add( this->btnAdvancedSearch );
+			this->groupBox4->Controls->Add( this->btnCancel );
+			this->groupBox4->Controls->Add( this->btnSearch );
+			this->groupBox4->Location = System::Drawing::Point( 12, 443 );
 			this->groupBox4->Name = L"groupBox4";
-			this->groupBox4->Size = System::Drawing::Size(353, 46);
+			this->groupBox4->Size = System::Drawing::Size( 353, 46 );
 			this->groupBox4->TabIndex = 5;
 			this->groupBox4->TabStop = false;
 			// 
 			// btnAdvancedSearch
 			// 
-			this->btnAdvancedSearch->Location = System::Drawing::Point(119, 12);
+			this->btnAdvancedSearch->Location = System::Drawing::Point( 119, 12 );
 			this->btnAdvancedSearch->Name = L"btnAdvancedSearch";
-			this->btnAdvancedSearch->Size = System::Drawing::Size(137, 27);
+			this->btnAdvancedSearch->Size = System::Drawing::Size( 137, 27 );
 			this->btnAdvancedSearch->TabIndex = 1;
 			this->btnAdvancedSearch->Text = L"&Advanced Search";
 			this->btnAdvancedSearch->UseVisualStyleBackColor = true;
-			this->btnAdvancedSearch->Click += gcnew System::EventHandler(this, &Form1::btnAdvancedSearch_Click);
+			this->btnAdvancedSearch->Click += gcnew System::EventHandler( this, &Form1::btnAdvancedSearch_Click );
 			// 
 			// btnCancel
 			// 
-			this->btnCancel->Location = System::Drawing::Point(262, 12);
+			this->btnCancel->Location = System::Drawing::Point( 262, 12 );
 			this->btnCancel->Name = L"btnCancel";
-			this->btnCancel->Size = System::Drawing::Size(85, 27);
+			this->btnCancel->Size = System::Drawing::Size( 85, 27 );
 			this->btnCancel->TabIndex = 2;
 			this->btnCancel->Text = L"Ca&ncel";
 			this->btnCancel->UseVisualStyleBackColor = true;
-			this->btnCancel->Click += gcnew System::EventHandler(this, &Form1::btnCancel_Click);
+			this->btnCancel->Click += gcnew System::EventHandler( this, &Form1::btnCancel_Click );
 			// 
 			// grpResults
 			// 
-			this->grpResults->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom) 
-				| System::Windows::Forms::AnchorStyles::Left) 
-				| System::Windows::Forms::AnchorStyles::Right));
-			this->grpResults->Controls->Add(this->txtSolutions);
-			this->grpResults->Location = System::Drawing::Point(373, 27);
+			this->grpResults->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
+				| System::Windows::Forms::AnchorStyles::Left )
+				| System::Windows::Forms::AnchorStyles::Right ) );
+			this->grpResults->Controls->Add( this->txtSolutions );
+			this->grpResults->Location = System::Drawing::Point( 373, 27 );
 			this->grpResults->Name = L"grpResults";
-			this->grpResults->Size = System::Drawing::Size(344, 480);
+			this->grpResults->Size = System::Drawing::Size( 344, 480 );
 			this->grpResults->TabIndex = 7;
 			this->grpResults->TabStop = false;
 			this->grpResults->Text = L"Results";
 			// 
 			// btnCharms
 			// 
-			this->btnCharms->Location = System::Drawing::Point(5, 46);
+			this->btnCharms->Location = System::Drawing::Point( 5, 46 );
 			this->btnCharms->Name = L"btnCharms";
-			this->btnCharms->Size = System::Drawing::Size(89, 23);
+			this->btnCharms->Size = System::Drawing::Size( 89, 23 );
 			this->btnCharms->TabIndex = 1;
 			this->btnCharms->Text = L"My &Charms";
 			this->btnCharms->UseVisualStyleBackColor = true;
-			this->btnCharms->Click += gcnew System::EventHandler(this, &Form1::btnCharms_Click);
+			this->btnCharms->Click += gcnew System::EventHandler( this, &Form1::btnCharms_Click );
 			// 
 			// grpBSkillFilters
 			// 
-			this->grpBSkillFilters->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom) 
-				| System::Windows::Forms::AnchorStyles::Left));
-			this->grpBSkillFilters->Location = System::Drawing::Point(195, 8);
+			this->grpBSkillFilters->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
+				| System::Windows::Forms::AnchorStyles::Left ) );
+			this->grpBSkillFilters->Location = System::Drawing::Point( 195, 8 );
 			this->grpBSkillFilters->Name = L"grpBSkillFilters";
-			this->grpBSkillFilters->Size = System::Drawing::Size(146, 209);
+			this->grpBSkillFilters->Size = System::Drawing::Size( 146, 209 );
 			this->grpBSkillFilters->TabIndex = 1;
 			this->grpBSkillFilters->TabStop = false;
 			this->grpBSkillFilters->Text = L"Skill Filters";
 			// 
 			// menuStrip1
 			// 
-			this->menuStrip1->Items->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(4) {this->mnuFile, this->mnuOptions, 
-				this->mnuLanguage, this->mnuHelp});
-			this->menuStrip1->Location = System::Drawing::Point(0, 0);
+			this->menuStrip1->Items->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 4 )
+			{
+				this->mnuFile, this->mnuOptions,
+					this->mnuLanguage, this->mnuHelp
+			} );
+			this->menuStrip1->Location = System::Drawing::Point( 0, 0 );
 			this->menuStrip1->Name = L"menuStrip1";
-			this->menuStrip1->Size = System::Drawing::Size(729, 24);
+			this->menuStrip1->Size = System::Drawing::Size( 729, 24 );
 			this->menuStrip1->TabIndex = 16;
 			this->menuStrip1->Text = L"menuStrip1";
 			// 
 			// mnuFile
 			// 
-			this->mnuFile->DropDownItems->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(3) {this->mnuLoadData, 
-				this->mnuSaveData, this->mnuExit});
+			this->mnuFile->DropDownItems->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 3 )
+			{
+				this->mnuLoadData,
+					this->mnuSaveData, this->mnuExit
+			} );
 			this->mnuFile->Name = L"mnuFile";
-			this->mnuFile->Size = System::Drawing::Size(37, 20);
+			this->mnuFile->Size = System::Drawing::Size( 37, 20 );
 			this->mnuFile->Text = L"&File";
 			// 
 			// mnuLoadData
 			// 
 			this->mnuLoadData->Name = L"mnuLoadData";
-			this->mnuLoadData->Size = System::Drawing::Size(152, 22);
+			this->mnuLoadData->Size = System::Drawing::Size( 100, 22 );
 			this->mnuLoadData->Text = L"&Load";
-			this->mnuLoadData->Click += gcnew System::EventHandler(this, &Form1::mnuLoad_Click);
+			this->mnuLoadData->Click += gcnew System::EventHandler( this, &Form1::mnuLoad_Click );
 			// 
 			// mnuSaveData
 			// 
 			this->mnuSaveData->Name = L"mnuSaveData";
-			this->mnuSaveData->Size = System::Drawing::Size(152, 22);
+			this->mnuSaveData->Size = System::Drawing::Size( 100, 22 );
 			this->mnuSaveData->Text = L"&Save";
-			this->mnuSaveData->Click += gcnew System::EventHandler(this, &Form1::mnuSave_Click);
+			this->mnuSaveData->Click += gcnew System::EventHandler( this, &Form1::mnuSave_Click );
 			// 
 			// mnuExit
 			// 
 			this->mnuExit->Name = L"mnuExit";
-			this->mnuExit->Size = System::Drawing::Size(152, 22);
+			this->mnuExit->Size = System::Drawing::Size( 100, 22 );
 			this->mnuExit->Text = L"E&xit";
-			this->mnuExit->Click += gcnew System::EventHandler(this, &Form1::exitToolStripMenuItem_Click);
+			this->mnuExit->Click += gcnew System::EventHandler( this, &Form1::exitToolStripMenuItem_Click );
 			// 
 			// mnuOptions
 			// 
-			this->mnuOptions->DropDownItems->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(16) {this->mnuClearSettings, 
-				this->toolStripSeparator1, this->mnuAllowBadSkills, this->mnuAllowArena, this->mnuAllowEventArmor, this->mnuAllowJapaneseOnlyDLC, 
-				this->mnuAllowLowerTierArmor, this->mnuAllowGunnerHelms, this->toolStripSeparator2, this->mnuMaxResults, this->mnuZoom, this->mnuPrintDecoNames, 
-				this->mnuPrintMaterials, this->mnuSortSkillsAlphabetically, this->mnuShowRequiredSkillPoints, this->mnuSpendSpareSlots});
+			this->mnuOptions->DropDownItems->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 16 )
+			{
+				this->mnuClearSettings,
+					this->toolStripSeparator1, this->mnuAllowBadSkills, this->mnuAllowArena, this->mnuAllowEventArmor, this->mnuAllowJapaneseOnlyDLC,
+					this->mnuAllowLowerTierArmor, this->mnuAllowGunnerHelms, this->toolStripSeparator2, this->mnuMaxResults, this->mnuZoom, this->mnuPrintDecoNames,
+					this->mnuPrintMaterials, this->mnuSortSkillsAlphabetically, this->mnuShowRequiredSkillPoints, this->mnuSpendSpareSlots
+			} );
 			this->mnuOptions->Name = L"mnuOptions";
-			this->mnuOptions->Size = System::Drawing::Size(61, 20);
+			this->mnuOptions->Size = System::Drawing::Size( 61, 20 );
 			this->mnuOptions->Text = L"&Options";
 			// 
 			// mnuClearSettings
 			// 
 			this->mnuClearSettings->Name = L"mnuClearSettings";
-			this->mnuClearSettings->Size = System::Drawing::Size(238, 22);
+			this->mnuClearSettings->Size = System::Drawing::Size( 238, 22 );
 			this->mnuClearSettings->Text = L"&Clear Settings";
-			this->mnuClearSettings->Click += gcnew System::EventHandler(this, &Form1::mnuClearSettings_Click);
+			this->mnuClearSettings->Click += gcnew System::EventHandler( this, &Form1::mnuClearSettings_Click );
 			// 
 			// toolStripSeparator1
 			// 
 			this->toolStripSeparator1->Name = L"toolStripSeparator1";
-			this->toolStripSeparator1->Size = System::Drawing::Size(235, 6);
+			this->toolStripSeparator1->Size = System::Drawing::Size( 235, 6 );
 			// 
 			// mnuAllowBadSkills
 			// 
 			this->mnuAllowBadSkills->CheckOnClick = true;
 			this->mnuAllowBadSkills->Name = L"mnuAllowBadSkills";
-			this->mnuAllowBadSkills->Size = System::Drawing::Size(238, 22);
+			this->mnuAllowBadSkills->Size = System::Drawing::Size( 238, 22 );
 			this->mnuAllowBadSkills->Text = L"Allow &Bad Skills";
-			this->mnuAllowBadSkills->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuAllowBadSkills->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuAllowArena
 			// 
@@ -1275,9 +1312,9 @@ namespace MHXXASS
 			this->mnuAllowArena->CheckOnClick = true;
 			this->mnuAllowArena->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuAllowArena->Name = L"mnuAllowArena";
-			this->mnuAllowArena->Size = System::Drawing::Size(238, 22);
+			this->mnuAllowArena->Size = System::Drawing::Size( 238, 22 );
 			this->mnuAllowArena->Text = L"Allow &Arena Armor";
-			this->mnuAllowArena->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuAllowArena->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuAllowEventArmor
 			// 
@@ -1285,20 +1322,17 @@ namespace MHXXASS
 			this->mnuAllowEventArmor->CheckOnClick = true;
 			this->mnuAllowEventArmor->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuAllowEventArmor->Name = L"mnuAllowEventArmor";
-			this->mnuAllowEventArmor->Size = System::Drawing::Size(238, 22);
+			this->mnuAllowEventArmor->Size = System::Drawing::Size( 238, 22 );
 			this->mnuAllowEventArmor->Text = L"Allow &Event Armor";
-			this->mnuAllowEventArmor->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuAllowEventArmor->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuAllowJapaneseOnlyDLC
 			// 
-			this->mnuAllowJapaneseOnlyDLC->Checked = true;
 			this->mnuAllowJapaneseOnlyDLC->CheckOnClick = true;
-			this->mnuAllowJapaneseOnlyDLC->CheckState = System::Windows::Forms::CheckState::Checked;
-			this->mnuAllowJapaneseOnlyDLC->Enabled = false;
 			this->mnuAllowJapaneseOnlyDLC->Name = L"mnuAllowJapaneseOnlyDLC";
-			this->mnuAllowJapaneseOnlyDLC->Size = System::Drawing::Size(238, 22);
+			this->mnuAllowJapaneseOnlyDLC->Size = System::Drawing::Size( 238, 22 );
 			this->mnuAllowJapaneseOnlyDLC->Text = L"Allow &Japanese-Only DLC";
-			this->mnuAllowJapaneseOnlyDLC->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuAllowJapaneseOnlyDLC->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuAllowLowerTierArmor
 			// 
@@ -1306,9 +1340,9 @@ namespace MHXXASS
 			this->mnuAllowLowerTierArmor->CheckOnClick = true;
 			this->mnuAllowLowerTierArmor->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuAllowLowerTierArmor->Name = L"mnuAllowLowerTierArmor";
-			this->mnuAllowLowerTierArmor->Size = System::Drawing::Size(238, 22);
+			this->mnuAllowLowerTierArmor->Size = System::Drawing::Size( 238, 22 );
 			this->mnuAllowLowerTierArmor->Text = L"Allow &Lower Tier Armor";
-			this->mnuAllowLowerTierArmor->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuAllowLowerTierArmor->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuAllowGunnerHelms
 			// 
@@ -1316,33 +1350,33 @@ namespace MHXXASS
 			this->mnuAllowGunnerHelms->CheckOnClick = true;
 			this->mnuAllowGunnerHelms->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuAllowGunnerHelms->Name = L"mnuAllowGunnerHelms";
-			this->mnuAllowGunnerHelms->Size = System::Drawing::Size(238, 22);
+			this->mnuAllowGunnerHelms->Size = System::Drawing::Size( 238, 22 );
 			this->mnuAllowGunnerHelms->Text = L"Allow &Gunner Helms";
-			this->mnuAllowGunnerHelms->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuAllowGunnerHelms->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// toolStripSeparator2
 			// 
 			this->toolStripSeparator2->Name = L"toolStripSeparator2";
-			this->toolStripSeparator2->Size = System::Drawing::Size(235, 6);
+			this->toolStripSeparator2->Size = System::Drawing::Size( 235, 6 );
 			// 
 			// mnuMaxResults
 			// 
-			this->mnuMaxResults->DropDownItems->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(1) {this->mnuNumResults});
+			this->mnuMaxResults->DropDownItems->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 1 ) { this->mnuNumResults } );
 			this->mnuMaxResults->Name = L"mnuMaxResults";
-			this->mnuMaxResults->Size = System::Drawing::Size(238, 22);
+			this->mnuMaxResults->Size = System::Drawing::Size( 238, 22 );
 			this->mnuMaxResults->Text = L"&Max Results";
 			// 
 			// mnuNumResults
 			// 
 			this->mnuNumResults->Name = L"mnuNumResults";
-			this->mnuNumResults->Size = System::Drawing::Size(100, 23);
+			this->mnuNumResults->Size = System::Drawing::Size( 100, 23 );
 			this->mnuNumResults->Text = L"1000";
 			// 
 			// mnuZoom
 			// 
 			this->mnuZoom->Enabled = false;
 			this->mnuZoom->Name = L"mnuZoom";
-			this->mnuZoom->Size = System::Drawing::Size(238, 22);
+			this->mnuZoom->Size = System::Drawing::Size( 238, 22 );
 			this->mnuZoom->Text = L"Preview Image &Zoom";
 			// 
 			// mnuPrintDecoNames
@@ -1351,17 +1385,17 @@ namespace MHXXASS
 			this->mnuPrintDecoNames->CheckOnClick = true;
 			this->mnuPrintDecoNames->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuPrintDecoNames->Name = L"mnuPrintDecoNames";
-			this->mnuPrintDecoNames->Size = System::Drawing::Size(238, 22);
+			this->mnuPrintDecoNames->Size = System::Drawing::Size( 238, 22 );
 			this->mnuPrintDecoNames->Text = L"Print &Decoration Names";
-			this->mnuPrintDecoNames->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuPrintDecoNames->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuPrintMaterials
 			// 
 			this->mnuPrintMaterials->CheckOnClick = true;
 			this->mnuPrintMaterials->Name = L"mnuPrintMaterials";
-			this->mnuPrintMaterials->Size = System::Drawing::Size(238, 22);
+			this->mnuPrintMaterials->Size = System::Drawing::Size( 238, 22 );
 			this->mnuPrintMaterials->Text = L"Print &Materials";
-			this->mnuPrintMaterials->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuPrintMaterials->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuSortSkillsAlphabetically
 			// 
@@ -1369,17 +1403,17 @@ namespace MHXXASS
 			this->mnuSortSkillsAlphabetically->CheckOnClick = true;
 			this->mnuSortSkillsAlphabetically->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuSortSkillsAlphabetically->Name = L"mnuSortSkillsAlphabetically";
-			this->mnuSortSkillsAlphabetically->Size = System::Drawing::Size(238, 22);
+			this->mnuSortSkillsAlphabetically->Size = System::Drawing::Size( 238, 22 );
 			this->mnuSortSkillsAlphabetically->Text = L"Sort Skills &Alphabetically";
-			this->mnuSortSkillsAlphabetically->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuSortSkillsAlphabetically->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuShowRequiredSkillPoints
 			// 
 			this->mnuShowRequiredSkillPoints->CheckOnClick = true;
 			this->mnuShowRequiredSkillPoints->Name = L"mnuShowRequiredSkillPoints";
-			this->mnuShowRequiredSkillPoints->Size = System::Drawing::Size(238, 22);
+			this->mnuShowRequiredSkillPoints->Size = System::Drawing::Size( 238, 22 );
 			this->mnuShowRequiredSkillPoints->Text = L"Show Points &Required for Skills";
-			this->mnuShowRequiredSkillPoints->Click += gcnew System::EventHandler(this, &Form1::mnuShowRequiredSkillPoints_Click);
+			this->mnuShowRequiredSkillPoints->Click += gcnew System::EventHandler( this, &Form1::mnuShowRequiredSkillPoints_Click );
 			// 
 			// mnuSpendSpareSlots
 			// 
@@ -1387,65 +1421,68 @@ namespace MHXXASS
 			this->mnuSpendSpareSlots->CheckOnClick = true;
 			this->mnuSpendSpareSlots->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuSpendSpareSlots->Name = L"mnuSpendSpareSlots";
-			this->mnuSpendSpareSlots->Size = System::Drawing::Size(238, 22);
+			this->mnuSpendSpareSlots->Size = System::Drawing::Size( 238, 22 );
 			this->mnuSpendSpareSlots->Text = L"&Spend spare slots on extra skills";
-			this->mnuSpendSpareSlots->Click += gcnew System::EventHandler(this, &Form1::OptionsChanged);
+			this->mnuSpendSpareSlots->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// mnuLanguage
 			// 
 			this->mnuLanguage->Name = L"mnuLanguage";
-			this->mnuLanguage->Size = System::Drawing::Size(71, 20);
+			this->mnuLanguage->Size = System::Drawing::Size( 71, 20 );
 			this->mnuLanguage->Text = L"&Language";
 			// 
 			// mnuHelp
 			// 
-			this->mnuHelp->DropDownItems->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(4) {this->mnuSkillHelp, 
-				this->mnuDonate, this->mnuCheckForUpdates, this->mnuAbout});
+			this->mnuHelp->DropDownItems->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 4 )
+			{
+				this->mnuSkillHelp,
+					this->mnuDonate, this->mnuCheckForUpdates, this->mnuAbout
+			} );
 			this->mnuHelp->Name = L"mnuHelp";
-			this->mnuHelp->Size = System::Drawing::Size(44, 20);
+			this->mnuHelp->Size = System::Drawing::Size( 44, 20 );
 			this->mnuHelp->Text = L"&Help";
 			// 
 			// mnuSkillHelp
 			// 
 			this->mnuSkillHelp->Name = L"mnuSkillHelp";
-			this->mnuSkillHelp->Size = System::Drawing::Size(189, 22);
+			this->mnuSkillHelp->Size = System::Drawing::Size( 189, 22 );
 			this->mnuSkillHelp->Text = L"&What do the skills do\?";
-			this->mnuSkillHelp->Click += gcnew System::EventHandler(this, &Form1::mnuSkillHelp_Click);
+			this->mnuSkillHelp->Click += gcnew System::EventHandler( this, &Form1::mnuSkillHelp_Click );
 			// 
 			// mnuDonate
 			// 
-			this->mnuDonate->Font = (gcnew System::Drawing::Font(L"Segoe UI", 9, System::Drawing::FontStyle::Underline, System::Drawing::GraphicsUnit::Point, 
-				static_cast<System::Byte>(0)));
+			this->mnuDonate->Font = ( gcnew System::Drawing::Font( L"Segoe UI", 9, System::Drawing::FontStyle::Underline, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>( 0 ) ) );
 			this->mnuDonate->ForeColor = System::Drawing::SystemColors::HotTrack;
 			this->mnuDonate->Name = L"mnuDonate";
-			this->mnuDonate->Size = System::Drawing::Size(189, 22);
+			this->mnuDonate->Size = System::Drawing::Size( 189, 22 );
 			this->mnuDonate->Text = L"&Donate";
-			this->mnuDonate->Click += gcnew System::EventHandler(this, &Form1::mnuDonate_Click);
+			this->mnuDonate->Click += gcnew System::EventHandler( this, &Form1::mnuDonate_Click );
 			// 
 			// mnuCheckForUpdates
 			// 
-			this->mnuCheckForUpdates->Font = (gcnew System::Drawing::Font(L"Segoe UI", 9, System::Drawing::FontStyle::Underline, System::Drawing::GraphicsUnit::Point, 
-				static_cast<System::Byte>(0)));
+			this->mnuCheckForUpdates->Font = ( gcnew System::Drawing::Font( L"Segoe UI", 9, System::Drawing::FontStyle::Underline, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>( 0 ) ) );
 			this->mnuCheckForUpdates->ForeColor = System::Drawing::SystemColors::HotTrack;
 			this->mnuCheckForUpdates->Name = L"mnuCheckForUpdates";
-			this->mnuCheckForUpdates->Size = System::Drawing::Size(189, 22);
+			this->mnuCheckForUpdates->Size = System::Drawing::Size( 189, 22 );
 			this->mnuCheckForUpdates->Text = L"Check for &Updates";
-			this->mnuCheckForUpdates->Click += gcnew System::EventHandler(this, &Form1::UpdateMenuItem_Click);
+			this->mnuCheckForUpdates->Click += gcnew System::EventHandler( this, &Form1::UpdateMenuItem_Click );
 			// 
 			// mnuAbout
 			// 
 			this->mnuAbout->Name = L"mnuAbout";
-			this->mnuAbout->Size = System::Drawing::Size(189, 22);
+			this->mnuAbout->Size = System::Drawing::Size( 189, 22 );
 			this->mnuAbout->Text = L"&About";
-			this->mnuAbout->Click += gcnew System::EventHandler(this, &Form1::aboutToolStripMenuItem_Click);
+			this->mnuAbout->Click += gcnew System::EventHandler( this, &Form1::aboutToolStripMenuItem_Click );
 			// 
 			// groupBox6
 			// 
-			this->groupBox6->Controls->Add(this->rdoFemale);
-			this->groupBox6->Controls->Add(this->rdoMale);
-			this->groupBox6->Location = System::Drawing::Point(12, 144);
+			this->groupBox6->Controls->Add( this->rdoFemale );
+			this->groupBox6->Controls->Add( this->rdoMale );
+			this->groupBox6->Location = System::Drawing::Point( 12, 144 );
 			this->groupBox6->Name = L"groupBox6";
-			this->groupBox6->Size = System::Drawing::Size(154, 40);
+			this->groupBox6->Size = System::Drawing::Size( 154, 40 );
 			this->groupBox6->TabIndex = 2;
 			this->groupBox6->TabStop = false;
 			// 
@@ -1453,9 +1490,9 @@ namespace MHXXASS
 			// 
 			this->rdoFemale->AutoSize = true;
 			this->rdoFemale->Checked = true;
-			this->rdoFemale->Location = System::Drawing::Point(83, 15);
+			this->rdoFemale->Location = System::Drawing::Point( 83, 15 );
 			this->rdoFemale->Name = L"rdoFemale";
-			this->rdoFemale->Size = System::Drawing::Size(59, 17);
+			this->rdoFemale->Size = System::Drawing::Size( 59, 17 );
 			this->rdoFemale->TabIndex = 1;
 			this->rdoFemale->TabStop = true;
 			this->rdoFemale->Text = L"Female";
@@ -1464,9 +1501,9 @@ namespace MHXXASS
 			// rdoMale
 			// 
 			this->rdoMale->AutoSize = true;
-			this->rdoMale->Location = System::Drawing::Point(13, 15);
+			this->rdoMale->Location = System::Drawing::Point( 13, 15 );
 			this->rdoMale->Name = L"rdoMale";
-			this->rdoMale->Size = System::Drawing::Size(48, 17);
+			this->rdoMale->Size = System::Drawing::Size( 48, 17 );
 			this->rdoMale->TabIndex = 0;
 			this->rdoMale->TabStop = true;
 			this->rdoMale->Text = L"Male";
@@ -1474,217 +1511,195 @@ namespace MHXXASS
 			// 
 			// tabHunterType
 			// 
-			this->tabHunterType->Controls->Add(this->tabBlademaster);
-			this->tabHunterType->Controls->Add(this->tabGunner);
-			this->tabHunterType->Location = System::Drawing::Point(12, 190);
+			this->tabHunterType->Controls->Add( this->tabBlademaster );
+			this->tabHunterType->Controls->Add( this->tabGunner );
+			this->tabHunterType->Location = System::Drawing::Point( 12, 190 );
 			this->tabHunterType->Name = L"tabHunterType";
 			this->tabHunterType->SelectedIndex = 0;
-			this->tabHunterType->Size = System::Drawing::Size(355, 247);
+			this->tabHunterType->Size = System::Drawing::Size( 355, 247 );
 			this->tabHunterType->TabIndex = 4;
 			// 
 			// tabBlademaster
 			// 
 			this->tabBlademaster->BackColor = System::Drawing::SystemColors::Control;
-			this->tabBlademaster->Controls->Add(this->grpBSkills);
-			this->tabBlademaster->Controls->Add(this->grpBSkillFilters);
-			this->tabBlademaster->Location = System::Drawing::Point(4, 22);
+			this->tabBlademaster->Controls->Add( this->grpBSkills );
+			this->tabBlademaster->Controls->Add( this->grpBSkillFilters );
+			this->tabBlademaster->Location = System::Drawing::Point( 4, 22 );
 			this->tabBlademaster->Name = L"tabBlademaster";
-			this->tabBlademaster->Padding = System::Windows::Forms::Padding(3);
-			this->tabBlademaster->Size = System::Drawing::Size(347, 221);
+			this->tabBlademaster->Padding = System::Windows::Forms::Padding( 3 );
+			this->tabBlademaster->Size = System::Drawing::Size( 347, 221 );
 			this->tabBlademaster->TabIndex = 0;
 			this->tabBlademaster->Text = L"Blademaster";
 			// 
 			// tabGunner
 			// 
 			this->tabGunner->BackColor = System::Drawing::SystemColors::Control;
-			this->tabGunner->Controls->Add(this->grpGSkillFilters);
-			this->tabGunner->Controls->Add(this->grpGSkills);
-			this->tabGunner->Location = System::Drawing::Point(4, 22);
+			this->tabGunner->Controls->Add( this->grpGSkillFilters );
+			this->tabGunner->Controls->Add( this->grpGSkills );
+			this->tabGunner->Location = System::Drawing::Point( 4, 22 );
 			this->tabGunner->Name = L"tabGunner";
-			this->tabGunner->Padding = System::Windows::Forms::Padding(3);
-			this->tabGunner->Size = System::Drawing::Size(347, 221);
+			this->tabGunner->Padding = System::Windows::Forms::Padding( 3 );
+			this->tabGunner->Size = System::Drawing::Size( 347, 221 );
 			this->tabGunner->TabIndex = 1;
 			this->tabGunner->Text = L"Gunner";
 			// 
 			// grpGSkillFilters
 			// 
-			this->grpGSkillFilters->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom) 
-				| System::Windows::Forms::AnchorStyles::Left));
-			this->grpGSkillFilters->Location = System::Drawing::Point(195, 8);
+			this->grpGSkillFilters->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
+				| System::Windows::Forms::AnchorStyles::Left ) );
+			this->grpGSkillFilters->Location = System::Drawing::Point( 195, 8 );
 			this->grpGSkillFilters->Name = L"grpGSkillFilters";
-			this->grpGSkillFilters->Size = System::Drawing::Size(146, 209);
+			this->grpGSkillFilters->Size = System::Drawing::Size( 146, 209 );
 			this->grpGSkillFilters->TabIndex = 1;
 			this->grpGSkillFilters->TabStop = false;
 			this->grpGSkillFilters->Text = L"Skill Filters";
 			// 
 			// grpGSkills
 			// 
-			this->grpGSkills->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom) 
-				| System::Windows::Forms::AnchorStyles::Left));
-			this->grpGSkills->Location = System::Drawing::Point(6, 8);
+			this->grpGSkills->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
+				| System::Windows::Forms::AnchorStyles::Left ) );
+			this->grpGSkills->Location = System::Drawing::Point( 6, 8 );
 			this->grpGSkills->Name = L"grpGSkills";
-			this->grpGSkills->Size = System::Drawing::Size(183, 209);
+			this->grpGSkills->Size = System::Drawing::Size( 183, 209 );
 			this->grpGSkills->TabIndex = 0;
 			this->grpGSkills->TabStop = false;
 			this->grpGSkills->Text = L"Skills";
 			// 
 			// grpSortFilter
 			// 
-			this->grpSortFilter->Controls->Add(this->cmbFilterByExtraSkill);
-			this->grpSortFilter->Controls->Add(this->cmbCharms);
-			this->grpSortFilter->Controls->Add(this->cmbSort);
-			this->grpSortFilter->Location = System::Drawing::Point(172, 27);
+			this->grpSortFilter->Controls->Add( this->cmbFilterByExtraSkill );
+			this->grpSortFilter->Controls->Add( this->cmbCharms );
+			this->grpSortFilter->Controls->Add( this->cmbSort );
+			this->grpSortFilter->Location = System::Drawing::Point( 172, 27 );
 			this->grpSortFilter->Name = L"grpSortFilter";
-			this->grpSortFilter->Size = System::Drawing::Size(193, 100);
+			this->grpSortFilter->Size = System::Drawing::Size( 193, 100 );
 			this->grpSortFilter->TabIndex = 1;
 			this->grpSortFilter->TabStop = false;
 			this->grpSortFilter->Text = L"Sort/Filter Results";
 			// 
 			// cmbFilterByExtraSkill
 			// 
-			this->cmbFilterByExtraSkill->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left) 
-				| System::Windows::Forms::AnchorStyles::Right));
+			this->cmbFilterByExtraSkill->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left )
+				| System::Windows::Forms::AnchorStyles::Right ) );
 			this->cmbFilterByExtraSkill->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
 			this->cmbFilterByExtraSkill->FormattingEnabled = true;
-			this->cmbFilterByExtraSkill->Items->AddRange(gcnew cli::array< System::Object^  >(1) {L"No extra skill filtering"});
-			this->cmbFilterByExtraSkill->Location = System::Drawing::Point(6, 70);
+			this->cmbFilterByExtraSkill->Items->AddRange( gcnew cli::array< System::Object^  >( 1 ) { L"No extra skill filtering" } );
+			this->cmbFilterByExtraSkill->Location = System::Drawing::Point( 6, 70 );
 			this->cmbFilterByExtraSkill->Name = L"cmbFilterByExtraSkill";
-			this->cmbFilterByExtraSkill->Size = System::Drawing::Size(181, 21);
+			this->cmbFilterByExtraSkill->Size = System::Drawing::Size( 181, 21 );
 			this->cmbFilterByExtraSkill->TabIndex = 2;
-			this->cmbFilterByExtraSkill->SelectedIndexChanged += gcnew System::EventHandler(this, &Form1::cmbFilterByExtraSkill_SelectedIndexChanged);
+			this->cmbFilterByExtraSkill->SelectedIndexChanged += gcnew System::EventHandler( this, &Form1::cmbFilterByExtraSkill_SelectedIndexChanged );
 			// 
 			// cmbCharms
 			// 
-			this->cmbCharms->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left) 
-				| System::Windows::Forms::AnchorStyles::Right));
+			this->cmbCharms->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left )
+				| System::Windows::Forms::AnchorStyles::Right ) );
 			this->cmbCharms->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
 			this->cmbCharms->FormattingEnabled = true;
-			this->cmbCharms->Items->AddRange(gcnew cli::array< System::Object^  >(2) {L"None", L"All"});
-			this->cmbCharms->Location = System::Drawing::Point(6, 43);
+			this->cmbCharms->Items->AddRange( gcnew cli::array< System::Object^  >( 2 ) { L"None", L"All" } );
+			this->cmbCharms->Location = System::Drawing::Point( 6, 43 );
 			this->cmbCharms->Name = L"cmbCharms";
-			this->cmbCharms->Size = System::Drawing::Size(181, 21);
+			this->cmbCharms->Size = System::Drawing::Size( 181, 21 );
 			this->cmbCharms->TabIndex = 1;
-			this->cmbCharms->SelectedIndexChanged += gcnew System::EventHandler(this, &Form1::cmbCharms_SelectedIndexChanged);
+			this->cmbCharms->SelectedIndexChanged += gcnew System::EventHandler( this, &Form1::cmbCharms_SelectedIndexChanged );
 			// 
 			// cmbSort
 			// 
-			this->cmbSort->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left) 
-				| System::Windows::Forms::AnchorStyles::Right));
+			this->cmbSort->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left )
+				| System::Windows::Forms::AnchorStyles::Right ) );
 			this->cmbSort->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
 			this->cmbSort->FormattingEnabled = true;
-			this->cmbSort->Items->AddRange(gcnew cli::array< System::Object^  >(13) {L"None", L"Dragon res", L"Fire res", L"Ice res", 
-				L"Thunder res", L"Water res", L"Base defence", L"Max defence", L"Difficulty", L"Rarity", L"Slots spare", L"Family", L"Extra Skills"});
-			this->cmbSort->Location = System::Drawing::Point(6, 16);
+			this->cmbSort->Items->AddRange( gcnew cli::array< System::Object^  >( 13 )
+			{
+				L"None", L"Dragon res", L"Fire res", L"Ice res",
+					L"Thunder res", L"Water res", L"Base defence", L"Max defence", L"Difficulty", L"Rarity", L"Slots spare", L"Family", L"Extra Skills"
+			} );
+			this->cmbSort->Location = System::Drawing::Point( 6, 16 );
 			this->cmbSort->Name = L"cmbSort";
-			this->cmbSort->Size = System::Drawing::Size(181, 21);
+			this->cmbSort->Size = System::Drawing::Size( 181, 21 );
 			this->cmbSort->TabIndex = 0;
-			this->cmbSort->SelectedIndexChanged += gcnew System::EventHandler(this, &Form1::cmbSort_SelectedIndexChanged);
+			this->cmbSort->SelectedIndexChanged += gcnew System::EventHandler( this, &Form1::cmbSort_SelectedIndexChanged );
 			// 
 			// grpCharms
 			// 
-			this->grpCharms->Controls->Add(this->cmbCharmSelect);
-			this->grpCharms->Controls->Add(this->btnCharms);
-			this->grpCharms->Location = System::Drawing::Point(172, 129);
+			this->grpCharms->Controls->Add( this->cmbCharmSelect );
+			this->grpCharms->Controls->Add( this->btnCharms );
+			this->grpCharms->Location = System::Drawing::Point( 172, 129 );
 			this->grpCharms->Name = L"grpCharms";
-			this->grpCharms->Size = System::Drawing::Size(193, 77);
+			this->grpCharms->Size = System::Drawing::Size( 193, 77 );
 			this->grpCharms->TabIndex = 3;
 			this->grpCharms->TabStop = false;
 			this->grpCharms->Text = L"Charms";
 			// 
 			// cmbCharmSelect
 			// 
-			this->cmbCharmSelect->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left) 
-				| System::Windows::Forms::AnchorStyles::Right));
+			this->cmbCharmSelect->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left )
+				| System::Windows::Forms::AnchorStyles::Right ) );
 			this->cmbCharmSelect->ContextMenuStrip = this->cmsCharms;
 			this->cmbCharmSelect->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
 			this->cmbCharmSelect->FormattingEnabled = true;
-			this->cmbCharmSelect->Items->AddRange(gcnew cli::array< System::Object^  >(5) {L"Use no charms", L"Use my charms", L"Use only slotted charms", 
-				L"Use up to one skill charms", L"Use up to two skill charms"});
-			this->cmbCharmSelect->Location = System::Drawing::Point(6, 19);
+			this->cmbCharmSelect->Items->AddRange( gcnew cli::array< System::Object^  >( 5 )
+			{
+				L"Use no charms", L"Use my charms", L"Use only slotted charms",
+					L"Use up to one skill charms", L"Use up to two skill charms"
+			} );
+			this->cmbCharmSelect->Location = System::Drawing::Point( 6, 19 );
 			this->cmbCharmSelect->Name = L"cmbCharmSelect";
-			this->cmbCharmSelect->Size = System::Drawing::Size(181, 21);
+			this->cmbCharmSelect->Size = System::Drawing::Size( 181, 21 );
 			this->cmbCharmSelect->TabIndex = 0;
 			// 
 			// cmsCharms
 			// 
 			this->cmsCharms->Name = L"cmsCharms";
-			this->cmsCharms->Size = System::Drawing::Size(61, 4);
+			this->cmsCharms->Size = System::Drawing::Size( 61, 4 );
 			// 
 			// cmsSkills
 			// 
-			this->cmsSkills->Items->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(1) {this->mnuClearSkill});
+			this->cmsSkills->Items->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 1 ) { this->mnuClearSkill } );
 			this->cmsSkills->Name = L"cmsSkills";
-			this->cmsSkills->Size = System::Drawing::Size(102, 26);
+			this->cmsSkills->Size = System::Drawing::Size( 102, 26 );
 			// 
 			// mnuClearSkill
 			// 
 			this->mnuClearSkill->Name = L"mnuClearSkill";
-			this->mnuClearSkill->Size = System::Drawing::Size(101, 22);
+			this->mnuClearSkill->Size = System::Drawing::Size( 101, 22 );
 			this->mnuClearSkill->Text = L"&Clear";
-			// 
-			// nudHR
-			// 
-			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right));
-			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
-			this->nudHR->Location = System::Drawing::Point(100, 20);
-			this->nudHR->Maximum = System::Decimal(gcnew cli::array< System::Int32 >(4) {13, 0, 0, 0});
-			this->nudHR->Minimum = System::Decimal(gcnew cli::array< System::Int32 >(4) {1, 0, 0, 0});
-			this->nudHR->Name = L"nudHR";
-			this->nudHR->Size = System::Drawing::Size(44, 20);
-			this->nudHR->TabIndex = 1;
-			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->nudHR->Value = System::Decimal(gcnew cli::array< System::Int32 >(4) {13, 0, 0, 0});
-			this->nudHR->ValueChanged += gcnew System::EventHandler(this, &Form1::nudHR_ValueChanged);
-			// 
-			// nudElder
-			// 
-			this->nudElder->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right));
-			this->nudElder->BackColor = System::Drawing::SystemColors::Control;
-			this->nudElder->Location = System::Drawing::Point(100, 50);
-			this->nudElder->Maximum = System::Decimal(gcnew cli::array< System::Int32 >(4) {10, 0, 0, 0});
-			this->nudElder->Minimum = System::Decimal(gcnew cli::array< System::Int32 >(4) {1, 0, 0, 0});
-			this->nudElder->Name = L"nudElder";
-			this->nudElder->Size = System::Drawing::Size(44, 20);
-			this->nudElder->TabIndex = 3;
-			this->nudElder->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->nudElder->Value = System::Decimal(gcnew cli::array< System::Int32 >(4) {10, 0, 0, 0});
-			this->nudElder->ValueChanged += gcnew System::EventHandler(this, &Form1::nudElder_ValueChanged);
 			// 
 			// Form1
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
+			this->AutoScaleDimensions = System::Drawing::SizeF( 6, 13 );
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(729, 512);
-			this->Controls->Add(this->grpSortFilter);
-			this->Controls->Add(this->grpResults);
-			this->Controls->Add(this->groupBox1);
-			this->Controls->Add(this->menuStrip1);
-			this->Controls->Add(this->grpCharms);
-			this->Controls->Add(this->groupBox6);
-			this->Controls->Add(this->tabHunterType);
-			this->Controls->Add(this->groupBox4);
-			this->Controls->Add(this->progressBar1);
-			this->Icon = (cli::safe_cast<System::Drawing::Icon^  >(resources->GetObject(L"$this.Icon")));
+			this->ClientSize = System::Drawing::Size( 729, 512 );
+			this->Controls->Add( this->grpSortFilter );
+			this->Controls->Add( this->grpResults );
+			this->Controls->Add( this->groupBox1 );
+			this->Controls->Add( this->menuStrip1 );
+			this->Controls->Add( this->grpCharms );
+			this->Controls->Add( this->groupBox6 );
+			this->Controls->Add( this->tabHunterType );
+			this->Controls->Add( this->groupBox4 );
+			this->Controls->Add( this->progressBar1 );
+			this->Icon = ( cli::safe_cast<System::Drawing::Icon^>( resources->GetObject( L"$this.Icon" ) ) );
 			this->Name = L"Form1";
 			this->Text = L"Athena\'s ASS for ";
-			this->groupBox1->ResumeLayout(false);
+			this->groupBox1->ResumeLayout( false );
 			this->groupBox1->PerformLayout();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudWeaponSlots))->EndInit();
-			this->groupBox4->ResumeLayout(false);
-			this->grpResults->ResumeLayout(false);
-			this->menuStrip1->ResumeLayout(false);
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots ) )->EndInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->EndInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudElder ) )->EndInit();
+			this->groupBox4->ResumeLayout( false );
+			this->grpResults->ResumeLayout( false );
+			this->menuStrip1->ResumeLayout( false );
 			this->menuStrip1->PerformLayout();
-			this->groupBox6->ResumeLayout(false);
+			this->groupBox6->ResumeLayout( false );
 			this->groupBox6->PerformLayout();
-			this->tabHunterType->ResumeLayout(false);
-			this->tabBlademaster->ResumeLayout(false);
-			this->tabGunner->ResumeLayout(false);
-			this->grpSortFilter->ResumeLayout(false);
-			this->grpCharms->ResumeLayout(false);
-			this->cmsSkills->ResumeLayout(false);
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudHR))->EndInit();
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudElder))->EndInit();
-			this->ResumeLayout(false);
+			this->tabHunterType->ResumeLayout( false );
+			this->tabBlademaster->ResumeLayout( false );
+			this->tabGunner->ResumeLayout( false );
+			this->grpSortFilter->ResumeLayout( false );
+			this->grpCharms->ResumeLayout( false );
+			this->cmsSkills->ResumeLayout( false );
+			this->ResumeLayout( false );
 			this->PerformLayout();
 
 		}
