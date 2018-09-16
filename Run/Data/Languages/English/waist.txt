@@ -270,8 +270,8 @@ Hermitaur Tassets R
 Hermitaur Coat R
 Volvidon Faulds S
 Volvidon Coat S
-Conga Faulds S
-Conga Coat S
+Conga Tassets
+Conga Coat
 Ludroth Faulds S
 Ludroth Coat S
 Ludroth Tassets R
@@ -316,7 +316,7 @@ Skalda Elytra S
 Skalda Alae S
 Spio Elytra S
 Spio Alae S
-Basarios Faulds
+Basarios Tassets
 Basarios Coat
 Malfestio Faulds S
 Malfestio Coat S
@@ -400,7 +400,7 @@ Zinogre Faulds S
 Zinogre Coat S
 EX Zinogre Faulds
 EX Zinogre Coat
-Gravios Faulds
+Gravios Tassets
 Gravios Coat
 Mizutsune Faulds S
 Mizutsune Coat S
@@ -513,8 +513,8 @@ Arc Faulds R
 Arc Coat R
 Storge Faulds R
 Storge Coat R
-Bulk Faulds
-Bulk Coat
+Valstrax Faulds
+Valstrax Coat
 Kushala Cocoon S
 Kushala Wind Wrap S
 EX Kushala Cocoon
@@ -573,9 +573,9 @@ Hunting Faulds X
 Hunting Coat X
 Mafumofu Coil X
 Mafumofu Coat X
-Yukumo Sky Obi X
-Yukumo Land Obi X
-Loc Lac Coil X
+Yukumo Sky Obi Goku
+Yukumo Land Obi Goku
+Loc Lac Kilt X
 Hunter's Faulds X
 Hunter's Coat X
 Hunter's Faulds XR
@@ -584,7 +584,7 @@ Bone Faulds X
 Bone Coat X
 Melahoa Folia X
 Melahoa Trunk X
-Melahoa Folia Z
+Melahoa Skirt Z
 Melahoa Trunk Z
 Makluva Coil X
 Makluva Fin X
@@ -608,17 +608,17 @@ Spio Elytra X
 Spio Alae X
 Alloy Coil X
 Alloy Coat X
-Alloy Coil XR
+Alloy Faulds XR
 Alloy Coat XR
-Battle Faulds X
+Battle Tassets X
 Battle Coat X
 Ingot Coil X
 Ingot Coat X
 Ingot Coil XR
 Ingot Coat XR
-High Metal Faulds X
+High Metal Tassets X
 High Metal Coat X
-High Metal Faulds Z
+High Metal Tassets Z
 High Metal Coat Z
 Lobster Coil X
 Lobster Coat X
@@ -644,8 +644,8 @@ Artian Coil XR
 Artian Coat XR
 Maiden's Skirt X
 French Maid Frills X
-True Dianthus Skirt
-True Campanile Skirt
+Dianthus Masaskirt
+Campanile Masaskirt
 Hawkcoil X
 Hawkcoat X
 Scholarly Sash X
@@ -653,32 +653,32 @@ Scholarly Coat X
 Dober Coil X
 Dober Coat X
 Scholar's Skirt X
-Scholar's Frills X
+Scholar's Mini X
 Sailor Skirt X
-Sailor Frulls X
-Marinero Skirt X
-Marinero Frills X
+Sailor Mini X
+Mariner Skirt X
+Mariner Frills X
 Jaggi Faulds X
 Jaggi Coat X
 Maccao Faulds X
 Maccao Coat X
-Velociprey Faulds X
+Velociprey Tassets X
 Velociprey Coat X
 Giaprey Faulds X
 Giaprey Coat X
-Genprey Faulds X
+Genprey Tassets X
 Genprey Coat X
-GX Genprey Faulds
-GX Genprey Coat
-Vespoid Faulds X
+Genprey Tassets GX
+Genprey Coat GX
+Vespoid Tassets X
 Vespoid Coat X
-GX Vespoid Faulds
-GX Vespoid Coat
-Hornetaur Faulds X
+Vespoid Tassets GX
+Vespoid Coat GX
+Hornetaur Tassets X
 Hornetaur Coat X
-GX Hornetaur Faulds
-GX Hornetaur Coat
-Hornetaur Faulds XR
+Hornetaur Tassets GX
+Hornetaur Coat GX
+Hornetaur Tassets XR
 Hornetaur Coat XR
 Bnahabra Coil X
 Bnahabra Coat X
@@ -689,96 +689,96 @@ Bulldrome Faulds X
 Bulldrome Coat X
 Arzuros Faulds X
 Arzuros Coat X
-Cephalos Faulds X
+Cephalos Tassets X
 Cephalos Coat X
-GX Cephalos Faulds
-GX Cephalos Coat
+Cephalos Tassets GX
+Cephalos Coat GX
 Droth Faulds X
 Droth Coat X
-Uroktor Faulds X
+Uroktor Tassets X
 Uroktor Coat X
 Moofah Coil X
 Moofah Coat X
 Remobra Belt X
 Remobra Band X
-Ioprey Faulds X
+Ioprey Tassets X
 Ioprey Coat X
-GX Ioprey Faulds
-GX Ioprey Coat
-Kut-Ku Faulds X
+Ioprey Tassets GX
+Ioprey Coat GX
+Kut-Ku Tassets X
 Kut-Ku Coat X
 Kecha Faulds X
 Kecha Coat X
 Lagombi Faulds X
 Lagombi Coat X
-Gypceros Faulds X
+Gypceros Tassets X
 Gypceros Coat X
-Gypceros Faulds XR
+Gypceros Tassets XR
 Gypceros Coat XR
 Tetsucabra Faulds X
 Tetsucabra Coat X
-Hermitaur Faulds X
+Hermitaur Tassets X
 Hermitaur Coat X
-GX Hermitaur Faulds
-GX Hermitaur Coat
-Hermitaur Faulds XR
+Hermitaur Tassets GX
+Hermitaur Coat GX
+Hermitaur Tassets XR
 Hermitaur Coat XR
 Volvidon Faulds X
 Volvidon Coat X
-Conga Faulds X
+Conga Tassets X
 Conga Coat X
-GX Conga Faulds
-GX Conga Coat
+Conga Tassets GX
+Conga Coat GX
 Ludroth Faulds X
 Ludroth Coat X
 Ludroth Faulds XR
 Ludroth Coat XR
 Barroth Faulds X
 Barroth Coat X
-Basarios Faulds X
+Basarios Tassets X
 Basarios Coat X
 Malfestio Faulds X
 Malfestio Coat X
 Zamtrios Faulds X
 Zamtrios Coat X
-Khezu Faulds X
+Khezu Tassets X
 Khezu Coat X
-Khezu Faulds XR
+Khezu Tassets XR
 Khezu Coat XR
 Nerscylla Faulds X
 Nerscylla Coat X
 Rathian Faulds X
 Rathian Coat X
-GX Rathian Faulds
-GX Rathian Coat
+Rathian Faulds GX
+Rathian Coat GX
 Rathian Faulds XR
 Rathian Coat XR
 Nibelsnarf Faulds X
 Nibelsnarf Coat X
-Blango Faulds X
+Blango Tassets X
 Blango Coat X
-GX Blango Faulds
-GX Blango Coat
-Lavasioth Faulds X
-Lavasioth Coat X
-GX Lavasioth Faulds
-GX Lavasioth Coat
-Ceanataur Faulds X
+Blango Tassets GX
+Blango Coat GX
+Lava Tassets X
+Lava Coat X
+Lavasioth Tassets GX
+Lavasioth Coat GX
+Ceanataur Tassets X
 Ceanataur Coat X
-GX Ceanataur Faulds
-GX Ceanataur Coat
-Ceanataur Faulds XR
+Ceanataur Tassets GX
+Ceanataur Coat GX
+Ceanataur Tassets XR
 Ceanataur Coat XR
 Najarala Faulds X
 Najarala Coat X
 Nargacuga Faulds X
 Nargacuga Coat X
-Garuga Faulds X
+Garuga Tassets X
 Garuga Coat X
 Uragaan Faulds X
 Uragaan Coat X
-Guild Knight Coat X
-Guild Knight Kilt X
+G. Knight Coat X
+G. Knight Kilt X
 Guild Bard Coil X
 Guild Bard Coat X
 Chrome Metal Coil X
@@ -793,10 +793,10 @@ Ace Faulds X
 Ace Coat X
 Sororal Faulds X
 Sororal Coat X
-Citadel Ranger's Belt
-Citadel Archer's Belt
-Shinobi Sky Belt X
-Shinobi Land Belt X
+Strider's Sash
+Deadeye's Belt
+Shinobi Heaven Belt Goku
+Shinobi Land Belt Goku
 Master's Faulds X
 Master's Coat X
 Grand Toka Koshiate
@@ -811,12 +811,12 @@ Kaiserin Faulds
 Kaiserin Coat
 Wisdom Coil X
 Wisdom Coat X
-Richeruka Coil
-Richeruka Coat
+Research Sash
+Research Coat
 Cheerful Belt X
 Cheerful Band X
-Bartender's Coil
-Bartender's Coat
+Barman's Coil
+Barman's Coat
 Barmaid's Skirt
 Barmaid's Frills
 Barioth Faulds X
@@ -825,8 +825,8 @@ Seltas Faulds X
 Seltas Coat X
 Rathalos Faulds X
 Rathalos Coat X
-GX Rathalos Faulds
-GX Rathalos Coat
+Rathalos Faulds GX
+Rathalos Coat GX
 Rathalos Faulds XR
 Rathalos Coat XR
 Lagiacrus Faulds X
@@ -835,9 +835,9 @@ Lagiacrus Faulds XR
 Lagiacrus Coat XR
 Zinogre Faulds X
 Zinogre Coat X
-GX Zinogre Faulds
-GX Zinogre Coat
-Gravios Faulds X
+Zinogre Faulds GX
+Zinogre Coat GX
+Gravios Tassets X
 Gravios Coat X
 Mizutsune Faulds X
 Mizutsune Coat X
@@ -851,19 +851,19 @@ Agnaktor Faulds X
 Agnaktor Coat X
 Gore Faulds X
 Gore Coat X
-GX Gore Faulds
-GX Gore Coat
+Gore Faulds GX
+Gore Coat GX
 Gore Faulds XR
 Gore Coat XR
-Regios Faulds X
+Regios Tassets X
 Regios Coat X
 Duramboros Faulds X
 Duramboros Coat X
-Tigrex Faulds X
+Tigrex Tassets X
 Tigrex Coat X
-GX Tigrex Faulds
-GX Tigrex Coat
-Tigrex Faulds XR
+Tigrex Tassets GX
+Tigrex Coat GX
+Tigrex Tassets XR
 Tigrex Coat XR
 Diablos Coil X
 Diablos Coat X
@@ -875,31 +875,31 @@ Kirin Hoop XR
 Kirin Shorts XR
 Brachydios Faulds X
 Brachydios Coat X
-GX Brachydios Faulds
-GX Brachydios Coat
+Brachydios Faulds GX
+Brachydios Coat GX
 Arc Faulds X
 Arc Coat X
-Philia Faulds X
-Philia Coat X
-GX Arc Faulds
-GX Arc Coat
-GX Philia Faulds
-GX Philia Coat
+Storge Faulds X
+Storge Coat X
+Arc Faulds GX
+Arc Coat GX
+Storge Faulds GX
+Storge Coat GX
 Arc Faulds XR
 Arc Coat XR
-Philia Faulds XR
-Philia Coat XR
-Valfalk Faulds X
-Valfalk Coat X
+Storge Faulds XR
+Storge Coat XR
+Valstrax Faulds X
+Valstrax Coat X
 Grand God's Peer Belt
 Grand Hermit Belt
 Vangis Coil X
 Vangis Coat X
 Chaos Faulds
 Chaos Coat
-Nephelim Faulds
-Nephelim Coat
-Black Belt Faulds X
+Nephilim Tassets
+Nephilim Coat
+Black Belt Tassets X
 Black Belt Coat X
 Guardian Coil X
 Guardian Coat X
@@ -921,23 +921,23 @@ Damascus Coil XR
 Damascus Coat XR
 Kushala Cocoon X
 Kushala Wind Wrap X
-GX Kushala Cocoon
-GX Kushala Wind Wrap
+Kushala Cocoon GX
+Kushala Wind Wrap GX
 Kushala Cocoon XR
 Kushala Wind Wrap XR
-True Mizuha Sash
-True Cham Coat
-GX Mizuha Sash
-GX Cham Coat
-Kaiser Faulds X
+Grand Mizuha Sash
+Grand Cham Coat
+Mizuha Sash GX
+Cham Coat GX
+Kaiser Tassets X
 Kaiser Coat X
-GX Kaiser Faulds
-GX Kaiser Coat
+Kaiser Tassets GX
+Kaiser Coat GX
 Silver Solcoil Z
 Silver Solcoat Z
 GX Silver Solcoil
 GX Silver Solcoat
-Silver Solcoil XR
+Silver Solfaulds XR
 Silver Solcoat XR
 Golden Lunecoil Z
 Golden Lunecoat Z
@@ -949,56 +949,56 @@ Esurient Faulds Z
 Esurient Coat Z
 Esurient Faulds XR
 Esurient Coat XR
-Bracchium Faulds
-Bracchium Coat
-Aururos Tassets
+Brachydium Faulds
+Brachydium Coat
+Auroros Tassets
 Genesis Tassets
 Borealis Tassets
 Glyph Tassets
-GX Aururos Tassets
-GX Genesis Tassets
-GX Borealis Tassets
-GX Glyph Tassets
-Aururos Battle Tassets
-Battle Genesis Tassets
-Battle Borealis Tassets
-Battle Glyph Tassets
-Auroros Kermes Tassets
-Genesis Kermes Tassets
-Borealis KermesTassets
-Glyph Kermes Tassets
+Auroros Tassets GX
+Genesis Tassets GX
+Borealis Tassets GX
+Glyph Tassets GX
+Auroros Tassets XR
+Genesis Tassets XR
+Borealis Tassets XR
+Glyph Tassets XR
+Auroros Tassets R
+Genesis Tassets R
+Borealis Tassets R
+Glyph Tassets R
 Akantor Cincture X
 Akantor Sash X
 Akantor Cincture XR
 Akantor Sash XR
 Ukanlos Cincture X
 Ukanlos Sash X
-True Tempest Obi
-True Welkin Obi
-Tempest Battle Obi
-Welkin Battle Obi
-True Skeletal Hipbone
-True Decayed Hipbone
+Grand Tempest Obi
+Grand Welkin Obi
+Tempest Obi XR
+Welkin Obi XR
+Grand Skeletal Hipbone
+Grand Decayed Hipbone
 Astral Coil X
 Astral Coat X
-Neset Hezam
-Neset Anka
-Dragonspine
-Dragonscale
+Neset Coat
+Neset Elytra
+Dragonbarbs
+Dragonsheath
 Escadora Might X
 Escadora Force X
 Escadora Might XR
 Escadora Force XR
-Fatalis Crimsonspine
+Fatalis Crimsonbarbs
 Fatalis Crimsonscale
-GX Fatalis Crimsonspine
+GX Fatalis Crimsonbarbs
 GX Fatalis Crimsonscale
-Fatalis Crimsonspine XR
+Fatalis Crimsonbarbs XR
 Fatalis Crimsonscale XR
-White Fatalis Spine
-White Fatalis Scale
-GX White Fatalis Spine
-GX White Fatalis Scale
+Old Fatalis Spine
+Old Fatalis Scale
+GX Old Fatalis Spine
+GX Old Fatalis Scale
 Strange Faulds
 Strange Coat
 Strange Faulds X
@@ -1075,30 +1075,30 @@ Hellblade Faulds LV6
 Hellblade Coat LV6
 Hellblade Faulds LV14
 Hellblade Coat LV14
-Hazewing Braces LV1
-Hazewing Guards LV1
-Hazewing Braces LV4
-Hazewing Guards LV4
-Shredclaw Braces LV1
-Shredclaw Guards LV1
-Shredclaw Braces LV4
-Shredclaw Guards LV4
-Divinesight Braces LV1
-Divinesight Guards LV1
-Divinesight Braces LV4
-Divinesight Guards LV4
-Azurebolt Braces LV1
-Azurebolt Guards LV1
-Azurebolt Braces LV4
-Azurebolt Guards LV4
-Silverpeak Braces LV1
-Silverpeak Guards LV1
-Silverpeak Braces LV4
-Silverpeak Guards LV4
-Bloodlust Braces LV1
-Bloodlust Guards LV1
-Bloodlust Braces LV4
-Bloodlust Guards LV4
+Nightcloak Faulds LV1
+Nightcloak Coat LV1
+Nightcloak Faulds LV4
+Nightcloak Coat LV4
+Rustrazor Faulds LV1
+Rustrazor Coat LV1
+Rustrazor Faulds LV4
+Rustrazor Coat LV4
+Soulseer Faulds LV1
+Soulseer Coat LV1
+Soulseer Faulds LV4
+Soulseer Coat LV4
+Boltreaver Faulds LV1
+Boltreaver Coat LV1
+Boltreaver Faulds LV4
+Boltreaver Coat LV4
+Elderfrost Faulds LV1
+Elderfrost Coat LV1
+Elderfrost Faulds LV4
+Elderfrost Coat LV4
+Bloodbath Faulds LV1
+Bloodbath Coat LV1
+Bloodbath Faulds LV4
+Bloodbath Coat LV4
 Promising Girdle
 Halcyon Girdle
 Lucid Tassets
@@ -1135,15 +1135,15 @@ Ruler Waka Obi
 Ruler Wagaku Obi
 Hero's Belt
 Hero's Band
-Lodestar Coil
-Lodestar Coat
+Lodestar Belt
+Lodestar Cloak
 Hiryu Sky Belt
 Hiryu Land Belt
 Supreme Arcfire Obi
 Supreme Bonfire Obi
 Supreme Waka Obi
 Supreme Wagaku Obi
-Golden Knight Faulds
-Golden Knight Coat
+Garo Tassets
+Garo Belt
 Hylian Belt
-Hylian Band
+Hylian Bandolier

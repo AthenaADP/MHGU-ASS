@@ -76,9 +76,9 @@ Gambit Jwl 1
 Gambit Jwl 3
 Sheath Jwl 1
 Sheath Jwl 2
-Sheath Art Jwl 1
-Scalpel Jwl 1
-Scalpel Jwl 3
+Razor Sheath Jwl 1
+Bladescale Jwl 1
+Bladescale Jwl 3
 Quickload Jwl 1
 Quickload Jwl 2
 Absorber Jwl 1
@@ -132,8 +132,8 @@ CritElementJwl 1
 CritElementJwl 2
 Critical Jwl 1
 Critical Jwl 3
-Neg-Crit Jwl 1
-Neg-Crit Jwl 3
+Negative Crit Jwl 1
+Negative Crit Jwl 3
 Charger Jwl 1
 Charger Jwl 3
 Sprinter Jwl 1
@@ -142,8 +142,8 @@ Physique Jwl 1
 Physique Jwl 2
 Refresh Jwl 1
 Refresh Jwl 2
-Fleet-Footed Jwl 1
-Fleet-Footed Jwl 2
+Distance Runner Jwl 1
+Distance Runner Jwl 2
 Evasion Jwl 1
 Evasion Jwl 2
 Jumping Jwl 1
@@ -171,8 +171,8 @@ Flawless Jwl 1
 Flawless Jwl 2
 Favor Jwl 1
 Favor Jwl 3
-DRG Trait Jwl 1
-DRG Trait Jwl 3
+Dragon Spirit Jwl 1
+Dragon Spirit Jwl 3
 Potential Jwl 1
 Potential Jwl 2
 Fortitude Jwl 1
@@ -192,9 +192,9 @@ Rodeo Jwl 1
 Flight Jwl 1
 Insight Jwl 1
 Insight Jwl 3
-Proud Jwl 1
-Tech Ext Jwl 1
-Tech Ext Jwl 2
+Endurance Jwl 1
+Extender Jwl 1
+Extender Jwl 2
 Psychic Jwl 1
 Perception Jwl 1
 Ranger Jwl 1
@@ -238,5 +238,5 @@ Bell Jwl 1
 Novice Jwl 1
 Snowflake Jwl 1
 Springs Jwl 1
-Wisdom Jwl 1
-Sky Tavern Jwl 1
+Study Jwl 1
+Skyfeast Jwl 1

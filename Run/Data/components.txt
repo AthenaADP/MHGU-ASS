@@ -1793,6 +1793,11 @@ EX霞龍チケット,jEvent
 EX炎王龍チケット,jEvent
 EX金火竜チケット,jEvent
 EX銀火竜チケット,jEvent
+EX桃毛獣チケット
+EX老山龍チケット
+EX老山龍チケットＳ,jEvent
+EX黒龍チケット・紅,jEvent
+EX黒龍チケット・白,jEvent
 獰猛化狩猟の証Ⅰ
 獰猛化狩猟の証Ⅱ
 獰猛化狩猟の証Ⅲ
@@ -2462,7 +2467,7 @@ EX銀火竜チケット,jEvent
 雌火竜素材
 金火竜素材
 紫毒姫素材
-火竜素材
+雄火竜素材
 銀火竜素材
 黒炎王素材
 フルフル素材
@@ -2837,68 +2842,81 @@ EX銀火竜チケット,jEvent
 仙湯珠【１】
 識究珠【１】
 空宴珠【１】
-トマトジュース,jEvent
-妖精の尻尾の紋章,jEvent
-海賊Ｊネコ金貨,jEvent
-ダンボール,jEvent
-ユニクロコイン,jEvent
+トマトジュース,Event
+妖精の尻尾の紋章,Event
+海賊Ｊネコ金貨,Event
+ダンボール,Event
+ユニクロコイン,Event
 スタジオパス,jEvent
 ぐでぐでとした卵,jEvent
 魂石,jEvent
-クローズコイン,jEvent
-自転車部入部届,jEvent
-地下闘技場入場券,jEvent
-じーさんコイン,jEvent
-コロコロチケット,jEvent
-うしおコイン,jEvent
-マギコイン,jEvent
-冥天の星くず,jEvent
-運命のカード,jEvent
-海賊Ｊチケット,jEvent
-ファミ通チケット,jEvent
-デンゲキチケット,jEvent
-ユニクロＳコイン,jEvent
+クローズコイン,Event
+自転車部入部届,Event
+地下闘技場入場券,Event
+じーさんコイン,Event
+コロコロチケット,Event
+うしおコイン,Event
+マギコイン,Event
+冥天の星くず,Event
+運命のカード,Event
+海賊Ｊチケット,Event
+ファミ通チケット,Event
+デンゲキチケット,Event
+ユニクロＳコイン,Event
 スタジオＸパス,jEvent
 スタジオＧパス,jEvent
 スタジオＷパス,jEvent
 しゃけのきりみ,jEvent
 マクロスΔコイン,jEvent
-風のタクト,jEvent
-アーウィン搭乗券,jEvent
-スーパーキノコ,jEvent
-デザインパレット,jEvent
-トライフォース,jEvent
-サムスコイン,jEvent
-女神の眼差し,jEvent
-女神の抱擁,jEvent
-ＳＦコイン,jEvent
-レッドオーブ,jEvent
-セラミカルチタン,jEvent
-英雄の証,jEvent
-ベビー日記帳,jEvent
-ぽかぽか日記帳,jEvent
-モンハン部会報誌,jEvent
-モンハン部入部届,jEvent
-モンハン部認定証,jEvent
-パペットチケット,jEvent
-グレートストーン,jEvent
-郵便屋さんの手紙,jEvent
-封印の盾,jEvent
-支援機械,jEvent
-獰猛化素材
-雄火竜素材
-黒龍(紅)素材
-金雷光素材
-EX桃毛獣チケット
-EX老山龍チケット
-EX老山龍チケットＳ,jEvent
-EX黒龍チケット・紅,jEvent
-EX黒龍チケット・白,jEvent
+風のタクト,Event
+アーウィン搭乗券,Event
+スーパーキノコ,Event
+デザインパレット,Event
+トライフォース,Event
+サムスコイン,Event
+女神の眼差し,Event
+女神の抱擁,Event
+ＳＦコイン,Event
+レッドオーブ,Event
+セラミカルチタン,Event
+英雄の証,Event
+ベビー日記帳,Event
+ぽかぽか日記帳,Event
+モンハン部会報誌,Event
+モンハン部入部届,Event
+モンハン部認定証,Event
+パペットチケット,Event
+グレートストーン,Event
+郵便屋さんの手紙,Event
+少年探偵団の証 ,Event
+リーマンコイン ,Event
+銀水晶のかけら ,Event
+海王認定書 ,Event
+ワーストコイン ,Event
+超ぐでっとした卵 ,jEvent
+天道絵巻物 ,Event
+アーサーの鎧 ,Event
+逆転裁判傍聴券 ,Event
+ナビルーチケット ,Event
+ネコ魂石 ,Event
+ファミ通ギフト券 ,Event
+デンゲキＸＸ券 ,Event
+大海賊Ｊチケット ,Event
+飛信隊の証 ,Event
+ハンター認定書,jEvent
+犯行の証拠,Event
+魔法源解放鍵 ,Event
+タイ捨流奥義書 ,Event
 スタジオＵパス,jEvent
 スタジオＯパス,jEvent
-ハンター認定書,jEvent
-犯行の証拠,jEvent
 スタジオＸＸパス,jEvent
-ザルバのかけら,jEvent
-ゼルダチケットＧ,jEvent
-モンハン部昇段書,jEvent
+スタジオＮパス ,jEvent
+ライブチケット ,jEvent
+ザルバのかけら,Event
+ゼルダチケット,Event
+ゼルダチケットＧ,Event
+ゼルダチケットＮ,Event
+封印の盾,Event
+モンハン部昇段書,Event
+支援機械,Event
+獰猛化素材

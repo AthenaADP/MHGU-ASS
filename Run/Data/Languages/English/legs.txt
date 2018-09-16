@@ -212,8 +212,8 @@ Edel Roots S
 Edel Radicles S
 Velociprey Feet S
 Velociprey Tights S
-Giaprey Feet S
-Giaprey Tights S
+Giaprey Feet
+Giaprey Tights
 Genprey Feet S
 Genprey Tights S
 Ioprey Feet S
@@ -524,9 +524,9 @@ EX Rathalos Leggings S
 EX Tigrex Greaves S
 EX Tigrex Leggings S
 Diablos Greaves
-Diabloes Leggings
+Diablos Leggings
 Diablos Greaves R
-Diabloes Leggings R
+Diablos Leggings R
 Arc Greaves S
 Arc Leggings S
 Storge Greaves S
@@ -539,8 +539,8 @@ Arc Greaves R
 Arc Leggings R
 Storge Greaves R
 Storge Leggings R
-Bulk Greaves
-Bulk Leggings
+Valstrax Greaves
+Valstrax Leggings
 Kushala Crus S
 Kushala Shank S
 EX Kushala Crus
@@ -599,9 +599,9 @@ Hunting Greaves X
 Hunting Leggings X
 Mafumofu Boots X
 Mafumofu Tights X
-Yukumo Sky Hakama X
-Yukumo Land Hakama X
-Luxury Bath Sandals X
+Yukumo Sky Hakama Goku
+Yukumo Land Hakama Goku
+Posh Bath Sandals
 Loc Lac Boots X
 Hunter's Greaves X
 Hunter's Leggings X
@@ -611,7 +611,7 @@ Bone Greaves X
 Bone Leggings X
 Silver Metal Boots X
 Silver Metal Feet X
-Trapper's Shinguards X
+Trapper's Greaves X
 Trapper's Boots X
 Maccao Shinguards X
 Maccao Boots X
@@ -652,19 +652,19 @@ Ingot Leggings X
 Ingot Greaves XR
 Ingot Leggings XR
 High Metal Greaves X
-High Metal Leggings X
+Hi Metal Leggings X
 High Metal Greaves Z
-High Metal Leggings Z
+Hi Metal Leggings Z
 Pink Metal Boots X
 Pink Metal Feet X
-Lobster Greaves X
-Lobster Leggings X
+Lobster Boots X
+Lobster Feet X
 Vaik Greaves X
 Vaik Leggings X
 Patissier's Boots X
-Patissier's Feet X
+Patissier's Footwear X
 Gourmew Boots X
-Gourmew Feet X
+Gourmew Paws X
 Aelucanth Crura X
 Aelucanth Tarsi X
 Rhopessa Crura X
@@ -679,8 +679,8 @@ Artian Greaves XR
 Artian Leggings XR
 Maiden's Socks X
 French Maid Tights X
-True Dianthus Pants
-True Campanile Pants
+Dianthus Masapants
+Campanile Masapants
 Hawkboots X
 Hawkfeet X
 Scholarly Boots X
@@ -691,8 +691,8 @@ Scholar's Socks X
 Scholar's Sandals X
 Sailor Socks X
 Sailor Sandals X
-Marinero Socks X
-Marinero Sandals X
+Mariner Socks X
+Mariner Sandals X
 Jaggi Greaves X
 Jaggi Leggings X
 Maccao Greaves X
@@ -703,20 +703,20 @@ Giaprey Greaves X
 Giaprey Leggings X
 Genprey Greaves X
 Genprey Leggings X
-GX Genprey Greaves
-GX Genprey Leggings
+Genprey Greaves GX
+Genprey Leggings GX
 Vespoid Greaves X
 Vespoid Leggings X
-GX Vespoid Greaves
-GX Vespoid Leggings
+Vespoid Greaves GX
+Vespoid Leggings GX
 Hornetaur Greaves X
 Hornetaur Leggings X
-GX Hornetaur Greaves
-GX Hornetaur Leggings
+Hornetaur Greaves GX
+Hornetaur Leggings GX
 Hornetaur Greaves XR
 Hornetaur Leggings XR
 Bnahabra Boots X
-Bnahabra Feet X
+Bnahabra Pants X
 Mosswine Feet X
 Rhenoplos Greaves X
 Rhenoplos Leggings X
@@ -726,8 +726,8 @@ Arzuros Greaves X
 Arzuros Leggings X
 Cephalos Greaves X
 Cephalos Leggings X
-GX Cephalos Greaves
-GX Cephalos Leggings
+Cephalos Greaves GX
+Cephalos Leggings GX
 Droth Greaves X
 Droth Leggings X
 Velociprey Feet X
@@ -742,8 +742,8 @@ Remobra Feet X
 Remobra Tights X
 Ioprey Greaves X
 Ioprey Leggings X
-GX Ioprey Greaves
-GX Ioprey Leggings
+Ioprey Greaves GX
+Ioprey Leggings GX
 Kut-Ku Greaves X
 Kut-Ku Leggings X
 Kecha Greaves X
@@ -758,16 +758,16 @@ Tetsucabra Greaves X
 Tetsucabra Leggings X
 Hermitaur Greaves X
 Hermitaur Leggings X
-GX Hermitaur Greaves
-GX Hermitaur Leggings
+Hermitaur Greaves GX
+Hermitaur Leggings GX
 Hermitaur Greaves XR
 Hermitaur Leggings XR
 Volvidon Greaves X
 Volvidon Leggings X
 Conga Greaves X
 Conga Leggings X
-GX Conga Greaves
-GX Conga Leggings
+Conga Greaves GX
+Conga Leggings GX
 Ludroth Greaves X
 Ludroth Leggings X
 Ludroth Greaves XR
@@ -788,8 +788,8 @@ Nerscylla Greaves X
 Nerscylla Leggings X
 Rathian Greaves X
 Rathian Leggings X
-GX Rathian Greaves
-GX Rathian Leggings
+Rathian Greaves GX
+Rathian Leggings GX
 Rathian Greaves XR
 Rathian Leggings XR
 Nibelsnarf Greaves X
@@ -798,16 +798,16 @@ Plesioth Greaves X
 Plesioth Leggings X
 Blango Greaves X
 Blango Leggings X
-GX Blango Greaves
-GX Blango Leggings
-Lavasioth Greaves X
-Lavasioth Leggings X
-GX Lavasioth Greaves
-GX Lavasioth Leggings
+Blango Greaves GX
+Blango Leggings GX
+Lava Greaves X
+Lava Leggings X
+Lavasioth Greaves GX
+Lavasioth Leggings GX
 Ceanataur Greaves X
 Ceanataur Leggings X
-GX Ceanataur Greaves
-GX Ceanataur Leggings
+Ceanataur Greaves GX
+Ceanataur Leggings GX
 Ceanataur Greaves XR
 Ceanataur Leggings XR
 Najarala Greaves X
@@ -820,8 +820,8 @@ Uragaan Greaves X
 Uragaan Leggings X
 GX Kita Star Hakama
 GX Umi Ocean Hakama
-Guild Knight Boots X
-Guild Knight Tights X
+G. Knight Boots X
+G. Knight Tights X
 Guild Bard Boots X
 Guild Bard Gaiters X
 Dark Metal Boots X
@@ -838,10 +838,10 @@ Ace Greaves X
 Ace Leggings X
 Sororal Greaves X
 Sororal Leggings X
-Citadel Ranger's Espadrilles
-Citadel Archer's Espadrilles
-Yukumo Sky Hakama X
-Yukumo Land Hakama X
+Strider's Espadrilles
+Deadeye's Espadrilles
+Yukumo Sky Hakama Goku
+Yukumo Land Hakama Goku
 Master's Greaves X
 Master's Leggings X
 Grand Toka Gusoku
@@ -856,22 +856,22 @@ Kaiserin Greaves
 Kaiserin Leggings
 Wisdom Boots X
 Wisdom Feet X
-Richeruka Boots
-Richeruka Tights
+Research Boots
+Research Tights
 Cheerful Boots X
 Cheerful Feet X
-Bartender's Boots
-Bartender's Feet
+Barman's Boots
+Barman's Pants
 Barmaid's Boots
 Barmaid's Tights
 Barioth Greaves X
-Barioth  Leggings X
+Barioth Leggings X
 Seltas Greaves X
 Seltas Leggings X
 Rathalos Greaves X
 Rathalos Leggings X
-GX Rathalos Greaves
-GX Rathalos Leggings
+Rathalos Greaves GX
+Rathalos Leggings GX
 Rathalos Greaves XR
 Rathalos Leggings XR
 Lagiacrus Greaves X
@@ -880,8 +880,8 @@ Lagiacrus Greaves XR
 Lagiacrus Leggings XR
 Zinogre Greaves X
 Zinogre Leggings X
-GX Zinogre Greaves
-GX Zinogre Leggings
+Zinogre Greaves GX
+Zinogre Leggings GX
 Gravios Greaves X
 Gravios Leggings X
 Mizutsune Greaves X
@@ -893,11 +893,11 @@ Gammoth Leggings X
 Glavenus Greaves X
 Glavenus Leggings X
 Agnaktor Greaves X
-Agnakor Leggings X
+Agnaktor Leggings X
 Gore Greaves X
 Gore Leggings X
-GX Gore Greaves
-GX Gore Leggings
+Gore Greaves GX
+Gore Leggings GX
 Gore Greaves XR
 Gore Leggings XR
 Regios Greaves X
@@ -906,8 +906,8 @@ Duramboros Greaves X
 Duramboros Leggings X
 Tigrex Greaves X
 Tigrex Leggings X
-GX Tigrex Greaves
-GX Tigrex Leggings
+Tigrex Greaves GX
+Tigrex Leggings GX
 Tigrex Greaves XR
 Tigrex Leggings XR
 Diablos Greaves X
@@ -920,30 +920,30 @@ Kirin Leg Guards XR
 Kirin Boots XR
 Brachydios Greaves X
 Brachydios Leggings X
-GX Brachydios Greaves
-GX Brachydios Leggings
+Brachydios Greaves GX
+Brachydios Leggings GX
 Arc Greaves X
 Arc Leggings X
-Philia Greaves X
-Philia Leggings X
-GX Arc Greaves
-GX Arc Leggings
-GX Philia Greaves
-GX Philia Leggings
+Storge Greaves X
+Storge Leggings X
+Arc Greaves GX
+Arc Leggings GX
+Storge Greaves GX
+Storge Leggings GX
 Arc Greaves XR
 Arc Leggings XR
-Philia Greaves XR
-Philia Leggings XR
-Valfalk Greaves X
-Valfalk Leggings X
+Storge Greaves XR
+Storge Leggings XR
+Valstrax Greaves X
+Valstrax Leggings X
 Grand God's Peer Feet
 Grand Hermit Feet
 Vangis Greaves X
 Vangis Leggings X
 Chaos Greaves
 Chaos Leggings
-Nephelim Greaves
-Nephelim Leggings
+Nephilim Greaves
+Nephilim Leggings
 Black Belt Greaves X
 Black Belt Leggings X
 Guardian Boots X
@@ -966,18 +966,18 @@ Damascus Greaves XR
 Damascus Leggings XR
 Kushala Crus X
 Kushala Shank X
-GX Kushala Crus
-GX Kushala Shank
+Kushala Crus GX
+Kushala Shank GX
 Kushala Crus XR
 Kushala Shank XR
-True Mizuha Gaiters
-True Cham Trousers
-GX Mizuha Gaiters
-GX Cham Trousers
+Grand Mizuha Leg Wrap
+Grand Cham Trousers
+Mizuha Gaiters GX
+Cham Trousers GX
 Kaiser Greaves X
 Kaiser Leggings X
-GX Kaiser Greaves
-GX Kaiser Leggings
+Kaiser Greaves GX
+Kaiser Leggings GX
 Silver Solgreaves Z
 Silver Solleggings Z
 GX Silver Solgreaves
@@ -986,48 +986,48 @@ Silver Solgreaves XR
 Silver Solleggings XR
 Golden Lunegreaves Z
 Golden Luneleggings Z
-GX Golden Lunegreaves
-GX Golden Luneleggings
+GX Gold Lunegreaves
+GX Gold Luneleggings
 Grand Divine Ire Hakama
 Grand Mind Crusher Tabi
 Esurient Greaves Z
 Esurient Leggings Z
 Esurient Greaves XR
 Esurient Leggings XR
-Bracchium Greaves
-Bracchiu, Leggings
+Brachydium Greaves
+Brachydium Leggings
 Auroros Pants
 Genesis Pants
-Borealis Pants
-Glyph Pants
-GX Auroros Pants
-GX Genesis Pants
-GX Borealis Pants
-GX Glyph Pants
-Battle Auroros Pants
-Battle Genesis Pants
-Battle Borealis Pants
-Battle Glyph Pants
-Auroros Kermes Hakama
-Genesis Kermes Hakama
-Borealis Kermes Pants
-Glyph Kermes Pants
+Borealis Hakama
+Glyph Hakama
+Auroros Pants GX
+Genesis Pants GX
+Borealis Hakama GX
+Glyph Hakama GX
+Auroros Pants XR
+Genesis Pants XR
+Borealis Hakama XR
+Glyph Hakama XR
+Auroros Pants R
+Genesis Pants R
+Borealis Hakama R
+Glyph Hakama R
 Akantor Hessian X
 Akantor Boots X
 Akantor Hessian XR
 Akantor Boots XR
 Ukanlos Hessian X
 Ukanlos Boots X
-True Tempest Hakama
-True Welkin Hakama
-Tempest Battle Hakama
-Welkin Battle Hakama
-True Skeletal Femur
-True Decayed Femur
+Grand Tempest Hakama
+Grand Welkin Hakama
+Tempest Hakama XR
+Welkin Hakama XR
+Grand Skeletal Femur
+Grand Decayed Femur
 Astral Boots X
 Astral Feet X
-Neset Greaves
-Neset Leggings
+Neset Boots
+Neset Feet
 Dragonfeet
 Dragonlegs
 Escadora Sheath X
@@ -1040,10 +1040,10 @@ GX Fatalis Crimsonfeet
 GX Fatalis Crimsonlegs
 Fatalis Crimsonfeet XR
 Fatalis Crimsonlegs XR
-White Fatalis Feet
-White Fatalis Legs
-GX White Fatalis Feet
-GX White Fatalis Legs
+Old Fatalis Feet
+Old Fatalis Legs
+GX Old Fatalis Feet
+GX Old Fatalis Legs
 Strange Greaves
 Strange Leggings
 Strange Greaves X
@@ -1120,30 +1120,30 @@ Hellblade Greaves LV6
 Hellblade Leggings LV6
 Hellblade Greaves LV14
 Hellblade Leggings LV14
-Hazewing Braces LV1
-Hazewing Guards LV1
-Hazewing Braces LV4
-Hazewing Guards LV4
-Shredclaw Braces LV1
-Shredclaw Guards LV1
-Shredclaw Braces LV4
-Shredclaw Guards LV4
-Divinesight Braces LV1
-Divinesight Guards LV1
-Divinesight Braces LV4
-Divinesight Guards LV4
-Azurebolt Braces LV1
-Azurebolt Guards LV1
-Azurebolt Braces LV4
-Azurebolt Guards LV4
-Silverpeak Braces LV1
-Silverpeak Guards LV1
-Silverpeak Braces LV4
-Silverpeak Guards LV4
-Bloodlust Braces LV1
-Bloodlust Guards LV1
-Bloodlust Braces LV4
-Bloodlust Guards LV4
+Nightcloak Greaves LV1
+Nightcloak Leggings LV1
+Nightcloak Greaves LV4
+Nightcloak Leggings LV4
+Rustrazor Greaves LV1
+Rustrazor Leggings LV1
+Rustrazor Greaves LV4
+Rustrazor Leggings LV4
+Soulseer Greaves LV1
+Soulseer Leggings LV1
+Soulseer Greaves LV4
+Soulseer Leggings LV4
+Boltreaver Greaves LV1
+Boltreaver Leggings LV1
+Boltreaver Greaves LV4
+Boltreaver Leggings LV4
+Elderfrost Greaves LV1
+Elderfrost Leggings LV1
+Elderfrost Greaves LV4
+Elderfrost Leggings LV4
+Bloodbath Greaves LV1
+Bloodbath Leggings LV1
+Bloodbath Greaves LV4
+Bloodbath Leggings LV4
 Promising Sabatons
 Halcyon Sabatons
 Lucid Pleats
@@ -1191,7 +1191,7 @@ Zero Suit Tights
 Hero's Boots
 Hero's Leggings
 Lodestar Boots
-Lodestar Feet
+Lodestar Greaves
 Greaves of Rage
 Leggings of Rage
 Greaves of Anat
@@ -1202,13 +1202,13 @@ Hiryu Sky Boots
 Hiryu Land Boots
 Gon Greaves
 Gon Leggings
-Criminal Greaves
-Criminal Leggings
+Criminal Legs
+Criminal Feet
 Supreme Arcfire Hakama
 Supreme Bonfire Hakama
 Supreme Waka Hakama
 Supreme Wagaku Hakama
-Golden Knight Boots
-Golden Knight Greaves
+Garo Guards
+Garo Greaves
+Hylian Footwear
 Hylian Boots
-Hylian Leggings

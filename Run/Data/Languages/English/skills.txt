@@ -40,8 +40,8 @@ Blunt
 Crit Draw
 Punish Draw
 Sheathing
-Sword Polisher
-Blade Scale
+Sheathe Sharpen
+Bladescale
 Reload Spd
 Recoil
 Precision
@@ -73,12 +73,12 @@ Chain Crit
 Crit Status
 Crit Element
 Critical Up
-Neg Affinity
+Negative Crit
 FastCharge
 Stamina
 Constitution
 Stam Recov
-Long-Winded
+Distance Runner
 Evasion
 Evade Dist
 Bubble
@@ -94,7 +94,7 @@ Gloves Off
 Spirit
 Unscathed
 Chance
-D.Instinct
+Dragon Spirit
 Potential
 Survivor
 Furor
@@ -106,12 +106,12 @@ TeamLeader
 Mounting
 Vault
 Insight
-Aware
-SP+
+Endurance
+Prolong SP
 Psychic
 Perception
 Ranger
-Transportr
+Transporter
 Protection
 Hero Shield
 Rec Level
@@ -134,13 +134,13 @@ Charmer
 Whim
 Fate
 Carving
-Tranquilzr
+Capturer
 Bherna
 Kokoto
 Pokke
 Yukumo
-W.Airboat
-F.Tavern
+Soaratorium
+Flying Pub
 Redhelm
 Snowbaron
 Stonefist
@@ -153,30 +153,30 @@ Dreadking
 Thunderlord
 Grimclaw
 Hellblade
-Hazewing
-Shredclaw
-Divinesight
-Azurebolt
-Frostpeak
-Bloodlust
-Redhelm G
-Snowbaron G
-Stonefist G
-Drilltusk G
-Dreadqueen G
-C.beard G
-Silverwind G
-Deadeye G
-Dreadking G
-Thunderlord G
-Grimclaw G
-Hellblade G
-Hazewing G
-Shredclaw G
-Divinesight G
-Azurebolt G
-Frostpeak G
-Bloodlust G
+Nightcloak
+Rustrazor
+Soulseer
+Boltreaver
+Elderfrost
+Bloodbath
+Redhelm X
+Snowbaron X
+Stonefist X
+Drilltusk X
+Dreadqueen X
+Crystalbeard X
+Silverwind X
+Deadeye X
+Dreadking X
+Thunderlord X
+Grimclaw X
+Hellblade X
+Nightcloak X
+Rustrazor X
+Soulseer X
+Boltreaver X
+Elderfrost X
+Bloodbath X
 D. Fencing
 Edge Lore
 PowerEater
@@ -189,7 +189,7 @@ SteadyHand
 Status Res
 Fury
 Nimbleness
-Sheathed
+Readiness
 Resilience
 Brutality
 Stalwart
@@ -197,11 +197,11 @@ Prudence
 Amplify
 Hoarding
 Avarice
-Anti-Steel
-Anti-Haze
-Anti-Fire
-Mystery
-Charm+
+Anti-Kushala
+Anti-Chameleos
+Anti-Teostra
+Secret Arts
+Talisman Boost
 Torso Up
 
 Negate Poison
@@ -210,13 +210,13 @@ Negate Paralysis
 Double Paralysis
 Negate Sleep
 Double Sleep
-Halve Stun
 Negate Stun
+Halve Stun
 Double Stun
-Earplugs
 HG Earplugs
-Windproof (Lo)
+Earplugs
 Windproof (Hi)
+Windproof (Lo)
 Tremor Res
 Negate Bind
 Heat Cancel
@@ -228,66 +228,66 @@ Tropic Hunter
 Anti-Theft
 Iron Skin
 Antivirus
-Bio Researcher
 Bio Master
+Bio Researcher
 Negate Bleeding
 Double Bleeding
-Attack Up (S)
-Attack Up (M)
 Attack Up (L)
+Attack Up (M)
+Attack Up (S)
 Attack Down (S)
 Attack Down (M)
 Attack Down (L)
-Defense Up (S)
-Defense Up (M)
 Defense Up (L)
+Defense Up (M)
+Defense Up (S)
 Defense Down (S)
 Defense Down (M)
 Defense Down (L)
-Health +20
 Health +50
+Health +20
 Health -10
 Health -30
-Fire Res +15
 Fire Res +20
+Fire Res +15
 Fire Res -20
-Water Res +15
 Water Res +20
+Water Res +15
 Water Res -20
-Thunder Res +15
 Thunder Res +20
+Thunder Res +15
 Thunder Res -20
-Ice Res +15
 Ice Res +20
+Ice Res +15
 Ice Res -20
-Dragon Res +15
 Dragon Res +20
+Dragon Res +15
 Dragon Res -20
 Blightproof
-Fire Atk +1
 Fire Atk +2
+Fire Atk +1
 Fire Atk Down
-Water Atk +1
 Water Atk +2
+Water Atk +1
 Water Atk Down
-Thunder Atk +1
 Thunder Atk +2
+Thunder Atk +1
 Thunder Atk Down
-Ice Atk +1
 Ice Atk +2
+Ice Atk +1
 Ice Atk Down
-Dragon Atk +1
 Dragon Atk +2
+Dragon Atk +1
 Dragon Atk Down
 Element Atk Up
 Element Atk Down
-Status Atk +1
 Status Atk +2
+Status Atk +1
 Status Atk Down
 Speed Sharpening
 Slow Sharpening
-Sharpness +1
 Sharpness +2
+Sharpness +1
 Razor Sharp
 Blunt Edge
 Mind's Eye
@@ -297,22 +297,22 @@ Bludgeoner
 Critical Draw
 Punishing Draw
 Quick Sheath
-Challenger's Sword
-Blade Scl Polish
-Reload Speed +1
-Reload Speed +2
+Challenge Sheath
+Bladescale Hone
 Reload Speed +3
+Reload Speed +2
+Reload Speed +1
 Reload Speed -1
 Reload Speed -2
 Reload Speed -3
-Recoil Down +1
-Recoil Down +2
 Recoil Down +3
+Recoil Down +2
+Recoil Down +1
 Recoil Down -1
 Recoil Down -2
 Recoil Down -3
-Steadiness +1
 Steadiness +2
+Steadiness +1
 Steadiness -1
 Steadiness -2
 Normal/Rapid Up
@@ -320,21 +320,21 @@ Pierce/Pierce Up
 Pellet/Spread Up
 Heavy/Heavy Up
 Use Any Normal S
-Use Lv1 Pierce S
 Use Any Pierce S
-Use Lv1 Pellet S
+Use Lv1 Pierce S
 Use Any Pellet S
-Use Lv1 Crag S
+Use Lv1 Pellet S
 Use Any Crag S
-Use Lv1 Clust S
+Use Lv1 Crag S
 Use Any Clust S
+Use Lv1 Clust S
 Use Poison Coat
 Use Para Coat
 Use Sleep Coat
-Power Phial (Lv1)
 Power Phial (All)
-Element Phial (Lv1)
+Power Phial (Lv1)
 Element Phial (All)
+Element Phial (Lv1)
 Use C.Range Coat
 Use Exhaust Coat
 Use Blast Coat
@@ -343,9 +343,9 @@ Shot Booster
 Load Up
 TrueShot Up
 Ammo Saver
-Critical Eye +1
-Critical Eye +2
 Critical Eye +3
+Critical Eye +2
+Critical Eye +1
 Critical Eye -1
 Critical Eye -2
 Critical Eye -3
@@ -354,43 +354,43 @@ Repeat Offender
 Status Crit
 Elemental Crit
 Critical Boost
-Mad Affinity
+Bitter Affinity
 Focus
 Distraction
 Marathon Runner
 Short Sprinter
-Constitution +1
 Constitution +2
+Constitution +1
 Constitution -1
 Constitution -2
 Stam Recov Up
 Stam Recov Down
-Key Plan
-Evasion +1
+Endurance Runner
 Evasion +2
+Evasion +1
 Evasion Down
 Evade Extender
 Bubbly Dance
-Guard +1
 Guard +2
+Guard +1
 Guard -1
 Guard Up
 Knockout King
 Stamina Thief
 Horn Maestro
-Artillery Novice
 Artillery Expert
+Artillery Novice
 Partbreaker
 Bombardier
-Latent Power +1
 Latent Power +2
-Challenger +1
+Latent Power +1
 Challenger +2
+Challenger +1
 Peak Performance
-Ace
-Dragon Instinct
-Adrenaline +1
+Trump Card
+Dragonheart
 Adrenaline +2
+Adrenaline +1
 Worrywart
 Fortify
 Resentment
@@ -404,10 +404,10 @@ Mounting Master
 Saddle Sore
 Airborne
 Composed
-Alert
-SP Extender
-Detect
+Chance Seizer
+Longer SP
 Autotracker
+Detect
 Capture Guru
 Outdoorsman
 Pro Transporter
@@ -416,59 +416,59 @@ Demonic Blessing
 Hero's Talisman
 Recovery Up
 Recovery Down
-Recovery Spd +1
 Recovery Spd +2
+Recovery Spd +1
 Recovery Spd -1
 Recovery Spd -2
 Item Use Up
 Item Use Down
-Wide-Range +1
 Wide-Range +2
-Halve Hunger
+Wide-Range +1
 Negate Hunger
+Halve Hunger
 Raise Hunger
 Double Hunger
-Gourmand
 Scavenger
-Speed Eating +1
+Gourmand
 Speed Eating +2
+Speed Eating +1
 Slow Eater
 Rationer
 Meat Lover
 Mushromancer
+Pro Herbology
 Herbology
-Ultra Herbology
-Combination +20%
 Combination +45%
+Combination +20%
 Combination -10%
 Combination -20%
 Combination Pro
 Trap Master
-Gathering +1
 Gathering +2
+Gathering +1
 Gathering -1
 Honey Hunter
-Charm Collector
 Charm Chaser
-Spirit's Whim
+Charm Collector
 Divine Whim
+Spirit's Whim
 Spectre's Whim
 Devil's Whim
-Good Luck
-Great Luck
 Miraculous Luck
+Great Luck
+Good Luck
 Bad Luck
 Horrible Luck
-Carving Pro
 Carving Celebrity
-Capture Expert
+Carving Pro
 Capture Master
+Capture Expert
 Soul of Bherna
 Soul of Kokoto
 Soul of Pokke
 Soul of Yukumo
-W.Airboat Heart
-F.Tavern Heart
+Soaratorium Soul
+Flying Pub Soul
 Redhelm Soul
 Snowbaron Soul
 Stonefist Soul
@@ -481,35 +481,35 @@ Dreadking Soul
 Thunderlord Soul
 Grimclaw Soul
 Hellblade Soul
-Hazewing Soul
-Shredclaw Soul
-Divinesight Soul
-Azurebolt Soul
-Frostpeak Soul
-Bloodlust Soul
-Redhelm Soul G
-Snowbaron Soul G
-Stonefist Soul G
-Drilltusk Soul G
-Dreadqueen Soul G
-Crystalbeard Soul G
-Silverwind Soul G
-Deadeye Soul G
-Dreadking Soul G
-Thunderlord Soul G
-Grimclaw Soul G
-Hellblade Soul G
-Hazewing Soul G
-Shredclaw Soul G
-Divinesight Soul G
-Azurebolt Soul G
-Frostpeak Soul G
-Bloodlust Soul G
+Nightcloak Soul
+Rustrazor Soul
+Soulseer Soul
+Boltreaver Soul
+Elderfrost Soul
+Bloodbath Soul
+Redhelm Soul X
+Snowbaron Soul X
+Stonefist Soul X
+Drilltusk Soul X
+D.queen Soul X
+C.beard Soul X
+Silverwind Soul X
+Deadeye Soul X
+Dreadking Soul X
+Thunderlord Soul X
+Grimclaw Soul X
+Hellblade Soul X
+Nightcloak Soul X
+Rustrazor Soul X
+Soulseer Soul X
+Boltreaver Soul X
+Elderfrost Soul X
+Bloodbath Soul X
 Pro Dirty Fencer
 Steady Hand
-Gourmet
+Alloy Stomach
 Explosive Trapper
-Aching Pain
+Crushing Blow
 Benediction
 Clandestine
 Honed Blade
@@ -525,8 +525,8 @@ Fleet Feet
 Elementality
 Pack Rat
 Bounty Hunter
-Haze-Skin Vest
-Fiery Defense
-Steel Shell
-Skill Pts +2
-Charm Up
+Hazefur Talisman
+Pyroscale Talisman
+Steelshell Talisman
+Skill +2
+Double Talisman

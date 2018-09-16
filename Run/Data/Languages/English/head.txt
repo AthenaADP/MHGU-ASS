@@ -226,8 +226,8 @@ Gargwa Mask S
 False Felyne S
 Velociprey Head S
 Velociprey Mask S
-Giaprey Head S
-Giaprey Mask S
+Giaprey Head
+Giaprey Face
 Genprey Head S
 Genprey Mask S
 Ioprey Head S
@@ -523,7 +523,7 @@ Mitsuaoi Kabuto
 Wisdom Head
 Wisdom Hat
 Cheerful Head
-Cheerful Hat
+Cheerful Cap
 Sailor Hat
 Sailor Cap
 EX Rathian Helm S
@@ -532,10 +532,10 @@ EX Rathalos Helm S
 EX Rathalos Cap S
 EX Tigrex Helm S
 EX Tigrex Cap S
-Diablo Helm
-Diablo Cap
-Diablo Helm R
-Diablo Cap R
+Diablos Helm
+Diablos Cap
+Diablos Helm R
+Diablos Cap R
 Arc Helm S
 Arc Cap S
 Storge Helm S
@@ -548,8 +548,8 @@ Arc Helm R
 Arc Cap R
 Storge Helm R
 Storge Cap R
-Bulk Helm
-Bulk Cap
+Valstrax Helm
+Valstrax Cap
 Kushala Glare S
 Kushala Snarl S
 EX Kushala Glare
@@ -604,14 +604,14 @@ Hayabusa Feather
 Kakuju Feather
 Sword Saint Earring
 Barrage Earring
-Fire Earring
-Thunder Earring
+Flame Earring
+Shock Earring
 Ice Earring
 Water Earring
-Dragon Earring
+Comet Earring
 Leather Helm X
 Leather Cap X
-Chainmail Helm X
+Chain Helm X
 Chainmail Cap X
 Bherna Turban X
 Bherna Cap X
@@ -619,20 +619,20 @@ Hunting Helm X
 Hunting Cap X
 Mafumofu Hood X
 Mafumofu Cap X
-Yukumo Sky Kasa X
-Yukumo Land Kasa X
-Luxury Bath Towel X
+Yukumo Sky Kasa Goku
+Yukumo Land Kasa Goku
+Posh Bath Towel
 Hunter's Helm X
 Hunter's Cap X
 Hunter's Helm XR
 Hunter's Cap XR
 Bone Helm X
 Bone Cap X
-True Chaoshroom
-True Chaos Diadem
+Grand Chaoshroom
+Grand Chaos Diadem
 Melahoa Hat X
 Melahoa Bloom X
-Melahoa Hat Z
+Melahoa Flower Hat Z
 Melahoa Bloom Z
 Makluva Hood X
 Makluva Gills X
@@ -694,8 +694,8 @@ Artian Helm XR
 Artian Cap XR
 Maiden's Hat X
 French Maid Glasses X
-Dianthus Wealcap X
-Campanile Wealcap X
+Dianthus Masacap
+Campanile Masacap
 Hawkhat X
 Hawkcap X
 Scholarly Hood X
@@ -706,8 +706,8 @@ Scholar's Beret X
 Scholar's Cap X
 Sailor Hat X
 Sailor Cap X
-Marinero Hat X
-Marinero Cap X
+Mariner Hood X
+Mariner Cap X
 Slagtoth Hood X
 Slagtoth Cowl X
 Jaggi Helm X
@@ -721,22 +721,22 @@ Giaprey Helm X
 Giaprey Cap X
 Genprey Helm X
 Genprey Cap X
-GX Genprey Helm
-GX Genprey Cap
+Genprey Helm GX
+Genprey Cap GX
 Vespoid Helm X
 Vespoid Cap X
-GX Vespoid Helm
-GX Vespoid Cap
+Vespoid Helm GX
+Vespoid Cap GX
 Hornetaur Helm X
 Hornetaur Cap X
-GX Hornetaur Helm
-GX Hornetaur Cap
+Hornetaur Helm GX
+Hornetaur Cap GX
 Hornetaur Helm XR
 Hornetaur Cap XR
 Bnahabra Hat X
-Bnahabra Cap X
+Bnahabra Headpiece X
 Konchu Helm X
-Konchi Cap X
+Konchu Cap X
 Mosswine Mask X
 Rhenoplos Helm X
 Rhenoplos Cap X
@@ -747,10 +747,10 @@ Arzuros Helm X
 Arzuros Cap X
 Cephalos Helm X
 Cephalos Cap X
-GX Cephalos Helm
-GX Cephalos Cap
+Cephalos Helm GX
+Cephalos Cap GX
 Larinoth Mask X
-Gagua Mask X
+Gargwa Mask X
 Moofah Head X
 Moofah Wig X
 Velociprey Head X
@@ -765,8 +765,8 @@ Remobra Headgear X
 Remobra Mask X
 Ioprey Helm X
 Ioprey Cap X
-GX Ioprey Helm
-GX Ioprey Cap
+Ioprey Helm GX
+Ioprey Cap GX
 Kut-Ku Helm X
 Kut-Ku Cap X
 Kecha Helm X
@@ -781,16 +781,16 @@ Tetsucabra Helm X
 Tetsucabra Cap X
 Hermitaur Helm X
 Hermitaur Cap X
-GX Hermitaur Helm
-GX Hermitaur Cap
+Hermitaur Helm GX
+Hermitaur Cap GX
 Hermitaur Helm XR
 Hermitaur Cap XR
 Volvidon Helm X
-Volcidon Cap X
+Volvidon Cap X
 Conga Helm X
 Conga Cap X
-GX Conga Helm
-GX Conga Cap
+Conga Helm GX
+Conga Cap GX
 Ludroth Helm X
 Ludroth Cap X
 Ludroth Helm XR
@@ -811,26 +811,26 @@ Nerscylla Helm X
 Nerscylla Cap X
 Rathian Helm X
 Rathian Cap X
-GX Rathian Helm
-GX Rathian Cap
+Rathian Helm GX
+Rathian Cap GX
 Rathian Helm XR
 Rathian Cap XR
 Nibelsnarf Helm X
-Nivelsnarf Cap X
+Nibelsnarf Cap X
 Plesioth Helm X
 Plesioth Cap X
-Blangonga Helm X
-Blangonga Cap X
-GX Blangonga Helm
-GX Blangonga Cap
-Lavasioth Helm X
-Lavasioth Cap X
-GX Lavasioth Helm
-GX Lavasioth Cap
+Blango Helm X
+Blango Cap X
+Blango Helm GX
+Blango Cap GX
+Lava Helm X
+Lava Cap X
+Lavasioth Helm GX
+Lavasioth Cap GX
 Ceanataur Helm X
 Ceanataur Cap X
-GX Ceanataur Helm
-GX Ceanataur Cap
+Ceanataur Helm GX
+Ceanataur Cap GX
 Ceanataur Helm XR
 Ceanataur Cap XR
 Najarala Helm X
@@ -844,46 +844,46 @@ Uragaan Helm X
 Uragaan Cap X
 GX Kita Star Headdress
 GX Umi Ocean Headdress
-Guild Knight Feather X
-Guild Knight Mask X
+G. Knight Feather X
+G. Knight Mask X
 Guild Bard Lobos X
 Guild Bard Hat X
-Smart Glasses X
+Cunning Specs X
 Helper Hood X
 Healer Glasses X
 Helper Hood Z
-Healer Glasses Z
+Healer Beret Z
 Ancient Helm X
 Ancient Cap X
 Ace Headgear X
 Ace Mask X
 Sororal Headgear X
 Sororal Mask X
-Citadel Ranger's Headgear
-Citadel Archer's Turban
-Shinobi Sky Mask X
-Shinobi Land Mask X
+Strider's Headgear
+Deadeye's Turban
+Shinobi Heaven Mask Goku
+Shinobi Land Mask Goku
 Master's Earcuff
 Master's Earrings
-True Toka Kabuto
-True Mitsuaoi Kabuto
+Grand Toka Kabuto
+Grand Mitsuaoi Kabuto
 Yaksha Mask
 Carnage Helm
 Helios Helm X
 Helios Cap X
 Selene Helm X
 Selene Cap X
-Kaiserin Sector
+Kaiserin Crown
 Kaiserin Mask
-Wisdom Head X
+Wisdom Headgear X
 Wisdom Hat X
-Richeruka Hood
-Richeruka Cap
+Research Hood
+Research Cap
 Cheerful Headgear X
 Cheerful Cap X
-Bartender's Mask
-Bartender's Glasses
-Barmaid's Mask
+Barman's Shades
+Barman's Glasses
+Barmaid's Earrings
 Barmaid's Earrings
 Barioth Helm X
 Barioth Cap X
@@ -891,8 +891,8 @@ Seltas Helm X
 Seltas Cap X
 Rathalos Helm X
 Rathalos Cap X
-GX Rathalos Helm
-GX Rathalos Cap
+Rathalos Helm GX
+Rathalos Cap GX
 Rathalos Helm XR
 Rathalos Cap XR
 Lagiacrus Helm X
@@ -901,12 +901,12 @@ Lagiacrus Helm XR
 Lagiacrus Cap XR
 Zinogre Helm X
 Zinogre Cap X
-GX Zinogre Helm
-GX Zinogre Cap
+Zinogre Helm GX
+Zinogre Cap GX
 Gravios Helm X
 Gravios Cap X
 Mizutsune Helm X
-Mizutsune Cap X
+Mizutsune Mask X
 Astalos Helm X
 Astalos Cap X
 Gammoth Helm X
@@ -917,18 +917,18 @@ Agnaktor Helm X
 Agnaktor Cap X
 Gore Helm X
 Gore Cap X
-GX Gore Helm
-GX Gore Cap
+Gore Helm GX
+Gore Cap GX
 Gore Helm XR
 Gore Cap XR
-Seregios Helm X
-Seregios Cap X
+Regios Helm X
+Regios Cap X
 Duramboros Helm X
 Duramboros Cap X
 Tigrex Helm X
 Tigrex Cap X
-GX Tigrex Helm
-GX Tigrex Cap
+Tigrex Helm GX
+Tigrex Cap GX
 Tigrex Helm XR
 Tigrex Cap XR
 Diablos Helm X
@@ -936,35 +936,35 @@ Diablos Cap X
 Diablos Helm XR
 Diablos Cap XR
 Kirin Horn X
-Kirin Crown X
+Kirin Crest X
 Kirin Horn XR
-Kirin Crown XR
+Kirin Crest XR
 Brachydios Helm X
 Brachydios Cap X
-GX Brachydios Helm
-GX Brachydios Cap
+Brachydios Helm GX
+Brachydios Cap GX
 Arc Helm X
 Arc Cap X
-Philia Helm X
-Philia Cap X
-GX Arc Helm
-GC Arc Cap
-GX Philia Helm
-GX Philia Cap
+Storge Helm X
+Storge Cap X
+Arc Helm GX
+Arc Cap GX
+Storge Helm GX
+Storge Cap GX
 Arc Helm XR
 Arc Cap XR
-Philia Helm XR
-Philia Cap XR
-Valfalk Helm X
-Valfalk Cap X
+Storge Helm XR
+Storge Cap XR
+Valstrax Helm X
+Valstrax Cap X
 Grand God's Peer Mask
 Grand Hermit Mask
 Vangis Helm X
 Vangis Cap X
 Chaos Helm
 Chaos Cap
-Nephelim Helm
-Nephelim Cap
+Nephilim Helm
+Nephilim Cap
 Black Belt Helm X
 Black Belt Cap X
 Guardian Helm X
@@ -980,32 +980,32 @@ Red Guild Mask X
 Red Guild Tricorne X
 Red Guild Piercing X
 Black Head X
-Black Mask X
+Black Face X
 Damascus Helm X
 Damascus Cap X
 Damascus Helm XR
 Damascus Cap XR
 Dragonlord's Gaze X
-Emotion Earring
+Candid Earring
 Desire Earring
-Bherna Fiore
-Kokoto Albero
-Pokke Neve
-Yukumo Therme
+Blooming Bherna
+Verdant Kokoto
+Snowy Pokke
+Thermal Yukumo
 Kushala Glare X
 Kushala Snarl X
-GX Kushala Glare
-GX Kushala Snarl
+Kushala Glare GX
+Kushala Snarl GX
 Kushala Glare XR
 Kushala Snarl XR
-True Mizuha Cap
-True Cham Hat
-GX Mizuha Cap
-GX Cham Hat
+Grand Mizuha Cap
+Grand Cham Hat
+Mizuha Cap GX
+Cham Hat GX
 Kaiser Crown X
 Kaiser Mask X
-GX Kaiser Crown
-GX Kaiser Mask
+Kaiser Crown GX
+Kaiser Mask GX
 Silver Solhelm Z
 Silver Solcap Z
 GX Silver Solhelm
@@ -1016,46 +1016,46 @@ Golden Lunehelm Z
 Golden Lunecap Z
 GX Golden Lunehelm
 GX Golden Lunecap
-Grand Divine Ire Headdress
+Grand Divine Ire Mask
 Grand Crusher Mask
 Esurient Helm Z
 Esurient Cap Z
 Esurient Helm XR
 Esurient Cap XR
-Bracchium Helm
-Bracchium Cap
-Auroros Headpiece
+Brachydium Helm
+Brachydium Cap
+Auroros Helm
 Genesis Headpiece
 Borealis Crown
 Glyph Crown
-GX Auroros Helm
-GX Genesis Headpiece
-GX Borealis Crown
-GX Glyph Crown
-Battle Auroros Headpiece
-Battle Genesis Headpiece
-Battle Borealis Crown
-Battle Glyph Crown
-Auroros Kermes Headpiece
-Genesis Kermes Headpiece
-Borealis Kermes Crown
-Glyph Kermes Crown
+Auroros Helm GX
+Genesis Headpiece GX
+Borealis Crown GX
+Glyph Crown GX
+Auroros Helm XR
+Genesis Headpiece XR
+Borealis Crown XR
+Glyph Crown XR
+Auroros Helm R
+Genesis Headpiece R
+Borealis Crown R
+Glyph Crown R
 Akantor Mask X
 Akantor Fangs X
 Akantor Mask XR
 Akantor Fangs XR
 Ukanlos Mask X
 Ukanlos Fangs X
-True Tempest Crown
-True Welkin Crown
-Tempest Battle Crown
-Welkin Battle Crown
-True Skeletal Skull
-True Decayed Skull
+Grand Tempest Crown
+Grand Welkin Crown
+Tempest Crown XR
+Welkin Crown XR
+Grand Skeletal Skull
+Grand Decayed Skull
 Astral Helm X
 Astral Mask X
 Neset Helm
-Neset Cap
+Neset Hat
 Dragonhead
 Dragonface
 Escadora Wisdom X
@@ -1063,15 +1063,15 @@ Escadora Sagesse X
 Escadora Wisdom XR
 Escadora Sagesse XR
 Fatalis Crimsonhead
-Fatalis Crimsoncoif
+Fatalis Crimsonface
 GX Fatalis Crimsonhead
-GX Fatalis Crimsoncoif
+GX Fatalis Crimsonface
 Fatalis Crimsonhead XR
-Fatalis Crimsoncoif XR
-White Fatalis Head
-White Fatalis Face
-GX White Fatalis Head
-GX White Fatalis Face
+Fatalis Crimsonface XR
+Old Fatalis Head
+Old Fatalis Face
+GX Old Fatalis Head
+GX Old Fatalis Face
 Strange Helm
 Strange Cap
 Strange Helm X
@@ -1148,30 +1148,30 @@ Hellblade Helm LV6
 Hellblade Cap LV6
 Hellblade Helm LV14
 Hellblade Cap LV14
-Hazewing Helm LV1
-Hazewing Cap LV1
-Hazewing Helm LV4
-Hazewing Cap LV4
-Shredclaw Helm LV1
-Shredclaw Cap LV1
-Shredclaw Helm LV4
-Shredclaw Cap LV4
-Divinesight Helm LV1
-Divinesight Cap LV1
-Divinesight Helm LV4
-Divinesight Cap LV4
-Azurebolt Helm LV1
-Azurebolt Cap LV1
-Azurebolt Helm LV4
-Azurebolt Cap LV4
-Silverpeak Helm LV1
-Silverpeak Cap LV1
-Silverpeak Helm LV4
-Silverpeak Cap LV4
-Bloodlust Helm LV1
-Bloodlust Cap LV1
-Bloodlust Helm LV4
-Bloodlust Cap LV4
+Nightcloak Helm LV1
+Nightcloak Cap LV1
+Nightcloak Helm LV4
+Nightcloak Cap LV4
+Rustrazor Helm LV1
+Rustrazor Cap LV1
+Rustrazor Helm LV4
+Rustrazor Cap LV4
+Soulseer Helm LV1
+Soulseer Cap LV1
+Soulseer Helm LV4
+Soulseer Cap LV4
+Boltreaver Helm LV1
+Boltreaver Cap LV1
+Boltreaver Helm LV4
+Boltreaver Cap LV4
+Elderfrost Helm LV1
+Elderfrost Cap LV1
+Elderfrost Helm LV4
+Elderfrost Cap LV4
+Bloodbath Helm LV1
+Bloodbath Cap LV1
+Bloodbath Helm LV4
+Bloodbath Cap LV4
 Promising Helm
 Halcyon Helm
 Lucid Crown
@@ -1235,7 +1235,7 @@ Supreme Arcfire Kasa
 Supreme Bonfire Kasa
 Supreme Waka Kasa
 Supreme Wagaku Kasa
-Golden Knight Helm
-Golden Knight Cap
-Hylian Hat
+Garo Helm
+Garo Head
+Hylian Hair Tie
 Hylian Hood

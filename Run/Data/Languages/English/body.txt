@@ -222,8 +222,8 @@ Slagtoth Cloak
 Slagtoth Wrap
 Velociprey Body S
 Velociprey Suit S
-Giaprey Body S
-Giaprey Suit S
+Giaprey Body
+Giaprey Wear
 Genprey Body S
 Genprey Suit S
 Ioprey Body S
@@ -485,8 +485,8 @@ Healer Vest U
 Guild Bard Bolero S
 Guild Bard Vest S
 Chakra Necklace
-Dianthus Wealgown
-Campanile Wealgown
+Dianthus Wealcoat
+Campanile Wealcoat
 Ace Mail
 Ace Vest
 Sororal Mail
@@ -539,8 +539,8 @@ Arc Mail R
 Arc Vest R
 Storge Mail R
 Storge Vest R
-Bulk Mail
-Buld Vest
+Valstrax Mail
+Valstrax Vest
 Kushala Cista S
 Kushala Vise S
 EX Kushala Cista
@@ -591,7 +591,7 @@ Escadora Soul R
 Escadora Seele R
 Leather Mail X
 Leather Vest X
-Chainmail Mail X
+Chain Mail X
 Chainmail Vest X
 Bherna Mail X
 Bherna Vest X
@@ -599,21 +599,21 @@ Hunting Mail X
 Hunting Vest X
 Mafumofu Suit X
 Mafumofu Jacket X
-Yukumo Sky Dogi X
-Yukumo Land Dogi X
-Luxury Bath Robe X
-Loc Lac Suit X
+Yukumo Sky Dogi Goku
+Yukumo Land Dogi Goku
+Posh Bath Robe
+Loc Lac Shawl X
 Hunter's Mail X
 Hunter's Vest X
 Hunter's Mail XR
 Hunter's Vest XR
 Bone Mail X
 Bone Vest X
-True Chaos Plate
-True Chaos Brigandine
+Grand Chaos Plate
+Grand Chaos Brigandine
 Melahoa Jacket X
 Melahoa Stalk X
-Melahoa Jacket Z
+MelahoaFlowerJacketZ
 Melahoa Stalk Z
 Makluva Cover X
 Makluva Scale X
@@ -675,22 +675,22 @@ Artian Mail XR
 Artian Vest XR
 Maiden's Suit X
 French Maid Vest X
-True Dianthus Gown
-True Campanile Gown
+Dianthus Masajacket
+Campanile Masajacket
 Hawksuit X
 Hawkjacket X
 Scholarly Suit X
-Schoarly Vest X
+Scholarly Vest X
 Dober Mail X
 Dober Vest X
-Scholar's Suit X
+Scholar's Blouse X
 Scholar's Vest X
 Sailor Suit X
 Sailor Vest X
-Marinero Suit S
-Marinero Vest S
+Mariner Suit
+Mariner Vest
 Slagtoth Cloak X
-Slagtoth Cape X
+Slagtoth Wrap X
 Jaggi Mail X
 Jaggi Vest X
 Maccao Mail X
@@ -701,21 +701,21 @@ Giaprey Mail X
 Giaprey Vest X
 Genprey Mail X
 Genprey Vest X
-GX Genprey Mail
-GX Genprey Vest
+Genprey Mail GX
+Genprey Vest GX
 Vespoid Mail X
 Vespoid Vest X
-GX Vespoid Mail
-GX Vespoid Vest
+Vespoid Mail GX
+Vespoid Vest GX
 Hornetaur Mail X
 Hornetaur Vest X
-GX Hornetaur Mail
-GX Hornetaur Vest
+Hornetaur Mail GX
+Hornetaur Vest GX
 Hornetaur Mail XR
 Hornetaur Vest XR
 Bnahabra Suit X
 Bnahabra Vest X
-Mosswine Plate X
+Mosswine Vest X
 Rhenoplos Mail X
 Rhenoplos Vest X
 Bulldrome Mail X
@@ -724,8 +724,8 @@ Arzuros Mail X
 Arzuros Vest X
 Cephalos Mail X
 Cephalos Vest X
-GX Cephalos Mail
-GX Cephalos Vest
+Cephalos Mail GX
+Cephalos Vest GX
 Droth Mail X
 Droth Vest X
 Uroktor Torso X
@@ -735,17 +735,17 @@ Moofah Jacket X
 Velociprey Body X
 Velociprey Suit X
 Giaprey Body X
-Giaprey Suit X
+Giaprey Wear X
 Genprey Body X
 Genprey Suit X
 Ioprey Body X
-Ioprey Suit X
-Remobra Body X
+Ioprey Wear X
 Remobra Suit X
+Remobra Wear X
 Ioprey Mail X
 Ioprey Vest X
-GX Ioprey Mail
-GX Ioprey Vest
+Ioprey Mail GX
+Ioprey Vest GX
 Kut-Ku Mail X
 Kut-Ku Vest X
 Kecha Mail X
@@ -760,16 +760,16 @@ Tetsucabra Mail X
 Tetsucabra Vest X
 Hermitaur Mail X
 Hermitaur Vest X
-GX Hermitaur Mail
-GX Hermitaur Vest
+Hermitaur Mail GX
+Hermitaur Vest GX
 Hermitaur Mail XR
 Hermitaur Vest XR
 Volvidon Mail X
 Volvidon Vest X
 Conga Mail X
 Conga Vest X
-GX Conga Mail
-GX Conga Vest
+Conga Mail GX
+Conga Vest GX
 Ludroth Mail X
 Ludroth Vest X
 Ludroth Mail XR
@@ -790,8 +790,8 @@ Nerscylla Mail X
 Nerscylla Vest X
 Rathian Mail X
 Rathian Vest X
-GX Rathian Mail
-GX Rathian Vest
+Rathian Mail GX
+Rathian Vest GX
 Rathian Mail XR
 Rathian Vest XR
 Nibelsnarf Mail X
@@ -800,16 +800,16 @@ Plesioth Mail X
 Plesioth Vest X
 Blango Mail X
 Blango Vest X
-GX Blango Mail
-GX Blango Vest
-Lavasioth Mail X
-Lavasioth Vest X
-GX Lavasioth Mail
-GX Lavasioth Vest
+Blango Mail GX
+Blango Vest GX
+Lava Mail X
+Lava Vest X
+Lavasioth Mail GX
+Lavasioth Vest GX
 Ceanataur Mail X
 Ceanataur Vest X
-GX Ceanataur Mail
-GX Ceanataur Vest
+Ceanataur Mail GX
+Ceanataur Vest GX
 Ceanataur Mail XR
 Ceanataur Vest XR
 Najarala Mail X
@@ -822,8 +822,8 @@ Uragaan Mail X
 Uragaan Vest X
 GX Kita Star Jacket
 GX Umi Ocean Jacket
-Guild Knight Suit X
-Guild Knight Vest X
+G. Knight Suit X
+G. Knight Vest X
 Guild Bard Bolero X
 Guild Bard Vest X
 Helper Suit X
@@ -836,14 +836,14 @@ Ace Mail X
 Ace Vest X
 Sororal Mail X
 Sororal Vest X
-Citadel Ranger's Girdle
-Citadel Archer's Girdle
-Shinobi Sky Mask X
-Shinobi Land Mask X
+Strider's Girdle
+Deadeye's Girdle
+Shinobi Heaven Mask Goku
+Shinobi Land Mask Goku
 Master's Mail X
 Master's Vest X
-True Toka Doate
-True Mitsuaoi Doate
+Grand Toka Doate
+Grand Mitsuaoi Doate
 Yaksha Raiment
 Carnage Raiment
 Helios Mail X
@@ -854,12 +854,12 @@ Kaiserin Mail
 Kaiserin Vest
 Wisdom Suit X
 Wisdom Vest X
-Richeruka Suit
-Richeruka Vest
+Research Suit
+Research Vest
 Cheerful Suit X
 Cheerful Vest X
-Bartender's Suit
-Bartender's Vest
+Barman's Suit
+Barman's Vest
 Barmaid's Suit
 Barmaid's Vest
 Barioth Mail X
@@ -868,8 +868,8 @@ Seltas Mail X
 Seltas Vest X
 Rathalos Mail X
 Rathalos Vest X
-GX Rathalos Mail
-GX Rathalos Vest
+Rathalos Mail GX
+Rathalos Vest GX
 Rathalos Mail XR
 Rathalos Vest XR
 Lagiacrus Mail X
@@ -878,8 +878,8 @@ Lagiacrus Mail XR
 Lagiacrus Vest XR
 Zinogre Mail X
 Zinogre Vest X
-GX Zinogre Mail
-GX Zinogre Vest
+Zinogre Mail GX
+Zinogre Vest GX
 Gravios Mail X
 Gravios Vest X
 Mizutsune Mail X
@@ -894,8 +894,8 @@ Agnaktor Mail X
 Agnaktor Vest X
 Gore Mail X
 Gore Vest X
-GX Gore Mail
-GX Gore Vest
+Gore Mail GX
+Gore Vest GX
 Gore Mail XR
 Gore Vest XR
 Regios Mail X
@@ -904,44 +904,44 @@ Duramboros Mail X
 Duramboros Vest X
 Tigrex Mail X
 Tigrex Vest X
-GX Tigrex Mail
-GX Tigrex Vest
+Tigrex Mail GX
+Tigrex Vest GX
 Tigrex Mail XR
 Tigrex Vest XR
 Diablos Mail X
 Diablos Vest X
 Diablos Mail XR
 Diablos Vest XR
-Kirin Vest X
+Kirin Jacket X
 Kirin Cape X
-Kirin Vest XR
+Kirin Jacket XR
 Kirin Cape XR
 Brachydios Mail X
 Brachydios Vest X
-GX Brachydios Mail
-GX Brachydios Vest
+Brachydios Mail GX
+Brachydios Vest GX
 Arc Mail X
 Arc Vest X
-Philia Mail X
-Philia Vest X
-GX Arc Mail
-GX Arc Vest
-GX Philia Mail
-GX Philia Vest
+Storge Mail X
+Storge Vest X
+Arc Mail GX
+Arc Vest GX
+Storge Mail GX
+Storge Vest GX
 Arc Mail XR
 Arc Vest XR
-Philia Mail XR
-Philia Vest XR
-Valfalk Mail X
-Valfalk Vest X
+Storge Mail XR
+Storge Vest XR
+Valstrax Mail X
+Valstrax Vest X
 Grand God's Peer Robe
 Grand Hermit Robe
 Vangis Mail X
 Vangis Vest X
 Chaos Mail
 Chaos Vest
-Nephelim Mail
-Nephelim Vest
+Nephilim Mail
+Nephilim Vest
 Black Belt Mail X
 Black Belt Vest X
 Guardian Suit X
@@ -964,18 +964,18 @@ Damascus Mail XR
 Damascus Vest XR
 Kushala Cista X
 Kushala Vise X
-GX Kushala Cista
-GX Kushala Vise
+Kushala Cista GX
+Kushala Vise GX
 Kushala Cista XR
 Kushala Vise XR
-True Mizuha Guards
-True Cham Camise
-GX Mizuha Guards
-GX Cham Camise
+Grand Mizuha Guards
+Grand Cham Camise
+Mizuha Guards GX
+Cham Camise GX
 Kaiser Mail X
 Kaiser Vest X
-GX Kaiser Mail
-GX Kaiser Vest
+Kaiser Mail GX
+Kaiser Vest GX
 Silver Solmail Z
 Silver Solvest Z
 GX Silver Solmail
@@ -992,36 +992,36 @@ Esurient Mail Z
 Esurient Vest Z
 Esurient Mail XR
 Esurient Vest XR
-Bracchium Mail
-Bracchium Vest
+Brachydium Mail
+Brachydium Vest
 Auroros Torso
 Genesis Torso
 Borealis Chest
 Glyph Chest
-GX Auroros Torso
-GX Genesis Torso
-GX Borealis Chest
-GX Glyph Chest
-Battle Auroros Torso
-Battle Genesis Torso
-Battle Borealis Chest
-Battle Glyph Chest
-Auroros Kermes Torso
-Genesis Kermes Torso
-Borealis Kermes Chest
-Glyph Kermes Chest
+Auroros Torso GX
+Genesis Torso GX
+Borealis Chest GX
+Glyph Chest GX
+Auroros Torso XR
+Genesis Torso XR
+Borealis Chest XR
+Glyph Chest XR
+Auroros Torso R
+Genesis Torso R
+Borealis Chest R
+Glyph Chest R
 Akantor Aegis X
 Akantor Plate X
 Akantor Aegis XR
 Akantor Plate XR
 Ukanlos Aegis X
 Ukanlos Plate X
-True Tempest Robe
-True Welkin Robe
-Tempest Battle Robe
-Welkin Battle Robe
-True Skeletal Sternum
-True Decayed Sternum
+Grand Tempest Robe
+Grand Welkin Robe
+Tempest Robe XR
+Welkin Robe XR
+Grand Skeletal Sternum
+Grand Decayed Sternum
 Astral Suit X
 Astral Vest X
 Neset Mail
@@ -1038,10 +1038,10 @@ GX Fatalis Crimsonhide
 GX Fatalis Crimsonskin
 Fatalis Crimsonhide XR
 Fatalis Crimsonskin XR
-White Fatalis Hide
-White Fatalis Skin
-GX White Fatalis Hide
-GX White Fatalis Skin
+Old Fatalis Hide
+Old Fatalis Skin
+GX Old Fatalis Hide
+GX Old Fatalis Skin
 Strange Mail
 Strange Vest
 Strange Mail X
@@ -1118,30 +1118,30 @@ Hellblade Mail LV6
 Hellblade Vest LV6
 Hellblade Mail LV14
 Hellblade Vest LV14
-Hazewing Mail LV1
-Hazewing Vest LV1
-Hazewing Mail LV4
-Hazewing Vest LV4
-Shredclaw Mail LV1
-Shredclaw Vest LV1
-Shredclaw Mail LV4
-Shredclaw Vest LV4
-Divinesight Mail LV1
-Divinesight Vest LV1
-Divinesight Mail LV4
-Divinesight Vest LV4
-Azurebolt Mail LV1
-Azurebolt Vest LV1
-Azurebolt Mail LV4
-Azurebolt Vest LV4
-Silverpeak Mail LV1
-Silverpeak Vest LV1
-Silverpeak Mail LV4
-Silverpeak Vest LV4
-Bloodlust Mail LV1
-Bloodlust Vest LV1
-Bloodlust Mail LV4
-Bloodlust Vest LV4
+Nightcloak Mail LV1
+Nightcloak Vest LV1
+Nightcloak Mail LV4
+Nightcloak Vest LV4
+Rustrazor Mail LV1
+Rustrazor Vest LV1
+Rustrazor Mail LV4
+Rustrazor Vest LV4
+Soulseer Mail LV1
+Soulseer Vest LV1
+Soulseer Mail LV4
+Soulseer Vest LV4
+Boltreaver Mail LV1
+Boltreaver Vest LV1
+Boltreaver Mail LV4
+Boltreaver Vest LV4
+Elderfrost Mail LV1
+Elderfrost Vest LV1
+Elderfrost Mail LV4
+Elderfrost Vest LV4
+Bloodbath Mail LV1
+Bloodbath Vest LV1
+Bloodbath Mail LV4
+Bloodbath Vest LV4
 Promising Plate
 Halcyon Plate
 Lucid Robe
@@ -1211,16 +1211,16 @@ Hiryu Land Suit
 Gon Mail
 Gon Vest
 Criminal Suit
-Criminal Vest
+Criminal Body
 Supreme Arcfire Dogi
 Supreme Bonfire Dogi
 Supreme Waka Dogi
 Supreme Wagaku Dogi
-Golden Knight Armor
-Golden Knight Mail
-Blue Clothes
+Garo Plate
+Garo Mail
 Blue Tunic
-XX Val Jacket
-XX Val Leather
-XX Devilish Jacket
-XX Devilish Leather
+Blue Jerkin
+XX Valstrax Jacket
+XX Valstrax Jersey
+XX Diablos Jacket
+XX Diablos Jersey
