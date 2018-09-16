@@ -5,13 +5,13 @@ Prevents Paralysis.
 Doubles the duration of Paralysis.
 Prevents Sleep.
 Doubles the duration of Sleep.
-Reduces the likelihood of being Stunned by 50%.
 Prevents Stun.
+Reduces the likelihood of being Stunned by 50%.
 Makes it harder to recover from being Stunned.
-Negates the effects of some large monsters' roars.
 Negates the effects of all large monsters' roars.
-Lessens almost all Wind Pressure.
+Negates the effects of some large monsters' roars.
 Negates Wind Pressure from almost all monsters.
+Lessens almost all Wind Pressure.
 Prevents staggering from tremors created by large monsters.
 Negates the effects of Bind statuses such as Snowman and bubbles that impede movement.
 Negates the damage incurred from heat and lava.
@@ -23,66 +23,66 @@ Powers you up in the heat. If you drink a Hot Drink...
 Prevents item theft.
 Negates the effects of Defense Down.
 Makes it harder to become Frenzied and enhances recovery.
-Increases Dung Bomb efficacy, and prevents Stench and Blastblight.
 Increases Dung Bomb efficacy, prevents Stench and Blastblight, and delays Virus onset.
+Increases Dung Bomb efficacy, and prevents Stench and Blastblight.
 Prevents Bleeding.
 Doubles the damage received from Bleeding.
-Slightly increases Attack.
-Increases Attack.
 Greatly increases Attack.
+Increases Attack.
+Slightly increases Attack.
 Slightly decreases Attack.
 Decreases Attack.
 Greatly decreases Attack.
-Slightly increases Defense.
-Increases Defense.
 Greatly increases Defense.
+Increases Defense.
+Slightly increases Defense.
 Slightly decreases Defense.
 Decreases Defense.
 Greatly decreases Defense.
-Increases maximum Health by 20.
 Increases maximum Health by 50.
+Increases maximum Health by 20.
 Decreases maximum Health by 10.
 Decreases maximum Health by 30.
-Increases Fire Resistance by 15.
 Increases Fire Resistance by 20.
+Increases Fire Resistance by 15.
 Decreases Fire Resistance by 20.
-Increases Water Resistance by 15.
 Increases Water Resistance by 20.
+Increases Water Resistance by 15.
 Decreases Water Resistance by 20.
-Increases Thunder Resistance by 15.
 Increases Thunder Resistance by 20.
+Increases Thunder Resistance by 15.
 Decreases Thunder Resistance by 20.
-Increases Ice Resistance by 15.
 Increases Ice Resistance by 20.
+Increases Ice Resistance by 15.
 Decreases Ice Resistance by 20.
-Increases Dragon Resistance by 15.
 Increases Dragon Resistance by 20.
+Increases Dragon Resistance by 15.
 Decreases Dragon Resistance by 20.
 Negates all elemental blights (Fire, Water, Thunder, Ice, and Dragon).
-Increases the power of Fire attacks and Flaming shots (Flaming S).
 Greatly increases the power of Fire attacks and Flaming shots (Flaming S).
+Increases the power of Fire attacks and Flaming shots (Flaming S).
 Decreases the power of Fire attacks and Flaming shots (Flaming S).
-Increases the power of Water attacks and Water shots (Water S).
 Greatly increases the power of Water attacks and Water shots (Water S).
+Increases the power of Water attacks and Water shots (Water S).
 Decreases the power of Water attacks and Water shots (Water S).
-Increases the power of Thunder attacks and Thunder shots (Thunder S).
 Greatly increases the power of Thunder attacks and Thunder shots (Thunder S).
+Increases the power of Thunder attacks and Thunder shots (Thunder S).
 Decreases the power of Thunder attacks and Thunder shots (Thunder S).
-Increases the power of Ice attacks and Freeze shots (Freeze S).
 Greatly increases the power of Ice attacks and Freeze shots (Freeze S).
+Increases the power of Ice attacks and Freeze shots (Freeze S).
 Decreases the power of Ice attacks and Freeze shots (Freeze S).
-Increases the power of Dragon attacks and Dragon shots (Dragon S).
 Greatly increases the power of Dragon attacks and Dragon shots (Dragon S).
+Increases the power of Dragon attacks and Dragon shots (Dragon S).
 Decreases the power of Dragon attacks and Dragon shots (Dragon S).
 Increases the power of elemental attacks.
 Decreases the power of elemental attacks.
-Slightly increases the potency of abnormal status attacks.
 Increases the potency of abnormal status attacks.
+Slightly increases the potency of abnormal status attacks.
 Decreases the potency of abnormal status attacks.
 Speeds up weapon sharpening.
 Slows down weapon sharpening.
-Slightly increases the length of your weapon's Sharpness Gauge.
 Increases the length of your weapon's Sharpness Gauge.
+Slightly increases the length of your weapon's Sharpness Gauge.
 Halves the rate at which your weapon loses Sharpness.
 Doubles the rate at which your weapon loses Sharpness.
 Prevents your attacks from being deflected.
@@ -92,22 +92,22 @@ Increases Attack based on how low the Sharpness of your weapon is.
 Increases Affinity for all draw attacks by 100%.
 Can Stun monsters with draw attacks from cutting weapons, and slightly increases Attack.
 Increases weapon-sheathing speed.
-When a large monster enrages, theres a chance your weapon's sharpness will increase.
-Grants special effects when sheathing your weapon. Bow C.Range gains a bonus.
-Slightly speeds up Bowgun reloading, and speeds up Bow-coating loading.
-Speeds up Bowgun reloading, and auto-loads Bow coatings.
+Sheathing when a monster is enraged gives a chance to sharpen your weapon.
+Dodging while weapon is drawn will have various special effects. Improves C.Range Coating for bows.
 Greatly speeds up Bowgun reloading, and auto-loads Bow coatings.
+Speeds up Bowgun reloading, and auto-loads Bow coatings.
+Slightly speeds up Bowgun reloading, and speeds up Bow-coating loading.
 Slightly slows down Bowgun reloading and Bow-coating loading.
 Slows down Bowgun reloading and Bow-coating loading.
 Greatly slows down Bowgun reloading and Bow-coating loading.
-Slightly reduces Bowgun recoil.
-Reduces Bowgun recoil.
 Greatly reduces Bowgun recoil.
+Reduces Bowgun recoil.
+Slightly reduces Bowgun recoil.
 Slightly increases Bowgun recoil.
 Increases Bowgun recoil.
 Greatly increases Bowgun recoil.
-Decreases Deviation when firing.
 Greatly decreases Deviation when firing.
+Decreases Deviation when firing.
 Increases Deviation when firing.
 Greatly increases Deviation when firing.
 Increases the power of Normal shots (Normal S) and Rapid-type arrows.
@@ -115,21 +115,21 @@ Increases the power of Pierce shots (Pierce S) and Pierce-type arrows.
 Increases the power of Pellet shots (Pellet S) and Spread-type arrows.
 Increases the power of Heavy shots (Heavy S) and Heavy arrows.
 Allows all levels of Normal shots (Normal S) to be loaded.
-Allows Lv1 Pierce shots (Pierce S) to be loaded.
 Allows all levels of Pierce shots (Pierce S) to be loaded.
-Allows Lv1 Pellet shots (Pellet S) to be loaded.
+Allows Lv1 Pierce shots (Pierce S) to be loaded.
 Allows all levels of Pellet shots (Pellet S) to be loaded.
-Allows Lv1 Crag shots (Crag S) to be loaded.
+Allows Lv1 Pellet shots (Pellet S) to be loaded.
 Allows all levels of Crag shots (Crag S) to be loaded.
-Allows Lv1 Cluster shots (Clust S) to be loaded.
+Allows Lv1 Crag shots (Crag S) to be loaded.
 Allows all levels of Cluster shots (Clust S) to be loaded.
+Allows Lv1 Cluster shots (Clust S) to be loaded.
 Allows Poison coatings to be set when equipped with a Bow.
 Allows Paralysis coatings to be set when equipped with a Bow.
 Allows Sleep coatings to be set when equipped with a Bow.
-Allows Lv1 Power coatings to be set when wielding a Bow.
 Allows Power coatings of all levels to be set when wielding a Bow.
-Allows Elem Coating Lv1 to be set when wielding a Bow.
+Allows Lv1 Power coatings to be set when wielding a Bow.
 Allows Elemental coatings of all levels to be set when wielding a Bow.
+Allows Elem Coating Lv1 to be set when wielding a Bow.
 Allows Close-range coatings to be set when equipped with a Bow.
 Allows Exhaust coatings to be set when equipped with a Bow.
 Allows Blast coatings to be set when equipped with a Bow.
@@ -138,9 +138,9 @@ Prolongs the time window certain ammo and arrows can hit at maximum power.
 Increases Bowgun and Gunlance ammo, Bow charge levels, and Charge Blade energy.
 Increases the power of Bowgun Internal Ammo, and the Bow's Arc Shot and Power Shot.
 Occasionally returns ammo or phials to inventory when firing.
-Increases Affinity by 10%.
-Increases Affinity by 20%.
 Increases Affinity by 30%.
+Increases Affinity by 20%.
+Increases Affinity by 10%.
 Decreases Affinity by 5%.
 Decreases Affinity by 10%.
 Decreases Affinity by 15%.
@@ -149,43 +149,43 @@ Increases Affinity following repeated attacks.
 Increases abnormal status attack potency (Paralysis, Poison, Sleep) of your critical hits.
 Increases elemental damage (Fire, Water, Thunder, Ice, Dragon) of your critical hits.
 Increases the damage of critical hits.
-Negative crit hits have a chance to become strong critical hits.
-Speeds L.Sword/C.Blade/S.Axe/ D.Blades gauges, G.Sword/Hammer/Bow charge attacks, and some LBG techniques.
-Slows L.Sword/C.Blade/S.Axe/ D.Blades gauges, G.Sword/Hammer/Bow charge attacks, and some LBG techniques.
+Negative Affinity attacks have a chance to be strong Affinity attacks.
+Speeds L.Sword/C.Blade/D.Blades/ S.Axe gauges, L.Bowgun Arts, and G.Sword/Hammer/Bow charge attacks.
+Slows L.Sword/D.Blades/S.Axe/C.Blade gauges, L.Bowgun Hunter Arts, and G.Sword/Hammer/Bow charge attacks.
 Slows down Stamina depletion for actions which continuously drain Stamina (such as dashing).
 Speeds up Stamina depletion for actions which continuously drain Stamina (such as dashing).
-Slows down Stamina depletion when evading, blocking, etc.
 Greatly slows down Stamina depletion when evading, blocking, etc.
+Slows down Stamina depletion when evading, blocking, etc.
 Speeds up Stamina depletion when evading, blocking, etc.
 Greatly speeds up Stamina depletion when evading, blocking, etc.
 Increases Stamina recovery speed.
 Decreases Stamina recovery speed.
-While dashing, your stamina gauge stops depleting, but retains its current value.
-Slightly extends the invulnerability period when evading.
+Stops Stamina depletion below a certain point while dashing, allowing for a longer dash.
 Extends the invulnerability period when evading.
+Slightly extends the invulnerability period when evading.
 Reduces the invulnerability period when evading.
 Increases evade distance.
 Evading covers you in bubbles, improving your ability to dodge enemy attacks.
-Increases the likelihood of standing your ground when blocking an attack.
 Greatly increases the likelihood of standing your ground when blocking an attack.
+Increases the likelihood of standing your ground when blocking an attack.
 Decreases the likelihood of standing your ground when blocking an attack.
 Causes previously unblockable attacks to become blockable.
 Makes it easier to stun monsters.
 Increases certain attacks' ability to Exhaust monsters.
 Decreases the likelihood of Horn/Flute items breaking, and increases the effect time of Hunting Horn melodies.
-Slightly boosts Ballistae, Crag shots, Impact Phials, Shells, etc. Makes the Heat Gauge more manageable.
 Boosts Ballistae, Crag shots, Impact Phials, Shells, etc. Makes the Heat Gauge more manageable.
+Slightly boosts Ballistae, Crag shots, Impact Phials, Shells, etc. Makes the Heat Gauge more manageable.
 Makes it easier to break or sever parts of monsters.
 Increases bomb damage, and raises the Combination success rate for all bombs to 100%.
-Empowers you for a limited time when certain conditions are met.
 Greatly empowers you for a limited time when certain conditions are met.
-Increases Attack and Affinity when a large monster in the same area becomes angry.
+Empowers you for a limited time when certain conditions are met.
 Greatly increases Attack and Affinity when a large monster in the same area becomes angry.
+Increases Attack and Affinity when a large monster in the same area becomes angry.
 Increases Attack when your Health Gauge is full.
 Increases Hunter Art power during fights with large monsters when the chance arises.
-When HP falls to 2/3 or below, you gain a DRG aligment that increases attack and resistances.
-Greatly increases Defense when Health is below 40% of the maximum amount.
+When Health falls below 2/3, you'll get Dragonblight but elemental resistance and Attack increases.
 Greatly increases Attack and Defense when Health is below 40% of the maximum amount.
+Greatly increases Defense when Health is below 40% of the maximum amount.
 Decreases Defense boost and Attack when Health is below 40% of maximum.
 Increases your Attack and Defense every time you fall in battle.
 Increases Attack when your Health Gauge is in the red.
@@ -198,11 +198,11 @@ Allows "Fist Pump" gesture to call back fainted/recovering Palicoes. Cannot be u
 Makes it easier to mount and successfully topple a monster.
 Makes it harder to mount and successfully topple a monster.
 Increases the damage caused by Jumping Attacks.
-Makes it easier to fill the Arts, Brave, and Alchemy guages.
-Taking damage grants Hunter Art, Brave, and Alchemy gauge points.
-Extends the duration of SP Mode.
-Increases the information displayed on the Map when large monsters are marked.
+Makes it easier to fill the Arts Gauge, Valor Gauge, and Alchemy Gauge.
+Fills the Arts Gauge, Valor Gauge and Alchemy Gauge when damage is received.
+Extends the effect time of the SP State triggered by SP Hunter Arts.
 Large monsters always display on the Map, as if they were marked.
+Increases the information displayed on the Map when large monsters are marked.
 Grants knowledge of when a large monster can be captured.
 Always shows the Map, even if you don't have one. Easier to fish and BBQ meat.
 Increases your speed while transporting items and decreases the likelihood of dropping them.
@@ -211,117 +211,117 @@ Sometimes increases damage taken.
 Negates the damage from minor enemy attacks.
 Increases the amount recovered when recovering Health.
 Decreases the amount recovered when recovering Health.
-Speeds recovery from temporary damage (the red portion of the Health Gauge).
 Greatly speeds recovery from temporary damage (the red portion of the Health Gauge).
+Speeds recovery from temporary damage (the red portion of the Health Gauge).
 Slows recovery from temporary damage (the red portion of the Health Gauge).
 Greatly slows recovery from temporary damage (the red portion of the Health Gauge).
 Increases the effect time of certain items.
 Decreases the effect time of certain items.
-Transfers a portion of the effects of certain items to companions in the same area.
 Transfers the effects of certain items to companions in the same area.
-Halves the speed of maximum Stamina depletion over time.
+Transfers a portion of the effects of certain items to companions in the same area.
 Negates maximum Stamina depletion over time.
+Halves the speed of maximum Stamina depletion over time.
 Speeds maximum Stamina depletion over time.
 Greatly speeds up maximum Stamina depletion over time.
-Increases the efficacy of meat that raises maximum Stamina.
 Gives any item you eat or drink the potential to also raise your maximum Stamina.
-Increases meat-eating speed.
+Increases the efficacy of meat that raises maximum Stamina.
 Increases meat-eating and item-consuming speed.
+Increases meat-eating speed.
 Decreases meat-eating speed.
 Sometimes allows you to reuse items after you eat and drink them.
 Raw Meat becomes edible. Rare and Well-done Steaks temporarily grant unlimited Stamina.
 Allows the consumption of mushrooms which grant certain benefits as a result.
+Increases the amount of Health recovered from eating Herbs even more than the Herbology skill.
 Increases the amount of Health recovered from eating Herbs.
-Further increases the amount of Health recovered from eating Herbs.
-Increases your Combination success rate by 20%.
 Increases your Combination success rate by 45%.
+Increases your Combination success rate by 20%.
 Decreases your Combination success rate by 10%.
 Decreases your Combination success rate by 20%.
 Guarantees maximum results with Combinations that can produce more than one item at a time.
 Guarantees trap Combinations will succeed, and speeds up trap- and bomb-setting time.
-Sometimes raises the number of times items can be gathered at Gathering Points.
 Often raises the number of times items can be gathered at Gathering Points.
+Sometimes raises the number of times items can be gathered at Gathering Points.
 Sometimes lowers the number of times items can be gathered at Gathering Points.
 Allows you to gather two Honeys or Royal Honeys at once.
-Allows you to mine two Charms at once... Maaaybe.
 Allows you to mine two Charms at once... Maybe.
-Decreases the likelihood of Pickaxes, Bug Nets, Boomerangs, Flutes, and Horns breaking.
+Allows you to mine two Charms at once... Maaaybe.
 Greatly decreases the likelihood of Pickaxes, Bug Nets, Boomerangs, Flutes, and Horns breaking.
+Decreases the likelihood of Pickaxes, Bug Nets, Boomerangs, Flutes, and Horns breaking.
 Increases the likelihood of Pickaxes, Bug Nets, Boomerang, Flutes, and Horns breaking.
 Greatly increases the likelihood of Pickaxes, Bug Nets, Boomerangs, Flutes, and Horns breaking.
-Sometimes increases the number of Reward Items received at the end of a Quest.
-Often increases the number of Reward Items received at the end of a Quest.
 Very often increases the number of Reward Items received at the end of a Quest.
+Often increases the number of Reward Items received at the end of a Quest.
+Sometimes increases the number of Reward Items received at the end of a Quest.
 Sometimes decreases the number of Reward Items received at the end of a Quest.
 Often decreases the number of Reward Items received at the end of a Quest.
-Prevents knockbacks from attacks while carving.
 Increases the number of carving chances by one and prevents knockbacks while carving.
-Sometimes increases the number of Reward Items received for captures.
+Prevents knockbacks from attacks while carving.
 Often increases the number of Reward Items received for captures.
-Combines the effects of <<Fire Res +15>> and <<Halve Hunger>>.
-Combines the effects of <<Spirit's Whim>> and <<Thunder Res +15>>.
-Combines the effects of <<Ice Res +15>> and <<Gourmand>>.
-Combines the effects of <<Honey Hunter>> and <<Water Res +15>>.
-Combines the effects of <<Dragon Res +15>> and <<Bio Researcher>>.
-Combines the effects of <<Knockout King>> and <<Horn Maestro>>.
-Combines the effects of <<Focus>> and <<Resentment>>.
-Combines the effects of <<Evade Extender>> and <<Stam Recov Up>>.
-Combines the effects of <<Razor Sharp>>, <<Recoil Down +2>>, and <<Divine Blessing>>.
-Combines the effects of <<Adrenaline +2>> and <<Scavenger>>.
-Combines the effects of <<Status Atk +2>> and <<Wide-Range +2>>.
-Combines the effects of <<Charm Chaser>> and <<Negate Hunger>>.
-Combines the effects of <<Evasion +2>> and <<Critical Eye +3>>.
-Combines the effects of <<Negate Stun>> and <<Challenger +2>>.
-Combines the effects of <<Attack Up (L)>> and <<Windproof (Hi)>>.
-Combines the effects of <<Latent Power +2>> and <<Constitution +2>>.
-Combines the effects of <<HG Earplugs>> and <<Speed Eating +2>>.
-Combines the effects of <<Sharpness +2>>, <<Shot Booster>>, and <<Speed Sharpening>>.
-Grants <<HG Earplugs>>, <<Reload Speed +3>>, and <<Steady Hand>>.
-Combines the effects of <<Guard +2>> and <<Quick Sheath>>.
-Combines the effects of <<Critical Eye +3>> and <<Challenger +1>>
-Combines the effects of <<Critical Boost>>, <<Bonus Shot>>, and <<Sharpness +1>>.
-Grants <<Marathon Runner>>, <<Bludgeoner>>, and <<Normal/Rapid Up>>.
-Combines the effects of <<Attack Up (L)>> and <<Evasion +2>>.
-Combines the effects of <<Focus>> <<Resentment>> and <<Marathon Runner>>.
-Grants <<Evade Extender>>, <<Mounting Master>>, and <<Stam Recov Up>>.
-Grants <<Razor Sharp>>, <<Recoil Down +2>>, and <<Divine Blessing>>.
-Grants <<Adrenaline +2>>, <<Scavenger>>, and <<Artillery Expert>>.
-Grants <<Status Atk +2>>, <<Wide-Range +2>>, and <<Ultra Herbology>>.
-Grants <<Charm Chaser>>, <<Hero's Talisman>>, and <<Negate Hunger>>.
-Combines the effects of <<Evasion +2>>, <<Critical Eye +3>>, and <<Sneak>>.
-Combines the effects of <<Negate Stun>>, <<Challenger +2>>, and <<Fortify>>.
-Grants <<Windproof (Hi)>>, <<Attack Up (L)>>, and <<Adrenaline +1>>.
-Combines the effects of <<Latent Power +2>>, <<Constitution +2>>, and <<Focus>>.
-Combines the effects of <<Speed Eating +2>>, <<HG Earplugs>>, and <<SP Extender>>.
-Grants <<Sharpness +2>>, <<Bombardier>>, <<Shot Booster>>, and <<Speed Sharpening>>.
-Grants <<HG Earplugs>>, <<Reload Speed +3>>, <<Steady Hand>>, and <<Trap Master>>.
-Combines the effects of <<Guard +2>>, <<Quick Sheath>>, and <<Blade Scl Polish>>.
-Combines the effects of <<Critical Eye +3>> and <<Challenger +2>>.
-Grants <<Critical Boost>>, <<Bonus Shot>>, <<Sharpness +1>>, and <<Alert>>.
-Grants <<Marathon Runner>>, <<Bludgeoner>>, <<Normal/Rapid Up>>, and <<Attack Up (M)>>.
-Combines the effects of <<Attack Up (L)>>, <<Evasion +2>>, and <<Composed>>.
-Combines the effects of <<Fortify>>, <<Marathon Runner>>, and <<Stamina Thief>>.
-Combines the effects of <<Mind's Eye>> and <<Razor Sharp>>.
-Combines the effects of <<Speed Eating +2>>, <<Mushromancer>>, and <<Meat Lover>>.
-Combines the effects of <<Bombardier>> and <<Trap Master>>.
-Combines the effects of <<Stamina Thief>> and <<Knockout King>>.
-Combines the effects of <<Recovery Up>> and <<Divine Blessing>>.
-Combines the effects of <<Load Up>>, <<Combination +2%>>, and <<Sneak>>.
-Combines the effects of <<Sharpness +1>> and <<Attack Up (L)>>.
-Grants <<Normal/Rapid Up>>, <<Pierce/Pierce Up>>, and <<Pellet/Spread Up>>.
-Grants <<Negate Poison>>, <<Negate Paralysis>>, <<Negate Sleep>>, and <<Negate Stun>>.
-Combines the effects of <<Adrenaline +2>> and <<Guts>>.
-Combines the effects of <<Constitution +1>> and <<Evasion +1>>.
-Combines the effects of <<Punishing Draw>> and <<Quick Sheath>>.
-Combines the effects of <<Defense Up (M)>> and <<Iron Skin>>.
-Combines the effects of <<Critical Eye +2>> and <<Weakness Exploit>>.
-Combines the effects of <<Guard Up>> and <<Stam Recov Up>>.
-Combines the effects of <<Peak Performance>> and <<Evade Extender>>.
-Combines the effects of <<Element Atk Up>> and <<Item Use Up>>.
-Combines the effects of <<Charm Chaser>> and <<Gathering +1>>.
-Combines the effects of <<Great Luck>> and <<Capture Expert>>.
-Grants <<Polar Hunter>>, <<Windproof (Hi)>> and <<Negate Bind>>.
-Combines the effects of <<Negate Poison>>, <<Anti-Theft>>, and <<Autotracker>>.
-Grants <<Tropic Hunter>>, <<Fire Res +2>>, and <<Bio Researcher>>.
-All equipped skill points are increased by 2.
-Charm skill points are doubled.
+Sometimes increases the number of Reward Items received for captures.
+Combines the effects of "<<Fire Res +15>>" and "<<Halve Hunger>>."
+Combines the effects of "<<Spirit's Whim>>" and "<<Thunder Res +15>>."
+Combines the effects of "<<Ice Res +15>>" and "<<Gourmand>>."
+Combines the effects of "<<Honey Hunter>>" and "<<Water Res +15>>."
+Combines the effects of "<<Bio Researcher>>" and "<<Dragon Res +15>>."
+Combines the effects of "<<Knockout King>>" and "<<Horn Maestro>>."
+Combines the effects of "<<Focus>>" and "<<Resentment>>."
+Combines the effects of "<<Evade Extender>>" and "<<Stam Recov Up>>."
+Combines the effects of "<<Razor Sharp>>," "<<Recoil Down +2>>," and "<<Divine Blessing>>."
+Combines the effects of "<<Adrenaline +2>>" and "<<Scavenger>>."
+Combines the effects of "<<Status Atk +2>>" and "<<Wide-Range +2>>."
+Combines the effects of "<<Charm Chaser>>" and "<<Negate Hunger>>."
+Combines the effects of "<<Evasion +2>>" and "<<Critical Eye +3>>."
+Combines the effects of "<<Negate Stun>>" and "<<Challenger +2>>."
+Combines the effects of "<<Attack Up (L)>>" and "<<Windproof (Hi)>>."
+Combines the effects of "<<Latent Power +2>>" and "<<Constitution +2>>."
+Combines the effects of "<<HG Earplugs>>" and "<<Speed Eating +2>>."
+Combines the effects of "<<Sharpness +2>>," "<<Shot Booster>>," and "<<Speed Sharpening>>."
+Combines the effects of "<<HG Earplugs>>," "<<Reload Speed +3>>," and "<<Steady Hand>>."
+Combines the effects of "<<Guard +2>>" and "<<Quick Sheath>>."
+Combines the effects of "<<Critical Eye +3>>" and "<<Challenger +1>>."
+Combines the effects of "<<Critical Boost>>," "<<Bonus Shot>>," and "<<Sharpness +1>>."
+Combines the effects of "<<Marathon Runner>>," "<<Bludgeoner>>," and "<<Normal/Rapid Up>>."
+Combines the effects of "<<Attack Up (L)>>" and "<<Evasion +2>>."
+Combines the effects of "<<Resentment>>," "<<Focus>>," and "<<Marathon Runner>>."
+Combines the effects of "<<Evade Extender>>," "<<Mounting Master>>," and "<<Stam Recov Up>>."
+Combines the effects of "<<Razor Sharp>>," "<<Recoil Down +2>>," "<<Divine Blessing>>," and "<<Constitution +1>>."
+Combines the effects of "<<Adrenaline +2>>," "<<Scavenger>>," and "<<Artillery Expert>>."
+Combines the effects of "<<Status Atk +2>>," "<<Wide-Range +2>>," and "<<Pro Herbology>>."
+Combines the effects of "<<Charm Chaser>>," "<<Hero's Talisman>>," and "<<Negate Hunger>>."
+Combines the effects of "<<Evasion +2>>," "<<Critical Eye +3>>," and "<<Sneak>>."
+Combines the effects of "<<Negate Stun>>," "<<Challenger +2>>," and "<<Fortify>>."
+Combines the effects of "<<Windproof (Hi)>>," "<<Attack Up (L)>>," and "<<Adrenaline +1>>."
+Combines the effects of "<<Latent Power +2>>," "<<Constitution +2>>," and "<<Focus>>."
+Combines the effects of "<<Speed Eating +2>>," "<<HG Earplugs>>," and "<<Longer SP>>."
+Combines the effects of "<<Sharpness +2>>," "<<Bombardier>>," "<<Shot Booster>>," and "<<Speed Sharpening>>."
+Combines the effects of "<<HG Earplugs>>," "<<Reload Speed +3>>," "<<Steady Hand>>," and "<<Trap Master>>."
+Combines the effects of "<<Guard +2>>," "<<Quick Sheath>>," and "<<Bladescale Hone>>."
+Combines the effects of "<<Critical Eye +3>>" and "<<Challenger +2>>."
+Combines the effects of "<<Critical Boost>>," "<<Bonus Shot>>," "<<Sharpness +1>>," and "<<Chance Seizer>>."
+Combines the effects of "<<Marathon Runner>>," "<<Bludgeoner>>," "<<Normal/Rapid Up>>," and "<<Attack Up (M)>>."
+Combines the effects of "<<Attack Up (L)>>," "<<Evasion +2>>," and "<<Composed>>."
+Combines the effects of "<<Fortify>>," "<<Marathon Runner>>," and "<<Stamina Thief>>."
+Combines the effects of "<<Mind's Eye>>" and "<<Razor Sharp>>."
+Combines the effects of "<<Speed Eating +2>>," "<<Meat Lover>>," and "<<Mushromancer>>."
+Combines the effects of "<<Bombardier>>" and "<<Trap Master>>."
+Combines the effects of "<<Stamina Thief>>" and "<<Knockout King>>."
+Combines the effects of "<<Recovery Up>>" and "<<Divine Blessing>>."
+Combines the effects of "<<Load Up>>," "<<Combination +20%>>," and "<<Sneak>>."
+Combines the effects of "<<Sharpness +1>>" and "<<Attack Up (L)>>."
+Combines the effects of "<<Normal/Rapid Up>>," "<<Pierce/Pierce Up>>," and "<<Pellet/Spread Up>>."
+Combines the effects of "<<Negate Poison>>," "<<Negate Paralysis>>," "<<Negate Sleep>>," and "<<Negate Stun>>."
+Combines the effects of "<<Adrenaline +2>>" and "<<Guts>>."
+Combines the effects of "<<Constitution +1>>" and "<<Evasion +1>>."
+Combines the effects of "<<Punishing Draw>>" and "<<Quick Sheath>>."
+Combines the effects of "<<Defense Up (M)>>" and "<<Iron Skin>>."
+Combines the effects of "<<Critical Eye +2>>" and "<<Weakness Exploit>>."
+Combines the effects of "<<Guard Up>>" and "<<Stam Recov Up>>."
+Combines the effects of "<<Peak Performance>>" and "<<Evade Extender>>."
+Combines the effects of "<<Element Atk Up>>" and "<<Item Use Up>>."
+Combines the effects of "<<Charm Chaser>>" and "<<Gathering +1>>."
+Combines the effects of "<<Great Luck>>" and "<<Capture Expert>>."
+Combines the effects of "<<Polar Hunter>>," "<<Windproof (Hi)>>," and "<<Negate Bind>>."
+Combines the effects of "<<Negate Poison>>," "<<Anti-Theft>>," and "<<Autotracker>>."
+Combines the effects of "<<Tropic Hunter>>," "<<Fire Res +20>>," and "<<Bio Researcher>>."
+Adds a further two Skill Points to all skills with points invested.
+Doubles the amount of Skill Points gained through talismans.
