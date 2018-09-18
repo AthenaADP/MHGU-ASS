@@ -291,6 +291,11 @@ void Skill::LoadLanguage( System::String^ filename )
 	for( int i = 0; i < Ability::static_abilities.Count; )
 	{
 		String^ line = fin.ReadLine();
+		if( !line )
+		{
+			Windows::Forms::MessageBox::Show( L"Unexpected end of file: not enough lines of text", filename );
+			break;
+		}
 		if( line == L"" || line[ 0 ] == L'#' )
 			continue;
 		
@@ -304,6 +309,11 @@ void Skill::LoadLanguage( System::String^ filename )
 	for( int i = 0; i < static_skills.Count; )
 	{
 		String^ line = fin.ReadLine();
+		if( !line )
+		{
+			Windows::Forms::MessageBox::Show( L"Unexpected end of file: not enough lines of text", filename );
+			break;
+		}
 		if( line == L"" || line[ 0 ] == L'#' )
 			continue;
 
@@ -320,7 +330,13 @@ void Skill::LoadDescriptions( System::String^ filename )
 	SpecificAbility::torso_inc_desc = fin.ReadLine();
 	for( int i = 0; i < Skill::static_skills.Count; ++i )
 	{
-		Skill::static_skills[ i ]->description = fin.ReadLine();
+		String^ line = fin.ReadLine();
+		if( !line )
+		{
+			Windows::Forms::MessageBox::Show( L"Unexpected end of file: not enough lines of text", filename );
+			break;
+		}
+		Skill::static_skills[ i ]->description = line;
 	}
 }
 

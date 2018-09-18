@@ -317,6 +317,11 @@ void SkillTag::LoadLanguage( String^ filename )
 	for( int i = 0; i < tags.Count; )
 	{
 		String^ line = fin.ReadLine();
+		if( !line )
+		{
+			Windows::Forms::MessageBox::Show( L"Unexpected end of file: not enough lines of text", filename );
+			break;
+		}
 		if( line == L"" || line[ 0 ] == L'#' )
 			continue;
 		tags[ i ]->name = line;
