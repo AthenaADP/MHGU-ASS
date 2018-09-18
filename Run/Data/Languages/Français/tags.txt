@@ -1,0 +1,9 @@
+﻿Tout
+Autres
+Du Même Type
+Offensif
+Défensif
+Épéiste
+Arc/Artilleur
+Farming
+Résistance

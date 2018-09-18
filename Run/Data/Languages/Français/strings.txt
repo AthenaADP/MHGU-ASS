@@ -1,0 +1,256 @@
+﻿#  MHX/Gen ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+-
+
+&Fichier
+&Options
+&Langue
+&Aide
+&Charger
+
+#This string is used in the File menu to save application settings.
+&Sauvegarder
+
+#This string is used for saving custom charm lists.
+&Mise à Jour
+
+&Quitter
+
+#This options resets all settings to default
+&Options Par Défaut
+
+#"Bad" skills are ones activated at -10 points or less.
+&Autoriser les Compétences Négatives
+
+#This specifically refers to Arena reward helmets, such as the Barrage Piercing
+#and Sword Saint Piercing, which are difficult to obtain.
+&Autoriser les Armure d'Arène
+
+#Event armor (and Decorations) from DLC quests
+&Autoriser les Armure d'Événements
+
+#Japanese only armor/decorations
+&Autoriser les DLC Japonais
+
+#This setting will ignore gear of a lower tier than you
+&Autoriser les Armures de rangs moindres
+
+&Montrer les points requis pour les Compétences
+
+&Trier les Compétences par Ordre Alphabétique
+&Autoriser les Heaumes d'Artilleur
+&Faire un don
+&Utiliser les Emplacements Restants
+&Que fait cette compétence ?
+
+#This option opens a browser to my Facebook page
+&Vérifier les Mises à Jour
+
+&À Propos
+&Talismans
+&Importer
+&Recherche Rapide
+&Recherche Avancée
+&Annuler
+&Par Défaut
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&Aucun
+
+#This string is used in the combobox that filters solutions by charm
+Pas de Talisman
+
+#This string is used in the combobox that sorts solutions by various criteria
+---
+
+&Rechercher
+&Aucune Sélection
+&Le Meilleur
+&Ajouter
+&Remise à Zéro
+&Supprimer
+&Supprimer Tout
+&Monter
+&Descendre
+&Cacher les Doubles
+&Fermer
+&Trouver le Prochain
+
+#These are used when selecting skills from the Japanese kana/characters
+Jap?
+Select Japanese Skill
+Long de %1
+
+Quêtes de Guilde
+Quêtes de Village
+Slots de l'Arme
+Homme
+Femme
+Pas de Compétence Bonus
+Trier/Filtrer les Résultats
+
+#This string is used in the combobox that filters solutions by charm
+N'importe quel Talisman
+
+Rés. Dragon
+Rés. Feu
+Rés. Glace
+Rés. Foudre
+Rés. Eau
+Défense de Base
+Défense Max.
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Difficulté
+
+Rareté
+Emplacements Restants
+
+#When sorting solutions, "Family" refers to how similar the armor pieces are:
+# Rathalos X + Rathalos X (great!)
+# Rathalos X + Rathalos S (good)
+# Rathalos X + Rathalos U (ok...)
+# Rathalos X + Basarios S (bad)
+Famille
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Compétences Bonus
+
+Talismans
+Ne pas Utiliser de Talisman
+Utiliser Mes Talismans
+
+#When searching using charms that have no skills, but 1-3 slots.
+Utiliser Emplacements de Tali.
+
+#When searching using charms with at most one skill and possibly some slots
+Talismans à Compétence Unique
+
+#When searching using charms with at most two skills and possibly some slots (i.e. all possible charms)
+Talismans à Deux Compétences
+
+Compétence
+Compétences
+Filtre de Compétences
+Épéiste
+Artilleur
+
+#Used in the Advanced Search dialog
+Selectionner Armure
+
+#For importing charms from a savefile
+Importer Talismans
+Caractères
+Supprimer les Tali. Existants
+Êtes-vous sûr ?
+&Trier
+&Tri par 1e Comp.
+&Tri par 2e Comp.
+Emplacements
+(Aucun)
+
+#When a solution has exactly one slot spare
+1 Emplacement Libre
+
+#When a solution has multiple slots spare, %1 is that number.
+%1 Emplacements Libres
+
+#The following three strings deliberately begin with a space in English
+ (ou n'importe quoi avec 1 Emplacement)
+
+#%1 is the number of slots in the armor
+ (ou n'importe quoi avec %1 Emplacements)
+
+#This line is appended to armors with Torso Up
+ (ou n'importe quoi avec Torse +)
+
+#This line is appended to decorations in the torso armor, if Torso Up is in effect
+ (sur le torse)
+
+#This line is appended to decorations in the charm, if Charm Up is in effect
+ (sur le Talisman)
+
+Résultats trouvés :
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Montrer les %1 premiers résultats seulement :
+
+Save Data dump
+Liste de Talismans
+Fichier corrompu.
+Version
+Trouver
+
+#This string is shown if a charm is loaded that is impossible to obtain legitimately
+Petit tricheur !
+
+#Used in some error popups
+Erreur
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 à %2
+
+Défense
+Table
+Résultats
+Talisman Inconnu
+Supprimer tous les Tali.
+Paramètres ASS
+&Résultats Max.
+Afficher le Nom des Décorations
+Afficher la Liste des Matériaux
+&Voir le Zoom Par Défaut de l'Image
+
+#Showing min/max defence and elemental resists
+%1-%2 Déf, %3 Feu, %4 Eau, %5 Gla, %6 Fou, %7 Drg
+
+#This string is used to show decorations as skills, e.g. "+5 Expert Jewel". %1 is the numeric value %2 is the skill name
+Joyau %2 %1
+
+#Item Type refers to weapon/helm/body armor/etc.
+Type d'Équipement
+
+#Hunter Type means Blademaster or Gunner
+Type de Chasseur
+
+#Both Blademaster and Gunner (for helmets)
+Les deux
+
+Arme
+Tête
+Corps
+Bras
+Taille
+Jambes
+
+#This string is for displaying potential extra skills
+(%1 possible)
+
+#Strings for the skill description dialog
+Montrer
+Description
+Compétences
+Arbres
+Armures avec des points pour cette Compétence :
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+%1☆
+G%1☆
+Tout
+
+#Format string for showing a skill with the number of skill points required
+%1 (%2)

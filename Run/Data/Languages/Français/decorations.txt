@@ -1,0 +1,242 @@
+﻿Joy Poison 1
+Joy Poison 2
+Joy Paralysie 1
+Joy Paralysie 2
+Joy Sommeil 1
+Joy Sommeil 2
+Joy Volonté 1
+J Force d'esprit 1
+Joy Insonorisé 1
+Joy Insonorisé 3
+Joy Vent 1
+Joy Vent 2
+Joy Séisme 1
+Joy Sismique 1
+Joy Résistance 1
+Joy Entrave 1
+Joy Chaleur 1
+Joy Froid 1
+Joy Polaire 1
+Joy Polaire 3
+Joy Solaire 1
+Joy Solaire 3
+Joy Sûreté 1
+Joy Assurance 1
+Joy Anti-furie 1
+Joy Anti-furie 3
+Joy Biologie 1
+Joy Docteur 1
+Joy Hémorragie 1
+Joy Attaque 1
+Joy Attaque 2
+Joy Attaque 3
+Joy Défense 1
+Joy Défense 2
+Joy Vitalité 1
+Joy Ignifuge 1
+Joy Anti-feu 1
+Joy Étanche 1
+Joy Anti-eau 1
+Joy Isolant 1
+Joy Anti-foudre 1
+Joy Antigel 1
+Joy Anti-glace 1
+Joy Draconien 1
+Joy Anti-dragon 1
+Joy Fléau 1
+Joy Fléau 3
+Joy Feu 1
+Joy Feu 2
+Joy Eau 1
+Joy Eau 2
+Joy Foudre 1
+Joy Foudre 2
+Joy Glace 1
+Joy Glace 2
+Joy Dragon 1
+Joy Dragon 2
+Joy Élémental 1
+Joy Élémental 3
+Joy Affliction 1
+Joy Affliction 2
+Joy Aiguiseur 1
+Joy Artisanat 1
+Joy Artisanat 3
+Joy Dextérité 1
+Joy Dextérité 3
+Joy Escrime 1
+Joy Escrime 3
+Joy Métallurgie 1
+Joy Métallurgie 3
+Joy Matraque 1
+Joy Matraque 2
+Joy Dégainage 1
+Joy Dégainage 2
+Joy Punition 1
+Joy Punition 3
+Joy Rengain. 1
+Joy Rengain. 2
+Joy Rengain. aiguiseur 1
+Joy Lamécaille 1
+Joy Lamécaille 3
+Joy Fusilier 1
+Joy Fusilier 2
+Joy Tirailleur 1
+Joy Tirailleur 3
+Joy Sniper 1
+Joy Normal G 1
+Joy Normal G 3
+Joy Perçant G 1
+Joy Perçant G 3
+Joy Plomb G 1
+Joy Plomb G 3
+Joy Lourd G 1
+Joy Lourd G 3
+Joy Normal 1
+Joy Normal 2
+Joy Perçant 1
+Joy Plomb 1
+Joy Antiblind. 1
+Joy Frag 1
+Joy Frag 3
+Joy F Poison 1
+Joy F Paralys. 1
+Joy F Paralys. 2
+Joy F Sommeil 1
+Joy F Force 1
+Joy F Force 2
+Joy F Brute 1
+Joy F Brute 2
+Joy F Combat 1
+Joy F Faiblesse 1
+Joy F Explosion 1
+Joy Mitraille 1
+Joy Mitraille 3
+Joy Kyudo 1
+Joy Kyudo 2
+Joy Armurier 1
+Joy Armurier 3
+Joy Irrégulier 1
+Joy Économie 1
+Joy Économie 2
+Joy Expert 1
+Joy Expert 2
+Joy Expert 3
+Joy Supplice 1
+Joy Supplice 3
+Joy Chaîne 1
+Joy Chaîne 3
+Joy Châtiment 1
+Joy Châtiment 2
+Joy Chamanisme 1
+Joy Chamanisme 2
+Joy Critique 1
+Joy Critique 3
+Joy Critique négatif 1
+Joy Critique négatif 3
+Joy Charge 1
+Joy Charge 3
+Joy Stamina 1
+Joy Stamina 3
+Joy Athlète 1
+Joy Athlète 2
+Joy Vigueur 1
+Joy Vigueur 2
+Joy Énergie 1
+Joy Énergie 2
+Joy Évasion 1
+Joy Évasion 2
+Joy Esquive 1
+Joy Esquive 3
+Joy Bulle 1
+Joy Bulle 3
+Joy Garde 1
+Joy Garde 2
+Joy Bouclier 1
+Joy Bouclier 2
+Joy KO 1
+Joy KO 2
+Joy Fatigue 1
+Joy Fatigue 2
+Joy Musique 1
+Joy Artillerie 1
+Joy Destruction 1
+Joy Destruction 3
+Joy Bombe 1
+Joy Puissance 1
+Joy Puissance 2
+Joy Courage 1
+Joy Courage 2
+Joy Invincible 1
+Joy Invincible 2
+Joy Service 1
+Joy Service 3
+Joy Dracoénergie 1
+Joy Dracoénergie 3
+Joy Potentiel 1
+Joy Potentiel 2
+Joy Survie 1
+Joy Survie 2
+Joy Fureur 1
+Joy Fureur 2
+Joy Vengeance 1
+Joy Vengeance 2
+Joy Bravoure 1
+Joy Bravoure 2
+Joy Ninja 1
+Joy Alliance 1
+Joy Moral 1
+Joy Leader 1
+Joy Leader 2
+Joy Cavalier 1
+Joy Vol 1
+Joy Méditation 1
+Joy Méditation 3
+Joy Endurance 1
+Joy Extension SP 1
+Joy Extension SP 2
+Joy Lucidité 1
+Joy Perception 1
+Joy Chasse 1
+Joy Convoyeur 1
+Joy Protection 1
+Joy Sanctuaire 1
+Joy Héros 1
+Joy Héros 3
+Joy Médecin 1
+Joy Médecin 2
+Joy Facteur X 1
+Joy Facteur X 2
+Joy Objets 1
+Joy Soutien 1
+Joy Soutien 2
+Joy Appétit 1
+Joy Glouton 1
+Joy Repas 1
+Joy Repas 3
+Joy Frugal 1
+Joy Carnivore 1
+Joy Cannibale 1
+Joy Mycologie 1
+Joy Herbe 1
+Joy Inventeur 1
+Joy Alchimiste 1
+Joy Piège 1
+Joy Collecte 1
+Joy Miel 1
+Joy Abeille 1
+Joy Charme 1
+Joy Charme 3
+Joy Lubie 1
+Joy Destin 1
+Joy Destin 3
+Joy Dépecer 1
+Joy Dépecer 3
+Joy Capture 1
+Joy Capture 3
+Joy Cloche 1
+Joy Novice 1
+Joy Flocon 1
+Joy Sources 1
+Joy Aérolabo 1
+Joy Taverne volante 1
