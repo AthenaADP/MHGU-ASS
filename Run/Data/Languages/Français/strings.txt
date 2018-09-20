@@ -74,7 +74,7 @@
 Pas de Talisman
 
 #This string is used in the combobox that sorts solutions by various criteria
----
+Aucun
 
 &Rechercher
 &Aucune Sélection
@@ -100,7 +100,7 @@ Slots de l'Arme
 Homme
 Femme
 Pas de Compétence Bonus
-Trier/Filtrer les Résultats
+Tri/Filtres de Résultats
 
 #This string is used in the combobox that filters solutions by charm
 N'importe quel Talisman
@@ -210,8 +210,8 @@ Talisman Inconnu
 Supprimer tous les Tali.
 Paramètres ASS
 &Résultats Max.
-Afficher le Nom des Décorations
-Afficher la Liste des Matériaux
+&Afficher le Nom des Décorations
+&Afficher la Liste des Matériaux
 &Voir le Zoom Par Défaut de l'Image
 
 #Showing min/max defence and elemental resists

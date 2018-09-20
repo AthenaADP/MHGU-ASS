@@ -1,1226 +1,1226 @@
-﻿Leather Vest
-Chainmail Vest
-Bherna Mail
-Hunting Mail
-Hunting Vest
-Mafumofu Jacket
-Yukumo Dogi
-Loc Lac Shawl
-Hunter's Mail
-Hunter's Vest
-Bone Mail
-Bone Vest
-Chaos Plate
-Chaos Brigandine
-Jaggi Mail
-Jaggi Vest
-Maccao Mail
-Maccao Vest
-Velociprey Mail
-Velociprey Vest
-Giaprey Mail
-Giaprey Vest
-Genprey Mail
-Genprey Vest
-Vespoid Mail
-Vespoid Vest
-Hornetaur Mail
-Hornetaur Vest
-Bnahabra Suit
-Bnahabra Vest
-Mosswine Vest
-Rhenoplos Mail
-Rhenoplos Vest
-Bulldrome Mail
-Bulldrome Vest
-Arzuros Mail
-Arzuros Vest
-Cephalos Mail
-Cephalos Vest
-Derring Jacket
-Alloy Mail
-Alloy Vest
-Battle Mail
-Battle Vest
-Ingot Mail
-Ingot Vest
-High Metal Mail
-High Metal Vest
-Melahoa Jacket
-Melahoa Stalk
-Makluva Cover
-Makluva Scale
-Bistro Suit
-Bistro Vest
-Obituary Thorax
-Obituary Pleuron
-Butterfly Thorax
-Butterfly Pleuron
-Death Stench Muscle
-Death Stench Heart
-Acorn Mail
-Acorn Vest
-Mosgharl Ribplate
-Mosgharl Ribguard
-Edel Ribplate
-Edel Ribguard
-Skalda Thorax
-Skalda Pleuron
-Spio Thorax
-Spio Pleuron
-Droth Mail
-Droth Vest
-Uroktor Torso
-Uroktor Vest
-Moofah Suit
-Moofah Jacket
-Velociprey Body
-Velociprey Suit
-Genprey Body
-Genprey Suit
-Ioprey Body
-Ioprey Wear
-Remobra Suit
-Remobra Wear
-Ioprey Mail
-Ioprey Vest
-Kut-Ku Mail
-Kut-Ku Vest
-Lagombi Mail
-Lagombi Vest
-Gypceros Mail
-Gypceros Vest
-Tetsucabra Mail
-Tetsucabra Vest
-Hermitaur Mail
-Hermitaur Vest
-Volvidon Mail
-Volvidon Vest
-Ludroth Mail
-Ludroth Vest
-Malfestio Mail
-Malfestio Vest
-Khezu Mail
-Khezu Vest
-Rathian Mail
-Rathian Vest
-Nibelsnarf Mail
-Nibelsnarf Vest
-Blango Mail
-Blango Vest
-Ceanataur Mail
-Ceanataur Vest
-Najarala Mail
-Najarala Vest
-Nargacuga Mail
-Nargacuga Vest
-Scholarly Suit
-Scholarly Vest
-Vaik Mail
-Vaik Vest
-Aelucanth Thorax
-Aelucanth Pleuron
-Rhopessa Thorax
-Rhopessa Pleuron
-Artian Mail
-Artian Vest
-Garuga Mail
-Garuga Vest
-Uragaan Mail
-Uragaan Vest
-Rathalos Mail
-Rathalos Vest
-Lagiacrus Mail
-Lagiacrus Vest
-Zinogre Mail
-Zinogre Vest
-Mizutsune Mail
-Mizutsune Vest
-Astalos Mail
-Astalos Vest
-Gammoth Mail
-Gammoth Vest
-Glavenus Mail
-Glavenus Vest
-Gore Mail
-Gore Vest
-Regios Mail
-Regios Vest
-Tigrex Mail
-Tigrex Vest
-Kirin Jacket
-Kirin Cape
-Brachydios Mail
-Brachydios Vest
-Arc Mail
-Arc Vest
-Storge Mail
-Storge Vest
-Kushala Cista
-Kushala Vise
-Mizuha Guards
-Cham Camise
-Kaiser Mail
-Kaiser Vest
-Skeletal Sternum
-Decayed Sternum
-Black Hide
-Black Skin
-Black Belt Mail
-Black Belt Vest
-Guild Bard Bolero
-Guild Bard Vest
-Maiden's Suit
-French Maid Vest
-Helper Suit
-Healer Vest
-Dianthus Gown
-Campanile Gown
-Bath Robe
-Gourmew Suit
-Gourmew Vest
-Leather Mail S
-Leather Vest S
-Chainmail Armor S
-Chainmail Vest S
-Bherna Mail S
-Bherna Vest S
-Hunting Mail S
-Hunting Vest S
-Mafumofu Suit S
-Mafumofu Jacket S
-Yukumo Sky Dogi
-Yukumo Land Dogi
-Loc Lac Shawl S
-Hunter's Mail S
-Hunter's Vest S
-Hunter's Mail R
-Hunter's Vest R
-Bone Mail S
-Bone Vest S
-Chaos Archplate
-Chaos Archbrigandine
-Melahoa Jacket S
-Melahoa Stalk S
-Melahoa Jacket U
-Melahoa Stalk U
-Makluva Cover S
-Makluva Scale S
-Makluva Cover U
-Makluva Scale U
-Bistro Suit S
-Bistro Vest S
-Acorn Mail S
-Acorn Vest S
-Mosgharl Ribplate S
-Mosgharl Ribguard S
-Edel Ribplate S
-Edel Ribguard S
-Moofah Suit S
-Moofah Jacket S
-Slagtoth Cloak
-Slagtoth Wrap
-Velociprey Body S
-Velociprey Suit S
-Giaprey Body
-Giaprey Wear
-Genprey Body S
-Genprey Suit S
-Ioprey Body S
-Ioprey Wear S
-Remobra Suit S
-Remobra Wear S
-Mosswine Vest S
-Rhenoplos Mail S
-Rhenoplos Vest S
-Jaggi Mail S
-Jaggi Vest S
-Droth Mail S
-Droth Vest S
-Uroktor Torso S
-Uroktor Vest S
-Maccao Mail S
-Maccao Vest S
-Velociprey Mail S
-Velociprey Vest S
-Giaprey Mail S
-Giaprey Vest S
-Genprey Mail S
-Genprey Vest S
-EX Genprey Mail
-EX Genprey Vest
-Ioprey Mail S
-Ioprey Vest S
-EX Ioprey Mail
-EX Ioprey Vest
-Vespoid Mail S
-Vespoid Vest S
-EX Vespoid Mail
-EX Vespoid Vest
-Hornetaur Mail S
-Hornetaur Vest S
-EX Hornetaur Mail
-EX Hornetaur Vest
-Hornetaur Mail R
-Hornetaur Vest R
-Bnahabra Suit S
-Bnahabra Vest S
-Bulldrome Mail S
-Bulldrome Vest S
-Arzuros Mail S
-Arzuros Vest S
-Cephalos Mail S
-Cephalos Vest S
-EX Cephalos Mail
-EX Cephalos Vest
-Kut-Ku Mail S
-Kut-Ku Vest S
-Kecha Mail
-Kecha Vest
-Lagombi Mail S
-Lagombi Vest S
-Gypceros Mail S
-Gypceros Vest S
-Gypceros Mail R
-Gypceros Vest R
-Tetsucabra Mail S
-Tetsucabra Vest S
-Hermitaur Mail S
-Hermitaur Vest S
-EX Hermitaur Mail
-EX Hermitaur Vest
-Hermitaur Mail R
-Hermitaur Vest R
-Volvidon Mail S
-Volvidon Vest S
-Conga Mail
-Conga Vest
-Ludroth Mail S
-Ludroth Vest S
-Ludroth Mail R
-Ludroth Vest R
-Barroth Mail
-Barroth Vest
-Lecturer's Suit
-Lecturer's Jacket
-Alloy Mail S
-Alloy Vest S
-Alloy Mail R
-Alloy Vest R
-Battle Mail S
-Battle Vest S
-Ingot Mail S
-Ingot Vest S
-Ingot Mail R
-Ingot Vest R
-High Metal Mail S
-High Metal Vest S
-High Metal Mail U
-High Metal Vest U
-Lobster Mail
-Lobster Vest
-Obituary Thorax S
-Obituary Pleuron S
-Butterfly Thorax S
-Butterfly Pleuron S
-Death Stench Muscle S
-Death Stench Heart S
-Death Stench Muscle R
-Death Stench Heart R
-Vaik Mail S
-Vaik Vest S
-Aelucanth Thorax S
-Aelucanth Pleuron S
-Rhopessa Thorax S
-Rhopessa Pleuron S
-Patissier's Suit
-Patissier's Vest
-Skalda Thorax S
-Skalda Pleuron S
-Spio Thorax S
-Spio Pleuron S
-Basarios Mail
-Basarios Vest
-Malfestio Mail S
-Malfestio Vest S
-Zamtrios Mail
-Zamtrios Vest
-Khezu Mail S
-Khezu Vest S
-Khezu Mail R
-Khezu Vest R
-Nerscylla Mail
-Nerscylla Vest
-Rathian Mail S
-Rathian Vest S
-EX Rathian Mail
-EX Rathian Vest
-Rathian Mail R
-Rathian Vest R
-Nibelsnarf Mail S
-Nibelsnarf Vest S
-Plesioth Mail
-Plesioth Vest
-Blango Mail S
-Blango Vest S
-EX Blango Mail
-EX Blango Vest
-Lavasioth Mail
-Lavasioth Vest
-EX Lavasioth Mail
-EX Lavasioth Vest
-Ceanataur Mail S
-Ceanataur Vest S
-EX Ceanataur Mail
-EX Ceanataur Vest
-Ceanataur Mail R
-Ceanataur Vest R
-Najarala Mail S
-Najarala Vest S
-Nargacuga Mail S
-Nargacuga Vest S
-Garuga Mail S
-Garuga Vest S
-Uragaan Mail S
-Uragaan Vest S
-Black Belt Mail S
-Black Belt Vest S
-Guardian Suit
-Guardian Vest
-Guardian Suit U
-Guardian Vest U
-Scholar's Blouse
-Scholar's Vest
-Sailor Suit
-Sailor Vest
-Luxury Bath Robe
-Kita Star Jacket
-Umi Ocean Jacket
-Derring Mail S
-Derring Vest S
-Dober Mail
-Dober Vest
-Damascus Mail
-Damascus Vest
-Damascus Mail R
-Damascus Vest R
-Artian Mail S
-Artian Vest S
-Artian Mail R
-Artian Vest R
-Barioth Mail
-Barioth Vest
-Seltas Mail
-Seltas Vest
-Rathalos Mail S
-Rathalos Vest S
-EX Rathalos Mail
-EX Rathalos Vest
-Rathalos Mail R
-Rathalos Vest R
-Lagiacrus Mail S
-Lagiacrus Vest S
-Lagiacrus Mail R
-Lagiacrus Vest R
-Zinogre Mail S
-Zinogre Vest S
-EX Zinogre Mail
-EX Zinogre Vest
-Gravios Mail
-Gravios Vest
-Mizutsune Mail S
-Mizutsune Vest S
-Astalos Mail S
-Astalos Vest S
-Gammoth Mail S
-Gammoth Vest S
-Glavenus Mail S
-Glavenus Vest S
-Agnaktor Mail
-Agnaktor Vest
-Gore Mail S
-Gore Vest S
-EX Gore Mail
-EX Gore Vest
-Gore Mail R
-Gore Vest R
-Regios Mail S
-Regios Vest S
-Duramboros Mail
-Duramboros Vest
-Tigrex Mail S
-Tigrex Vest S
-EX Tigrex Mail
-EX Tigrex Vest
-Tigrex Mail R
-Tigrex Vest R
-Kirin Jacket S
-Kirin Cape S
-Kirin Jacket R
-Kirin Cape R
-Brachydios Mail S
-Brachydios Vest S
-EX Brachydios Mail
-EX Brachydios Vest
-Golden Haori
-Puppeteer Suit
-Vangis Mail
-Vangis Vest
-Guild Knight Suit
-Guild Knight Vest
-Maiden's Suit S
-French Maid Vest S
-Blue Guild Suit
-Blue Guild Vest
-Blue Guild Suit
-Blue Guild Vest
-Red Guild Suit
-Red Guild Vest
-Red Guild Suit
-Red Guild Vest
-Helper Suit S
-Healer Vest S
-Helper Suit U
-Healer Vest U
-Guild Bard Bolero S
-Guild Bard Vest S
-Chakra Necklace
-Dianthus Wealcoat
-Campanile Wealcoat
-Ace Mail
-Ace Vest
-Sororal Mail
-Sororal Vest
-Hawksuit
-Hawkjacket
-Gourmew Suit S
-Gourmew Vest S
-Scholarly Suit S
-Scholarly Vest S
-Ranger's Girdle
-Archer's Girdle
-Shinobi Heaven Suit
-Shinobi Land Suit
-Shinobi Sky Suit
-Shinobi Sea Suit
-Ancient Mail
-Ancient Vest
-Master's Mail
-Master's Vest
-Black Hide S
-Black Skin S
-Toka Doate
-Mitsuaoi Doate
-Wisdom Suit
-Wisdom Vest
-Cheerful Suit
-Cheerful Vest
-Sailor Suit
-Sailor Vest
-EX Rathian Mail S
-EX Rathian Vest S
-EX Rathalos Mail S
-EX Rathalos Vest S
-EX Tigrex Mail S
-EX Tigrex Vest S
-Diablos Mail
-Diablos Vest
-Diablos Mail R
-Diablos Vest R
-Arc Mail S
-Arc Vest S
-Storge Mail S
-Storge Vest S
-EX Arc Mail
-EX Arc Vest
-EX Storge Mail
-EX Storge Vest
-Arc Mail R
-Arc Vest R
-Storge Mail R
-Storge Vest R
-Valstrax Mail
-Valstrax Vest
-Kushala Cista S
-Kushala Vise S
-EX Kushala Cista
-EX Kushala Vise
-Kushala Cista R
-Kushala Vise R
-Mizuha Guards S
-Cham Camise S
-EX Mizuha Guards
-EX Cham Camise
-Kaiser Mail S
-Kaiser Vest S
-EX Kaiser Mail
-EX Kaiser Vest
-Silver Solmail
-Silver Solvest
-EX Silver Solmail
-EX Silver Solvest
-Silver Solmail R
-Silver Solvest R
-Golden Lunemail
-Golden Lunevest
-EX Golden Lunemail
-EX Golden Lunevest
-Divine Ire Haori
-Crusher Garb
-Esurient Mail
-Esurient Vest
-Esurient Mail R
-Esurient Vest R
-Akantor Aegis
-Akantor Plate
-Akantor Aegis R
-Akantor Plate R
-Ukanlos Aegis
-Ukanlos Plate
-Tempest Robe
-Welkin Robe
-Tempest Robe R
-Welkin Robe R
-Skeletal Sternum R
-Decayed Sternum R
-Astral Suit
-Astral Vest
-Escadora Soul
-Escadora Seele
-Escadora Soul R
-Escadora Seele R
-Leather Mail X
-Leather Vest X
-Chain Mail X
-Chainmail Vest X
-Bherna Mail X
-Bherna Vest X
-Hunting Mail X
-Hunting Vest X
-Mafumofu Suit X
-Mafumofu Jacket X
-Yukumo Sky Dogi Goku
-Yukumo Land Dogi Goku
-Posh Bath Robe
-Loc Lac Shawl X
-Hunter's Mail X
-Hunter's Vest X
-Hunter's Mail XR
-Hunter's Vest XR
-Bone Mail X
-Bone Vest X
-Grand Chaos Plate
-Grand Chaos Brigandine
-Melahoa Jacket X
-Melahoa Stalk X
-MelahoaFlowerJacketZ
-Melahoa Stalk Z
-Makluva Cover X
-Makluva Scale X
-Makluva Cover Z
-Makluva Scale Z
-Obituary Thorax X
-Obituary Pleuron X
-Butterfly Thorax X
-Butterfly Pleuron X
-Death Stench Muscle X
-Death Stench Heart X
-Death Stench Muscle XR
-Death Stench Heart XR
-Acorn Mail X
-Acorn Vest X
-Mosgharl Ribplate X
-Mosgharl Ribguard X
-Edel Ribplate X
-Edel Ribguard X
-Skalda Thorax X
-Skalda Pleuron X
-Spio Thorax X
-Spio Pleuron X
-Alloy Mail X
-Alloy Vest X
-Alloy Mail XR
-Alloy Vest XR
-Battle Mail X
-Battle Vest X
-Ingot Mail X
-Ingot Vest X
-Ingot Mail XR
-Ingot Vest XR
-High Metal Mail X
-High Metal Vest X
-High Metal Mail Z
-High Metal Vest Z
-Lobster Mail X
-Lobster Vest X
-Vaik Mail X
-Vaik Vest X
-Bistro Suit X
-Bistro Vest X
-Patissier's Suit X
-Patissier's Vest X
-Gourmew Suit X
-Gourmew Vest X
-Aelucanth Thorax X
-Aelucanth Pleuron X
-Rhopessa Thorax X
-Rhopessa Pleuron X
-Lecturer's Suit X
-Lecturer's Jacket X
-Derring Mail X
-Derring Vest X
-Artian Mail X
-Artian Vest X
-Artian Mail XR
-Artian Vest XR
-Maiden's Suit X
-French Maid Vest X
-Dianthus Masajacket
-Campanile Masajacket
-Hawksuit X
-Hawkjacket X
-Scholarly Suit X
-Scholarly Vest X
-Dober Mail X
-Dober Vest X
-Scholar's Blouse X
-Scholar's Vest X
-Sailor Suit X
-Sailor Vest X
-Mariner Suit
-Mariner Vest
-Slagtoth Cloak X
-Slagtoth Wrap X
-Jaggi Mail X
-Jaggi Vest X
-Maccao Mail X
-Maccao Vest X
-Velociprey Mail X
-Velociprey Vest X
-Giaprey Mail X
-Giaprey Vest X
-Genprey Mail X
-Genprey Vest X
-Genprey Mail GX
-Genprey Vest GX
-Vespoid Mail X
-Vespoid Vest X
-Vespoid Mail GX
-Vespoid Vest GX
-Hornetaur Mail X
-Hornetaur Vest X
-Hornetaur Mail GX
-Hornetaur Vest GX
-Hornetaur Mail XR
-Hornetaur Vest XR
-Bnahabra Suit X
-Bnahabra Vest X
-Mosswine Vest X
-Rhenoplos Mail X
-Rhenoplos Vest X
-Bulldrome Mail X
-Bulldrome Vest X
-Arzuros Mail X
-Arzuros Vest X
-Cephalos Mail X
-Cephalos Vest X
-Cephalos Mail GX
-Cephalos Vest GX
-Droth Mail X
-Droth Vest X
-Uroktor Torso X
-Uroktor Vest X
-Moofah Suit X
-Moofah Jacket X
-Velociprey Body X
-Velociprey Suit X
-Giaprey Body X
-Giaprey Wear X
-Genprey Body X
-Genprey Suit X
-Ioprey Body X
-Ioprey Wear X
-Remobra Suit X
-Remobra Wear X
-Ioprey Mail X
-Ioprey Vest X
-Ioprey Mail GX
-Ioprey Vest GX
-Kut-Ku Mail X
-Kut-Ku Vest X
-Kecha Mail X
-Kecha Vest X
-Lagombi Mail X
-Lagombi Vest X
-Gypceros Mail X
-Gypceros Vest X
-Gypceros Mail XR
-Gypceros Vest XR
-Tetsucabra Mail X
-Tetsucabra Vest X
-Hermitaur Mail X
-Hermitaur Vest X
-Hermitaur Mail GX
-Hermitaur Vest GX
-Hermitaur Mail XR
-Hermitaur Vest XR
-Volvidon Mail X
-Volvidon Vest X
-Conga Mail X
-Conga Vest X
-Conga Mail GX
-Conga Vest GX
-Ludroth Mail X
-Ludroth Vest X
-Ludroth Mail XR
-Ludroth Vest XR
-Barroth Mail X
-Barroth Vest X
-Basarios Mail X
-Basarios Vest X
-Malfestio Mail X
-Malfestio Vest X
-Zamtrios Mail X
-Zamtrios Vest X
-Khezu Mail X
-Khezu Vest X
-Khezu Mail XR
-Khezu Vest XR
-Nerscylla Mail X
-Nerscylla Vest X
-Rathian Mail X
-Rathian Vest X
-Rathian Mail GX
-Rathian Vest GX
-Rathian Mail XR
-Rathian Vest XR
-Nibelsnarf Mail X
-Nibelsnarf Vest X
-Plesioth Mail X
-Plesioth Vest X
-Blango Mail X
-Blango Vest X
-Blango Mail GX
-Blango Vest GX
-Lava Mail X
-Lava Vest X
-Lavasioth Mail GX
-Lavasioth Vest GX
-Ceanataur Mail X
-Ceanataur Vest X
-Ceanataur Mail GX
-Ceanataur Vest GX
-Ceanataur Mail XR
-Ceanataur Vest XR
-Najarala Mail X
-Najarala Vest X
-Nargacuga Mail X
-Nargacuga Vest X
-Garuga Mail X
-Garuga Vest X
-Uragaan Mail X
-Uragaan Vest X
-GX Kita Star Jacket
-GX Umi Ocean Jacket
-G. Knight Suit X
-G. Knight Vest X
-Guild Bard Bolero X
-Guild Bard Vest X
-Helper Suit X
-Healer Vest X
-Helper Suit Z
-Healer Vest Z
-Ancient Mail X
-Ancient Vest X
-Ace Mail X
-Ace Vest X
-Sororal Mail X
-Sororal Vest X
-Strider's Girdle
-Deadeye's Girdle
-Shinobi Heaven Mask Goku
-Shinobi Land Mask Goku
-Master's Mail X
-Master's Vest X
-Grand Toka Doate
-Grand Mitsuaoi Doate
-Yaksha Raiment
-Carnage Raiment
-Helios Mail X
-Helios Vest X
-Selene Mail X
-Selene Vest X
-Kaiserin Mail
-Kaiserin Vest
-Wisdom Suit X
-Wisdom Vest X
-Research Suit
-Research Vest
-Cheerful Suit X
-Cheerful Vest X
-Barman's Suit
-Barman's Vest
-Barmaid's Suit
-Barmaid's Vest
-Barioth Mail X
-Barioth Vest X
-Seltas Mail X
-Seltas Vest X
-Rathalos Mail X
-Rathalos Vest X
-Rathalos Mail GX
-Rathalos Vest GX
-Rathalos Mail XR
-Rathalos Vest XR
-Lagiacrus Mail X
-Lagiacrus Vest X
-Lagiacrus Mail XR
-Lagiacrus Vest XR
-Zinogre Mail X
-Zinogre Vest X
-Zinogre Mail GX
-Zinogre Vest GX
-Gravios Mail X
-Gravios Vest X
-Mizutsune Mail X
-Mizutsune Vest X
-Astalos Mail X
-Astalos Vest X
-Gammoth Mail X
-Gammoth Vest X
-Glavenus Mail X
-Glavenus Vest X
-Agnaktor Mail X
-Agnaktor Vest X
-Gore Mail X
-Gore Vest X
-Gore Mail GX
-Gore Vest GX
-Gore Mail XR
-Gore Vest XR
-Regios Mail X
-Regios Vest X
-Duramboros Mail X
-Duramboros Vest X
-Tigrex Mail X
-Tigrex Vest X
-Tigrex Mail GX
-Tigrex Vest GX
-Tigrex Mail XR
-Tigrex Vest XR
-Diablos Mail X
-Diablos Vest X
-Diablos Mail XR
-Diablos Vest XR
-Kirin Jacket X
-Kirin Cape X
-Kirin Jacket XR
-Kirin Cape XR
-Brachydios Mail X
-Brachydios Vest X
-Brachydios Mail GX
-Brachydios Vest GX
-Arc Mail X
-Arc Vest X
-Storge Mail X
-Storge Vest X
-Arc Mail GX
-Arc Vest GX
-Storge Mail GX
-Storge Vest GX
-Arc Mail XR
-Arc Vest XR
-Storge Mail XR
-Storge Vest XR
-Valstrax Mail X
-Valstrax Vest X
-Grand God's Peer Robe
-Grand Hermit Robe
-Vangis Mail X
-Vangis Vest X
-Chaos Mail
-Chaos Vest
-Nephilim Mail
-Nephilim Vest
-Black Belt Mail X
-Black Belt Vest X
-Guardian Suit X
-Guardian Vest X
-Guardian Suit Z
-Guardian Vest Z
-Blue Guild Suit X
-Blue Guild Vest X
-Blue Guild Suit X
-Blue Guild Vest X
-Red Guild Suit X
-Red Guild Vest X
-Red Guild Suit X
-Red Guild Vest X
-Black Hide X
-Black Skin X
-Damascus Mail X
-Damascus Vest X
-Damascus Mail XR
-Damascus Vest XR
-Kushala Cista X
-Kushala Vise X
-Kushala Cista GX
-Kushala Vise GX
-Kushala Cista XR
-Kushala Vise XR
-Grand Mizuha Guards
-Grand Cham Camise
-Mizuha Guards GX
-Cham Camise GX
-Kaiser Mail X
-Kaiser Vest X
-Kaiser Mail GX
-Kaiser Vest GX
-Silver Solmail Z
-Silver Solvest Z
-GX Silver Solmail
-GX Silver Solvest
-Silver Solmail XR
-Silver Solvest XR
-Golden Lunemail Z
-Golden Lunevest Z
-GX Golden Lunemail
-GX Golden Lunevest
-Grand Divine Ire Haori
-Grand Crusher Garb
-Esurient Mail Z
-Esurient Vest Z
-Esurient Mail XR
-Esurient Vest XR
-Brachydium Mail
-Brachydium Vest
-Auroros Torso
-Genesis Torso
-Borealis Chest
-Glyph Chest
-Auroros Torso GX
-Genesis Torso GX
-Borealis Chest GX
-Glyph Chest GX
-Auroros Torso XR
-Genesis Torso XR
-Borealis Chest XR
-Glyph Chest XR
-Auroros Torso R
-Genesis Torso R
-Borealis Chest R
-Glyph Chest R
-Akantor Aegis X
-Akantor Plate X
-Akantor Aegis XR
-Akantor Plate XR
-Ukanlos Aegis X
-Ukanlos Plate X
-Grand Tempest Robe
-Grand Welkin Robe
-Tempest Robe XR
-Welkin Robe XR
-Grand Skeletal Sternum
-Grand Decayed Sternum
-Astral Suit X
-Astral Vest X
-Neset Mail
-Neset Vest
-Dragonhide
-Dragonskin
-Escadora Soul X
-Escadora Seele X
-Escadora Soul XR
-Escadora Seele XR
-Fatalis Crimsonhide
-Fatalis Crimsonskin
-GX Fatalis Crimsonhide
-GX Fatalis Crimsonskin
-Fatalis Crimsonhide XR
-Fatalis Crimsonskin XR
-Old Fatalis Hide
-Old Fatalis Skin
-GX Old Fatalis Hide
-GX Old Fatalis Skin
-Strange Mail
-Strange Vest
-Strange Mail X
-Strange Vest X
-Redhelm Mail LV1
-Redhelm Vest LV1
-Redhelm Mail LV6
-Redhelm Vest LV6
-Redhelm Mail LV14
-Redhelm Vest LV14
-Snowbaron Mail LV1
-Snowbaron Vest LV1
-Snowbaron Mail LV6
-Snowbaron Vest LV6
-Snowbaron Mail LV14
-Snowbaron Vest LV14
-Stonefist Mail LV1
-Stonefist Vest LV1
-Stonefist Mail LV6
-Stonefist Vest LV6
-Stonefist Mail LV14
-Stonefist Vest LV14
-Dreadqueen Mail LV1
-Dreadqueen Vest LV1
-Dreadqueen Mail LV6
-Dreadqueen Vest LV6
-Dreadqueen Mail LV14
-Dreadqueen Vest LV14
-Drilltusk Mail LV1
-Drilltusk Vest LV1
-Drilltusk Mail LV6
-Drilltusk Vest LV6
-Drilltusk Mail LV14
-Drilltusk Vest LV14
-Silverwind Mail LV1
-Silverwind Vest LV1
-Silverwind Mail LV6
-Silverwind Vest LV6
-Silverwind Mail LV14
-Silverwind Vest LV14
-Crystalbeard Mail LV1
-Crystalbeard Vest LV1
-Crystalbeard Mail LV6
-Crystalbeard Vest LV6
-Crystalbeard Mail LV14
-Crystalbeard Vest LV14
-Deadeye Mail LV1
-Deadeye Vest LV1
-Deadeye Mail LV6
-Deadeye Vest LV6
-Deadeye Mail LV14
-Deadeye Vest LV14
-Dreadking Mail LV1
-Dreadking Vest LV1
-Dreadking Mail LV6
-Dreadking Vest LV6
-Dreadking Mail LV14
-Dreadking Vest LV14
-Thunderlord Mail LV1
-Thunderlord Vest LV1
-Thunderlord Mail LV6
-Thunderlord Vest LV6
-Thunderlord Mail LV14
-Thunderlord Vest LV14
-Grimclaw Mail LV1
-Grimclaw Vest LV1
-Grimclaw Mail LV6
-Grimclaw Vest LV6
-Grimclaw Mail LV14
-Grimclaw Vest LV14
-Hellblade Mail LV1
-Hellblade Vest LV1
-Hellblade Mail LV6
-Hellblade Vest LV6
-Hellblade Mail LV14
-Hellblade Vest LV14
-Nightcloak Mail LV1
-Nightcloak Vest LV1
-Nightcloak Mail LV4
-Nightcloak Vest LV4
-Rustrazor Mail LV1
-Rustrazor Vest LV1
-Rustrazor Mail LV4
-Rustrazor Vest LV4
-Soulseer Mail LV1
-Soulseer Vest LV1
-Soulseer Mail LV4
-Soulseer Vest LV4
-Boltreaver Mail LV1
-Boltreaver Vest LV1
-Boltreaver Mail LV4
-Boltreaver Vest LV4
-Elderfrost Mail LV1
-Elderfrost Vest LV1
-Elderfrost Mail LV4
-Elderfrost Vest LV4
-Bloodbath Mail LV1
-Bloodbath Vest LV1
-Bloodbath Mail LV4
-Bloodbath Vest LV4
-Promising Plate
-Halcyon Plate
-Lucid Robe
-Dreamy Robe
-Arcfire Dogi
-Bonfire Dogi
-Waka Dogi
-Wagaku Dogi
-Gudetama Body Tights
-Gudetama Body Suit
-Pirate Suit J
-Pirate Jacket J
-Buccaneer Suit J
-Buccaneer Jacket J
-Zodias Mail
-Zodias Vest
-Booyah Jacket
-Booyah Bomber
-Biker Jacket
-Biker Leather
-Ultimate Garb
-Ultimate Attire
-Champion's Body
-Strongman's Body
-Dynaqlo Coat
-Dynaqlo Jacket
-Blue Star Suit
-Blue Star Jacket
-Star Knight Mail
-Star Knight Vest
-Star Rook Mail
-Star Rook Vest
-Promising Archplate
-Halcyon Archplate
-Lucid Archrobe
-Dreamy Archrobe
-Ruler Arcfire Dogi
-Ruler Bonfire Dogi
-Ruler Waka Dogi
-Ruler Wagaku Dogi
-Gudetama Body Tights S
-Gudetama Body Suit S
-Varia Suit Armor
-Varia Suit Barrier
-Zero Suit Body
-Zero Suit Wear
-Hero's Clothes
-Hero's Tunic
-Lodestar Suit
-Lodestar Vest
-Mail of Rage
-Vest of Rage
-Mail of Anat
-Vest of Anat
-Rider Jacket
-Rider Leather
-X Gammoth Jacket
-X Gammoth Jersey
-X Mizutsune Jacket
-X Mizutsune Jersey
-X Dino Jacket
-X Dino Jersey
-X Astalos Jacket
-X Astalos Jersey
-Hiryu Sky Suit
-Hiryu Land Suit
-Gon Mail
-Gon Vest
-Criminal Suit
-Criminal Body
-Supreme Arcfire Dogi
-Supreme Bonfire Dogi
-Supreme Waka Dogi
-Supreme Wagaku Dogi
-Garo Plate
-Garo Mail
-Blue Tunic
-Blue Jerkin
-XX Valstrax Jacket
-XX Valstrax Jersey
-XX Diablos Jacket
-XX Diablos Jersey
+﻿Veste en cuir
+Veste de mailles
+Cotte Bherna
+Cotte Fauconnier
+Tunique Fauconnier
+Gilet Mafumofu
+Dogi Yukumo
+Foulard Loc Lac
+Cotte de chasseur
+Tunique de chasseur
+Cotte d'os
+Tunique d'os
+Plaque du chaos
+Brigandine chaos
+Cotte Jaggi
+Tunique Jaggi
+Cotte Maccao
+Tunique Maccao
+Cotte Velociprey
+Tunique Velociprey
+Cotte Giaprey
+Tunique Giaprey
+Cotte Genprey
+Tunique Genprey
+Cotte Vespoid
+Tunique Vespoid
+Cotte Hornet
+Tunique Hornet
+Tenue Bnahabra
+Veste Bnahabra
+Poitrine Mosswine
+Cotte Rhenoplos
+Tunique Rhenoplos
+Cotte Bulldrome
+Tunique Bulldrome
+Cotte Arzuros
+Tunique Arzuros
+Cotte Cephalos
+Tunique Cephalos
+Veste de bravoure
+Cotte en alliage
+Tunique en alliage
+Cotte de combat
+Tunique de combat
+Cotte en lingot
+Tunique en lingot
+Cotte haut-métal
+Tunique haut-métal
+Gilet Melahoa
+Tige Melahoa
+Poncho Makluva
+Écaille Makluva
+Tenue de bistro
+Veste de bistro
+Thorax Nécrologie
+Pleuron Nécrologie
+Thorax Papillon
+Pleuron Papillon
+Muscle putride
+Cœur putride
+Cotte Châtaigne
+Tunique Châtaigne
+Corset Mosgharl
+Pansière Mosgharl
+Corset Edel
+Pansière Edel
+Thorax Skalda
+Pleuron Skalda
+Thorax Spio
+Pleuron Spio
+Cotte Droth
+Tunique Droth
+Doate Uroktor
+Tunique Uroktor
+Tenue Moofah
+Veste Moofah
+Plastron Velociprey
+Tenue Velociprey
+Plastron Genprey
+Tenue Genprey
+Plastron Ioprey
+Vêtement Ioprey
+Plastron Remobra
+Vêtement Remobra
+Cotte Ioprey
+Tunique Ioprey
+Cotte Kut-Ku
+Tunique Kut-Ku
+Cotte Lagombi
+Tunique Lagombi
+Cotte Gypceros
+Tunique Gypceros
+Cotte Tetsucabra
+Tunique Tetsucabra
+Cotte Hermitaur
+Tunique Hermitaur
+Cotte Volvidon
+Tunique Volvidon
+Cotte Ludroth
+Tunique Ludroth
+Cotte Malfestio
+Tunique Malfestio
+Cotte Khezu
+Tunique Khezu
+Cotte Rathian
+Tunique Rathian
+Cotte Nibelsnarf
+Tunique Nibelsnarf
+Cotte Blango
+Tunique Blango
+Cotte Ceanataur
+Tunique Ceanataur
+Cotte Najarala
+Tunique Najarala
+Cotte Nargacuga
+Tunique Nargacuga
+Tenue du savoir
+Tunique du savoir
+Cotte Vaik
+Tunique Vaik
+Thorax Aelucanth
+Pleuron Aelucanth
+Thorax Rhopessa
+Pleuron Rhopessa
+Cotte Artian
+Tunique Artian
+Cotte Garuga
+Tunique Garuga
+Cotte Uragaan
+Tunique Uragaan
+Cotte Rathalos
+Tunique Rathalos
+Cotte Lagiacrus
+Tunique Lagiacrus
+Cotte Zinogre
+Tunique Zinogre
+Cotte Mizutsune
+Tunique Mizutsune
+Cotte Astalos
+Tunique Astalos
+Cotte Gammoth
+Tunique Gammoth
+Cotte Glavenus
+Tunique Glavenus
+Cotte Gore
+Tunique Gore
+Cotte Regios
+Tunique Regios
+Cotte Tigrex
+Tunique Tigrex
+Veste Kirin
+Cape Kirin
+Cotte Brachydios
+Tunique Brachydios
+Cotte Archange
+Tunique Archange
+Cotte Philia
+Tunique Philia
+Cista Kushala
+Étau Kushala
+Muneate Mizuha
+Muneate fantasque
+Cotte Kaiser
+Tunique Kaiser
+Sternum squelette
+Sternum ancien
+Cuir noir
+Peau noire
+Cotte obi noir
+Tunique obi noir
+Boléro de barde
+Veste de barde
+Tenue Soubrette
+Veste Gothic Lolita
+Tenue Servante
+Veste Guérisseuse
+Veste Dianthus
+Veste Campanile
+Robe de bain
+Tenue Gourmiaou
+Tunique Gourmiaou
+Cotte en cuir S
+Tunique en cuir S
+Cotte de mailles S
+Tunique de mailles S
+Cotte Bherna S
+Tunique Bherna S
+Cotte Fauconnier S
+Tunique Fauconnier S
+Tenue Mafumofu S
+Gilet Mafumofu S
+Dogi Yukumo Ciel
+Dogi Yukumo Terre
+Foulard Loc Lac S
+Cotte de chasseur S
+Tunique chasseur S
+Cotte chasseur R
+Tunique chasseur R
+Cotte d'os S
+Tunique d'os S
+Muneate du chaos
+Jaseran du chaos
+Veste Melahoa S
+Tige Melahoa S
+Gilet Melahoa U
+Tige Melahoa U
+Poncho Makluva S
+Écaille Makluva S
+Poncho Makluva U
+Écaille Makluva U
+Tenue de bistro S
+Tunique bistro S
+Cotte Châtaigne S
+Tunique Châtaigne S
+Corset Mosgharl S
+Pansière Mosgharl S
+Corset Edel S
+Pansière Edel S
+Tenue Moofah S
+Veste Moofah S
+Manteau Slagtoth
+Cape Slagtoth
+Plastron Velocip S
+Tenue Velociprey S
+Plastron Giaprey
+Vêtement Giaprey
+Plastron Genprey S
+Tenue Genprey S
+Plastron Ioprey S
+Vêtement Ioprey S
+Plastron Remobra S
+Vêtement Remobra S
+Plaque Mosswine S
+Cotte Rhenoplos S
+Tunique Rhenoplos S
+Cotte Jaggi S
+Tunique Jaggi S
+Cotte Droth S
+Tunique Droth S
+Doate Uroktor S
+Tunique Uroktor S
+Cotte Maccao S
+Tunique Maccao S
+Cotte Velociprey S
+Tunique Velociprey S
+Cotte Giaprey S
+Tunique Giaprey S
+Cotte Genprey S
+Tunique Genprey S
+Cotte Genprey EX
+Tunique Genprey EX
+Cotte Ioprey S
+Tunique Ioprey S
+Cotte Ioprey EX
+Tunique Ioprey EX
+Cotte Vespoid S
+Tunique Vespoid S
+Cotte Vespoid EX
+Tunique Vespoid EX
+Cotte Hornet S
+Tunique Hornet S
+Cotte Hornetaur EX
+Tunique Hornet EX
+Cotte Hornetaur R
+Tunique Hornet R
+Tenue Bnahabra S
+Veste Bnahabra S
+Cotte Bulldrome S
+Tunique Bulldro S
+Cotte Arzuros S
+Tunique Arzuros S
+Cotte Cephalos S
+Tunique Cephalos S
+Cotte Cephalos EX
+Tunique Cephal EX
+Cotte Kut-Ku S
+Tunique Kut-Ku S
+Cotte Kecha
+Tunique Kecha
+Cotte Lagombi S
+Tunique Lagombi S
+Cotte Gypceros S
+Tunique Gypceros S
+Cotte Gypceros R
+Tunique Gypceros R
+Cotte Tetsucabra S
+Tunique Tetsucabra S
+Cotte Hermitaur S
+Tunique Hermitaur S
+Cotte Hermitaur EX
+Tunique Hermit EX
+Cotte Hermitaur R
+Tunique Hermit R
+Cotte Volvidon S
+Tunique Volvidon S
+Cotte Conga
+Tunique Conga
+Cotte Ludroth S
+Tunique Ludroth S
+Cotte Ludroth R
+Tunique Ludroth R
+Cotte Barroth
+Tunique Barroth
+Tenue d'érudite
+Veste d'érudite
+Cotte en alliage S
+Tunique en alliage S
+Cotte en alliage R
+Tunique alliage R
+Cotte de combat S
+Tunique de combat S
+Cotte en lingot S
+Tunique en lingot S
+Cotte en lingot R
+Tunique lingot R
+Cotte haut-métal S
+Tunique haut-métal S
+Cotte haut-métal U
+Tunique haut-métal U
+Coquille Homard
+Peau Homard
+Thorax Nécrologie S
+Pleuron Nécrologie S
+Thorax Papillon S
+Pleuron Papillon S
+Muscle putride S
+Cœur putride S
+Muscle putride R
+Cœur putride R
+Cotte Vaik S
+Tunique Vaik S
+Thorax Aelucanth S
+Pleuron Aelucan S
+Thorax Rhopessa S
+Pleuron Rhopessa S
+Tenue de pâtissier
+Veste de pâtissier
+Thorax Skalda S
+Pleuron Skalda S
+Thorax Spio S
+Pleuron Spio S
+Cotte Basarios
+Tunique Basarios
+Cotte Malfestio S
+Tunique Malfestio S
+Cotte Zamtrios
+Tunique Zamtrios
+Cotte Khezu S
+Tunique Khezu S
+Cotte Khezu R
+Tunique Khezu R
+Cotte Nerscylla
+Tunique Nerscylla
+Cotte Rathian S
+Tunique Rathian S
+Cotte Rathian EX
+Tunique Rathian EX
+Cotte Rathian R
+Tunique Rathian R
+Cotte Nibelsnarf S
+Tunique Nibelsnarf S
+Cotte Plesioth
+Tunique Plesioth
+Cotte Blango S
+Tunique Blango S
+Cotte Blango EX
+Tunique Blango EX
+Cotte Lavasioth
+Tunique Lavasioth
+Cotte Lavasioth EX
+Tunique Lavasioth EX
+Cotte Ceanataur S
+Tunique Ceanataur S
+Cotte Ceanataur EX
+Tunique Ceanataur EX
+Cotte Ceanataur R
+Tunique Ceanataur R
+Cotte Najarala S
+Tunique Najarala S
+Cotte Narga S
+Tunique Narga S
+Cotte Garuga S
+Tunique Garuga S
+Cotte Uragaan S
+Tunique Uragaan S
+Cotte obi noir S
+Tunique obi noir S
+Tenue Gardien
+Veste Gardien
+Tenue Gardien U
+Veste Gardien U
+Blouse de clerc
+Veste de clerc
+Tenue de marin
+Veste de marin
+Robe de bain luxe
+Pèlerine Hokushin
+Pèlerine Océan
+Cotte de bravoure S
+Tunique bravoure S
+Cotte Dober
+Tunique Dober
+Cotte Damascus
+Tunique Damascus
+Cotte Damascus R
+Tunique Damascus R
+Cotte Artian S
+Tunique Artian S
+Cotte Artian R
+Tunique Artian R
+Cotte Barioth
+Tunique Barioth
+Cotte Seltas
+Tunique Seltas
+Cotte Rathalos S
+Tunique Rathalos S
+Cotte Rathalos EX
+Tunique Rathalos EX
+Cotte Rathalos R
+Tunique Rathalos R
+Cotte Lagiacrus S
+Tunique Lagiacrus S
+Cotte Lagiacrus R
+Tunique Lagiacrus R
+Cotte Zinogre S
+Tunique Zinogre S
+Cotte Zinogre EX
+Tunique Zinogre EX
+Cotte Gravios
+Tunique Gravios
+Cotte Mizutsune S
+Tunique Mizutsune S
+Cotte Astalos S
+Tunique Astalos S
+Cotte Gammoth S
+Tunique Gammoth S
+Cotte Glavenus S
+Tunique Glavenus S
+Cotte Agnaktor
+Tunique Agnaktor
+Cotte Gore S
+Tunique Gore S
+Cotte Gore EX
+Tunique Gore EX
+Cotte Gore R
+Tunique Gore R
+Cotte Regios S
+Tunique Regios S
+Cotte Duramboros
+Tunique Duramboros
+Cotte Tigrex S
+Tunique Tigrex S
+Cotte Tigrex EX
+Tunique Tigrex EX
+Cotte Tigrex R
+Tunique Tigrex R
+Veste Kirin S
+Cape Kirin S
+Veste Kirin R
+Cape Kirin R
+Cotte Brachydios S
+Tunique Brachydios S
+Cotte Brachydi EX
+Tunique Brachydios EX
+Haori d'or
+Habit Kuroko
+Cotte Vangis
+Tunique Vangis
+Tenue Chevalier
+Veste Chevalier
+Tenue Soubrette S
+Veste Gothic Lolita S
+Tenue de Guilde (BL)
+Veste de Guilde (BL)
+Tenue de Guilde (BL)
+Veste de Guilde (BL)
+Tenue de Guilde (RG)
+Veste de Guilde (RG)
+Tenue de Guilde (RG)
+Veste de Guilde (RG)
+Tenue Servante S
+Veste Guérisseuse S
+Tenue Servante U
+Veste Guérisseuse U
+Boléro de barde S
+Veste de barde S
+Collier Chakra
+Kimono Dianthus S
+Kimono Campanile S
+Cotte As de chasse
+Tunique As de chasse
+Cotte Amazone
+Tunique Amazone
+Tenue Faucon
+Veste Faucon
+Tenue Gourmiaou S
+Tunique Gourmiaou S
+Tenue du savoir S
+Tunique du savoir S
+Domaki de ranger
+Domaki d'archer
+Habit Shinobi Cieux
+Habit Shinobi Terre
+Habit Shinobi Vent
+Habit Shinobi Eau
+Cotte antique
+Tunique antique
+Cotte de maître
+Tunique de maître
+Cuir noir S
+Peau noire S
+Doate Toka
+Doate Mitsuaoi
+Tenue de sagesse
+Veste de sagesse
+Tenue de gaieté
+Veste de gaieté
+Tenue de marin
+Veste de marin
+Cotte Rathian EX S
+Tunique Rathi EX S
+Cotte Ratha EX S
+Tunique Ratha EX S
+Cotte Tigrex EX S
+Tunique Tigr EX S
+Cotte Diablos
+Tunique Diablos
+Cotte Diablos R
+Tunique Diablos R
+Cotte Archange S
+Tunique Archange S
+Cotte Philia S
+Tunique Philia S
+Cotte Archange EX
+Tunique Archan EX
+Cotte Philia EX
+Tunique Philia EX
+Cotte Archange R
+Tunique Archange R
+Cotte Philia R
+Tunique Philia R
+Cotte Valstrax
+Tunique Valstrax
+Cista Kushala S
+Étau Kushala S
+Cista Kushala EX
+Étau Kushala EX
+Cista Kushala R
+Étau Kushala R
+Muneate Mizuha H
+Muneate fantasque H
+Muneate Mizuha EX
+Muneate fantasque EX
+Cotte Kaiser S
+Tunique Kaiser S
+Cotte Kaiser EX
+Tunique Kaiser EX
+Cotte Solargent
+Tunique Solargent
+Cotte Solargent EX
+Tunique Solarg EX
+Cotte Solargent R
+Tunique Solarg R
+Cotte Lunedor
+Tunique Lunedor
+Cotte Lunedor EX
+Tunique Lunedor EX
+Haori Ire divine
+Habit Brise-esprit
+Cotte Voracité
+Tunique Voracité
+Cotte Voracité R
+Tunique Voracité R
+Aegis Akantor
+Plaque Akantor
+Aegis Akantor R
+Plaque Akantor R
+Aegis Ukanlos
+Plaque Ukanlos
+Robe Tempête
+Robe céleste
+Robe Tempête R
+Robe céleste R
+Sternum squelette R
+Sternum ancien R
+Tenue astrale
+Tunique astrale
+Âme Escadora
+Ardeur Escadora
+Âme Escadora R
+Ardeur Escadora R
+Cotte en cuir X
+Tunique en cuir X
+Cotte de mailles X
+Tunique de mailles X
+Cotte Bherna X
+Tunique Bherna X
+Cotte Fauconnier X
+Tunique Fauconnier X
+Tenue Mafumofu X
+Gilet Mafumofu X
+Dogi Yukumo Ciel Z
+Dogi Yukumo Terre Z
+Robe de bain chic 
+Foulard Loc Lac X
+Cotte de chasseur X
+Tunique chasseur X
+Cotte de chasseur XR
+Tunique chasseur XR
+Cotte d'os X
+Tunique d'os X
+Plaque du chaos X
+Brigandine chaos X
+Veste Melahoa X
+Tige Melahoa X
+Gilet Melahoa Z
+Tige Melohoa Z
+Poncho Makluva X
+Écaille Makluva X
+Poncho Makluva Z
+Écaille Makluva Z
+Thorax Nécrologie X
+Pleuron Nécrologie X
+Thorax Papillon X
+Pleuron Papillon X
+Muscle putride X
+Cœur putride X
+Muscle putride XR
+Cœur putride XR
+Cotte Châtaigne X
+Tunique Châtaigne X
+Corset Mosgharl X
+Pansière Mosgharl X
+Corset Edel X
+Pansière Edel X
+Thorax Skalda X
+Pleuron Skalda X
+Thorax Spio X
+Pleuron Spio X
+Cotte en alliage X
+Tunique en alliage X
+Cotte en alliage XR
+Tunique en alliage XR
+Cotte de combat X
+Tunique de combat X
+Cotte en lingot X
+Tunique en lingot X
+Cotte en lingot XR
+Tunique en lingot XR
+Cotte haut-métal X
+Tunique haut-métal X
+Cotte haut-métal Z
+Tunique haut-métal Z
+Coquille Homard X
+Peau Homard X
+Cotte Vaik X
+Tunique Vaik X
+Tenue de bistro X
+Veste de bistro X
+Tenue de pâtissier X
+Veste de pâtissier X
+Tenue Gourmiaou X
+Tunique Gourmiaou X
+Thorax Aelucanth X
+Pleuron Aelucanth X
+Thorax Rhopessa X
+Pleuron Rhopessa X
+Tenue d'érudite X
+Veste d'érudite X
+Cotte de bravoure X
+Tunique bravoure X
+Cotte Artian X
+Tunique Artian X
+Cotte Artian XR
+Tunique Artian XR
+Tenue de soubrette X
+Veste Gothic Lolita X
+Kimono Dianthus X
+Kimono Campanile X
+Tenue Faucon X
+Veste Faucon X
+Tenue du savoir X
+Tunique du savoir X
+Cotte Dober X
+Tunique Dober X
+Blouse de clerc X
+Veste de clerc X
+Tenue de marin X
+Veste de marin X
+Tenue de matelot
+Veste de matelot
+Manteau Slagtoth X
+Cape Slagtoth X
+Cotte Jaggi X
+Tunique Jaggi X
+Cotte Maccao X
+Tunique Maccao X
+Cotte Velociprey X
+Tunique Velociprey X
+Cotte Giaprey X
+Tunique Giaprey X
+Cotte Genprey X
+Tunique Genprey X
+Cotte Genprey GX
+Tunique Genprey GX
+Cotte Vespoid X
+Tunique Vespoid X
+Cotte Vespoid GX
+Tunique Vespoid GX
+Cotte Hornetaur X
+Tunique Hornetaur X
+Cotte Hornet GX
+Tunique Hornet GX
+Cotte Hornet XR
+Tunique Hornet XR
+Tenue Bnahabra X
+Veste Bnahabra X
+Poitrine Mosswine X
+Cotte Rhenoplos X
+Tunique Rhenoplos X
+Cotte Bulldrome X
+Tunique Bulldrome X
+Cotte Arzuros X
+Tunique Arzuros X
+Cotte Cephalos X
+Tunique Cephalos X
+Cotte Cephalos GX
+Tunique Cephalos GX
+Cotte Droth X
+Tunique Droth X
+Doate Uroktor X
+Tunique Uroktor X
+Tenue Moofah X
+Veste Moofah X
+Plastron Velociprey X
+Tenue Velociprey X
+Plastron Giaprey X
+Tenue Giaprey X
+Plastron Genprey X
+Tenue Genprey X
+Plastron Ioprey X
+Vêtement Ioprey X
+Plastron Remobra X
+Vêtement Remobra X
+Cotte Ioprey X
+Tunique Ioprey X
+Cotte Ioprey GX
+Tunique Ioprey GX
+Cotte Kut-Ku X
+Tunique Kut-Ku X
+Cotte Kecha X
+Tunique Kecha X
+Cotte Lagombi X
+Tunique Lagombi X
+Cotte Gypceros X
+Tunique Gypceros X
+Cotte Gypceros XR
+Tunique Gypceros XR
+Cotte Tetsucabra X
+Tunique Tetsucabra X
+Cotte Hermitaur X
+Tunique Hermitaur X
+Cotte Hermitaur GX
+Tunique Hermitaur GX
+Cotte Hermitaur XR
+Tunique Hermitaur XR
+Cotte Volvidon X
+Tunique Volvidon X
+Cotte Conga X
+Tunique Conga X
+Cotte Conga GX
+Tunique Conga GX
+Cotte Ludroth X
+Tunique Ludroth X
+Cotte Ludroth XR
+Tunique Ludroth XR
+Cotte Barroth X
+Tunique Barroth X
+Cotte Basarios X
+Tunique Basarios X
+Cotte Malfestio X
+Tunique Malfestio X
+Cotte Zamtrios X
+Tunique Zamtrios X
+Cotte Khezu X
+Tunique Khezu X
+Cotte Khezu XR
+Tunique Khezu XR
+Cotte Nerscylla X
+Tunique Nerscylla X
+Cotte Rathian X
+Tunique Rathian X
+Cotte Rathian GX
+Tunique Rathian GX
+Cotte Rathian XR
+Tunique Rathian XR
+Cotte Nibelsnarf X
+Tunique Nibelsnarf X
+Cotte Plesioth X
+Tunique Plesioth X
+Cotte Blango X
+Tunique Blango X
+Cotte Blango GX
+Tunique Blango GX
+Cotte Lava X
+Tunique Lava X
+Cotte Lavasioth GX
+Tunique Lavasioth GX
+Cotte Ceanataur X
+Tunique Ceanataur X
+Cotte Ceanataur GX
+Tunique Ceanataur GX
+Cotte Ceanataur XR
+Tunique Ceanataur XR
+Cotte Najarala X
+Tunique Najarala X
+Cotte Nargacuga X
+Tunique Nargacuga X
+Cotte Garuga X
+Tunique Garuga X
+Cotte Uragaan X
+Tunique Uragaan X
+Pèlerine Hokushin GX
+Pèlerine Océan GX
+Tenue Chevalier X
+Veste Chevalier X
+Boléro de barde X
+Veste de barde X
+Tenue Servante X
+Veste Guérisseuse X
+Tenue Servante Z
+Veste Guérisseuse Z
+Cotte antique X
+Tunique antique X
+Cotte As de chasse X
+Tunique As de chasse X
+Cotte Amazone X
+Tunique Amazone X
+Domaki de rôdeur
+Domaki d'espion
+Masque Shinobi Cieux Z
+Masque Shinobi Terre Z
+Cotte de maître X
+Tunique de maître X
+Doate Toka X
+Doate Mitsuaoi X
+Hagoromo Spectre
+Hagoromo Carnage
+Cotte Helios X
+Tunique Helios X
+Cotte Selene X
+Tunique Selene X
+Cotte Kaiserin
+Tunique Kaiserin
+Tenue de sagesse X
+Veste de sagesse X
+Tenue de chercheuse
+Tunique de chercheuse
+Tenue de gaieté X
+Veste de gaieté X
+Tenue chic
+Veste chic
+Tenue gracieuse
+Veste gracieuse
+Cotte Barioth X
+Tunique Barioth X
+Cotte Seltas X
+Tunique Seltas X
+Cotte Rathalos X
+Tunique Rathalos X
+Cotte Rathalos GX
+Tunique Rathalos GX
+Cotte Rathalos XR
+Tunique Rathalos XR
+Cotte Lagiacrus X
+Tunique Lagiacrus X
+Cotte Lagiacrus XR
+Tunique Lagiacrus XR
+Cotte Zinogre X
+Tunique Zinogre X
+Cotte Zinogre GX
+Tunique Zinogre GX
+Cotte Gravios X
+Tunique Gravios X
+Cotte Mizutsune X
+Tunique Mizutsune X
+Cotte Astalos X
+Tunique Astalos X
+Cotte Gammoth X
+Tunique Gammoth X
+Cotte Glavenus X
+Tunique Glavenus X
+Cotte Agnaktor X
+Tunique Agnaktor X
+Cotte Gore X
+Tunique Gore X
+Cotte Gore GX
+Tunique Gore GX
+Cotte Gore XR
+Tunique Gore XR
+Cotte Regios X
+Tunique Regios X
+Cotte Duramboros X
+Tunique Duramboros X
+Cotte Tigrex X
+Tunique Tigrex X
+Cotte Tigrex GX
+Tunique Tigrex GX
+Cotte Tigrex XR
+Tunique Tigrex XR
+Cotte Diablos X
+Tunique Diablos X
+Cotte Diablos XR
+Tunique Diablos XR
+Veste Kirin X
+Cape Kirin X
+Veste Kirin XR
+Cape Kirin XR
+Cotte Brachydios X
+Tunique Brachydios X
+Cotte Brachydios GX
+Tunique Brachydios GX
+Cotte Archange X
+Tunique Archange X
+Cotte Philia X
+Tunique Philia X
+Cotte Archange GX
+Tunique Archange GX
+Cotte Philia GX
+Tunique Philia GX
+Cotte Archange XR
+Tunique Archange XR
+Cotte Philia XR
+Tunique Philia XR
+Cotte Valstrax X
+Tunique Valstrax X
+Robe du prophète X
+Robe de l'hermite X
+Cotte Vangis X
+Tunique Vangis X
+Cotte du chaos
+Tunique du chaos
+Cotte Nephilim
+Tunique Nephilim
+Cotte obi noir X
+Tunique obi noir X
+Tenue Gardien X
+Veste Gardien X
+Tenue Gardien Z
+Veste Gardien Z
+Tenue de Guilde X (BL)
+Veste de Guilde X (BL)
+Tenue de Guilde X (BL)
+Veste de Guilde X (BL)
+Tenue de Guilde X (RG)
+Veste de Guilde X (RG)
+Tenue de Guilde X (RG)
+Veste de Guilde X (RG)
+Cuir noir X
+Peau noire X
+Cotte Damascus X
+Tunique Damascus X
+Cotte Damascus XR
+Tunique Damascus XR
+Cista Kushala X
+Étau Kushala X
+Cista Kushala GX
+Étau Kushala GX
+Cista Kushala XR
+Étau Kushala XR
+Muneate Mizuha X
+Muneate fantasque X
+Muneate Mizuha GX
+Muneate fantasque GX
+Cotte Kaiser X
+Tunique Kaiser X
+Cotte Kaiser GX
+Tunique Kaiser GX
+Cotte Solargent Z
+Tunique Solargent Z
+Cotte Solargent GX
+Tunique Solargent GX
+Cotte Solargent XR
+Tunique Solargent XR
+Cotte Lunedor Z
+Tunique Lunedor Z
+Cotte Lunedor GX
+Tunique Lunedor GX
+Haori Ire divine X
+Habit Brise-esprit X
+Cotte Voracité Z
+Tunique Voracité Z
+Cotte Voracité XR
+Tunique Voracité XR
+Cotte Brachydium
+Tunique Brachydium
+Doate Auroros
+Doate Genesis
+Muneate Borealis
+Muneate Glyphe
+Doate Auroros GX
+Doate Genesis GX
+Muneate Borealis GX
+Muneate Glyphe GX
+Doate Auroros XR
+Doate Genesis XR
+Muneate Borealis XR
+Muneate Glyphe XR
+Doate Auroros R
+Doate Genesis R
+Muneate Borealis R
+Muneate Glyphe R
+Aegis Akantor X
+Plaque Akantor X
+Aegis Akantor XR
+Plaque Akantor XR
+Aegis Ukanlos X
+Plaque Ukanlos X
+Robe Tempête X
+Robe céleste X
+Robe Tempête XR
+Robe céleste XR
+Sternum squelette X
+Sternum ancien X
+Tenue astrale X
+Tunique astrale X
+Cotte Neset
+Tenue Neset
+Cuir-de-dragon
+Peau-de-dragon
+Âme Escadora X
+Ardeur Escadora X
+Âme Escadora XR
+Ardeur Escadora XR
+Cuir Fatalis rouge
+Peau Fatalis rouge
+Cuir Fatalis rouge GX
+Peau Fatalis rouge GX
+Cuir Fatalis rouge XR
+Peau Fatalis rouge XR
+Cuir Fatalis ancien
+Peau Fatalis ancien
+Cuir Fatalis ancien GX
+Peau Fatalis ancien GX
+Cotte étrange
+Tunique étrange
+Cotte étrange X
+Tunique étrange X
+Cotte Crâne-ardent LV1
+Tunique Crâne-ardent LV1
+Cotte Crâne-ardent LV6
+Tunique Crâne-ardent LV6
+Cotte Crâne-ardent LV14
+Tunique Crâne-ardent LV14
+Cotte Maître-neige LV1
+Tunique Maître-neige LV1
+Cotte Maître-neige LV6
+Tunique Maître-neige LV6
+Cotte Maître-neige LV14
+Tunique Maître-neige LV14
+Cotte Poing-fer LV1
+Tunique Poing-fer LV1
+Cotte Poing-fer LV6
+Tunique Poing-fer LV6
+Cotte Poing-fer LV14
+Tunique Poing-fer LV14
+Cotte Reine-poison LV1
+Tunique Reine-poison LV1
+Cotte Reine-poison LV6
+Tunique Reine-poison LV6
+Cotte Reine-poison LV14
+Tunique Reine-poison LV14
+Cotte Brise-roc LV1
+Tunique Brise-roc LV1
+Cotte Brise-roc LV6
+Tunique Brise-roc LV6
+Cotte Brise-roc LV14
+Tunique Brise-roc LV14
+Cotte Vent-acier LV1
+Tunique Vent-acier LV1
+Cotte Vent-acier LV6
+Tunique Vent-acier LV6
+Cotte Vent-acier LV14
+Tunique Vent-acier LV14
+Cotte Roi-cristal LV1
+Tunique Roi-cristal LV1
+Cotte Roi-cristal LV6
+Tunique Roi-cristal LV6
+Cotte Roi-cristal LV14
+Tunique Roi-cristal LV14
+Cotte Œil-mort LV1
+Tunique Œil-mort LV1
+Cotte Œil-mort LV6
+Tunique Œil-mort LV6
+Cotte Œil-mort LV14
+Tunique Œil-mort LV14
+Cotte Roi-enfer LV1
+Tunique Roi-enfer LV1
+Cotte Roi-enfer LV6
+Tunique Roi-enfer LV6
+Cotte Roi-enfer LV14
+Tunique Roi-enfer LV14
+Cotte Feu-du-ciel LV1
+Tunique Feu-du-ciel LV1
+Cotte Feu-du-ciel LV6
+Tunique Feu-du-ciel LV6
+Cotte Feu-du-ciel LV14
+Tunique Feu-du-ciel LV14
+Cotte Griffe-sombre LV1
+Tunique Griffe-sombre LV1
+Cotte Griffe-sombre LV6
+Tunique Griffe-sombre LV6
+Cotte Griffe-sombre LV14
+Tunique Griffe-sombre LV14
+Cotte Lame-chaos LV1
+Tunique Lame-chaos LV1
+Cotte Lame-chaos LV6
+Tunique Lame-chaos LV6
+Cotte Lame-chaos LV14
+Tunique Lame-chaos LV14
+Cotte Lune-noire LV1
+Tunique Lune-noire LV1
+Cotte Lune-noire LV4
+Tunique Lune-noire LV4
+Cotte Brise-os LV1
+Tunique Brise-os LV1
+Cotte Brise-os LV4
+Tunique Brise-os LV4
+Cotte Perce-âme LV1
+Tunique Perce-âme LV1
+Cotte Perce-âme LV4
+Tunique Perce-âme LV4
+Cotte Prince-orage LV1
+Tunique Prince-orage LV1
+Cotte Prince-orage LV4
+Tunique Prince-orage LV4
+Cotte Givre-ancien LV1
+Tunique Givre-ancien LV1
+Cotte Givre-ancien LV4
+Tunique Givre-ancien LV4
+Cotte Bain-de-sang LV1
+Tunique Bain-de-sang LV1
+Cotte Bain-de-sang LV4
+Tunique Bain-de-sang LV4
+Muneate cosmique
+Muneate Halcyon
+Robe des étoiles
+Robe des rêves
+Dogi Arcfire
+Dogi Feu de joie
+Dogi Waka
+Dogi Wagaku
+Cotte Gudegude
+Tunique Gudegude
+Tenue du pirate J
+Veste du pirate J
+Tenue du boucanier J
+Veste du boucanier J
+Cotte Zodias
+Tunique Zodias
+Blouson Boya Haru
+Bomber Boya Haru
+Blouson de motard
+Cuir de motard
+Dogi omnipotent
+Maillot omnipotent
+Plastron du champion
+Plastron du colosse
+Doudoune Dynaqlo
+Anorak Dynaqlo
+Tenue Étoile bleue
+Veste Étoile bleue
+Cotte Star Knight
+Tunique Star Knight
+Cotte Star Rook
+Tunique Star Rook
+Muneate cosmique H
+Muneate Halcyon H
+Robe des étoiles H
+Robe des rêves H
+Dogi Arcfire Souverain
+Dogi Feu de joie Souverain
+Dogi Waka Souverain
+Dogi Wagaku Souverain
+Cotte Gudegude S
+Tunique Gudegude S
+Armure Varia
+Barrière Varia
+Plastron Zéro
+Vêtement Zéro
+Tenue du Héros
+Habit du Héros
+Tunique du Guide
+Veste du Guide
+Cotte hérétique
+Tunique hérétique
+Cotte Anat
+Tunique Anat
+Gilet de l'enfer
+Cuir de l'enfer
+Blouson Gammoth X
+Pull Gammoth X
+Blouson Mizutsune X
+Pull Mizutsune X
+Blouson dino X
+Pull dino X
+Blouson Astalos X
+Pull Astalos X
+Habit Hiryu - Ciel
+Habit Hiryu - Terre
+Cotte Gon
+Tunique Gon
+Tenue de coupable
+Corps de coupable
+Dogi Arcfire Suprême
+Dogi Feu de joie Suprême
+Dogi Waka Suprême
+Dogi Wagaku Suprême
+Muneate de Garo
+Cotte de Garo
+Tunique bleue
+Habit bleu
+Blouson Valstrax XX
+Pull Valstrax XX
+Blouson Diablos XX
+Pull Diablos XX
