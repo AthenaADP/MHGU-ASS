@@ -258,70 +258,70 @@ Augmente d'un le nombre de chances de dépeçage et empêche d'être touché en 
 Empêche de tomber à la renverse à cause des attaques lorsque vous dépecez.
 Augmente beaucoup la probabilité d'obtenir plus de récompenses pour les captures.
 Augmente la probabilité d'obtenir plus de récompenses pour les captures.
-Combine les effets de : "Feu +15" et "Ascète".
-Combine les effets de : "Lubie esprit" et "Foudre".
-Combine les effets de : "Glace +15" et "Gourmet".
-Combine les effets de : "Chasseur de miel" et "Eau +15".
-Combine les effets de : "Dragon +15" et "Chercheur bio".
-Combine les effets de : "Roi du KO" et "Maestro".
-Combine les effets de : "Concentration" et "Berserker".
-Combine les effets de : "Esquive +" et "Vigueur +".
-Combine les effets de : "Samouraï", "Recul +2", et "Bénédiction".
-Combine les effets de : "Adrénaline +2" et "Goinfre".
-Combine les effets de : "Affliction +2" et "Soutien +2".
-Combine les effets de : "Chasse-charme" et "Spartiate".
-Combine les effets de : "Évasion +2" et "Œil critique +3".
-Combine les effets de : "Crâne de fer" et "Challenger +2".
-Combine les effets de : "Attaque +3" et "Vent +2".
-Combine les effets de : "Force latente +2" et "Athlète +2".
-Combine les effets de : "Bouche-oreilles" et "Carnassier +2".
-Combine les effets de : "Tranchant +2", "Maîtrise de soi", et "Aiguisage rapide".
-Combine les effets de : "Bouche-oreilles", "Rechargement +3" et "Nerfs d'acier".
-Combine les effets de : "Garde +2" et "Lame éclair".
-Combine les effets de : "Œil critique +3" et "Challenger +1".
-Combine les effets de : "Bonus critique", "Franc-tireur" et "Tranchant +1".
-Combine les effets de : "Marathonien", "Matraquage" et "Normale/Rapide +".
-Combine les effets de : "Attaque +3" et "Évasion +2".
-Combine les effets de : "Berserker", "Focus" et "Marathonien".
-Combine les effets de : "Esquive +", "Maître cavalier" et "Vigueur +".
-Combine les effets de : "Samouraï", "Recul +2", "Bénédiction" et "Athlète +1".
-Combine les effets de : "Adrénaline +2", "Goinfre" et "Artilleur expert".
-Combine les effets de : "Affliction +2", "Soutien +2", et "Phytothérapie pro".
-Combine les effets de : "Chasse-charme", "Bouclier saint" et "Spartiate".
-Combine les effets de : "Évasion +2", "Œil critique +3" et "Furtivité".
-Combine les effets de : "Crâne de fer", "Challenger +2" et "Ténacité".
-Combine les effets de : "Vent +2", "Attaque +3", et "Adrénaline +1".
-Combine les effets de : "Force latente +2", "Athlète +2" et "Focus".
-Combine les effets de : "Carnassier +2", "Bouche-oreilles" et "SP prolongé".
-Combine les effets de : "Tranchant +2", "Bombardier", "Maîtrise de soi" et "Aiguisage rapide".
-Combine les effets de : "Bouche-oreilles", "Rechargement +3", "Nerfs d'acier" et "Maître piégeur".
-Combine les effets de : "Garde +2", "Lame éclair" et "Lamécaille affûtée".
-Combine les effets de : "Œil critique +3" et "Challenger +2".
-Combine les effets de : "Bonus critique", "Franc-tireur", "Tranchant +1" et "Opportunisme".
-Combine les effets de : "Marathonien", "Matraquage", "Normale/Rapide +" et "Attaque +2".
-Combine les effets de : "Attaque +3", "Évasion +2" et "Maître de soi".
-Combine les effets de : "Ténacité", "Marathonien", et "Vol de stamina".
-Combine les effets de : "Œil de l'esprit" et "Samouraï".
-Combine les effets de : "Carnassier +2", "Cannibale" et "Mycophile".
-Combine les effets de : "Bombardier" et "Maître piégeur".
-Combine les effets de : "Vol de stamina" et "Roi du KO".
-Combine les effets de : "Restauration +" et "Bénédiction".
-Combine les effets de : "Munitions +", "Combinaison +20%" et "Furtivité".
-Combine les effets de : "Tranchant +1" et "Attaque +3".
-Combine les effets de : "Normale/Rapide +", "Perçante/Perç.+" et "Plomb/Dispers. +".
-Combine les effets de : "Antidote", "Anti-paralysie", "Insomnie" et "Crâne de fer".
-Combine les effets de : "Adrénaline +2" et "Bravoure".
-Combine les effets de : "Athlète +1" et "Évasion +1".
-Combine les effets de : "Batto-jutsu" et "Lame éclair".
-Combine les effets de : "Défense +2" et "Peau d'acier".
-Combine les effets de : "Œil critique +2" et "Point faible".
-Combine les effets de : "Paladin" et "Vigueur +".
-Combine les effets de : "Perfection" et "Esquive +".
-Combine les effets de : "Élémentaire +" et "Habile".
-Combine les effets de : "Chasse-charme" et "Collecte +1".
-Combine les effets de : "Bonne fortune" et "Expert capture".
-Combine les effets de : "Chasseur polaire", "Vent +2" et "Dégagement".
-Combine les effets de : "Antidote", "Antivol" et "Psychique".
-Combine les effets de : "Chasseur tropical", "Feu +20" et "Chercheur bio".
+Combine les effets de : "<<Feu +15>>" et "<<Ascète>>".
+Combine les effets de : "<<Lubie esprit>>" et "<<Foudre +15>>".
+Combine les effets de : "<<Glace +15>>" et "<<Gourmet>>".
+Combine les effets de : "<<Chasseur de miel>>" et "<<Eau +15>>".
+Combine les effets de : "<<Dragon +15>>" et "<<Chercheur bio>>".
+Combine les effets de : "<<Roi du KO>>" et "<<Maestro>>".
+Combine les effets de : "<<Focus>>" et "<<Berserker>>".
+Combine les effets de : "<<Esquive +>>" et "<<Vigueur +>>".
+Combine les effets de : "<<Samouraï>>", "<<Recul +2>>", et "<<Bénédiction>>".
+Combine les effets de : "<<Adrénaline +2>>" et "<<Goinfre>>".
+Combine les effets de : "<<Affliction +2>>" et "<<Soutien +2>>".
+Combine les effets de : "<<Chasse-charme>>" et "<<Spartiate>>".
+Combine les effets de : "<<Évasion +2>>" et "<<Œil critique +3>>".
+Combine les effets de : "<<Crâne de fer>>" et "<<Challenger +2>>".
+Combine les effets de : "<<Attaque +3>>" et "<<Vent +2>>".
+Combine les effets de : "<<Force latente +2>>" et "<<Athlète +2>>".
+Combine les effets de : "<<Bouche-oreilles>>" et "<<Carnassier +2>>".
+Combine les effets de : "<<Tranchant +2>>", "<<Maîtrise de soi>>", et "<<Aiguisage rapide>>".
+Combine les effets de : "<<Bouche-oreilles>>", "<<Rechargement +3>>" et "<<Nerfs d'acier>>".
+Combine les effets de : "<<Garde +2>>" et "<<Lame éclair>>".
+Combine les effets de : "<<Œil critique +3>>" et "<<Challenger +1>>".
+Combine les effets de : "<<Bonus critique>>", "<<Franc-tireur>>" et "<<Tranchant +1>>".
+Combine les effets de : "<<Marathonien>>", "<<Matraquage>>" et "<<Normale/Rapide +>>".
+Combine les effets de : "<<Attaque +3>>" et "<<Évasion +2>>".
+Combine les effets de : "<<Berserker>>", "<<Focus>>" et "<<Marathonien>>".
+Combine les effets de : "<<Esquive +>>", "<<Maître cavalier>>" et "<<Vigueur +>>".
+Combine les effets de : "<<Samouraï>>", "<<Recul +2>>", "<<Bénédiction>>" et "<<Athlète +1>>".
+Combine les effets de : "<<Adrénaline +2>>", "<<Goinfre>>" et "<<Artilleur expert>>".
+Combine les effets de : "<<Affliction +2>>", "<<Soutien +2>>", et "<<Phytothérapie pro>>".
+Combine les effets de : "<<Chasse-charme>>", "<<Bouclier saint>>" et "<<Spartiate>>".
+Combine les effets de : "<<Évasion +2>>", "<<Œil critique +3>>" et "<<Furtivité>>".
+Combine les effets de : "<<Crâne de fer>>", "<<Challenger +2>>" et "<<Ténacité>>".
+Combine les effets de : "<<Vent +2>>", "<<Attaque +3>>", et "<<Adrénaline +1>>".
+Combine les effets de : "<<Force latente +2>>", "<<Athlète +2>>" et "<<Focus>>".
+Combine les effets de : "<<Carnassier +2>>", "<<Bouche-oreilles>>" et "<<SP prolongé>>".
+Combine les effets de : "<<Tranchant +2>>", "<<Bombardier>>", "<<Maîtrise de soi>>" et "<<Aiguisage rapide>>".
+Combine les effets de : "<<Bouche-oreilles>>", "<<Rechargement +3>>", "<<Nerfs d'acier>>" et "<<Maître piégeur>>".
+Combine les effets de : "<<Garde +2>>", "<<Lame éclair>>" et "<<Lamécaille affûtée>>".
+Combine les effets de : "<<Œil critique +3>>" et "<<Challenger +2>>".
+Combine les effets de : "<<Bonus critique>>", "<<Franc-tireur>>", "<<Tranchant +1>>" et "<<Opportunisme>>".
+Combine les effets de : "<<Marathonien>>", "<<Matraquage>>", "<<Normale/Rapide +>>" et "<<Attaque +2>>".
+Combine les effets de : "<<Attaque +3>>", "<<Évasion +2>>" et "<<Maître de soi>>".
+Combine les effets de : "<<Ténacité>>", "<<Marathonien>>", et "<<Vol de stamina>>".
+Combine les effets de : "<<Œil de l'esprit>>" et "<<Samouraï>>".
+Combine les effets de : "<<Carnassier +2>>", "<<Cannibale>>" et "<<Mycophile>>".
+Combine les effets de : "<<Bombardier>>" et "<<Maître piégeur>>".
+Combine les effets de : "<<Vol de stamina>>" et "<<Roi du KO>>".
+Combine les effets de : "<<Restauration +>>" et "<<Bénédiction>>".
+Combine les effets de : "<<Munitions +>>", "<<Combinaison +20%>>" et "<<Furtivité>>".
+Combine les effets de : "<<Tranchant +1>>" et "<<Attaque +3>>".
+Combine les effets de : "<<Normale/Rapide +>>", "<<Perçante/Perç.+>>" et "<<Plomb/Dispers. +>>".
+Combine les effets de : "<<Antidote>>", "<<Anti-paralysie>>", "<<Insomnie>>" et "<<Crâne de fer>>".
+Combine les effets de : "<<Adrénaline +2>>" et "<<Bravoure>>".
+Combine les effets de : "<<Athlète +1>>" et "<<Évasion +1>>".
+Combine les effets de : "<<Batto-jutsu>>" et "<<Lame éclair>>".
+Combine les effets de : "<<Défense +2>>" et "<<Peau d'acier>>".
+Combine les effets de : "<<Œil critique +2>>" et "<<Point faible>>".
+Combine les effets de : "<<Paladin>>" et "<<Vigueur +>>".
+Combine les effets de : "<<Perfection>>" et "<<Esquive +>>".
+Combine les effets de : "<<Élémentaire +>>" et "<<Habile>>".
+Combine les effets de : "<<Chasse-charme>>" et "<<Collecte +1>>".
+Combine les effets de : "<<Bonne fortune>>" et "<<Expert capture>>".
+Combine les effets de : "<<Chasseur polaire>>", "<<Vent +2>>" et "<<Dégagement>>".
+Combine les effets de : "<<Antidote>>", "<<Antivol>>" et "<<Psychique>>".
+Combine les effets de : "<<Chasseur tropical>>", "<<Feu +20>>" et "<<Chercheur bio>>".
 Les talents dans lesquels vous avez investi des points reçoivent deux points de talent supplémentaires.
 Multiplie par deux les points de talent obtenus grâce aux talismans.

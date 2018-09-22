@@ -2888,30 +2888,30 @@ EX黒龍チケット・白,jEvent
 パペットチケット,Event
 グレートストーン,Event
 郵便屋さんの手紙,Event
-少年探偵団の証 ,Event
-リーマンコイン ,Event
-銀水晶のかけら ,Event
-海王認定書 ,Event
-ワーストコイン ,Event
-超ぐでっとした卵 ,jEvent
-天道絵巻物 ,Event
-アーサーの鎧 ,Event
-逆転裁判傍聴券 ,Event
-ナビルーチケット ,Event
-ネコ魂石 ,Event
-ファミ通ギフト券 ,Event
-デンゲキＸＸ券 ,Event
-大海賊Ｊチケット ,Event
-飛信隊の証 ,Event
+少年探偵団の証,Event
+リーマンコイン,Event
+銀水晶のかけら,Event
+海王認定書,Event
+ワーストコイン,Event
+超ぐでっとした卵,jEvent
+天道絵巻物,Event
+アーサーの鎧,Event
+逆転裁判傍聴券,Event
+ナビルーチケット,Event
+ネコ魂石,Event
+ファミ通ギフト券,Event
+デンゲキＸＸ券,Event
+大海賊Ｊチケット,Event
+飛信隊の証,Event
 ハンター認定書,jEvent
 犯行の証拠,Event
-魔法源解放鍵 ,Event
-タイ捨流奥義書 ,Event
+魔法源解放鍵,Event
+タイ捨流奥義書,Event
 スタジオＵパス,jEvent
 スタジオＯパス,jEvent
 スタジオＸＸパス,jEvent
-スタジオＮパス ,jEvent
-ライブチケット ,jEvent
+スタジオＮパス,jEvent
+ライブチケット,jEvent
 ザルバのかけら,Event
 ゼルダチケット,Event
 ゼルダチケットＧ,Event

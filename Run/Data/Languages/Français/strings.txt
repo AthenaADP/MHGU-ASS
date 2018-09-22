@@ -142,6 +142,12 @@ Talismans à Compétence Unique
 #When searching using charms with at most two skills and possibly some slots (i.e. all possible charms)
 Talismans à Deux Compétences
 
+#Charm format string (one skill). The 3 parameters are, in order: [Num, Skill, Slots], e.g. "+4 Attack OO-"
+%2 %1 %3
+
+#Charm format string (two skills). The 5 parameters are, in order: [Num1, Skill1, Num2, Skill2, Slots], e.g. "+4 Attack, +10 Ice Res OO-"
+%2 %1, %4 %3 %5
+
 Compétence
 Compétences
 Filtre de Compétences
@@ -188,7 +194,7 @@ Résultats trouvés :
 #When there are too many solutions to display all of them, %1 is the limit (default 1000)
 Montrer les %1 premiers résultats seulement :
 
-Save Data dump
+Données de sauvegarde
 Liste de Talismans
 Fichier corrompu.
 Version

@@ -3100,9 +3100,10 @@ private:
 				break;
 
 			int offset = result_offsets[ i ];
+			Solution^ solution = final_solutions[ i ];
 
 			int num_armors = 0;
-			for each( Armor^ a in final_solutions[ i ]->armors )
+			for each( Armor^ a in solution->armors )
 			{
 				if( a )
 					num_armors++;
@@ -3111,11 +3112,11 @@ private:
 			if( line >= offset &&
 				line < offset + num_armors )
 			{
-				for( int a = 0, c = 0; a < final_solutions[ i ]->armors.Count; ++a )
+				for( int a = 0, c = 0; a < solution->armors.Count; ++a )
 				{
-					if( final_solutions[ i ]->armors[ a ] && c++ == line - offset )
+					if( solution->armors[ a ] && c++ == line - offset )
 					{
-						Utility::UpdateContextMenu( cmsSolutions, final_solutions[ i ]->armors[ a ] );
+						Utility::UpdateContextMenu( cmsSolutions, solution->armors[ a ] );
 						break;
 					}
 				}
@@ -3125,11 +3126,10 @@ private:
 
 				preview_pane = gcnew PreviewImage( rdoFemale->Checked );
 				
-				final_solutions[ i ]->preview_image = preview_pane->SetData( final_solutions[ i ]->armors, final_solutions[ i ]->preview_image );
-				if( final_solutions[ i ]->preview_image )
+				solution->preview_image = preview_pane->SetData( solution->armors, solution->preview_image );
+				if( solution->preview_image )
 				{
 					preview_pane->Show( this );
-
 					preview_pane->SetLocation( cmsSolutions );
 				}
 				else preview_pane = nullptr;
@@ -3137,14 +3137,13 @@ private:
 				e->Cancel = false;
 				return;
 			}
-		}
-
-		//check for charms
-		if( EndsWithSlots( str ) )
-		{
-			Utility::UpdateContextMenu( cmsSolutions, str, 0 );
-			e->Cancel = false;
-			return;
+			else if( solution->charm && line == offset + num_armors + 1 )
+			{
+				Assert( str == solution->charm->GetName(), L"Unexpected charm string" );
+				Utility::UpdateContextMenu( cmsSolutions, solution->charm, 0 );
+				e->Cancel = false;
+				return;
+			}
 		}
 
 		//check for extra skills

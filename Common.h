@@ -9,6 +9,7 @@ enum class Gender { MALE = 4, FEMALE, BOTH_GENDERS };
 //#define CREATE_MATERIALS
 
 ref struct Armor;
+ref struct Charm;
 ref struct Ability;
 ref struct Decoration;
 ref struct CharmLocationDatum;
@@ -79,7 +80,7 @@ namespace Utility
 	void UpdateContextMenu( System::Windows::Forms::ContextMenuStrip^ strip, Decoration^ decoration );
 	void UpdateContextMenu( System::Windows::Forms::ContextMenuStrip^ strip, Armor^ armor );
 	void UpdateContextMenu( System::Windows::Forms::ContextMenuStrip^ strip, Ability^ ability );
-	void UpdateContextMenu( System::Windows::Forms::ContextMenuStrip^ strip, System::String^ charm, const unsigned table );
+	void UpdateContextMenu( System::Windows::Forms::ContextMenuStrip^ strip, Charm^ charm, const unsigned table );
 }
 
 void myassert( const bool val, System::String^ message );
@@ -236,6 +237,8 @@ ref struct StringTable
 		UseOnlySlottedCharms,
 		UseUpToOneSkillCharms,
 		UseOnlyTwoSkillCharms,
+		CharmFormat1,
+		CharmFormat2,
 		Skill,
 		Skills,
 		SkillFilters,
@@ -319,5 +322,7 @@ System::String^ StripAmpersands( System::String^ input );
 
 #define FormatString1( X, Y ) StaticString( X )->Replace( L"%1", Y )
 #define FormatString2( X, Y, Z ) StaticString( X )->Replace( L"%1", Convert::ToString( Y ) )->Replace( L"%2", Convert::ToString( Z ) )
+#define FormatString3( X, Y, Z, W ) StaticString( X )->Replace( L"%1", Convert::ToString( Y ) )->Replace( L"%2", Convert::ToString( Z ) )->Replace( L"%3", Convert::ToString( W ) )
+#define FormatString5( X, A, B, C, D, E ) StaticString( X )->Replace( L"%1", Convert::ToString( A ) )->Replace( L"%2", Convert::ToString( B ) )->Replace( L"%3", Convert::ToString( C ) )->Replace( L"%4", Convert::ToString( D ) )->Replace( L"%5", Convert::ToString( E ) )
 #define FormatString7( X, A, B, C, D, E, F, G ) StaticString( X )->Replace( L"%1", Convert::ToString( A ) )->Replace( L"%2", Convert::ToString( B ) )->Replace( L"%3", Convert::ToString( C ) )->Replace( L"%4", Convert::ToString( D ) )->Replace( L"%5", Convert::ToString( E ) )->Replace( L"%6", Convert::ToString( F ) )->Replace( L"%7", Convert::ToString( G ) )
 #define FormatStringN( X, Y ) StaticString( X )->Replace( L"%1", Convert::ToString( Y ) )
