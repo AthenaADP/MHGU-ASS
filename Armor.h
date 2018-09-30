@@ -14,7 +14,7 @@ ref struct Armor : public AdvancedSearchOptions
 	int ice_res, water_res, fire_res, thunder_res, dragon_res;
 	Gender gender;
 	HunterType type;
-	bool torso_inc, no_skills, is_event, jap_only, arena, chakra, jap_genders_only, nonjap, relic, gunner_def, hr_or, charm_up;
+	bool torso_inc, no_skills, is_event, jap_only, arena, chakra, jap_genders_only, nonjap, relic, gunner_def, hr_or, charm_up, is_helm;
 	Ability^ danger;
 	List_t< AbilityPair^ > abilities;
 	List_t< MaterialComponent^ > components;

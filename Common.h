@@ -18,7 +18,7 @@ ref struct Skill;
 
 ref struct AdvancedSearchOptions abstract
 {
-	bool force_enable, force_disable, default_piece;
+	bool force_enable, force_disable, default_piece, is_armor;
 	unsigned adv_index;
 };
 

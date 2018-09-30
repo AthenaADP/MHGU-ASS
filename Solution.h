@@ -18,11 +18,13 @@ ref struct Query : public System::Object
 	HunterType hunter_type;
 	Gender gender;
 	unsigned hr, elder_star, weapon_slots_allowed;
-	bool include_arena, allow_bad, allow_event, allow_lower_tier, allow_japs, add_extra, want_taunt, allow_gunner_helms;
+	bool include_arena, allow_bad, allow_event, allow_lower_tier, allow_japs, add_extra, want_taunt, allow_gunner_helms, neset_disabled;
 
 	List_t< List_t< Armor^ >^ > rel_armor, inf_armor;
 	List_t< Ability^ > rel_abilities;
 	List_t< Decoration^ > rel_decorations, inf_decorations, taunt_decorations;
+
+	bool AllowNesetArmor() { return hr >= 13; }
 
 	template< class T >
 	static bool HRMatches( T^ t, const unsigned hr, const unsigned ve )

@@ -12,10 +12,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A81954DD-AC39-4BA0-89B7-209D242373BF}</ProjectGuid>
-    <RootNamespace>MHXXASS</RootNamespace>
+    <RootNamespace>MHGUASS</RootNamespace>
     <Keyword>ManagedCProj</Keyword>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
     <TargetFrameworkVersion>4.5</TargetFrameworkVersion>
+    <ProjectName>MHGU ASS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">

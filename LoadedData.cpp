@@ -122,7 +122,7 @@ void AddToList( List_t< Decoration^ >^ list, Decoration^ item, List_t< Ability^ 
 
 void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_abilities, List_t< Armor^ >^ inf_armor, const bool adv, const bool want_taunt )
 {
-	if( adv && armor->force_disable )
+	if( adv && ( armor->force_disable || armor->charm_up ) )
 		return;
 
 	const bool may_remove_self = !adv || !armor->force_enable;

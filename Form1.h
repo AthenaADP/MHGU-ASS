@@ -10,7 +10,7 @@
 #include "NumericUpDownHR.h"
 #include "PreviewImage.h"
 
-namespace MHXXASS
+namespace MHGUASS
 {
 	using namespace System;
 	using namespace System::ComponentModel;
@@ -131,8 +131,8 @@ namespace MHXXASS
 	private: System::Windows::Forms::TabPage^  tabGunner;
 	private: System::Windows::Forms::GroupBox^  grpGSkillFilters;
 	private: System::Windows::Forms::GroupBox^  grpGSkills;
-	private: MHXXASS::NumericUpDownHR^  nudHR;
-	private: MHXXASS::NumericUpDownVE^  nudElder;
+	private: MHGUASS::NumericUpDownHR^  nudHR;
+	private: MHGUASS::NumericUpDownVE^  nudElder;
 	private: System::Windows::Forms::NumericUpDown^  nudWeaponSlots;
 	private: System::Windows::Forms::GroupBox^  groupBox1;
 	private: System::Windows::Forms::Label^  lblHR;
@@ -831,12 +831,20 @@ namespace MHXXASS
 				fout.WriteLine( bSkillFilters[ i ]->SelectedIndex );
 				if( bSkills[ i ]->SelectedIndex <= 0 )
 					fout.WriteLine( -1 );
-				else fout.WriteLine( bIndexMaps[ i ][ bSkills[ i ]->SelectedIndex ] );
+				else
+				{
+					Map_t< unsigned, unsigned >^ imap = bIndexMaps[ i ];
+					fout.WriteLine( imap[ bSkills[ i ]->SelectedIndex ] );
+				}
 
 				fout.WriteLine( gSkillFilters[ i ]->SelectedIndex );
 				if( gSkills[ i ]->SelectedIndex <= 0 )
 					fout.WriteLine( -1 );
-				else fout.WriteLine( gIndexMaps[ i ][ gSkills[ i ]->SelectedIndex ] );
+				else
+				{
+					Map_t< unsigned, unsigned >^ imap = gIndexMaps[ i ];
+					fout.WriteLine( imap[ gSkills[ i ]->SelectedIndex ] );
+				}
 			}
 
 			const unsigned num_searched_skills = query ? query->skills.Count : 0;
@@ -955,8 +963,8 @@ namespace MHXXASS
 			this->nudWeaponSlots = ( gcnew System::Windows::Forms::NumericUpDown() );
 			this->lblElder = ( gcnew System::Windows::Forms::Label() );
 			this->lblSlots = ( gcnew System::Windows::Forms::Label() );
-			this->nudHR = ( gcnew MHXXASS::NumericUpDownHR() );
-			this->nudElder = ( gcnew MHXXASS::NumericUpDownVE() );
+			this->nudHR = ( gcnew MHGUASS::NumericUpDownHR() );
+			this->nudElder = ( gcnew MHGUASS::NumericUpDownVE() );
 			this->lblHR = ( gcnew System::Windows::Forms::Label() );
 			this->grpBSkills = ( gcnew System::Windows::Forms::GroupBox() );
 			this->btnSearch = ( gcnew System::Windows::Forms::Button() );
@@ -1727,6 +1735,7 @@ private:
 		query->allow_lower_tier = mnuAllowLowerTierArmor->Checked;
 		query->add_extra = mnuSpendSpareSlots->Checked;
 		query->allow_gunner_helms = mnuAllowGunnerHelms->Checked;
+		query->neset_disabled = false;
 		
 		query->want_taunt = false;
 		for each( Skill^ s in skills )
@@ -1747,14 +1756,24 @@ private:
 		if( !use_gunner_skills )
 		{
 			for( unsigned i = 0; i < NumSkills; ++i )
+			{
 				if( bSkills[ i ]->SelectedIndex >= 0 )
-					skills.Add( data->FindSkill( bIndexMaps[ i ][ bSkills[ i ]->SelectedIndex ] ) );
+				{
+					Map_t< unsigned, unsigned >^ imap = bIndexMaps[ i ];
+					skills.Add( data->FindSkill( imap[ bSkills[ i ]->SelectedIndex ] ) );
+				}
+			}
 		}
 		else
 		{
 			for( unsigned i = 0; i < NumSkills; ++i )
+			{
 				if( gSkills[ i ]->SelectedIndex >= 0 )
-					skills.Add( data->FindSkill( gIndexMaps[ i ][ gSkills[ i ]->SelectedIndex ] ) );
+				{
+					Map_t< unsigned, unsigned >^ imap = gIndexMaps[ i ];
+					skills.Add( data->FindSkill( imap[ gSkills[ i ]->SelectedIndex ] ) );
+				}
+			}
 		}
 
 		FormulateQuery( danger, use_gunner_skills, %skills );
@@ -1828,6 +1847,9 @@ private:
 
 	System::Void QueueTask2( Query^ query, List_t< Charm^ >^ cts )
 	{
+		if( query->neset_disabled )
+			return;
+
 		BackgroundWorker^ new_thread = gcnew BackgroundWorker;
 		new_thread->WorkerSupportsCancellation = true;
 		new_thread->WorkerReportsProgress = true;
@@ -1946,14 +1968,14 @@ private:
 
 			if( !to_search || to_search->Count == 0 )
 			{
-				if( query->hr >= 13 )
+				if( query->AllowNesetArmor() )
 					QueueTask2( query, nullptr );
 
 				QueueTask( query, nullptr );
 			}
 			else
 			{
-				if( query->hr >= 13 )
+				if( query->AllowNesetArmor() )
 					QueueTask2( query, to_search );
 
 				for each( Charm^ ct in to_search )
@@ -1968,9 +1990,20 @@ private:
 
 	System::Void btnAdvancedSearch_Click( System::Object^ sender, System::EventArgs^ e )
 	{
-		//updatedata();
-		//return;
 		FormulateQuery( true, tabHunterType->SelectedIndex == 1 );
+
+		array< Armor^ >^ neset_armors = query->hunter_type == HunterType::GUNNER ? Armor::charm_up_armors_g : Armor::charm_up_armors_b;
+		Assert( neset_armors->Length == int( Armor::ArmorType::NumArmorTypes ), L"Wrong number of Neset armors" );
+
+		if( query->AllowNesetArmor() )
+		{
+			for( int i = 0; i < neset_armors->Length; ++i )
+			{
+				query->rel_armor[ i ]->Add( neset_armors[ i ] );
+				query->inf_armor[ i ]->Add( neset_armors[ i ] );
+			}
+		}
+
 		Advanced advanced_search( query );
 		advanced_search.Width = adv_x;
 		advanced_search.Height = adv_y;
@@ -1983,13 +2016,28 @@ private:
 		if( advanced_search.DialogResult != System::Windows::Forms::DialogResult::OK )
 			return;
 
+		if( query->AllowNesetArmor() )
+		{
+			query->neset_disabled = false;
+			for( int i = 0; i < neset_armors->Length; ++i )
+			{
+				if( neset_armors[ i ]->force_disable )
+				{
+					query->neset_disabled = true;
+					break;
+				}
+			}
+		}
+
 		for( int p = 0; p < int( Armor::ArmorType::NumArmorTypes ); ++p )
 		{
 			query->rel_armor[ p ]->Clear();
-			for( int i = 0; i < query->inf_armor[ p ]->Count; ++i )
+			List_t< Armor^ >^ inf_armor = query->inf_armor[ p ];
+			inf_armor->Remove( neset_armors[ p ] );
+			for( int i = 0; i < inf_armor->Count; ++i )
 			{
 				if( advanced_search.boxes[ p ]->Items[ i ]->Checked )
-					query->rel_armor[ p ]->Add( query->inf_armor[ p ][ i ] );
+					query->rel_armor[ p ]->Add( inf_armor[ i ] );
 			}
 		}
 		query->rel_decorations.Clear();
@@ -2031,7 +2079,8 @@ private:
 			if( skills[ i ]->SelectedIndex < 1 )
 				continue;
 
-			Skill^ skill = Skill::static_skills[ index_maps[ i ][ skills[ i ]->SelectedIndex ] ];
+			Map_t< unsigned, unsigned >^ imap = index_maps[ i ];
+			Skill^ skill = Skill::static_skills[ imap[ skills[ i ]->SelectedIndex ] ];
 			if( sender == skill_filters[ i ] )
 				selected_skill = skill;
 			else old_skills.Add( skill->ability );
@@ -2083,7 +2132,8 @@ private:
 		}
 		else
 		{
-			selected_skill = Skill::static_skills[ index_maps[ index ][ skills[ index ]->SelectedIndex ] ];
+			Map_t< unsigned, unsigned >^ imap = index_maps[ index ];
+			selected_skill = Skill::static_skills[ imap[ skills[ index ]->SelectedIndex ] ];
 			
 			//if( last_abilities[ index ] == selected_skill->ability )
 			//	return;
@@ -2108,14 +2158,16 @@ private:
 			if( i == index && skill_filters[ i ]->SelectedIndex != 2 )
 				continue;
 
-			Skill^ skill = skills[ i ]->SelectedIndex <= 0 ? nullptr : Skill::static_skills[ index_maps[ i ][ skills[ i ]->SelectedIndex ] ];
+			Map_t< unsigned, unsigned >^ imap = index_maps[ i ];
+			Skill^ skill = skills[ i ]->SelectedIndex <= 0 ? nullptr : Skill::static_skills[ imap[ skills[ i ]->SelectedIndex ] ];
 			List_t< Ability^ > old_skills;
 			for( int j = 0; j < NumSkills; ++j )
 			{
 				if( skills[ j ]->SelectedIndex <= 0 )
 					continue;
 
-				Skill^ os = Skill::static_skills[ index_maps[ j ][ skills[ j ]->SelectedIndex ] ];
+				Map_t< unsigned, unsigned >^ jmap = index_maps[ j ];
+				Skill^ os = Skill::static_skills[ jmap[ skills[ j ]->SelectedIndex ] ];
 				if( j != i )
 					old_skills.Add( os->ability );
 
@@ -2134,7 +2186,8 @@ private:
 		//check compound skills aren't overlapping their component skills
 		for( int i = 0; i < NumSkills; ++i )
 		{
-			Skill^ skill = skills[ i ]->SelectedIndex <= 0 ? nullptr : Skill::static_skills[ index_maps[ i ][ skills[ i ]->SelectedIndex ] ];
+			Map_t< unsigned, unsigned >^ imap = index_maps[ i ];
+			Skill^ skill = skills[ i ]->SelectedIndex <= 0 ? nullptr : Skill::static_skills[ imap[ skills[ i ]->SelectedIndex ] ];
 			if( i != index && skill && selected_skill )
 			{
 				if( Skill::CompoundSkillOverrides( skill, selected_skill ) ||

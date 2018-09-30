@@ -13,7 +13,7 @@ using namespace System::Windows::Forms;
 using namespace System::Data;
 using namespace System::Drawing;
 
-namespace MHXXASS {
+namespace MHGUASS {
 
 	public ref class Advanced : public System::Windows::Forms::Form
 	{
@@ -25,13 +25,15 @@ namespace MHXXASS {
 		const static Color color_default = Color::Black;
 		const static Color color_enabled = Color::Green;
 		const static Color color_disabled = Color::Gray;
-		bool manual_checking, want_taunt;
+		bool manual_checking, want_taunt, checking_neset;
 	public:
 
 #pragma warning( disable : 4677 )
 		Advanced( Query^ query )
 		{
 			manual_checking = false;
+			checking_neset = false;
+
 			want_taunt = query->want_taunt;
 			InitializeComponent();
 			this->query = query;
@@ -743,6 +745,23 @@ namespace MHXXASS {
 			RecheckDefaultItems( sender );
 
 			manual_checking = true;
+
+			if( !checking_neset && op->is_armor && safe_cast<Armor^>( op )->charm_up )
+				UpdateNesetArmor( op->force_disable );
+		}
+
+		System::Void UpdateNesetArmor( const bool disabled )
+		{
+			checking_neset = true;
+
+			for( int i = 0; i < int( Armor::ArmorType::NumArmorTypes ); ++i )
+			{
+				ListView^ lv = boxes[ i ];
+				ListViewItem^ item = lv->Items[ lv->Items->Count - 1 ];
+				item->Checked = !disabled;
+			}
+
+			checking_neset = false;
 		}
 
 		System::Void contextMenuStrip1_Opening(System::Object^  sender, System::ComponentModel::CancelEventArgs^  e)
@@ -757,11 +776,12 @@ namespace MHXXASS {
 			else
 			{
 				List_t< Armor^ > preview_armors;
-				for( unsigned i = 0; i < 5; ++i )
+				for( unsigned i = 0; i < unsigned( Armor::ArmorType::NumArmorTypes ); ++i )
 				{
 					if( boxes[ i ]->Focused && boxes[ i ]->SelectedIndices->Count == 1 )
 					{
-						Armor^ armor = query->inf_armor[ i ][ boxes[ i ]->SelectedIndices[ 0 ] ];
+						List_t< Armor^ >^ inf_armor = query->inf_armor[ i ];
+						Armor^ armor = inf_armor[ boxes[ i ]->SelectedIndices[ 0 ] ];
 						Utility::UpdateContextMenu( contextMenuStrip1, armor );
 						e->Cancel = false;
 

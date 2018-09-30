@@ -9,7 +9,7 @@ using namespace System::Data;
 using namespace System::Drawing;
 
 
-namespace MHXXASS {
+namespace MHGUASS {
 
 	public ref class Find : public System::Windows::Forms::Form
 	{

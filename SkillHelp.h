@@ -11,7 +11,7 @@ using namespace System::Data;
 using namespace System::Drawing;
 
 
-namespace MHXXASS
+namespace MHGUASS
 {
 	ref struct SubSkill
 	{

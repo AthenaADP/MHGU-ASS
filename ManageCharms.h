@@ -15,7 +15,7 @@ using namespace System::Drawing;
 
 #pragma warning( disable: 4677 ) //warning for passing my own class into this form
 
-namespace MHXXASS {
+namespace MHGUASS {
 
 	public ref class ManageCharms : public System::Windows::Forms::Form
 	{

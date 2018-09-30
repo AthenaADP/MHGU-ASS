@@ -118,7 +118,9 @@ void Armor::Load( String^ filename, ArmorType armor_type )
 		armor->gender = split[ data_start ] == L"1" ? Gender::MALE : split[ data_start ] == L"2" ? Gender::FEMALE : Gender::BOTH_GENDERS;
 		armor->type = split[ data_start + 1 ] == L"1" ? HunterType::BLADEMASTER : split[ data_start + 1 ] == L"2" ? HunterType::GUNNER : HunterType::BOTH_TYPES;
 		armor->rarity = split[ data_start + 2 ] == L"X" ? 11 : Convert::ToInt32( split[ data_start + 2 ] );
+		armor->is_helm = armor_type == ArmorType::HEAD;
 		armor->is_event = false;
+		armor->is_armor = true;
 
 		armor->num_slots = ConvertNum( split[ data_start + 3 ] );
 
@@ -269,7 +271,7 @@ bool Armor::MatchesQuery( Query^ query, List_t< Ability^ >^ danger_skills, const
 		!query->allow_event && this->is_event ||
 		!query->allow_japs && this->jap_only ||
 		query->allow_japs && this->nonjap ||
-		!query->allow_gunner_helms && this->gunner_def ||
+		!query->allow_gunner_helms && this->gunner_def && this->is_helm ||
 		!query->allow_lower_tier && !relic && GetTier( this ) < GetTier( query->hr, this->elder_star ) ||
 		type != HunterType::BOTH_TYPES && query->hunter_type != type ||
 		gender != Gender::BOTH_GENDERS && gender != query->gender && !(jap_genders_only && !query->allow_japs) ||

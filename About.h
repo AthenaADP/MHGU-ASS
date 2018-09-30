@@ -10,7 +10,7 @@ using namespace System::Data;
 using namespace System::Drawing;
 
 
-namespace MHXXASS {
+namespace MHGUASS {
 
 	public ref class About : public System::Windows::Forms::Form
 	{

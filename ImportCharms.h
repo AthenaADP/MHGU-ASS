@@ -11,7 +11,7 @@ using namespace System::Data;
 using namespace System::Drawing;
 
 
-namespace MHXXASS {
+namespace MHGUASS {
 
 	public ref class ImportCharms : public System::Windows::Forms::Form
 	{
