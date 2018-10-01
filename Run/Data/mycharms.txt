@@ -1,2 +1,2 @@
 #Format: Slots,Skill1,Points1,Skill2,Points2
-0,Gathering,10,,
+0,Ammo Saver,1,Sense,-2
