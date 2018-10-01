@@ -3314,6 +3314,11 @@ private:
 	System::Void mnuClearSettings_Click( System::Object^ sender, System::EventArgs^ e )
 	{
 		cmbSort->SelectedIndex = 0;
+
+		SuspendUpdate::Suspend( tabHunterType );
+
+		lock_skills = true;
+
 		for each( ComboBox^ cb in bSkills )
 		{
 			cb->SelectedIndex = -1;
@@ -3322,14 +3327,27 @@ private:
 		{
 			cb->SelectedIndex = -1;
 		}
+
+		lock_skills = false;
+
 		for each( ComboBox^ cb in bSkillFilters )
 		{
-			cb->SelectedIndex = 0;
+			if( cb->SelectedIndex == 0 )
+				cmbSkillFilter_SelectedIndexChanged( cb, bSkills, bSkillFilters, bIndexMaps );
+			else
+				cb->SelectedIndex = 0;
 		}
 		for each( ComboBox^ cb in gSkillFilters )
 		{
+			if( cb->SelectedIndex == 0 )
+				cmbSkillFilter_SelectedIndexChanged( cb, gSkills, gSkillFilters, gIndexMaps );
+			else
 			cb->SelectedIndex = 0;
 		}
+
+		SuspendUpdate::Resume( tabHunterType );
+
+		OptionsChanged( sender, e );
 	}
 
 	System::Void nudHR_ValueChanged(System::Object^  sender, System::EventArgs^  e)
