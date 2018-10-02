@@ -645,6 +645,9 @@ namespace MHGUASS {
 			}
 			lv->EndUpdate();
 			manual_checking = true;
+
+			if( sender != btnNoneDecorations )
+				UpdateNesetArmor( true );
 		}
 
 		System::Void DefaultChecked( System::Object^ sender, System::EventArgs^ e )
