@@ -101,16 +101,22 @@ bool Solution::FixBadSkill( Skill^ skill )
 		{
 			if( slots_spare[ dec->slots_required + 1 ] == 0 )
 			{
+				Assert( slots_spare[ 3 ] > 0, L"Not enough slots spare" );
 				slots_spare[ 3 ]--;
 				slots_spare[ 2 ]++;
 			}
 			else
 			{
+				Assert( data->solution->slots_spare[ dec->slots_required + 1 ] > 0, L"Not enough slots spare" );
 				slots_spare[ dec->slots_required + 1 ]--;
 				slots_spare[ 1 ]++;
 			}
 		}
-		else slots_spare[ dec->slots_required ]--;
+		else
+		{
+			Assert( slots_spare[ dec->slots_required ] > 0, L"Not enough slots spare" );
+			slots_spare[ dec->slots_required ]--;
+		}
 
 		if( AddDecoration( data->solution, dec, 1, non_body_decorations ) )
 			return true;
@@ -742,6 +748,8 @@ void Solution::ReduceSlots()
 		if( i <= 3 )
 		{
 			//if( i > charm->num_slots )
+			Assert( slots_spare[ i ] > 0, L"Not enough slots spare" );
+
 			slots_spare[ i - charm->num_slots ]++;
 			slots_spare[ i ]--;
 			total_slots_spare -= charm->num_slots;
@@ -891,8 +899,13 @@ void Solution::AddExtraSkills()
 		unsigned spare[4] = { 0, slots_spare[1], slots_spare[2], slots_spare[3] };
 		for( unsigned size = 4; size --> 1; )
 		{
+			Assert( (int)slots_spare[ size ] >= 0, L"Negative slots spare?" );
+			if( (int)slots_spare[ size ] < 0 )
+				continue;
+
 			for( unsigned i = 0; i < slots_spare[size]; ++i )
 			{
+				Assert( spare[ size] > 0, L"Not enough slots spare" );
 				spare[size]--;
 				unsigned s = size;
 				while( s > 0 )
@@ -974,7 +987,10 @@ bool CalculateTaunt( CalculationData^ data )
 	if( data->query->taunt_decorations.Count == 0 )
 		return false;
 
-	const int effective_total = data->solution->torso_slots_spare * data->solution->torso_multiplier + ( data->solution->total_slots_spare - data->solution->torso_slots_spare );
+	const int effective_total =
+		data->solution->torso_slots_spare * data->solution->torso_multiplier +
+		data->solution->charm_slots_spare * ( data->solution->charm_up ? 1 : 0 ) +
+		( data->solution->total_slots_spare - data->solution->torso_slots_spare );
 	int need = have + 10;
 	if( need > effective_total )
 		return false;
@@ -1000,11 +1016,19 @@ bool CalculateTaunt( CalculationData^ data )
 			}
 		}
 	}
+
 	while( data->solution->torso_slots_spare > 0 && need > 0 )
 	{
 		AddDecoration( data->solution, best, data->solution->torso_multiplier, data->solution->body_decorations );
 		need -= data->solution->torso_multiplier;
 		data->solution->torso_slots_spare--;
+	}
+
+	while( data->solution->charm_slots_spare > 0 && need > 0 )
+	{
+		AddDecoration( data->solution, best, data->solution->torso_multiplier, data->solution->charm_decorations );
+		need -= data->solution->charm_up ? 2 : 1;
+		data->solution->charm_slots_spare--;
 	}
 
 	while( data->solution->total_slots_spare > 0 && need > 0 )
@@ -1015,16 +1039,22 @@ bool CalculateTaunt( CalculationData^ data )
 		{
 			if( data->solution->slots_spare[2] == 0 )
 			{
+				Assert( data->solution->slots_spare[ 3 ] > 0, L"Not enough slots spare" );
 				data->solution->slots_spare[3]--;
 				data->solution->slots_spare[2]++;
 			}
 			else
 			{
+				Assert( data->solution->slots_spare[ 2 ] > 0, L"Not enough slots spare" );
 				data->solution->slots_spare[2]--;
 				data->solution->slots_spare[1]++;
 			}
 		}
-		else data->solution->slots_spare[1]--;
+		else
+		{
+			Assert( data->solution->slots_spare[ 1 ] > 0, L"Not enough slots spare" );
+			data->solution->slots_spare[ 1 ]--;
+		}
 	}
 	
 	return true;

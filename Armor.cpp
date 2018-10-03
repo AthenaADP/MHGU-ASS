@@ -454,11 +454,12 @@ String^ Charm::GetName()
 		return Utility::SlotString( num_slots );
 	else if( abilities.Count == 1 )
 	{
-		return FormatString3( CharmFormat1, L"+" + Convert::ToString( abilities[ 0 ]->amount ), abilities[ 0 ]->ability->name, Utility::SlotString( num_slots ) );
+		String^ num1 = ( abilities[ 0 ]->amount > 0 ? L"+" : L"" ) + Convert::ToString( abilities[ 0 ]->amount );
+		return FormatString3( CharmFormat1, num1, abilities[ 0 ]->ability->name, Utility::SlotString( num_slots ) );
 	}
 	else if( abilities.Count == 2 )
 	{
-		String^ num1 = L"+" + Convert::ToString( abilities[ 0 ]->amount );
+		String^ num1 = ( abilities[ 0 ]->amount > 0 ? L"+" : L"" ) + Convert::ToString( abilities[ 0 ]->amount );
 		String^ num2 = ( abilities[ 1 ]->amount > 0 ? L"+" : L"" ) + Convert::ToString( abilities[ 1 ]->amount );
 		return FormatString5( CharmFormat2, num1, abilities[ 0 ]->ability->name, num2, abilities[ 1 ]->ability->name, Utility::SlotString( num_slots ) );
 	}

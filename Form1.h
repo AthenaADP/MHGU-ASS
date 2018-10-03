@@ -3059,7 +3059,8 @@ private:
 
 	System::Void SortResults()
 	{
-		if( cmbSort->SelectedIndex < 1 || sort_off ) return;
+		if( cmbSort->SelectedIndex < 1 || sort_off )
+			return;
 		else if( cmbSort->SelectedIndex == 1 )
 			final_solutions.Sort( gcnew Comparison< Solution^ >( CompareSolutionByDragonRes ) );
 		else if( cmbSort->SelectedIndex == 2 )
@@ -3084,14 +3085,6 @@ private:
 			final_solutions.Sort( gcnew Comparison< Solution^ >( CompareSolutionByFamily ) );
 		else if( cmbSort->SelectedIndex == 12 )
 			final_solutions.Sort( gcnew Comparison< Solution^ >( CompareSolutionsByExtraSkills ) );
-	}
-
-	bool EndsWithSlots( String^% s )
-	{
-		return s->EndsWith( L" ---" ) ||
-			   s->EndsWith( L"O--" ) ||
-			   s->EndsWith( L"OO-" ) ||
-			   s->EndsWith( L"OOO" );
 	}
 
 	void contextMenuStrip1_Closing( System::Object^ sender, ToolStripDropDownClosingEventArgs^ e )
