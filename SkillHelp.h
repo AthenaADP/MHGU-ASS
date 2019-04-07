@@ -327,6 +327,7 @@ namespace MHGUASS
 
 						String^ skill_name = desc->Substring( subskill_start + 2, subskill_end - subskill_start - 2 );
 						ss->skill = Skill::FindSkill( skill_name );
+						Assert( ss->skill, "Subskill not found: " + skill_name );
 						if( ss->skill == nullptr )
 							break;
 
