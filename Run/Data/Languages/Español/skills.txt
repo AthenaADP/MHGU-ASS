@@ -1,0 +1,532 @@
+﻿Veneno
+Parálisis
+Sueño
+Aturdir
+Oído
+Res. viento
+Res. temblor
+Res. atrap.
+Res. calor
+Res. frío
+Sangre fría
+Apasionado
+Antirrobo
+Piel dura
+Res. cólera
+Biólogo
+Sangrado
+Ataque
+Defensa
+Salud
+Res. fuego
+Res. agua
+Res. rayo
+Res. hielo
+Res. draco
+Res. plaga
+Atq. fuego
+Atq. agua
+Atq. rayo
+Atq. hielo
+Atq. draco
+Atq. elem.
+Estado
+Afilador
+Artesano
+Afilado
+Esgrima
+Amolador
+Impacto
+Desenfunde
+Pena inmed.
+Vaina veloz
+Vaina afilada
+Filoescama
+Vel. recarg.
+Cadencia
+Precisión
+Disparo+
+Perforar+
+Perdigón+
+Pesado+
+Mun. normal
+Mun. perfor.
+Mun. perdig.
+Mun. explos.
+Mun. grupo
+Rv. veneno
+Rv. paraliz.
+Rv. sueño
+Rv. energía
+Rv. elem.
+Rv. alcance
+Rv. fatiga
+Rv. nitro
+Fuego rápido
+Puntería
+Recargando
+Aleatorio
+Ahorramun.
+Experto
+Maza
+Serie crítica
+Crít. est.
+Crít. elm.
+Crítico +1
+Críticos negativos
+Carga veloz
+Resistencia
+Constitución
+Estad. forma
+Carrera de fondo
+Evasión
+Dis. evasión
+Burbuja
+Guardia
+Escudo
+Boxeador
+Robarresis.
+Maestro
+Artillería
+Destructor
+Bombardero
+Poder
+Espíritu
+Ileso
+Pegaso
+Dracoenergía
+Potencial
+Superviv.
+Furor
+Crisis
+Tripas
+Sentido
+En equipo
+Liderazgo
+Monta
+Impulso
+Conocimiento
+Perseverancia
+SP prolongado
+Lucidez
+Percepción
+Soldado
+Porteador
+Protección
+Heroísmo
+Curación
+Recuperac.
+Duración
+Efecto área
+Hambre
+Glotonería
+Consumir
+Dieta
+Carnívoro
+Micología
+Botánica
+Combinación
+Combinac.+
+Trampero
+Recogida
+Miel
+Amuleto
+Capricho
+Suerte
+Cortador
+Capturas
+Bherna
+Kokoto
+Pokke
+Yukumo
+Flotatorio
+Taberna volante
+Ámbar
+Alud
+Pétreo
+Toro
+Maldita
+Vítreo
+Argénteo
+Cíclope
+Maldito
+Tormenta
+Guadaña
+Inferno
+Nébula
+Férreo
+Tengen
+Fulmen
+Glacial
+Sanguinario
+Ámbar X
+Alud X
+Pétreo X
+Toro X
+Maldita X
+Vítreo X
+Argénteo X
+Cíclope X
+Maldito X
+Tormenta X
+Guadaña X
+Inferno X
+Nébula X
+Férreo X
+Tengen X
+Fulmen X
+Glacial X
+Sanguinario X
+Esgrima s.
+Saber filo
+Comepoder
+Mecánico
+Músculos
+Oración
+Encubierto
+Punzante
+Pulso firme
+Bienestar
+Furia
+Destreza
+Iai-do
+Resiliencia
+Brutalidad
+Lealtad
+Prudencia
+Amplificar
+Acaparar
+Codicia
+Antikushala
+Antichameleos
+Antiteostra
+Torso+
+Técnicas secretas
+Mejora de talismán
+
+Anula veneno
+Doble veneno
+Anula parálisis
+Doble parálisis
+Anula sueño
+Doble sueño
+Anula aturdimiento
+Mitad aturdimiento
+Doble aturdimiento
+Tapones +2
+Tapones +1
+Resist. viento +2
+Resist. viento +1
+Resist. temblores
+Anula inmovilizac.
+Anula el calor
+Aumentar calor
+Anula el frío
+Aumentar frío
+Cazador polar
+Cazador tropical
+Antirrobo
+Piel de hierro
+Antivirus
+Biólogo
+Bioinvestigador
+Anula sangrado
+Sangrado doble
+Ataque +3
+Ataque +2
+Ataque +1
+Ataque -1
+Ataque -2
+Ataque -3
+Defensa +3
+Defensa +2
+Defensa +1
+Defensa -1
+Defensa -2
+Defensa -3
+Salud +50
+Salud +20
+Salud -10
+Salud -30
+Resist. fuego +20
+Resist. fuego +15
+Resist. fuego -20
+Resist. agua +20
+Resist. agua +15
+Resist. agua -20
+Resist. rayo +20
+Resist. rayo +15
+Resist. rayo -20
+Resist. hielo +20
+Resist. hielo +15
+Resist. hielo -20
+Resist. draco +20
+Resist. draco +15
+Resist. draco -20
+Anti daño elem.
+Ataque fuego +2
+Ataque fuego +1
+Ataque fuego -1
+Ataque agua +2
+Ataque agua +1
+Ataque agua -1
+Ataque rayo +2
+Ataque rayo +1
+Ataque rayo -1
+Ataque hielo +2
+Ataque hielo +1
+Ataque hielo -1
+Ataque draco +2
+Ataque draco +1
+Ataque draco -1
+Elemental +1
+Elemental -1
+Estado anormal +2
+Estado anormal +1
+Estado anormal -1
+Afilado rápido
+Afilado lento
+Afilado +2
+Afilado +1
+Filo de cuchilla
+Filo romo
+Ojo preciso
+Ojo ciego
+Pulido a fondo
+Cachiporra pesada
+Desenf. especial
+Pena inmediata
+Vaina rápida
+Vaina desafiante
+Filoescama afilada
+Vel. recarga +3
+Vel. recarga +2
+Vel. recarga +1
+Vel. recarga -1
+Vel. recarga -2
+Vel. recarga -3
+Cadencia +3
+Cadencia +2
+Cadencia +1
+Cadencia -1
+Cadencia -2
+Cadencia -3
+Precisión +2
+Precisión +1
+Precisión -1
+Precisión -2
+Normal/salva+
+Perforante+
+Perdigón/abanico+
+Peso pesado+
+Mun. normal
+Mun. perforadora
+Mun. perfor. Nv1
+Mun. perdigón
+Mun. perdigón Nv1
+Mun. explosiva
+Mun. explosiva Nv1
+Mun. de grupo
+Mun. de grupo Nv1
+Rev. veneno
+Rev. paraliz.
+Rev. sueño
+Rev. poten. (todos)
+Rev. poten. Nv1
+Rev. elem. (todos)
+Rev. elemental Nv1
+Rev. alcance
+Rev. fatiga
+Rev. nitro
+Disparo bonus
+Potenciad. disparo
+Carga+
+Disparo certero +1
+Ahorramunic.
+Ojo crítico +3
+Ojo crítico +2
+Ojo crítico +1
+Ojo crítico -1
+Ojo crítico -2
+Ojo crítico -3
+Maza
+Atacante constante
+Crít. estado
+Crít. elemental
+Potenciador crítico
+Afinidad amarga
+Foco
+Distracción
+Corredor +1
+Corredor -1
+Constitución +2
+Constitución +1
+Constitución -1
+Constitución -2
+Estado forma +1
+Estado forma -1
+Alargaesprint
+Evasión +2
+Evasión +1
+Evasión -1
+Distancia evasión
+Danza burbujeante
+Guardia +2
+Guardia +1
+Guardia -1
+Escudo
+Boxeador
+Robarresistencia
+Músico
+Artillería +2
+Artillería +1
+Destructor
+Bombardero
+Poder oculto +2
+Poder oculto +1
+Espíritu +2
+Espíritu +1
+Plena forma
+Carta ganadora
+Corazón dragón
+Adrenalina +2
+Adrenalina +1
+Agobiado
+Fortalecer
+Resentimiento
+Resucitar
+Tripas
+Sigilo
+Provocación
+Reunión camaradas
+Ovación camaradas
+Maestro de monta
+Dolor de nalgas
+Transmisión aérea
+Compuesto
+Oportunista
+Prolongación de SP
+Autorrastreador
+Detectar
+Gurú de captura
+Soldado
+Porteador experto
+Bendición divina
+Bendic. demoníaca
+Talismán de héroe
+Curación +1
+Curación -1
+Recuperación +2
+Recuperación +1
+Recuperación -1
+Recuperación -2
+Efecto objeto +1
+Efecto objeto -1
+Efecto área +2
+Efecto área +1
+Anula hambre
+Mitad hambre
+Aumenta hambre
+Doble hambre
+Carroñero
+Glotón
+Consumir +2
+Consumir +1
+Consumir -1
+Repartidor
+Carnívoro
+Micólogo
+Herb. avanzada
+Herbología
+Combinación +45%
+Combinación +20%
+Combinación -10%
+Combinación -20%
+Combinación+
+Trampero
+Recogida +2
+Recogida +1
+Recogida -1
+Cazamiel
+Buscamuletos
+Recogeamuletos
+Capricho +2
+Capricho +1
+Capricho -1
+Capricho -2
+Suerte +2
+Suerte +1
+Suerte
+Suerte -1
+Suerte -2
+Célebre cortante
+Experto cortador
+Maestro capturas
+Experto capturas
+Alma de Bherna
+Alma de Kokoto
+Alma de Pokke
+Alma de Yukumo
+Alma de Flotatorio
+Alma de taberna
+Alma de Ámbar
+Alma de Alud
+Alma de Pétreo
+Alma de Toro
+Alma de Maldita
+Alma de Vítreo
+Alma de Argénteo
+Alma de Cíclope
+Alma de Maldito
+Alma de Tormenta
+Alma de Guadaña
+Alma de Inferno
+Alma de Nébula
+Alma de Férreo
+Alma de Tengen
+Alma de Fulmen
+Alma de Glacial
+Alma Sanguinario
+Alma de Ámbar X
+Alma de Alud X
+Alma de Pétreo X
+Alma de Toro X
+Alma de Maldita X
+Alma de Vítreo X
+Alma Argénteo X
+Alma de Cíclope X
+Alma de Maldito X
+Alma Tormenta X
+Alma Guadaña X
+Alma de Inferno X
+Alma de Nébula X
+Alma de Férreo X
+Alma de Tengen X
+Alma de Fulmen X
+Alma de Glacial X
+Alma Sanguinario X
+Esgrimista sucio
+Mano firme
+Gourmet
+Colocaexplosivos
+Golpe demoledor
+Bendición
+Clandestino
+Punzante
+Pulso firme
+Bienestar
+Furia
+Acróbata
+Iai-jutsu
+Muro de hierro
+Crueldad
+Portaescudos
+Pies veloces
+Elementalidad
+Rataque
+Cazarrecompensas
+Talismán glacipelo
+Talism. piroescama
+Talism. ferrenácar
+Habilidad +2
+Talismán doble

@@ -1,0 +1,264 @@
+﻿#  Tabla de Cadenas Primarias de MHX/Gen ASS 
+#  
+#  Notas de la documentación
+#
+#  - Las lineas que comienzan con # son comentarios y se ignoran.
+#  - Las lineas vacías también son ignoradas.
+#  - El nombre de este idioma tal como aparece en el menú desplegable es el nombre de la carpeta dentro de la carpeta Idiomas.
+#  - Los menús y botones pueden usar el símbolo ampersand (&) para marcar una tecla de acceso rápido.
+#  - Los tokens (%1, %2 etc.) son reemplazados por números; se pueden reorganizar en cualquier orden.
+#    Consulte la documentación específica a continuación para ver cuáles son los números.
+#
+# Si tiene alguna pregunta o necesita más cadenas / opciones / cambios de UI,
+# envíe un mensaje a AthenaADP en Facebook o reddit.
+
+# La primera línea es para los créditos del traductor.
+# Aparece en el cuadro de diálogo "Acerca de" cuando se selecciona este idioma.
+# Un solo guión significa que no se muestra nada.
+Traducido por Juan José Serrano González (Nitropc1976)
+
+&Archivo
+&Opciones
+&Idioma
+&Ayuda
+&Abrir
+
+# Esta cadena se usa en el menú Archivo para guardar la configuración de la aplicación.
+&Guardar
+
+# Esta cadena se utiliza para guardar listas de talismanes personalizadas.
+&Guardar
+
+&Salir
+
+# Esta opción restablece todas las configuraciones a las predeterminadas.
+&Borrar ajustes
+
+# Las habilidades "negativas" son aquellas activadas con -10 puntos o menos.
+Permitir &Habilidades Negativas
+
+# Esta cadeba se refiere específicamente a los cascos de recompensa de la Arena,
+# como el Piercing artillería y el Piercing espada que son difíciles de obtener.
+Permitir &Armadura de Arena
+
+# Esta cadena se utiliza para Armaduras de evento (y decoraciones) de misiones de DLC.
+Permitir &Armadura de Evento
+
+# Esta cadena se utiliza para Armaduras/Decoraciónes solo en el juego japones (MHXX)
+Permitir &DLC Japoneses
+
+# Esta configuración ignorará el equipo de un nivel inferior al tuyo.
+Permitir &Armadura Rango Bajo
+
+Mostrar puntos &requeridos por las Habilidades
+
+Ordenar Habilidades &Alfabeticamente
+Permitir &Yelmos Artillero
+&Donar
+Usar &espacios libres en habilidades extra
+¿Qué hacen las &habilidades?
+
+# Esta opción abre un navegador a mi página de Facebook.
+Buscar &actualizaciones
+
+&Acerca de
+&Talismanes
+&Importar
+&Búsqueda Rápida
+Búsqueda &Avanzada
+&Cancelar
+&Predeterminado
+
+# Esta cadena se usa en el cuadro de diálogo "Búsqueda avanzada" para deseleccionar todas las armaduras en una lista.
+&Ninguno
+
+# Esta cadena se utiliza en el cuadro combinado que filtra los resultados por talismán.
+Sin talismán
+
+# Esta cadena se utiliza en el cuadro combinado que ordena los resultados según varios criterios
+No ordenar
+
+&Buscar
+Seleccionar &Ninguno
+Seleccionar el &Mejor
+&Agregar Nuevo
+&Resetear
+&Eliminar
+Eliminar &Todos
+Mover A&rriba
+Mover A&bajo
+A&justar
+&Cerrar
+Encontrar &Siguiente
+
+# Esta cadena se utiliza para seleccionar habilidades por los caracteres/kana japoneses
+Jap?
+Selecciona Habilidad en Japonés
+Longitud %1
+
+Mis. de Gremio
+Mis. de Aldea
+Espacios en el arma
+Hombre
+Mujer
+No filtrar habilidad extra
+Ordenar/Filtrar Resultados
+
+# Esta cadena se utiliza en el cuadro combinado que filtra los resultados por talismán.
+Cualquier Talismán
+
+Res. draco 
+Res. fuego
+Res. hielo
+Res. rayo
+Res. agua
+Defensa Base
+Máxima Defensa
+
+# Al ordenar los resultados, "Dificultad" se refiere al número de elementos raros requeridos, por ejemplo. placas/rubíes/gemas de dragón/etc.
+Dificultad
+
+Rareza
+Espacios libres
+
+# Al clasificar los resultados, "Familia" se refiere a qué tan similares son las piezas de armadura:
+# Rathalos X + Rathalos X (genial!)
+# Rathalos X + Rathalos S (bueno)
+# Rathalos X + Rathalos U (ok...)
+# Rathalos X + Basarios S (malo)
+Familia
+
+# Las habilidades adicionales son habilidades que puede aparecer en un resultado aunque el usuario no lo busque.
+Habilidades Extra
+
+Talismanes
+No usar talismanes
+Usar mis talismanes
+
+# Cuando busques usar talismanes que no tienen habilidades, pero 1-3 ranuras.
+Usar talismanes con espacios
+
+# Cuando busques talismanes con al menos una habilidad y posiblemente algunas ranuras
+Usar talismanes con una habilidad
+
+# Cuando realice búsquedas con talismanes de al menos dos habilidades y posiblemente algunas ranuras (es decir, todos los posibles talismanes)
+Usar talismanes con dos habilidades
+
+#Charm format string (one skill). The 3 parameters are, in order: [Num, Skill, Slots], e.g. "+4 Attack OO-"
+%1 %2 %3
+
+#Charm format string (two skills). The 5 parameters are, in order: [Num1, Skill1, Num2, Skill2, Slots], e.g. "+4 Attack, +10 Ice Res OO-"
+%1 %2, %3 %4 %5
+
+Habilidad
+Habilidad
+Filtros de Habilidad
+Espadachín
+Artillero
+
+# Utilizado en el cuadro de diálogo Búsqueda avanzada
+Seleccionar Armadura
+
+# Para importar talismanes desde un archivo guardado.
+Importar Talismanes
+Caracteres
+Delete Existing Charms
+¿Estas seguro(a)?
+&Ordenar
+&Ordenar por Hab. 1
+&Ordenar por Hab. 2
+Espacios
+(Ninguna)
+
+# Cuando el resultado tiene exactamente una ranura
+1 Espacio libre
+
+# Cuando el resultado tiene varias ranuras %1 es ese número.
+%1 Espacios libres
+
+# Las siguientes tres cadenas comienzan deliberadamente con un espacio en Castellano
+ (o cualquiera con 1 espacio)
+
+# %1 es el número de ranuras en la armadura.
+ (o cualquiera con %1 espacios)
+
+# Esta línea se adjunta a las armaduras con Torso Up.
+ (o cualquiera con Torso+)
+
+# Esta línea se adjunta a las decoraciones en la armadura del torso, si se utiliza Torso Up.
+ (en Torso)
+
+# Esta línea se añade a las decoraciones en el hechizo, si se utiliza Charm Up.
+ (in Charm)
+
+Resultados encontrados:
+
+# Cuando hay demasiados resultados para mostrarlos todos, %1 es el límite (valor predeterminado: 1000)
+Mostrando solo los primeros %1 resultados:
+
+Guardar Datos de Guardado
+Lista de Talismanes
+El archivo está dañado.
+Version
+Encontrar
+
+# Esta cadena se muestra si se carga un Talismán que es imposible obtener legítimamente
+&Tú, tramposo.
+
+# Utilizado en algunas ventanas emergentes de error
+Error
+
+# Para mostrar la defensa mínima (%1) y máxima (%2), p. Ej. 10 a 100
+%1 to %2
+
+Defensa
+Tabla
+Resultados
+Talismán desconocido
+Eliminar todos
+Ajustes ASS
+&Máximo de resultados
+Mostrar &nombres de joyas
+Mostrar listas de materiales
+Zoom por defecto de Vista previa
+
+# Mostrando defensa min/max y resistencias elementales.
+%1-%2 Def, %3 Fue, %4 Agu, %5 Hie, %6 Ray, %7 Dra
+
+# Esta cadena se usa para mostrar decoraciones como habilidades, por ejemplo. "+5 Joya experta". %1 es el valor numérico %2 es el nombre de la habilidad
+%1 %2 Joya
+
+# Tipo de artículo se refiere a arma/casco/armadura corporal/etc.
+Pieza
+
+# Tipo de cazador significa Espadachín o Artillero.
+Tipo Cazador
+
+# Tanto Espadachín como Artillero (para cascos).
+Ambos
+
+Arma
+Cabeza
+Pecho
+Brazos
+Cintura
+Piernas
+
+# Esta cadena es para mostrar potenciales habilidades adicionales.
+(%1 posible)
+
+# Cadenas para el cuadro de diálogo de descripción de habilidades.
+Mostrar
+Descripción
+Habilidades
+Ptos. de Habilidad
+Piezas con puntos en esta habilidad:
+
+# Cadenas para mostrar rango de cazador, progreso de búsqueda de aldea, etc.
+%1☆
+%1☆
+G%1☆
+Todo
+
+# Formato de cadena para mostrar una habilidad con el número de puntos de habilidad requeridos.
+%1 (%2)

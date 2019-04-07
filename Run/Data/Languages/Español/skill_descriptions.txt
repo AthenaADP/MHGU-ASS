@@ -1,0 +1,327 @@
+﻿Duplica los puntos de habilidad de la armadura corporal. 
+Reduce el efecto del veneno mortal y anula totalmente otros venenos menores.
+Duplica el daño recibido por veneno.
+Previene la parálisis.
+Dobla la duración de la parálisis.
+Previene el sueño.
+Dobla la duración del sueño.
+Previene el aturdimiento.
+Reduce la probabilidad de ser aturdido un 50%.
+Dificulta la recuperación tras ser aturdido.
+Anula el efecto de todos los rugidos de monstruos grandes.
+Anula el efecto del rugido de algunos monstruos grandes.
+Anula la presión del viento de casi todos los monstruos.
+Reduce casi toda la presión del viento.
+Impide que los temblores provocados por monstruos grandes te hagan tambalear.
+Anula los efectos de estados de atrapamiento como muñeco de nieve y burbujas.
+Anula el daño provocado por calor y lava.
+Incrementa la salud que se pierde debido a calor.
+Anula todo el frío.
+Aumenta la velocidad a la que se agota la resistencia máxima por frío.
+Da energía en climas fríos. Si tomas una bebida fría...
+Da energía en climas áridos. Si tomas una bebida caliente...
+Previene el robo de objetos.
+Anula los efectos de defensa reducida.
+Dificulta entrar en estado colérico y potencia la recuperación.
+Aumenta la eficacia de las bombas boñiga, y protege del hedor, la plaga de nitro y la cólera.
+Aumenta la eficacia de las bombas boñiga, y protege del hedor y la plaga de nitro.
+Evita el sangrado.
+Duplica el daño recibido por sangrado.
+Aumenta mucho el ataque.
+Aumenta el ataque.
+Aumenta ligeramente el ataque.
+Reduce ligeramente el ataque.
+Reduce el ataque.
+Reduce mucho el ataque.
+Aumenta mucho la defensa.
+Aumenta la defensa.
+Aumenta ligeramente la defensa.
+Reduce ligeramente la defensa.
+Reduce la defensa.
+Reduce mucho la defensa.
+Aumenta la salud máxima en 50.
+Aumenta la salud máxima en 20.
+Reduce la salud máxima en 10.
+Reduce la salud máxima en 30.
+Aumenta la resistencia al fuego en 20.
+Aumenta la resistencia al fuego en 15.
+Reduce la resistencia al fuego en 20.
+Aumenta la resistencia al agua en 20.
+Aumenta la resistencia al agua en 15.
+Reduce la resistencia al agua en 20.
+Aumenta la resistencia al rayo en 20.
+Aumenta la resistencia al rayo en 15.
+Reduce la resistencia al rayo en 20.
+Aumenta la resistencia al hielo en 20.
+Aumenta la resistencia al hielo en 15.
+Reduce la resistencia al hielo en 20.
+Aumenta la resistencia al draco en 20.
+Aumenta la resistencia al draco en 15.
+Reduce la resistencia al draco en 20.
+Anula todas las plagas elementales (fuego, agua, rayo, hielo y draco).
+Aumenta mucho la potencia de ataques de fuego y disparos llama (D llama).
+Aumenta la potencia de ataques de fuego y disparos llama (D llama).
+Reduce la potencia de ataques de fuego y disparos llama (D llama).
+Aumenta mucho la potencia de ataques de agua y disparos agua (D agua).
+Aumenta la potencia de ataques de agua y disparos agua (D agua).
+Reduce la potencia de ataques de agua y disparos agua (D agua).
+Aumenta mucho la potencia de ataques de rayo y disparos rayo (D rayo).
+Aumenta la potencia de ataques de rayo y disparos rayo (D rayo).
+Reduce la potencia de ataques de rayo y disparos rayo (D rayo).
+Aumenta mucho la potencia de ataques de hielo y disparos congeladores (D congeladores).
+Aumenta la potencia de ataques de hielo y disparos congeladores (D congeladores).
+Reduce la potencia de ataques de hielo y disparos congeladores (D congeladores).
+Aumenta mucho la potencia de los ataques de draco y los disparos de draco (D draco).
+Aumenta la potencia de ataques de draco y disparos draco (D draco).
+Reduce la potencia de ataques de draco y disparos draco (D draco).
+Aumenta la potencia de los ataques elementales.
+Reduce la potencia de ataques elementales.
+Aumenta mucho la potencia de los ataques de estado anormal.
+Aumenta la potencia de los ataques de estado anormal.
+Reduce la potencia de los ataques de estado anormal.
+Acelera el afilado de armas.
+Ralentiza el afilado de armas.
+Alarga mucho la barra de afilado de tu arma.
+Alarga la barra de afilado de tu arma.
+Divide por 2 la velocidad de pérdida de afilado del arma.
+Dobla la velocidad de pérdida de afilado del arma.
+Evita que tus ataques sean rechazados.
+Tus ataques son rechazados más fácilmente.
+Usa una piedra de afilar para pulir un arma y aumentar brevemente su potencia.
+Aumenta el ataque según lo desafilada que esté tu arma.
+Aumenta la afinidad con todos los ataques de desenfundadura en un 100%.
+Los ataques de desenfundadura de las armas de corte pueden aturdir. Aumenta un poco el ataque.
+Aumenta la velocidad de desenfundadura de las armas.
+Podrás afilar el arma si la envainas cuando el monstruo esté furioso.
+Esquiva con el arma desenvainada para conseguir diferentes efectos. Refuerza el revestimiento de alcance a los arcos.
+Acelera mucho la recarga de ballesta y carga automáticamente los revestimientos de arco.
+Acelera la recarga de ballesta y carga automáticamente los revestimientos de arco.
+Acelera ligeramente la recarga de la ballesta y la carga de revestimientos de arco.
+Ralentiza ligeramente la recarga de la ballesta y la carga de revestimientos de arco.
+Ralentiza la recarga de ballesta y la carga de revestimientos de arco.
+Ralentiza mucho la recarga de la ballesta y la carga de revestimientos de arco
+Aumenta mucho la cadencia de la ballesta.
+Aumenta la cadencia de la ballesta.
+Aumenta ligeramente la cadencia de la ballesta.
+Reduce ligeramente la cadencia de la ballesta.
+Reduce la cadencia de la ballesta.
+Reduce mucho la cadencia de la ballesta.
+Reduce mucho la desviación al disparar.
+Reduce la desviación al disparar.
+Aumenta la desviación al disparar.
+Aumenta mucho la desviación al disparar.
+Aumenta la potencia de disparos normales y flechas en salva.
+Aumenta la potencia de disparos perforadores y flechas perforantes.
+Aumenta la potencia de disparos de perdigón y de las flechas en abanico.
+Incrementa la potencia de disparos pesados y flechas pesadas.
+Permite que se carguen todos los niveles de disparos normales.
+Permite que se carguen todos los niveles de disparos perforadores.
+Permite que se carguen los disparos perforadores Nv1.
+Permite que se carguen todos los niveles de disparos de perdigón.
+Permite que se carguen los disparos de perdigón Nv1.
+Permite que se carguen todos los niveles de disparos explosivos.
+Permite que se carguen los disparos explosivos Nv1.
+Permite que se carguen todos los niveles de disparos de grupo.
+Permite que se carguen los disparos de grupo Nv1.
+Permite usar revestimientos de veneno cuando llevas un arco.
+Permite usar revestimientos paralizantes cuando llevas un arco.
+Permite usar revestimientos de sueño cuando llevas un arco.
+Permite aplicar revestimientos de potencia de todos los niveles al usar un arco.
+Permite aplicar revestimientos de potencia de Nv1 al usar un arco.
+Permite aplicar revestimientos elementales de todos los niveles al usar un arco.
+Permite aplicar rev. elementales de nivel 1 al utilizar un arco.
+Permite usar revestimientos de alcance cuando llevas un arco.
+Permite usar revestimientos de fatiga cuando llevas un arco.
+Permite usar revestimientos de nitro cuando llevas un arco.
+Permite disparar un tiro más con el disparo rápido.
+Alarga el tiempo durante el cual cierta munición y flechas impactan a plena potencia.
+Aumenta munición de ballesta y lanza pistola, niveles de carga de arco y energía de hacha cargada.
+Mejora la potencia de la munición interna de ballesta, y el tiro en arco y disparo potente del arco.
+A veces la munición o revestim. vuelven al inventario al disparar.
+Aumenta la afinidad en un 30%.
+Aumenta la afinidad en un 20%.
+Aumenta la afinidad en un 10%.
+Reduce la afinidad en un 5%.
+Reduce la afinidad en un 10%.
+Reduce la afinidad en un 15%.
+Aumenta la afinidad si golpeas partes del cuerpo contra las que tus ataques son muy eficaces.
+Aumenta la afinidad después de repetidos ataques.
+Aumenta la potencia de estados alterados (parálisis, veneno, sueño) en tus golpes críticos.
+Aumenta el daño elemental (fuego, agua, rayo, hielo, draco) de tus golpes críticos.
+Aumenta el daño de golpes críticos.
+Los ataques de afinidad negativa tienen la posibilidad de convertirse en ataques de gran afinidad.
+Acelera indic. de esp. L/hacha C/ hacha S/espadas D, y los ataques carga de gr. espada/martillo/arco.
+Ralentiza indicadores de esp. L/ esp. D/hacha S/hacha C, y ataques carga de gr. espada/martillo/arco.
+Ralentiza el uso de resistencia de acciones que requieren un consumo continuo (como correr).
+Acelera el uso de resistencia de acciones que requieren un consumo continuo (como correr).
+Ralentiza mucho el gasto de resistencia al esquivar, bloquear, etc.
+Ralentiza el gasto de resistencia al esquivar, bloquear, etc.
+Acelera el gasto de resistencia al esquivar, bloquear, etc.
+Acelera mucho el gasto de resistencia al esquivar, bloquear, etc.
+Aumenta la velocidad de recuperación de resistencia.
+Reduce la velocidad de recuperación de resistencia.
+Durante un esprint, detiene la pérdida de resistencia por debajo de cierto nivel, lo que permite correr más tiempo.
+Extiende el periodo de invulnerabilidad al esquivar.
+Extiende algo el periodo de invulnerabilidad al esquivar.
+Reduce el periodo de invulnerabilidad durante la evasión.
+Aumenta la distancia de evasión.
+Esquivar te cubre de burbujas, lo cual aumenta tu capacidad para evitar ataques enemigos.
+Aumenta mucho la probabilidad de mantener la posición al bloquear un ataque.
+Aumenta la probabilidad de mantener la posición al bloquear un ataque.
+Reduce la probabilidad de mantener la posición al bloquear un ataque.
+Hace que ataques que no eran bloqueables se hagan bloqueables.
+Facilita el aturdimiento de monstruos.
+Aumenta la capacidad de ciertos ataques de agotar a monstruos.
+Cuernos/flautas se rompen menos al tocarlos, y alarga el efecto de las melodías de cornamusa.
+Mejora disp. de balista, explosivos, rev. de impacto, munición, etc. Mejor control del indic. de calor.
+Potencia ráfagas de balista, disp. explos., rev. de impacto, munición, etc. Mejor control del ind. de calor.
+Hace más fácil romper o cortar partes de monstruos.
+Aumenta el daño de bomba y la probabilidad de combinación de todas las bombas al 100%.
+Te da gran poder durante un tiempo limitado cuando se dan unas condiciones determinadas.
+Te da poder durante un tiempo limitado cuando se dan unas condiciones determinadas.
+Aumenta mucho ataque y afinidad cuando un monstruo grande se enfada en la misma área.
+Aumenta el ataque y la afinidad cuando un monstruo grande se enfada en la misma área.
+Aumenta el ataque cuando el indicador de salud está al máximo.
+Aumenta la potencia de las técnicas de caza contra monstruos grandes cuando sea posible.
+--When Health falls below 2/3, you'll get Dragonblight but elemental resistance and Attack increases.
+Aumenta mucho ataque y defensa cuando la salud esté por debajo del 40% de su cantidad máxima.
+Aumenta mucho la defensa cuando la salud está por debajo del 40% de su cantidad máxima.
+Reduce potenciador defensa y ataque cuando la salud está por debajo del 40% del máximo.
+Aumenta tu ataque y defensa cada vez que caes en combate.
+Aumenta el ataque cuando el indicador de salud está en rojo.
+Aumenta el ataque cuando sufres un efecto anormal.
+Evita desmayarte una vez al recibir un golpe mortal si tienes cierta cantidad de salud.
+Reduce la probabilidad de ser atacado por monstruos.
+Aumenta la probabilidad de ser atacado por monstruos.
+Aumenta el ataque y la defensa de los camaradas.
+Puño en alto llama a camaradas desmayados o en recuperación. No se puede usar repetidamente.
+Facilita permanecer montado en un monstruo hasta derribarlo.
+Dificulta permanecer montado en un monstruo hasta derribarlo.
+Aumenta el daño de los ataques en salto.
+Facilita llenar el indicador de técnicas, el indicador de valor y el indicador de alquimia.
+Rellena el indicador de técnicas, el indicador de valor y el indicador de alquimia cuando recibes daño.
+Alarga el tiempo del efecto SP iniciado por técnicas de caza SP.
+Los monstruos grandes siempre aparecen en el mapa, como si estuviesen marcados.
+Aumenta la información en el mapa cuando hay monstruos grandes marcados.
+Aporta conocimiento sobre cuándo se puede capturar a un monstruo grande.
+Muestra el mapa siempre, hasta cuando no tienes. Así es más fácil pescar y cocinar.
+Mejora la velocidad al transportar objetos y reduce la probabilidad de que se te caigan.
+A veces reduce el daño recibido.
+A veces aumenta el daño recibido.
+Anula el daño de ataques menores del enemigo.
+Aumenta la cantidad recuperada al recuperar salud.
+Reduce la cantidad recuperada al recuperar salud.
+Acelera mucho la recuperación del daño temporal (parte roja del indicador de salud).
+Acelera la recuperación del daño temporal (parte roja del indicador de salud).
+Frena la recuperación del daño temporal (parte roja del indicador de salud).
+Frena mucho la recuperación del daño temporal (parte roja del indicador de salud).
+Aumenta el tiempo de efecto de ciertos objetos.
+Reduce el tiempo de efecto de ciertos objetos.
+Transfiere parte de los efectos de ciertos objetos a los camaradas en la zona.
+Transfiere los efectos de ciertos objetos a los camaradas en la zona.
+Anula el gasto de resistencia con el tiempo.
+Reduce a la mitad el ritmo de gasto máximo de resistencia con el tiempo.
+Acelera el gasto de resistencia con el tiempo.
+Acelera mucho el gasto de resistencia con el tiempo.
+Dota cualquier objeto que comas o bebas de potencia para subir tu resistencia máxima.
+Aumenta la eficacia de la carne, que sube la resistencia máxima.
+Aumenta la velocidad de consumo de carne y objetos.
+Aumenta la velocidad de consumo de carne.
+Reduce la velocidad de consumo de carne.
+Te permite reutilizar algunos objetos tras haberlos comido o bebido.
+Puedes comer carne cruda. Los bistecs poco hechos y al punto te dan resistencia ilimitada temporal.
+Permite consumir setas para obtener ciertos beneficios de ellas.
+Aumenta aún más la cantidad de salud recuperada al ingerir hierbas respecto a la habilidad Herbología.
+Aumenta la cantidad de salud recuperada al comer hierbas.
+Mejora la probabilidad de éxito de las combinaciones en un 45%.
+Mejora la probabilidad de éxito de las combinaciones en un 20%.
+Reduce la probabilidad de éxito de las combinaciones en un 10%.
+Reduce la probabilidad de éxito de las combinaciones en un 20%.
+Garantiza los mejores resultados con combinaciones que producen más de un objeto a la vez.
+Hace que las combinaciones de trampa funcionen, y acelera la colocación de trampas y bombas.
+A menudo aumenta el número de veces que puedes recoger objetos en zonas de recogida.
+A veces aumenta el número de veces que puedes recoger objetos en zonas de recogida.
+A veces reduce el número de veces que puedes recoger objetos en zonas de recogida.
+Te permite recoger dos cajas de miel o de jalea real a la vez.
+Te permite extraer dos amuletos a la vez... Bueno, quizás.
+Te permite extraer dos amuletos a la vez... Bueno, quizááás...
+Reduce mucho la probabilidad de rotura de picos, redes de bichos, bumeranes, flautas y cuernos.
+Reduce la probabilidad de rotura de picos, redes de bichos, bumeranes, flautas y cuernos.
+Aumenta la probabilidad de rotura de picos, redes de bichos, bumeranes, flautas y cuernos.
+Aumenta mucho la probabilidad de rotura de picos, redes de bichos, bumeranes, flautas y cuernos.
+Muy a menudo aumenta el número de objetos de recompensa recibidos al final de una misión.
+Suele aumentar el número de objetos de recompensa recibidos al final de una misión.
+A veces aumenta el número de objetos de recompensa al final de una misión.
+A veces reduce el número de objetos de recompensa recibidos al final de una misión.
+A menudo reduce el número de objetos de recompensa recibidos al final de una misión.
+Aumenta las posibilidades de corte y previene envites mientras estés cortando.
+Previene envites mientras estés cortando.
+Aumenta mucho la probabilidad de obtener más objetos de recompensa por capturas.
+Aumenta la probabilidad de obtener más objetos de recompensa por capturas.
+Combina los efectos de "<<Resist. fuego +15>>" y "<<Mitad hambre>>".
+Combina los efectos de "<<Capricho +1>>" y "<<Resist. rayo +15>>".
+Combina los efectos de "<<Resist. hielo +15>>" y "<<Glotón>>".
+Combina los efectos de "<<Cazamiel>>" y "<<Resist. agua +15>>".
+Combina los efectos de "<<Resist. draco +15>>" y "<<Bioinvestigador>>".
+Combina los efectos de "<<Boxeador>>" y "<<Músico>>".
+Combina los efectos de "<<Foco>>" y "<<Resentimiento>>".
+Combina los efectos de "<<Distancia evasión>>" y "<<Estado forma +1>>".
+Combina los efectos de "<<Filo de cuchilla>>", "<<Cadencia +2>>" y "<<Bendición divina>>".
+Combina los efectos de "<<Adrenalina +2>>" y "<<Carroñero>>".
+Combina los efectos de "<<Estado anormal +2>>" y "<<Efecto área +2>>".
+Combina los efectos de "<<Buscamuletos>>" y "<<Anula hambre>>".
+Combina los efectos de "<<Evasión +2>>" y "<<Ojo crítico +3>>".
+Combina los efectos de "<<Anula aturdimiento>>" y "<<Espíritu +2>>".
+Combina los efectos de "<<Ataque +3>>" y "<<Resist. viento +2>>".
+Combina los efectos de "<<Poder oculto +2>>" y "<<Constitución +2>>".
+Combina los efectos de "<<Tapones +2>>" y "<<Consumir +2>>".
+Combina los efectos de "<<Afilado +2>>", "<<Potenciad. disparo>>" y "<<Afilado rápido>>".
+Combina los efectos de "<<Tapones +2>>", "<<Vel. recarga +3>>" y "<<Mano firme>>".
+Combina los efectos de "<<Guardia +2>>" y "<<Vaina rápida>>".
+Combina los efectos de "<<Ojo crítico +3>>" y "<<Espíritu +1>>".
+Combina los efectos de "<<Potenciador crítico>>", "<<Disparo bonus>>" y "<<Afilado +1>>".
+Combina los efectos de "<<Corredor +1>>", "<<Cachiporra pesada>>" y "<<Normal/salva+>>".
+Combina los efectos de "<<Ataque +3>>" y "<<Evasión +2>>".
+Combina los efectos de "<<Resentimiento>>", "<<Foco>>" y "<<Corredor +1>>".
+Combina los efectos de "<<Distancia evasión>>", "<<Maestro de monta>>" y "<<Estado forma +1>>".
+Combina los efectos de "<<Filo de cuchilla>>", "<<Cadencia +2>>", "<<Bendición divina>>" y "<<Constitución +1>>".
+Combina los efectos de "<<Adrenalina +2>>", "<<Carroñero>>" y "<<Artillería +2>>".
+Combina los efectos de "<<Estado anormal +2>>", "<<Efecto área +2>>" y "<<Herb. avanzada>>".
+Combina los efectos de "<<Buscamuletos>>", "<<Talismán de héroe>>" y "<<Anula hambre>>".
+Combina los efectos de "<<Evasión +2>>", "<<Ojo crítico +3>>" y "<<Sigilo>>".
+Combina los efectos de "<<Anula aturdimiento>>", "<<Espíritu +2>>" y "<<Fortalecer>>".
+Combina los efectos de "<<Resist. viento +2>>", "<<Ataque +3>>" y "<<Adrenalina +1>>".
+Combina los efectos de "<<Poder oculto +2>>", "<<Constitución +2>>" y "<<Foco>>".
+Combina los efectos de "<<Consumir +2>>", "<<Tapones +2>>" y "<<Prolongación de SP>>".
+Combina los efectos de "<<Afilado +2>>", "<<Bombardero>>", "<<Potenciad. disparo>>" y "<<Afilado rápido>>".
+Combina los efectos de "<<Tapones +2>>", "<<Vel. recarga +3>>", "<<Mano firme>>" y "<<Trampero>>".
+Combina los efectos de "<<Guardia +2>>", "<<Vaina rápida>>" y "<<Filoescama afilada>>".
+Combina los efectos de "<<Ojo crítico +3>>", y "<<Espíritu +2>>".
+Combina los efectos de "<<Potenciador crítico>>", "<<Disparo bonus>>", "<<Afilado +1>>" y "<<Oportunista>>".
+Combina los efectos de "<<Corredor +1>>", "<<Cachiporra pesada>>", "<<Normal/salva+>>" y "<<Ataque +2>>".
+Combina los efectos de "<<Ataque +3>>", "<<Evasión +2>>" y "<<Compuesto>>".
+Combina los efectos de "<<Fortalecer>>", "<<Corredor +1>>" y "<<Robarresistencia>>".
+Combina los efectos de "<<Ojo preciso>>" y "<<Filo de cuchilla>>".
+Combina los efectos de "<<Consumir +2>>", "<<Carnívoro>>" y "<<Micólogo>>".
+Combina los efectos de "<<Bombardero>>" y "<<Trampero>>".
+Combina los efectos de "<<Robarresistencia>>" y "<<Boxeador>>".
+Combina los efectos de "<<Curación +1>>" y "<<Bendición divina>>".
+Combina los efectos de "<<Carga+>>", "<<Combinación +20%>>" y "<<Sigilo>>".
+Combina los efectos de "<<Afilado +1>>" y "<<Ataque +3>>".
+Combina los efectos de "<<Normal/salva+>>", "<<Perforante+>>" y "<<Perdigón/abanico+>>".
+Combina los efectos de "<<Anula veneno>>", "<<Anula parálisis>>", "<<Anula sueño>>" y "<<Anula aturdimiento>>".
+Combina los efectos de "<<Adrenalina +2>>" y "<<Tripas>>".
+Combina los efectos de "<<Constitución +1>>" y "<<Evasión +1>>".
+Combina los efectos de "<<Pena inmediata>>" y "<<Vaina rápida>>".
+Combina los efectos de "<<Defensa +2>>" y "<<Piel de hierro>>".
+Combina los efectos de "<<Ojo crítico +2>>" y "<<Maza>>".
+Combina los efectos de "<<Escudo>>" y "<<Estado forma +1>>".
+Combina los efectos de "<<Plena forma>>" y "<<Distancia evasión>>".
+Combina los efectos de "<<Elemental +1>>" y "<<Efecto objeto +1>>".
+Combina los efectos de "<<Buscamuletos>>" y "<<Recogida +1>>".
+Combina los efectos de "<<Suerte +1>>" y "<<Experto capturas>>".
+Combina los efectos de "<<Cazador polar>>", "<<Resist. viento +2>>" y "<<Anula inmovilizac.>>".
+Combina los efectos de "<<Anula veneno>>", "<<Antirrobo>>" y "<<Autorrastreador>>".
+Combina los efectos de "<<Cazador tropical>>", "<<Resist. fuego +20>>" y "<<Bioinvestigador>>".
+Las habilidades a las que hayas añadido puntos recibirán dos puntos de habilidad más.
+Duplica el número de puntos de habilidad que puedes obtener gracias a los talismanes.

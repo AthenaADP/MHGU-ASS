@@ -1,0 +1,1195 @@
+﻿Guantes de cuero
+Guantes de malla
+Brazales de Bherna
+Brazales de caza
+Guardabr. de caza
+Manoplas Mafumofu
+Kote Yukumo
+Brazales de cazador
+Guardabrazos cazador
+Brazales de hueso
+Guardabrazos hueso
+Guanteletes trampero
+Guantes de trampero
+Guanteletes Maccao
+Guantes de Maccao
+Guanteletes Jaggi
+Guantes de Jaggi
+Brazales de Jaggi
+Guardabrazos Jaggi
+Brazales de Maccao
+Guardabr. Maccao
+Brazales Velociprey
+Guardabr. Velociprey
+Brazales de Giaprey
+Guardabrazos Giaprey
+Brazales de Genprey
+Guardabrazos Genprey
+Brazales de Vespoid
+Guardabrazos Vespoid
+Brazales Hornetaur
+Guardab. Hornetaur
+Guantes de Bnahabra
+Mangas de Bnahabra
+Brazales de Konchu
+Guardabr. de Konchu
+Brazales Mosswine
+Brazales Rhenoplos
+Guardab. Rhenoplos
+Brazales Bulldrome
+Guardab. Bulldrome
+Brazales Arzuros
+Guardabrazos Arzuros
+Brazales de Cephalos
+Guardabr. Cephalos
+Guantes valerosos
+Brazales de aleación
+Guardabr. aleación
+Brazales de combate
+Guardabrazos combate
+Brazales de lingote
+Guardabrazos lingote
+Brazales megametal
+Guardabr. megametal
+Rama Melahoa
+Pétalo Melahoa
+Mangas Makluva
+Succionador Makluva
+Ristre de obituario
+Manica de obituario
+Ristre de mariposa
+Manica de mariposa
+Zarpa pestilente
+Garra pestilente
+Enredo de Mosgharl
+Zarcillo de Mosgharl
+Enredo de Edel
+Zarcillo de Edel
+Ristre de Skalda
+Manica de Skalda
+Ristre de Spio
+Manica de Spio
+Zarpas de Moofah
+Mangas de Moofah
+Garras Velociprey
+Guantes Velociprey
+Garras de Genprey
+Guantes Genprey
+Garras de Ioprey
+Guantes Ioprey
+Guantes de Remobra
+Manos de Remobra
+Brazales de Ioprey
+Guardabrazos Ioprey
+Brazales de Kut-Ku
+Guardabr. de Kut-Ku
+Brazales Lagombi
+Guardabrazos Lagombi
+Brazales de Gypceros
+Guardabr. Gypceros
+Brazales Tetsucabra
+Guardab. Tetsucabra
+Brazales Hermitaur
+Guardab. Hermitaur
+Brazales Volvidon
+Guardabr. Volvidon
+Brazales de Ludroth
+Guardabrazos Ludroth
+Brazales Malfestio
+Guardabrazos Malfestio
+Brazales de Khezu
+Guardabrazos Khezu
+Brazales de Rathian
+Guardabrazos Rathian
+Brazales Nibelsnarf
+Guardab. Nibelsnarf
+Brazales de Blango
+Guardabrazos Blango
+Brazales Ceanataur
+Guardabr. Ceanataur
+Brazales de Najarala
+Guardabr. Najarala
+Brazales Nargacuga
+Guardabr. Nargacuga
+Braciles erudito
+Puños de erudito
+Brazales de Vaik
+Guardabrazos Vaik
+Ristre de Aelucanth
+Manica de Aelucanth
+Ristre de Rhopessa
+Manica de Rhopessa
+Brazales Artianos
+Guardabr. Artianos
+Brazales de Garuga
+Guardabrazos Garuga
+Brazales de Uragaan
+Guardabrazos Uragaan
+Brazales de Rathalos
+Guardabr. Rathalos
+Brazales Lagiacrus
+Guardab. Lagiacrus
+Brazales Zinogre
+Guardabrazos Zinogre
+Brazales Mizutsune
+Guardab. Mizutsune
+Brazales Astalos
+Guardabrazos Astalos
+Brazales de Gammoth
+Brazos de Gammoth
+Brazales de Glavenus
+Guardabr. de Glavenus
+Brazales de Gore
+Guardabrazos de Gore
+Avambrazos Regios
+Guardabraz. de Regios
+Brazales de Tigrex
+Guardabrazos Tigrex
+Prot. brazos Kirin
+Guantes de Kirin
+Brazales Brachydios
+Guardabr. Brachydios
+Brazales de arco
+Guardabrazos arco
+Brazales amor filial
+Guardab. amor filial
+Apretón de Kushala
+Abrazo de Kushala
+Mangas de Mizuha
+Mangas extravagantes
+Brazales de Káiser
+Guardabr. de Káiser
+Húmero óseo
+Húmero roto
+Garra negra
+Puño negro
+Brazales cint. negro
+Guardab. cint. negro
+Brazales bardo gremio
+Mangas bardo gremio
+Guantes sirvienta
+Mangas de criada
+Mangas de ayudante
+Mangas de sanador
+Mangas Dianthus
+Mangas campanilla
+Mangas de baño
+Guantes Gourmiáu
+Manoplas Gourmiáu
+Brazales de cuero S
+Guardabrazos cuero S
+Brazales de malla S
+Guardabrazos malla S
+Brazales Bherna S
+Brazos de Bherna S
+Brazales de caza S
+Guardabr. de caza S
+Braciles Mafumofu S 
+Manoplas Mafumofu S
+Kote cielo Yukumo
+Kote tierra Yukumo
+Brazales de cazador S
+Guardabr. cazador S
+Brazales cazador R
+Guardabr. cazador R
+Brazales de hueso S
+Guardabrazos hueso S
+Rama Melahoa S
+Pétalo Melahoa S
+Rama Melahoa U
+Pétalo Melahoa U
+Mangas Makluva S
+Succionador Makluva S
+Mangas Makluva U
+Succionador Makluva U
+Enredo Mosgharl S
+Zarcillo Mosgharl S
+Enredo de Edel S
+Zarcillo de Edel S
+Zarpas de Moofah S
+Mangas de Moofah S
+Garras Velociprey S 
+Guantes Velociprey S
+Garras de Giaprey
+Guantes de Giaprey
+Garras Genprey S
+Guantes Genprey S
+Garras Ioprey S
+Guantes Ioprey S
+Guantes de Remobra S
+Manos de Remobra S
+Guanteletes trampero S
+Guantes trampero S
+Guanteletes Maccao S
+Guantes Maccao S
+Guanteletes Jaggi S
+Guantes de Jaggi S
+Brazales Mosswine S
+Brazales Rhenoplos S
+Guardab. Rhenoplos S
+Brazales Jaggi S
+Guardabrazos Jaggi S
+Brazales Maccao S
+Guardabr. Maccao S
+Brazal. Velociprey S
+Guard. Velociprey S
+Brazales Giaprey S
+Guardabr. Giaprey S
+Brazales Genprey S
+Guardabr. Genprey S
+Brazales Genprey EX
+Guardabr. Genprey EX
+Brazales de Ioprey S
+Guardabraz. Ioprey S
+Brazales Ioprey EX
+Guardabraz. Ioprey EX
+Brazales Vespoid S
+Guardabr. Vespoid S
+Brazales Vespoid EX
+Guardabr. Vespoid EX
+Braz. Hornetaur S
+Guardab. Hornetaur S
+Braz. Hornetaur EX
+Guardab. Hornetaur EX
+Braz. Hornetaur R
+Guardab. Hornetaur R
+Guantes Bnahabra S
+Mangas de Bnahabra S
+Brazales de Konchu S
+Guardabr. Konchu S
+Brazales Bulldrome S
+Guardab. Bulldrome S
+Brazales Arzuros S
+Guardabr. Arzuros S
+Brazales Cephalos S
+Guardabr. Cephalos S
+Brazales Cephalos EX
+Guardabr. Cephalos EX
+Brazales de Kut-Ku S
+Guardabr. Kut-Ku S
+Brazales de Kecha
+Guardabrazos Kecha
+Brazales Lagombi S
+Guardabr. Lagombi S
+Brazales Gypceros S
+Guardabr. Gypceros S
+Brazales Gypceros R
+Guardabr. Gypceros R
+Brazales Tetsucabra S
+Guardab. Tetsucabra S
+Brazales Hermitaur S
+Guardab. Hermitaur S
+Brazales Hermitaur EX
+Guardab. Hermitaur EX
+Brazales Hermitaur R
+Guardab. Hermitaur R
+Brazales Volvidon S
+Guardabr. Volvidon S
+Brazales de Conga
+Guardabrazos Conga
+Brazales Ludroth S
+Guardabr. Ludroth S
+Brazales Lud. Real
+Guardabr. Lud. Real
+Brazales de Barroth
+Guardabrazos Barroth
+Brazales académicos
+Guardabr. académicos
+Brazales aleación S
+Guardabr. aleación S
+Brazales aleación R
+Guardabr. aleación R
+Brazales combate S
+Guardabr. combate S
+Brazales de lingote S
+Guardabr. lingote S
+Brazales de lingote R
+Guardabr. lingote R
+Brazales megametal S
+Guardabr. megametal S
+Brazal. megametal U
+Guardabr. megametal U
+Brazales de langosta
+Guardabr. langosta
+Ristre obituario S
+Manica obituario S
+Ristre de mariposa S
+Manica de mariposa S
+Zarpa pestilente S
+Garra pestilente S
+Zarpa pestilente R
+Garra pestilente R
+Brazales de Vaik S
+Guardabr. Vaik S
+Ristre Aelucanth S
+Manica Aelucanth S
+Ristre Rhopessa S
+Manica Rhopessa S
+Guantes de pastelero
+Manoplas de pastelero
+Ristre Skalda S
+Manica de Skalda S
+Ristre de Spio S
+Manica de Spio S
+Brazales de Basarios
+Guardabrazos Basarios
+Brazales Malfestio S
+Guard. Malfestio S
+Brazales de Zamtrios
+Guardabraz. Zamtrios
+Brazales de Khezu S
+Guardabr. de Khezu S
+Brazales de Khezu R
+Guardabr. Khezu R
+Brazales de Nerscylla
+Guardabr. Nerscylla
+Brazales Rathian S
+Guardabr. Rathian S
+Brazales Rathian EX
+Guardabr. Rathian EX
+Brazales Rathian R
+Guardabr. Rathian R
+Brazales Nibelsnarf S
+Guardab. Nibelsnarf S
+Brazales Plesioth
+Guardabraz. Plesioth
+Brazales de Blango S
+Guardabraz. Blango S
+Brazales Blango EX
+Guardabraz. Blango EX
+Brazales de Lava
+Guardabrazos de Lava
+Brazales Lava EX
+Guardabr. Lava EX
+Brazales Ceanataur S
+Guardabr. Ceanataur S
+Brazales Ceanataur EX
+Guardabr. Ceanataur EX
+Brazales Ceanataur R
+Guardabr. Ceanataur R
+Brazales Najarala S
+Guardabr. Najarala S
+Brazales Nargacuga S
+Guardabr. Nargacuga S
+Brazales de Garuga S
+Guardabraz. Garuga S
+Brazales Uragaan S
+Guardabr. Uragaan S
+Braz. cint. negro S
+Guardab. cint. negro S
+Brazales de guardián
+Guardabraz. guardián
+Brazales guardián U
+Guardbr. guardián U
+Guantes de colegiala
+Mangas de colegiala
+Guantes de marinero
+Mangas de marinero
+Mangas baño lujo
+Mangas estelares Kita
+Mangas de océano Umi
+Brazales valerosos S
+Guardab. valerosos S
+Brazales de Dober
+Guardabrazos Dober
+Brazales de Damasco
+Guardabrazos Damasco
+Brazales Damasco R
+Guardabr. Damasco R
+Brazales Artianos S
+Guardabr. Artianos S
+Brazales Artianos R
+Guardabr. Artianos R
+Brazales de Barioth
+Guardabrazos Barioth
+Brazales de Seltas
+Guardabrazos Seltas
+Brazales Rathalos S
+Guardabr. Rathalos S
+Brazales Rathalos EX
+Guardabr. Rathalos EX
+Brazales Rathalos R
+Guardabr. Rathalos R
+Brazales Lagiacrus S
+Guardab. Lagiacrus S
+Brazales Lagiacrus R
+Guardab. Lagiacrus R
+Brazales Zinogre S
+Guardabr. Zinogre S
+Brazales Zinogre EX
+Guardabr. Zinogre EX
+Brazales de Gravios
+Guardabrazos Gravios
+Brazales Mizutsune S
+Guardab. Mizutsune S
+Brazales Astalos S 
+Guardabr. Astalos S
+Brazales Gammoth S
+Brazos Gammoth S
+Brazales Glavenus S
+Guardabr. Glavenus S
+Brazales Agnaktor
+Guardabr. Agnaktor
+Brazales de Gore S
+Guardabraz. Gore S
+Brazales Gore EX
+Guardabraz. Gore EX
+Brazales de Gore R
+Guardabraz. Gore R
+Avambrazos Regios S
+Guardabraz. Regios S
+Brazales Duramboros
+Guardabr. Duramboros
+Brazales de Tigrex S
+Guardabr. Tigrex S
+Brazales Tigrex EX
+Guardabr. Tigrex EX
+Brazales de Tigrex R
+Guardabr. Tigrex R
+Prot. brazos Kirin S
+Guantes de Kirin S
+Prot. brazos Kirin R
+Guantes de Kirin R
+Brazales Brachydios S
+Guard. Brachydios S
+Brazales Brachydios EX
+Guard. Brachydios EX
+Kote dorado
+Guantes titiritero
+Brazales de Vangis
+Guardabrazos Vangis
+Guantes cab. gremio
+Mangas cab. gremio
+Guantes sirvienta S
+Mangas de criada S
+Guantes gremio az.
+Mangas gremio azules
+Guantes gremio az.
+Mangas gremio azules
+Guantes gremio rojos
+Mangas gremio rojas
+Guantes gremio rojos
+Mangas gremio rojas
+Mangas ayudante S
+Mangas sanador S
+Mangas de ayudante U
+Mangas de sanador U
+Braz. bardo grem. S
+Mangas bardo grem. S
+Brazalete Chakra
+Guardas Dianthus
+Guardas campanilla
+Brazales de élite
+Guardabr. de élite
+Brazales fraternales
+Guardabr. fraternales
+Brazales de halcón
+Guardabrazos halcón
+Guantes Gourmiáu S
+Manoplas Gourmiáu S
+Braciles erudito S
+Puños de erudito S
+Guanteletes soldado
+Guanteletes arquero
+Kote celes. Shinobi
+Kote tierra Shinobi
+Kote cielo Shinobi
+Kote mar Shinobi
+Brazos antiguos
+Brazales antiguos
+Guanteletes maestro
+Brazos maestro
+Garra negra S
+Puño negro S
+Toka Kote
+Mitsuaoi Kote
+Guantes eruditos
+Mangas eruditas
+Brazales risueños
+Guardabrazos risueños
+Guantes de marinero
+Mangas de marinero
+Brazales Rathian EX S
+Guardab. Rathian EX S
+Brazales Rathalos EX S
+Guardab. Rathalos EX S
+Brazales Tigrex EX S
+Guardabr. Tigrex EX S
+Brazales de Diablos
+Guardabrazos Diablos
+Brazales de Diablos R
+Guardabrazos Diablos R
+Brazales de arco S
+Guardabrazos arco S
+Braz. amor filial S
+Guard. amor filial S
+Brazales de arco EX
+Guardabraz. arco EX
+Brazales amor filial EX
+Guard. amor filial EX
+Brazales de arco R
+Guardabraz. arco R
+Brazales amor filial R
+Guard. amor filial R
+Brazales Valstrax
+Guardabrazos Valstrax
+Apretón Kushala S
+Abrazo Kushala S
+Apretón Kushala EX
+Abrazo de Kushala EX
+Apretón Kushala R
+Abrazo Kushala R
+Mangas Mizuha S
+Mangas extravag. S
+Mangas Mizuha EX
+Mangas extravag. EX
+Brazales de Káiser S
+Guardabr. Káiser S
+Brazales Káiser EX
+Guardabr. Káiser EX
+Brazales sol de plata
+Guardabr. sol de plata
+Brazales sol plata EX
+Brazos sol de plata EX
+Brazales sol de plata R
+Brazos sol de plata R
+Brazales luna dorada
+Guardab. luna dorada
+Brazal. luna dorada EX
+Brazos luna dorada EX
+Kote de ira divina
+Brazales rompementes
+Brazales voraces
+Guardabrazos voraces
+Brazales voraces R
+Guardabr. voraces R
+Garras de Akantor
+Guanteletes Akantor
+Garras Akantor R
+Guanteletes Akantor R
+Garras de Ukanlos
+Guanteletes Ukanlos
+Mangas de tempestad
+Mangas de firmamento
+Mangas tempestad R
+Mangas firmamento R
+Húmero óseo R
+Húmero roto R
+Brazales astrales
+Guardabrazos astrales
+Brazos Escadora
+Arma Escadora
+Brazos Escadora R
+Arma Escadora R
+Brazaletes capitán
+Brazales de cuero X
+Guardabrazos cuero X
+Brazales de malla X
+Guardabrazos malla X
+Brazales de Bherna X
+Guardabr. Bherna X
+Brazales de caza X
+Guardab. de caza X
+Braciles Mafumofu X
+Manoplas Mafumofu X
+Kote Yukumo Goku
+Kote Yukumo Chokuchi
+Mang. baño lujosísimas
+Brazales de cazador X
+Guardab. cazador X
+Brazales de cazador XR
+Guardab. cazador XR
+Brazales de hueso X
+Guardabrazos hueso X
+Guanteletes trampero X
+Guantes de trampero X
+Guanteletes Maccao X
+Guantes Maccao X
+Guanteletes Jaggi X
+Guantes de Jaggi X
+Rama Melahoa X
+Pétalo Melahoa X
+Rama Melahoa Z
+Pétalo Melahoa Z
+Mangas Makluva X
+Succionador Makluva X
+Mangas Makluva Z
+Succionador Makluva Z
+Ristre obituario X
+Manica obituario X
+Ristre de mariposa X
+Manica de mariposa X
+Zarpa pestilente X
+Garra pestilente X
+Zarpa pestilente XR
+Garra pestilente XR
+Enredo de Mosgharl X
+Zarcillo Mosgharl X
+Enredo de Edel X
+Zarcillo de Edel X
+Ristre de Skalda X
+Manica de Skalda X
+Ristre de Spio X
+Manica de Spio X
+Brazales de aleación X
+Guardab. aleación X
+Brazales aleación XR
+Guardabr. aleación XR
+Brazales combate X
+Guardab. combate X
+Brazales de lingote X
+Guardabr. lingote X
+Brazales de lingote XR
+Guardab. lingote XR
+Brazales megametal X
+Guard. megametal X
+Brazales megametal Z
+Guardab. megametal Z
+Brazales de langosta X
+Guardab. langosta X
+Brazales de Vaik X
+Guardabrazos Vaik X
+Guantes pastelero X
+Manoplas pastelero X
+Guantes Gourmiáu X
+Manoplas Gourmiáu X
+Ristre Aelucanth X
+Manica Aelucanth X
+Ristre de Rhopessa X
+Manica de Rhopessa X
+Brazales académicos X
+Guardab. académicos X
+Brazales valerosos X
+Guardab. valerosos X
+Brazales Artianos X
+Guardab. Artianos X
+Brazales Artianos XR
+Guardab. Artianos XR
+Guantes de sirvienta X
+Mangas de criada X
+Mang. florales Dianthus
+Mangas flor. campanilla
+Brazales de halcón X
+Guardabrazos halcón X
+Braciles erudito X
+Puños de erudito X
+Avambrazos Dober X
+Guardabrazos Dober X
+Guantes colegiala X
+Mangas colegiala X
+Guantes de marinero X
+Mangas de marinero X
+Guantes náuticos X
+Mangas náuticas X
+Avambrazos Jaggi X
+Guardabrazos Jaggi X
+Brazales Maccao X
+Guardabr. Maccao X
+Brazales Velociprey X
+Guardab. Velociprey X
+Brazales Giaprey X
+Guardabr. Giaprey X
+Brazales de Genprey X
+Guardabr. Genprey X
+Brazales Genprey GX
+Guardab. Genprey GX
+Brazales de Vespoid X
+Guardabr. Vespoid X
+Brazales Vespoid GX
+Guardabrazos Vespoid GX
+Brazales Hornetaur X
+Guardab. Hornetaur X
+Braz. Hornetaur GX
+Guardab. Hornetaur GX
+Braz. Hornetaur XR
+Guardab. Hornetaur XR
+Guantes Bnahabra X
+Mangas Bnahabra X
+Brazales de Konchu X
+Guardabrazos Konchu X
+Brazales Mosswine X
+Brazales Rhenoplos X
+Guardab. Rhenoplos X
+Brazales Bulldrome X
+Guardab. Bulldrome X
+Avambrazos Arzuros X
+Guardabr. Arzuros X
+Brazales Cephalos X
+Guardabr. Cephalos X
+Brazales Cephalos GX
+Guardab. Cephalos GX
+Zarpas de Moofah X
+Mangas de Moofah X
+Garras Velociprey X
+Guantes Velociprey X
+Garras de Giaprey X
+Guantes de Giaprey X
+Garras de Genprey X
+Guantes Genprey X
+Garras de Ioprey X
+Guantes Ioprey X
+Guantes de Remobra X
+Manos Remobra X
+Brazales de Ioprey X
+Guardabrazos Ioprey X
+Brazales Ioprey GX
+Guardab. Ioprey GX
+Brazales de Kut-Ku X
+Guardabr. Kut-Ku X
+Brazales de Kecha X
+Guardabrazos Kecha X
+Brazales Lagombi X
+Guardabr. Lagombi X
+Brazales Gypceros X
+Guardabr. Gypceros X
+Brazales Gypceros XR
+Guardabr. Gypceros XR
+Brazales Tetsucabra X
+Guardabr. Tetsucabra X
+Brazales Hermitaur X
+Guard. Hermitaur X
+Braz. Hermitaur GX
+Guardab. Hermitaur GX
+Brazales Hermitaur XR
+Guardab. Hermitaur XR
+Avambraz. Volvidon X
+Guardabr. Volvidon X
+Brazales de Conga X
+Guardabrazos Conga X
+Brazales de Conga GX
+Guardabrazos Conga GX
+Avambrazos Ludroth X
+Guardabr. Ludroth X
+Brazales Lud. Real XR
+Guardabr. Lud. Real XR
+Brazales de Barroth X
+Guardabr. Barroth X
+Brazales Basarios X
+Guardabr. Basarios X
+Brazales Malfestio X
+Guardabrazos Malfestio X
+Brazales Zamtrios X
+Guardabr. Zamtrios X
+Brazales de Khezu X
+Guardabr. Khezu X
+Brazales de Khezu XR
+Guardabrazos Khezu XR
+Brazales Nerscylla X
+Guardabr. Nerscylla X
+Brazales Rathian X
+Guardabr. Rathian X
+Brazales Rathian GX
+Guardab. Rathian GX
+Brazales Rathian XR
+Guardab. Rathian XR
+Brazal. Nibelsnarf X
+Guardabraz. Nibels X
+Avambraz. Plesioth X
+Guardabr. Plesioth X
+Brazales de Blango X
+Guardabrazos Blango X
+Brazales Blango GX
+Guardab. Blango GX
+Brazales de Lava X
+Guardabrazos Lava X
+Brazales Lava GX
+Guardabrazos Lava GX
+Brazales Ceanataur X
+Guardabr. Ceanataur X
+Braz. Ceanataur GX
+Guardabr. Ceanataur GX
+Brazales Ceanataur XR
+Guardabr. Ceanataur XR
+Brazales Najarala X
+Guardabr. Najarala X
+Brazal. Nargacuga X
+Guardab. Nargacuga X
+Brazales de Garuga X
+Guardabr. Garuga X
+Avambrazos Uragaan X
+Guardabr. Uragaan X
+Mangas estel. Kita GX
+Mangas océano Umi GX
+Guantes cab. gremio X
+Mangas cab. gremio X
+Braz. bardo gremio X
+Mangas bardo grem. X
+Mangas ayudante X
+Mangas de sanador X
+Mangas de ayudante Z
+Mangas de sanador Z
+Brazos antiguos X
+Brazales antiguos X
+Brazales de élite X
+Guardabr. de élite X
+Braz. fraternales X
+Guard. fraternales X
+Guanteletes montaraz
+Guanteletes tirador
+Kote firm. Shinobi Goku
+Kote tierra Shinobi Goku
+Guanteletes maestro X
+Brazos maestro X
+Gran Toka Kote
+Gran Mitsuaoi Kote
+Brazales de Yaksha
+Brazales de matanza
+Brazales de Helios X
+Guardabraz. Helios X
+Brazales de Selene X
+Guardabraz. Selene X
+Brazales soberana
+Guardabr. soberana
+Guantes eruditos X
+Mangas eruditas X
+Braciles investigadora
+Mangas investigadora
+Brazales risueños X
+Guardab. risueño X
+Guantes tabernero
+Mangas tabernero
+Guantes tabernera
+Mangas tabernera
+Brazales de Barioth X
+Guardabr. Barioth X
+Brazales de Seltas X
+Guardabrazos Seltas X
+Brazales Rathalos X
+Guardabr. Rathalos X
+Brazales Rathalos GX
+Guardab. Rathalos GX
+Brazales Rathalos XR
+Guardabr. Rathalos XR
+Brazales Lagiacrus X
+Guardab. Lagiacrus X
+Brazales Lagiacrus XR
+Guardab. Lagiacrus XR
+Brazales de Zinogre X
+Guardabr. Zinogre X
+Brazales Zinogre GX
+Guardab. Zinogre GX
+Brazales Gravios X
+Guardabr. Gravios X
+Brazales Mizutsune X
+Guardab. Mizutsune X
+Brazales Astalos X
+Guardabrazos Astalos X
+Brazales Gammoth X
+Brazos de Gammoth X
+Brazales de Glavenus X
+Guardabr. de Glavenus X
+Avambraz. Agnaktor X
+Guardabr. Agnaktor X
+Brazales de Gore X
+Guardabrazos Gore X
+Brazales de Gore GX
+Guardab. Gore GX
+Brazales de Gore XR
+Guardabraz. Gore XR
+Brazales Regios X
+Guardabr. Regios X
+Brazal. Duramboros X
+Guardabrazos Duram X
+Brazales de Tigrex X
+Guardabr. Tigrex X
+Brazales Tigrex GX
+Guardab. Tigrex GX
+Brazales de Tigrex XR
+Guardabr. Tigrex XR
+Brazales de Diablos X
+Guardabrazos Diablos X
+Brazales de Diablos XR
+Guardabrazos Diablos XR
+Prot. brazos Kirin X
+Guantes de Kirin X
+Prot. brazos Kirin XR
+Guantes de Kirin XR
+Brazal. Brachydios X
+Guard. Brachydios X
+Brazal. Brachydios GX
+Guard. Brachydios GX
+Brazales de arco X
+Guardabr. de arco X
+Braz. amor filial X
+Guardab. amor filial X
+Brazales de arco GX
+Guardabraz. arco GX
+Braz. amor filial GX
+Guardab. amor fil. GX
+Brazales de arco XR
+Guardabraz. arco XR
+Brazales amor filial XR
+Guard. amor filial XR
+Brazales Valstrax X
+Guardabr. Valstrax X
+Gran. brazos divinos
+Gran. brazos ermitaño
+Brazales de Vangis X
+Guardabrazos Vangis X
+Brazales caóticos
+Guardabrazos caóticos
+Brazales de Nephilim
+Guardabrazos Nephilim
+Brazal. cint. ng. X
+Guard. cint. neg. X
+Brazales guardián X
+Guardab. guardián X
+Brazales guardián Z
+Guardabraz. guardián Z
+Guantes gremio az. X
+Guantes gremio az. X
+Mangas gremio az. X
+Mangas gremio az. X
+Guant. gremio roj. X
+Guant. gremio roj. X
+Mangas gremio rojas X
+Mangas gremio rojas X
+Garra negra X
+Puño negro X
+Avambrazos Damasco X
+Guardabr. Damasco X
+Braz. de Damasco XR
+Guardab. Damasco XR
+Brazaletes capitán X
+Apretón de Kushala X
+Abrazo de Kushala X
+Apretón Kushala GX
+Abrazo Kushala GX
+Apretón Kushala XR
+Abrazo Kushala XR
+Gran mangas Mizuha
+Gr. mangas extravag.
+Mangas de Mizuha GX
+Mangas extrav. GX
+Brazales de Káiser X
+Guardabrazos Káiser X
+Brazales Káiser GX
+Guardab. Káiser GX
+Braz. sol de plata Z
+Brazos sol de plata Z
+Brazales sol plata GX
+Brazos sol de plata GX
+Braz. sol de plata XR
+Guar. sol de plata XR
+Brazales luna dorada Z
+Guardab. luna dor. Z
+Brazales luna dor. GX
+Guardab. luna dor. GX
+Gran Kote ira divina
+G. brazales rompementes
+Brazales voraces Z
+Guardab. voraces Z
+Brazales voraces XR
+Guardabr. voraces XR
+Brazales de Brachydium
+Guardab. Brachydium
+Guanteletes Auroros
+Guanteletes Génesis
+Guanteletes Borealis
+Guanteletes de Glifo
+Guanteletes Auroros GX
+Guanteletes Génesis GX
+Guanteletes Borealis GX
+Guanteletes de Glifo GX
+Guanteletes Auroros XR
+Guanteletes Génesis XR
+Guanteletes Borealis XR
+Guanteletes de Glifo XR
+Guant. Auroros R
+Guantel.Génesis R
+Guantel. Borealis R
+Guanteletes Glifo R
+Garras de Akantor X
+Guanteletes Akantor X
+Garras de Akantor XR
+Guant. Akantor XR
+Garras de Ukanlos X
+Guanteletes Ukanlos X
+G. mangas tempestad
+G. mangas firmamento
+Mangas tempestad XR
+Mangas firmamento XR
+Gran húmero óseo
+Gran húmero roto
+Brazales astrales X
+Guardabr. astrales X
+Guantes de Neset
+Ristre de Neset
+Garra de dragón
+Puño de dragón
+Brazos Escadora X
+Arma Escadora X
+Brazos Escadora XR
+Arma Escadora XR
+Garras carmesí Fatalis
+Puños carmesí Fatalis
+Garras car. Fatalis GX
+Puños carm. Fatalis GX
+Garras carm. Fatalis XR
+Puños carm. Fatalis XR
+Garra Fatalis Ancestral
+Puño Fatalis Ancestral
+Garra Fatalis Anc. GX
+Puño Fatalis Anc. GX
+Brazales extraños
+Brazos extraños
+Brazales extraños X
+Brazos extraños X
+Brazales de Ámbar LV1
+Brazos de Ámbar LV1
+Brazales de Ámbar LV6
+Brazos de Ámbar LV6
+Brazales de Ámbar LV14
+Brazos de Ámbar LV14
+Brazales de Alud LV1
+Brazos de Alud LV1
+Brazales de Alud LV6
+Brazos de Alud LV6
+Brazales de Alud LV14
+Brazos de Alud LV14
+Brazales de Pétreo LV1
+Brazos de Pétreo LV1
+Brazales de Pétreo LV6
+Brazos de Pétreo LV6
+Brazales de Pétreo LV14
+Brazos de Pétreo LV14
+Brazales de Maldita LV1
+Brazos de Maldita LV1
+Brazales de Maldita LV6
+Brazos de Maldita LV6
+Brazales de Maldita LV14
+Brazos de Maldita LV14
+Brazales de Toro LV1
+Brazos de Toro LV1
+Brazales de Toro LV6
+Brazos de Toro LV6
+Brazales de Toro LV14
+Brazos de Toro LV14
+Brazales de Argénteo LV1
+Brazos de Argénteo LV1
+Brazales de Argénteo LV6
+Brazos de Argénteo LV6
+Brazales de Argénteo LV14
+Brazos de Argénteo LV14
+Brazales de Vítreo LV1
+Brazos de Vítreo LV1
+Brazales de Vítreo LV6
+Brazos de Vítreo LV6
+Brazales de Vítreo LV14
+Brazos de Vítreo LV14
+Brazales de Cíclope LV1
+Brazos de Cíclope LV1
+Brazales de Cíclope LV6
+Brazos de Cíclope LV6
+Brazales de Cíclope LV14
+Brazos de Cíclope LV14
+Brazales de Maldito LV1
+Brazos de Maldito LV1
+Brazales de Maldito LV6
+Brazos de Maldito LV6
+Brazales de Maldito LV14
+Brazos de Maldito LV14
+Brazales de Tormenta LV1
+Brazos de Tormenta LV1
+Brazales de Tormenta LV6
+Brazos de Tormenta LV6
+Brazales de Tormenta LV14
+Brazos de Tormenta LV14
+Brazales de Guadaña LV1
+Brazos Tigrex Guadaña LV1
+Brazales de Guadaña LV6
+Brazos Tigrex Guadaña LV6
+Brazales de Guadaña LV14
+Brazos Tigrex Guadaña LV14
+Brazales de Inferno LV1
+Brazos de Inferno LV1
+Brazales de Inferno LV6
+Brazos de Inferno LV6
+Brazales de Inferno LV14
+Brazos de Inferno LV14
+Brazales Nébula LV1
+Guardab. Nébula LV1
+Brazales Nébula LV4
+Guardab. Nébula LV4
+Brazales férreos LV1
+Guardabrazos férreos LV1
+Brazales férreos LV4
+Guardabrazos férreos LV4
+Brazales Tengen LV1
+Guardabrazos Tengen LV1
+Brazales Tengen LV4
+Guardabrazos Tengen LV4
+Brazales Fulmen LV1
+Guardabrazos Fulmen LV1
+Brazales Fulmen LV4
+Guardabrazos Fulmen LV4
+Brazales Glacials LV1
+Guardabrazos Glacial LV1
+Brazales Glacial LV4
+Guardabrazos Glacial LV4
+Brazales Sanquinario LV1
+Guardab. Sanquinario LV1
+Brazales Sanquinario LV4
+Guardab. Sanquinario LV4
+Brazales halagüeños
+Brazales halcyon
+Guanteletes lúcidos
+Guanteletes etéreos
+_DUMMY_Arcfire Kote
+_DUMMY_Bonfire Kote
+_DUMMY_Waka Kote
+_DUMMY_Wagaku Kote
+Malla Brazos Gudetama
+Traje Brazos Gudetama
+Guantes de pirata J
+Puños de pirata J
+Guantes bucanero J
+Puños bucanero J
+Brazales de Zodias
+Guardabrazos Zodias
+Cintas de campeón
+Cintas de forzudo
+Guanteletes Dynaqlo
+Guantes Dynaqlo
+Braz. estrella azul
+Mangas estrella azul
+Braz. caball. estelar
+Guard. cabal. estelar
+_DUMMY_Star Rook Vambraces
+_DUMMY_Star Rook Guards
+Archibraz. halagüeños
+Archibrazales halcyon
+Archibrazales lúcidos
+Archibrazales etéreos
+_DUMMY_Ruler Arcfire Kote
+_DUMMY_Ruler Bonfire Kote
+_DUMMY_Ruler Waka Kote
+_DUMMY_Ruler Wagaku Kote
+Malla Brazos Gudetama S
+Traje Brazos Gudetama S
+Brazales Climáticos
+Escudo Climático
+Guantes del Traje Zero
+Manos del Traje Zero
+Brazales del héroe
+Guantes del héroe
+Brazales Polaris
+Puños Polaris
+Brazales de ira
+Def. brazos de ira
+Brazales de Anat
+Def. brazos de Anat
+Kote Hiryu cielo
+Kote Hiryu tierra
+_DUMMY_Gon Braces
+_DUMMY_Gon Guards
+Mangas de malhechor
+Guantes de malhechor
+_DUMMY_Supreme Arcfire Kote
+_DUMMY_Supreme Bonfire Kote
+_DUMMY_Supreme Waka Kote
+_DUMMY_Supreme Wagaku Kote
+Guanteletes dorados
+Brazales dorados
+Brazales hylianos
+Guantes hylianos

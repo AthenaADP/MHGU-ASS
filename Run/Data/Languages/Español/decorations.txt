@@ -1,0 +1,242 @@
+﻿J. antídoto 1
+J. antídoto 2
+J. inmóvil 1
+J. inmóvil 2
+Joya sueño 1
+Joya sueño 2
+Joya firme 1
+J. rotunda 1
+J. tapones 1
+J. tapones 3
+J. res viento 1
+J. res viento 2
+Joya ancla 1
+J. sísmica 1
+J. res atr. 1
+Joya grill. 1
+J. res calor 1
+J. res frío 1
+Joya polar 1
+Joya polar 3
+Joya solar 1
+Joya solar 3
+J. segura 1
+J. bloqueo 1
+J. cordura 1
+J. cordura 3
+J. biólogo 1
+J. biólogo 1+
+J. torniq. 1
+J. ataque 1
+J. ataque 2
+J. ataque 3
+J. defensa 1
+J. defensa 2
+J. fuerza 1
+J. res fuego 1
+J. antifuego 1
+J. res agua 1
+J. antiagua 1
+J. res rayo 1
+J. antirayo 1
+J. res hielo 1
+J. antihielo 1
+J. res draco 1
+J. antidraco 1
+J. resist. 1
+J. resist. 3
+Joya fuego 1
+Joya fuego 2
+Joya agua 1
+Joya agua 2
+Joya rayo 1
+Joya rayo 2
+Joya hielo 1
+Joya hielo 2
+Joya draco 1
+Joya draco 2
+J. elemento 1
+J. elemento 3
+J. estado 1
+J.estado 2
+J. afilador 1
+J. artesano 1
+J. artesano 3
+J. cuchilla 1
+J. cuchilla 3
+J. esgrima 1
+J. esgrima 3
+J. amolador 1
+J. amolador 3
+J. contund. 1
+J. contund. 2
+J. desenf. 1
+J. desenf. 2
+J. gambito 1
+J. gambito 3
+J. enfund. 1
+J. enfund. 2
+J. enfund. cuch. 1
+J. filoescama 1
+J. filoescama 3
+J. recarga 1
+J. recarga 2
+J. retroc. 1
+J. retroc. 3
+J. tirador 1
+J. disparo 1
+J. disparo 3
+J. perfor. 1
+J. perfor. 3
+J. perdig. 1
+J. perdig. 3
+J. pesada 1
+J. pesada 3
+J. mn norm. 1
+J. mn norm. 2
+J. mn perf. 1
+J. mn perd. 1
+J. mn expl. 1
+J. mn grupo 1
+J. mn grupo 3
+J. venen. 1
+J. paraliz. 1
+J. paraliz. 2
+J. rv. sueño 1
+J. energía 1
+J. energía 2
+J. rv. elem. 1
+J. rv. elem. 2
+J. alcance 1
+Joya fatiga 1
+Joya nitro 1
+Joya bonus 1
+Joya bonus 3
+J. precisa 1
+J. precisa 2
+J. recargando 2
+J. recargando 3
+J. irregular 1
+J. frugal 1
+J. frugal 2
+J. experto 1
+J. experto 2
+J. experto 3
+Joya maza 1
+Joya maza 3
+J. serie 1
+J. serie 3
+J. crt estad 1
+J. crt estad 2
+J. crt elem. 1
+J. crt elem. 2
+J. críticos 1
+J. críticos 3
+Joya crítico Negativo 1
+Joya crítico Negativo 3
+J. carga 1
+J. carga 3
+Joya veloz 1
+Joya veloz 3
+Joya salud 1
+Joya salud 2
+Joya forma 1
+Joya forma 2
+Joya fondo 1
+Joya fondo 2
+J. esquiva 1
+J. esquiva 2
+Joya salto 1
+Joya salto 3
+J. burbujas 1
+J. burbujas 3
+J. guardia 1
+J. guardia 2
+J. escudo 1
+J. escudo 2
+Joya boxeo 1
+Joya boxeo 2
+Joya débil 1
+Joya débil 2
+J. músico 1
+J. artillera 1
+Joya destr. 1
+Joya destr. 3
+J. bomba 1
+Joya poder 1
+Joya poder 2
+J. espíritu 1
+J. espíritu 2
+Joya ileso 1
+Joya ileso 2
+Joya favor 1
+Joya favor 3
+Joya almadragón 1
+Joya almadragón 3
+J. potencia 1
+J. potencia 2
+J. superv. 1
+J. superv. 2
+Joya furor 1
+Joya furor 2
+J. crisis 1
+J. crisis 2
+Joya tripas 1
+Joya tripas 2
+Joya ninja 1
+J. equipo 1
+Joya moral 1
+Joya líder 1
+Joya líder 2
+Joya rodeo 1
+Joya vuelo 1
+J. percep. 1
+J. percep. 3
+Joya perseverancia 1
+Joya extensión 1
+Joya extensión 2
+J. psique 1
+J. percibe 1
+J. soldado 1
+J. mochila 1
+J. protecc. 1
+J. celest. 1
+Joya héroe 1
+Joya héroe 3
+J. curador 1
+J. curador 2
+J. recuper. 1
+J. recuper. 2
+Joya tenaz 1
+J. amistad 1
+J. amistad 2
+J. antigula 1
+Joya glotón 1
+J. tragón 1
+J. tragón 3
+J. saciada 1
+J. carne 1
+J. carne 1+
+J. micótica 1
+J. hierbas 1
+J. profesor 1
+J. armero 1
+J. trampas 1
+J. recoge 1
+J. abeja 1
+J. abeja 1+
+J. amuleto 1
+J. amuleto 3
+J. bendita 1
+J. suerte 1
+J. suerte 3
+J. cortante 1
+J. cortante 3
+J. captura 1
+J. captura 3
+J. campana 1
+Joya novel 1
+J. copo n. 1
+J. fuentes 1
+Joya estudio 1
+Joya festín aéreo 1
