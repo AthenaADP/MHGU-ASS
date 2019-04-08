@@ -31,7 +31,7 @@ Atq. hielo
 Atq. draco
 Atq. elem.
 Estado
-Afilador
+Afilado
 Artesano
 Afilado
 Esgrima
@@ -86,7 +86,7 @@ Guardia
 Escudo
 Boxeador
 Robarresis.
-Maestro
+Músico
 Artillería
 Destructor
 Bombardero
