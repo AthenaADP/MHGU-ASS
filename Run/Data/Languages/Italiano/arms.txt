@@ -1,0 +1,1195 @@
+﻿Guanti di cuoio
+Guanti di cotta
+Parabr. Bherna
+Parabraccia caccia
+Protezioni caccia
+Guanti Mafumofu
+Kote Yukumo
+Parabr. cacciatore
+Protez. cacciatore
+Parabraccia d'osso
+Protezioni d'osso
+Paramani trapper
+Coprimano trapper
+Guanti Maccao
+Coprimano Maccao
+Guanti Jaggi
+Coprimano Jaggi
+Parabraccia Jaggi
+Protezioni Jaggi
+Parabraccia Maccao
+Protezioni Maccao
+Parabr. Velociprey
+Protez. Velociprey
+Parabraccia Giaprey
+Protezioni Giaprey
+Parabraccia Genprey
+Protezioni Genprey
+Parabraccia Vespoid
+Protezioni Vespoid
+Parabr. Hornetaur
+Protezioni Hornetaur
+Guanti Bnahabra
+Maniche Bnahabra
+Parabraccia Konchu
+Protezioni Konchu
+Guanti Mosswine
+Parabr. Rhenoplos
+Protez. Rhenoplos
+Parabr. Bulldrome
+Protez. Bulldrome
+Parabraccia Arzuros
+Protezioni Arzuros
+Parabraccia Cephalos
+Protezioni Cephalos
+Guanti arditi
+Parabraccia in lega
+Protezioni in lega
+Parabr. da battaglia
+Protez. da battaglia
+Parabraccia lingotto
+Protezioni lingotto
+Parabraccia Hi-Metal
+Protezioni Hi-Metal
+Ramo Melahoa
+Petalo Melahoa
+Maniche Makluva
+Parassita Makluva
+Mano Necrologio
+Empodi Necrologio
+Mano farfalla
+Empodi farfalla
+Stretta puzza morte
+Presa puzza morte
+Rampicanti Mosgharl
+Viticci Mosgharl
+Rampicanti Edel
+Viticci Edel
+Aroli Skalda
+Empodi Skalda
+Aroli Spio
+Empodi Spio
+Artigli Moofah
+Maniche Moofah
+Artigli Velociprey
+Guanti Velociprey
+Artigli Genprey
+Guanti Genprey
+Artigli Ioprey
+Guanti Ioprey
+Guanti Remobra
+Mani Remobra
+Parabraccia Ioprey
+Protezioni Ioprey
+Parabraccia Kut-Ku
+Protezioni Kut-Ku
+Parabraccia Lagombi
+Protezioni Lagombi
+Parabraccia Gypceros
+Protezioni Gypceros
+Parabr. Tetsucabra
+Protez. Tetsucabra
+Parabr. Hermitaur
+Protezioni Hermitaur
+Parabraccia Volvidon
+Protezioni Volvidon
+Parabraccia Ludroth
+Protezioni Ludroth
+Parabr. Malfestio
+Protez. Malfestio
+Parabraccia Khezu
+Protezioni Khezu
+Parabraccia Rathian
+Protezioni Rathian
+Parabr. Nibelsnarf
+Protez. Nibelsnarf
+Parabraccia Blango
+Protezioni Blango
+Parabr. Ceanataur
+Protezioni Ceanataur
+Parabraccia Najarala
+Protezioni Najarala
+Parabr. Nargacuga
+Protezioni Nargacuga
+Strette sapienti
+Polsini sapienti
+Parabraccia Vaik
+Protezioni Vaik
+Aroli Aelucanth
+Empodi Aelucanth
+Aroli Rhopessa
+Empodi Rhopessa
+Parabraccia Artian
+Protezioni Artian
+Parabraccia Garuga
+Protezioni Garuga
+Parabraccia Uragaan
+Protezioni Uragaan
+Parabraccia Rathalos
+Protezioni Rathalos
+Parabr. Lagiacrus
+Protezioni Lagiacrus
+Parabraccia Zinogre
+Protezioni Zinogre
+Parabr. Mizutsune
+Protez. Mizutsune
+Parabr. Astalos
+Protezioni Astalos
+Parabraccia Gammoth
+Protezioni Gammoth
+Parabraccia Glavenus
+Protezioni Glavenus
+Parabr. Gore Magala
+Protez. Gore Magala
+Parabraccia Regios
+Protezioni Regios
+Parabraccia Tigrex
+Protezioni Tigrex
+Copribraccia Kirin
+Guanti Kirin
+Parabr. Brachydios
+Protez. Brachydios
+Parabr. dell'arco
+Protezioni dell'arco
+Parabraccia storge
+Protezioni storge
+Stretta Kushala
+Abbraccio Kushala
+Maniche Mizuha
+Maniche stravaganti
+Parabraccia Kaiser
+Protezioni Kaiser
+Omero scheletrico
+Omero decomposto
+Artiglio nero
+Pugno nero
+Parabr. cintura nera
+Protez. cintura nera
+Parabraccia bardo
+Maniche bardo
+Guanti damigella
+Maniche french maid
+Maniche aiutante
+Maniche guaritrice
+Maniche Dianthus
+Maniche Campanile
+Maniche da bagno
+Guanti Gourmiao
+Manopole Gourmiao
+Parabr. di cuoio S
+Protez. di cuoio S
+Parabr. di cotta S
+Protez. di cotta S
+Parabr. Bherna S
+Protezioni Bherna S
+Parabraccia caccia S
+Protezioni caccia S
+Strette Mafumofu S
+Guanti Mafumofu S
+Kote Yukumo cielo
+Kote Yukumo terra
+Parabr. cacciatore S
+Protez. cacciatore S
+Parabr. cacciatore R
+Protez. cacciatore R
+Parabraccia d'osso S
+Protezioni d'osso S
+Ramo Melahoa S
+Petalo Melahoa S
+Ramo Melahoa U
+Petalo Melahoa U
+Maniche Makluva S
+Parassita Makluva S
+Maniche Makluva U
+Parassita Makluva U
+Rampicanti Mosgharl S
+Viticci Mosgharl S
+Rampicanti Edel S
+Viticci Edel S
+Artigli Moofah S
+Maniche Moofah S
+Artigli Velociprey S
+Guanti Velociprey S
+Artigli di Giaprey
+Mani di Giaprey
+Artigli Genprey S
+Guanti Genprey S
+Artigli Ioprey S
+Guanti Ioprey S
+Guanti Remobra S
+Mani Remobra S
+Paramani trapper S
+Coprimano trapper S
+Guanti Maccao S
+Coprimano Maccao S
+Guanti Jaggi S
+Coprimano Jaggi S
+Guanti Mosswine S
+Parabr. Rhenoplos S
+Protez. Rhenoplos S
+Parabraccia Jaggi S
+Protezioni Jaggi S
+Parabraccia Maccao S
+Protezioni Maccao S
+Parabr. Velociprey S
+Protez. Velociprey S
+Parabr. Giaprey S
+Protezioni Giaprey S
+Parabr. Genprey S
+Protezioni Genprey S
+Parabr. Genprey EX
+Protezioni Genprey EX
+Parabraccia Ioprey S
+Protezioni Ioprey S
+Parabraccia Ioprey EX
+Protezioni Ioprey EX
+Parabr. Vespoid S
+Protezioni Vespoid S
+Parabr. Vespoid EX
+Protezioni Vespoid EX
+Parabraccia Hornet S
+Protezioni Hornet S
+Parabraccia Hornet EX
+Protezioni Hornet EX
+Parabraccia Hornet R
+Protezioni Hornet R
+Guanti Bnahabra S
+Maniche Bnahabra S
+Parabraccia Konchu S
+Protezioni Konchu S
+Parabr. Bulldrome S
+Protez. Bulldrome S
+Parabr. Arzuros S
+Protezioni Arzuros S
+Parabr. Cephalos S
+Protez. Cephalos S
+Parabr. Cephalos EX
+Protez. Cephalos EX
+Parabraccia Kut-Ku S
+Protezioni Kut-Ku S
+Parabr. Kecha Wacha
+Protez. Kecha Wacha
+Parabr. Lagombi S
+Protezioni Lagombi S
+Parabr. Gypceros S
+Protez. Gypceros S
+Parabr. Gypceros R
+Protez. Gypceros R
+Parabr. Tetsucabra S
+Protez. Tetsucabra S
+Parabr. Hermitaur S
+Protez. Hermitaur S
+Parabr. Hermitaur EX
+Protez. Hermitaur EX
+Parabr. Hermitaur R
+Protez. Hermitaur R
+Parabr. Volvidon S
+Protez. Volvidon S
+Parabraccia Conga
+Protezioni Conga
+Parabr. Ludroth S
+Protezioni Ludroth S
+Parabr. Ludroth R
+Protezioni Ludroth R
+Parabraccia Barroth
+Protezioni Barroth
+Parabraccia sapienza
+Protezioni sapienza
+Parabr. in lega S
+Protezioni in lega S
+Parabr. in lega R
+Protezioni in lega R
+Parabr. da battaglia S
+Protez. da battaglia S
+Parabr. lingotto S
+Protez. lingotto S
+Parabr. lingotto R
+Protez. lingotto R
+Parabr. Hi-Metal S
+Protez. Hi-Metal S
+Parabr. Hi-Metal U
+Protez. Hi-Metal U
+Parabraccia aragosta
+Protezioni aragosta
+Mano Necrologio S
+Empodi Necrologio S
+Mano Farfalla S
+Empodi farfalla S
+Str. puzza morte S
+Presa puzza morte S
+Str. puzza morte R
+Presa puzza morte R
+Parabraccia Vaik S
+Protezioni Vaik S
+Aroli Aelucanth S
+Empodi Aelucanth S
+Aroli Rhopessa S
+Empodi Rhopessa S
+Guanti pasticciere
+Manopole pasticciere
+Aroli Skalda S
+Empodi Skalda S
+Aroli Spio S
+Empodi Spio S
+Parabr. Basarios
+Protez. Basarios
+Parabr. Malfestio S
+Protez. Malfestio S
+Parabraccia Zamtrios
+Protezioni Zamtrios
+Parabraccia Khezu S
+Protezioni Khezu S
+Parabraccia Khezu R
+Protezioni Khezu R
+Parabr. Nerscylla
+Protezioni Nerscylla
+Parabr. Rathian S
+Protezioni Rathian S
+Parabr. Rathian EX
+Protez. Rathian EX
+Parabr. Rathian R
+Protezioni Rathian R
+Parabr. Nibelsnarf S
+Protez. Nibelsnarf S
+Parabraccia Plesioth
+Protezioni Plesioth
+Parabraccia Blango S
+Protezioni Blango S
+Parabraccia Blango EX
+Protezioni Blango EX
+Parabr. Lavasioth
+Protezioni Lavasioth
+Parabr. Lavasioth EX
+Protez. Lavasioth EX
+Parabr. Ceanataur S
+Protez. Ceanataur S
+Parabr. Ceanataur EX
+Protez. Ceanataur EX
+Parabr. Ceanataur R
+Protez. Ceanataur R
+Parabr. Najarala S
+Protez. Najarala S
+Parabraccia Narga S
+Protez. Narga S
+Parabraccia Garuga S
+Protezioni Garuga S
+Parabr. Uragaan S
+Protezioni Uragaan S
+Parabr. cintura nera S
+Prot. cintura nera S
+Parabr. guardiano
+Protezioni guardiano
+Parabr. guardiano U
+Protez. guardiano U
+Guanti Gilda
+Maniche Gilda
+Guanti marinaretta
+Maniche marinaretta
+Maniche lusso
+Maniche stella Kita
+Maniche oceano Umi
+Parabraccia arditi S
+Protezioni ardite S
+Parabraccia Dober
+Protezioni Dober
+Parabr. di Damasco
+Protez. di Damasco
+Parabr. di Damasco R
+Protez. di Damasco R
+Parabraccia Artian S
+Protezioni Artian S
+Parabraccia Artian R
+Protezioni Artian R
+Parabraccia Barioth
+Protezioni Barioth
+Parabraccia Seltas
+Protezioni Seltas
+Parabr. Rathalos S
+Protez. Rathalos S
+Parabr. Rathalos EX
+Protez. Rathalos EX
+Parabr. Rathalos R
+Protez. Rathalos R
+Parabr. Lagiacrus S
+Protez. Lagiacrus S
+Parabr. Lagiacrus R
+Protez. Lagiacrus R
+Parabr. Zinogre S
+Protezioni Zinogre S
+Parabr. Zinogre EX
+Protezioni Zinogre EX
+Parabraccia Gravios
+Protezioni Gravios
+Parabr. Mizutsune S
+Protez. Mizutsune S
+Parabr. Astalos S
+Protezioni Astalos S
+Parabraccia Gammoth S
+Protezioni Gammoth S
+Parabr. Glavenus S
+Protezioni Glavenus S
+Parabraccia Agnaktor
+Protezioni Agnaktor
+Parab. Gore Magala S
+Prot. Gore Magala S
+Parabr. G.Magala EX
+Protez. G.Magala EX
+Parab. Gore Magala R
+Prot. Gore Magala R
+Parabraccia Regios S
+Protezioni Regios S
+Parabr. Duramboros
+Protez. Duramboros
+Parabraccia Tigrex S
+Protezioni Tigrex S
+Parabr. Tigrex EX
+Protezioni Tigrex EX
+Parabraccia Tigrex R
+Protezioni Tigrex R
+Copribraccia Kirin S
+Guanti Kirin S
+Copribraccia Kirin R
+Guanti Kirin R
+Parabr. Brachydios S
+Protez. Brachydios S
+Parab. Brachydios EX
+Protez. Brachydios EX
+Kote d'oro
+Guanti burattinaio
+Parabraccia Vangis
+Protezioni Vangis
+Guanti cavaliere
+Maniche cavaliere
+Guanti damigella S
+Maniche french maid S
+Guanti paladino blu
+Maniche paladino blu
+Guanti paladino blu
+Maniche paladino blu
+Guanti paladino ros.
+Maniche paladino ros.
+Guanti paladino ros.
+Maniche paladino ros.
+Maniche aiutante S
+Maniche guaritrice S
+Maniche aiutante U
+Maniche guaritrice U
+Parabraccia bardo S
+Maniche bardo S
+Braccialetto Chakra
+Fasce Dianthus
+Fasce Campanile
+Parabr. Grancaccia
+Protezioni Grancaccia
+Parabraccia sorellanza
+Protezioni sorellanza
+Parabraccia falco
+Protezioni falco
+Guanti Gourmiao S
+Manopole Gourmiao S
+Strette sapienti S
+Polsini sapienti S
+Paramani ranger
+Guanti arciere
+Kote Shinobi aria
+Kote Shinobi terra
+Kote Shinobi cielo
+Kote Shinobi mare
+Bracciali antichi
+Protezioni antiche
+Guanti del maestro
+Protez. del maestro
+Artiglio nero S
+Pugno nero S
+Kote Toka
+Kote Mitsuaoi
+Maniche saggezza
+Polsini saggezza
+Parabraccia gioviali
+Protezioni gioviali
+Guanti marinaretta
+Maniche marinaretta
+Parab. Rathian EX S
+Protez. Rathian EX S
+Parab. Rathalos EX S
+Protez. Rathalos EX S
+Parabr. Tigrex EX S
+Protez. Tigrex EX S
+Parabraccia Diablos
+Protezioni Diablos
+Parabr. Diablos R
+Protezioni Diablos R
+Parabr. dell'arco S
+Protez. dell'arco S
+Parabraccia storge S
+Protezioni storge S
+Parab. dell'arco EX
+Protez. dell'arco EX
+Parabr. storge EX
+Protezioni storge EX
+Parabr. dell'arco R
+Protez. dell'arco R
+Parabraccia storge R
+Protezioni storge R
+Parabraccia Valstrax
+Protez. Valstrax
+Stretta Kushala S
+Abbraccio Kushala S
+Stretta Kushala EX
+Abbraccio Kushala EX
+Stretta Kushala R
+Abbraccio Kushala R
+Maniche Mizuha S
+Maniche stravaganti S
+Maniche Mizuha EX
+Man. stravaganti EX
+Parabraccia Kaiser S
+Protezioni Kaiser S
+Parabr. Kaiser EX
+Protezioni Kaiser EX
+Parabr. sole argent.
+Protez. sole argent.
+Parabr. sole arg. EX
+Protez. sole arg. EX
+Parabr. sole arg. R
+Protez. sole arg. R
+Parabr. luna dorata
+Protez. luna dorata
+Parabr. luna dorata EX
+Protez. luna dor. EX
+Kote ira divina
+Parabraccia psichici
+Parabraccia voraci
+Protezioni voraci
+Parabraccia voraci R
+Protezioni voraci R
+Artigli Akantor
+Guanti Akantor
+Artigli Akantor R
+Guanti Akantor R
+Artigli Ukanlos
+Guanti Ukanlos
+Maniche tempesta
+Maniche celesti
+Maniche fantemp. R
+Maniche alumcel. R
+Omero arcischel. R
+Omero arcidecomp. R
+Parabraccia astrali
+Protezioni astrali
+Parabr. Escadora
+Protezioni Escadora
+Parabr. Escadora R
+Protez. Escadora R
+Bracciali Carovaniere
+Parabr. di cuoio X
+Protez. di cuoio X
+Parabr. di cotta X
+Protez. di cotta X
+Parabr. Bherna X
+Protezioni Bherna X
+Parabraccia caccia X
+Protezioni caccia X
+Strette Mafumofu X
+Guanti Mafumofu X
+Kote Yukumo cie.Goku
+Kote Yukumo te.Goku
+Maniche bagno lusso
+Parabr. cacciatore X
+Protez. cacciatore X
+Parab. cacciatore XR
+Prot. cacciatore XR
+Parabraccia d'osso X
+Protezioni d'osso X
+Paramani trapper X
+Coprimano trapper X
+Guanti Maccao X
+Coprimano Maccao X
+Guanti Jaggi X
+Coprimano Jaggi X
+Ramo Melahoa X
+Petalo Melahoa X
+Ramo Melahoa Z
+Petalo Melahoa Z
+Maniche Makluva X
+Parassita Makluva X
+Maniche Makluva Z
+Parassita Makluva Z
+Mano Necrologio X
+Empodi Necrologio X
+Mano farfalla X
+Empodi farfalla X
+Stretta puzza morte X
+Presa puzza morte X
+Stretta puzza morte XR
+Presa puzza morte XR
+Rampic. Mosgharl X
+Viticci Mosgharl X
+Rampicanti Edel X
+Viticci Edel X
+Aroli Skalda X
+Empodi Skalda X
+Aroli Spio X
+Empodi Spio X
+Parabr. in lega X
+Protezioni in lega X
+Parabr. in lega XR
+Protez. in lega XR
+Parabr. battaglia X
+Prot. da battaglia X
+Parabr. lingotto X
+Protez. lingotto X
+Parabr. lingotto XR
+Protez. lingotto XR
+Parabr. Hi-Metal X
+Protez. Hi-Metal X
+Parabrac. Hi-Metal Z
+Protez. Hi-Metal Z
+Parabr. aragosta X
+Protez. aragosta X
+Parabraccia Vaik X
+Protezioni Vaik X
+Guanti pasticciere X
+Manopole pasticciere X
+Guanti Gourmiao X
+Guanti Gourmiao X
+Aroli Aelucanth X
+Empodi Aelucanth X
+Aroli Rhopessa X
+Empodi Rhopessa X
+Parabraccia sapienza X
+Protezioni sapienza X
+Parabraccia arditi X
+Protezioni ardite X
+Parabraccia Artian X
+Protezioni Artian X
+Parabr. Artian XR
+Protezioni Artian XR
+Guanti damigella X
+Maniche french maid X
+Fasce Dianthus lusso
+Man. Campanile lusso
+Parabraccia falco X
+Protezioni falco X
+Strette sapienti X
+Polsini sapienti X
+Parabraccia Dober X
+Protezioni Dober X
+Guanti Gilda X
+Maniche Gilda X
+Guanti marinaretta X
+Maniche marinar. X
+Guanti da marinaio X
+Manic. da marinaio X
+Parabraccia Jaggi X
+Protezioni Jaggi X
+Parabraccia Maccao X
+Protezioni Maccao X
+Parabr. Velociprey X
+Protez. Velociprey X
+Parabr. Giaprey X
+Protezioni Giaprey X
+Parabr. Genprey X
+Protez. Genprey X
+Parabr. Genprey GX
+Protez. Genprey GX
+Parabr. Vespoid X
+Protez. Vespoid X
+Parabr. Vespoid GX
+Protez. Vespoid GX
+Parabr. Hornet X
+Protezioni Hornet X
+Parabr. Hornet GX
+Protezioni Hornet GX
+Parabr. Hornet XR
+Protezioni Hornet XR
+Guanti Bnahabra X
+Maniche Bnahabra X
+Parabraccia Konchu X
+Protezioni Konchu X
+Guanti Mosswine X
+Parabr. Rhenoplos X
+Protez. Rhenoplos X
+Parabr. Bulldrome X
+Protez. Bulldrome X
+Parabr. Arzuros X
+Protezioni Arzuros X
+Parabr. Cephalos X
+Protezioni Cephalos X
+Parabr. Cephalos GX
+Protez. Cephalos GX
+Artigli Moofah X
+Maniche Moofah X
+Artigli Velociprey X
+Guanti Velociprey X
+Artigli di Giaprey X
+Mani di Giaprey X
+Artigli Genprey X
+Guanti Genprey X
+Artigli Ioprey X
+Guanti Ioprey X
+Guanti Remobra X
+Mani Remobra X
+Parabraccia Ioprey X
+Protezioni Ioprey X
+Parabr. Ioprey GX
+Protezioni Ioprey GX
+Parabraccia Kut-Ku X
+Protezioni Kut-Ku X
+Parabr. Kecha Wacha X
+Protez. Kecha Wacha X
+Parabr. Lagombi X
+Protezioni Lagombi X
+Parabr. Gypceros X
+Protez. Gypceros X
+Parabr. Gypceros XR
+Protez. Gypceros XR
+Parabr. Tetsucabra X
+Protez. Tetsucabra X
+Parabr. Hermitaur X
+Protez. Hermitaur X
+Parabr. Hermitaur GX
+Protez. Hermitaur GX
+Parabr. Hermitaur XR
+Protez. Hermitaur XR
+Parabr. Volvidon X
+Protez. Volvidon X
+Parabraccia Conga X
+Protezioni Conga X
+Parabraccia Conga GX
+Protezioni Conga GX
+Parabr. Ludroth X
+Protezioni Ludroth X
+Parabr. Ludroth XR
+Protez. Ludroth XR
+Parabr. Barroth X
+Protezioni Barroth X
+Parabr. Basarios X
+Protez. Basarios X
+Parabr. Malfestio X
+Protez. Malfestio X
+Parabraccia Zamtrios X
+Protezioni Zamtrios X
+Parabraccia Khezu X
+Protezioni Khezu X
+Parabraccia Khezu XR
+Protezioni Khezu XR
+Parabr. Nerscylla X
+Protezioni Nerscylla X
+Parabr. Rathian X
+Protezioni Rathian X
+Parabr. Rathian GX
+Protez. Rathian GX
+Parabr. Rathian XR
+Protez. Rathian XR
+Parabr. Nibelsnarf X
+Protez. Nibelsnarf X
+Parabr. Plesioth X
+Protez. Plesioth X
+Parabraccia Blango X
+Protezioni Blango X
+Parabr. Blango GX
+Protezioni Blango GX
+Parabr. Lavasioth X
+Protez. Lavasioth X
+Parabr. Lavasioth GX
+Protez. Lavasioth GX
+Parabr. Ceanataur X
+Protez. Ceanataur X
+Parabr. Ceanataur GX
+Protez. Ceanataur GX
+Parabr. Ceanataur XR
+Protez. Ceanataur XR
+Parabraccia Najarala X
+Protezioni Najarala X
+Parabr. Nargacuga X
+Protez. Nargacuga X
+Parabraccia Garuga X
+Protezioni Garuga X
+Parabr. Uragaan X
+Protezioni Uragaan X
+Maniche stella Kita GX
+Maniche oceano Umi GX
+Guanti cavaliere X
+Maniche cavaliere X
+Parabraccia bardo X
+Maniche bardo X
+Maniche aiutante X
+Maniche guaritrice X
+Maniche aiutante Z
+Maniche guaritrice Z
+Bracciali antichi X
+Protezioni antiche X
+Parabr. Grancaccia X
+Protez. Grancaccia X
+Parabr. sorellanza X
+Protez. sorellanza X
+Guanti esploratore
+Guanti tiratore
+Kote Shinobi ar.Goku
+Kote Shinobi te.Goku
+Guanti del maestro X
+Protez. maestro X
+Kote Toka sup.
+Kote Mitsuaoi sup.
+Parabraccia Yaksha
+Parabraccia strage
+Parabraccia Helios X
+Protezioni Helios X
+Parabraccia Selene X
+Protezioni Selene X
+Parabraccia sovrana
+Protezione sovrana
+Maniche saggezza X
+Polsini saggezza X
+Guanti ricerca
+Polsini ricerca
+Parabr. gioviali X
+Protezioni gioviali X
+Guanti eleganti
+Maniche eleganti
+Guanti eleganti
+Maniche eleganti
+Parabr. Barioth X
+Protezioni Barioth X
+Parabraccia Seltas X
+Protezioni Seltas X
+Parabr. Rathalos X
+Protez. Rathalos X
+Parabr. Rathalos GX
+Protez. Rathalos GX
+Parabr. Rathalos XR
+Protez. Rathalos XR
+Parabr. Lagiacrus X
+Protezioni Lagiacrus X
+Parabr. Lagiacrus XR
+Protez. Lagiacrus XR
+Parabr. Zinogre X
+Protezioni Zinogre X
+Parabr. Zinogre GX
+Protez. Zinogre GX
+Parabr. Gravios X
+Protezioni Gravios X
+Parabr. Mizutsune X
+Protez. Mizutsune X
+Parabr. Astalos X
+Protezioni Astalos X
+Parabraccia Gammoth X
+Protezioni Gammoth X
+Parabr. Glavenus X
+Protezioni Glavenus X
+Parabr. Agnaktor X
+Protez. Agnaktor X
+Parabr. Gore Magala X
+Protez. Gore Magala X
+Parabr. G.Magala GX
+Protez. G.Magala GX
+Parabr. G.Magala XR
+Protez. G.Magala XR
+Parabraccia Regios X
+Protezioni Regios X
+Parabr. Duramboros X
+Protez. Duramboros X
+Parabraccia Tigrex X
+Protezioni Tigrex X
+Parabr. Tigrex GX
+Protezioni Tigrex GX
+Parabr. Tigrex XR
+Protezioni Tigrex XR
+Parabr. Diablos X
+Protezioni Diablos X
+Parabr. Diablos XR
+Protezioni Diablos XR
+Copribraccia Kirin X
+Guanti Kirin X
+Copribr. Kirin XR
+Guanti Kirin XR
+Parabr. Brachydios X
+Protez. Brachydios X
+Parab. Brachydios GX
+Prot. Brachydios GX
+Parabr. dell'arco X
+Protezioni dell'arco X
+Parabraccia storge X
+Protezioni storge X
+Parab. dell'arco GX
+Protezioni arco GX
+Parabr. storge GX
+Protezioni storge GX
+Parab. dell'arco XR
+Protezioni arco XR
+Parabr. storge XR
+Protezioni storge XR
+Parabr. Valstrax X
+Protez. Valstrax X
+Bracciali div. sup.
+Bracciali erem. sup.
+Parabr. Vangis X
+Protezioni Vangis X
+Parabraccia del caos
+Protezioni del caos
+Parabraccia nefilim
+Protezioni nefilim
+Parabr. cint. nera X
+Protez. cint. nera X
+Parabr. guardiano X
+Protezioni guardiano X
+Parabr. guardiano Z
+Protez. guardiano Z
+Guanti palad. blu X
+Maniche palad. blu X
+Guanti palad. blu X
+Maniche palad. blu X
+Guanti palad. ros. X
+Maniche pal. ros. X
+Guanti palad. ros. X
+Maniche pal. ros. X
+Artiglio nero X
+Pugno nero X
+Parabr. di Damasco X
+Protez. di Damasco X
+Parab. di Damasco XR
+Prot. di Damasco XR
+Bracc. Carovaniere X
+Stretta Kushala X
+Abbraccio Kushala X
+Stretta Kushala GX
+Abbraccio Kushala GX
+Stretta Kushala XR
+Abbraccio Kushala XR
+Maniche Mizuha sup.
+Maniche strav. sup.
+Maniche Mizuha GX
+Man. stravaganti GX
+Parabraccia Kaiser X
+Protezioni Kaiser X
+Parabr. Kaiser GX
+Protezioni Kaiser GX
+Parabr. sole arg. Z
+Protez. sole arg. Z
+Parabr. sole arg. GX
+Protez. sole arg. GX
+Parabr. sole arg. XR
+Protez. sole arg. XR
+Parab. luna dorata Z
+Protez. luna dor. Z
+Parabr. luna dor. GX
+Protez. luna dor. GX
+Kote ira divina sup.
+Parab. psichici sup.
+Parabraccia voraci Z
+Protezioni voraci Z
+Parabr. voraci XR
+Protezioni voraci XR
+Parabr. Brachydium
+Protez. Brachydium
+Guanti Auroros
+Guanti Genesis
+Guanti Borealis
+Guanti Glifo
+Guanti Auroros GX
+Guanti Genesis GX
+Guanti Borealis GX
+Guanti Glifo GX
+Guanti Auroros XR
+Guanti Genesis XR
+Guanti Borealis XR
+Guanti Glifo XR
+Guanti Auroros R
+Guanti Genesis R
+Guanti Genesis R
+Guanti Borealis R
+Artigli Akantor X
+Guanti Akantor X
+Artigli Akantor XR
+Guanti Akantor XR
+Artigli Ukanlos X
+Guanti Ukanlos X
+Manic. tempesta sup.
+Maniche celesti sup.
+Maniche tempesta XR
+Maniche celesti XR
+Omero schelet. sup.
+Omero decomp. sup.
+Parabr. astrali X
+Protezioni astrali X
+Parabraccia di Neset
+Mano di Neset
+Artigli di drago
+Pugni di drago
+Parabr. Escadora X
+Protez. Escadora X
+Parabr. Escadora XR
+Protez. Escadora XR
+Artigli Fatalis cr.
+Pugni Fatalis crem.
+Artig. Fatalis cr.GX
+Pugni Fatalis cr.GX
+Artig. Fatalis cr.XR
+Pugni Fatalis cr.XR
+Art. Fatalis antico
+Pugni Fatalis antico
+Art. Fatalis antico GX
+Pugni Fatalis antico GX
+Parabraccia strani
+Protezioni strane
+Parabraccia strani X
+Protezioni strane X
+Parabraccia Sanguis LV1
+Protezioni Sanguis LV1
+Parabraccia Sanguis LV6
+Protezioni Sanguis LV6
+Parabraccia Sanguis LV14
+Protezioni Sanguis LV14
+Parabraccia Nix LV1
+Protezioni Nix LV1
+Parabraccia Nix LV6
+Protezioni Nix LV6
+Parabraccia Nix LV14
+Protezioni Nix LV14
+Parabraccia Marmor LV1
+Protezioni Marmor LV1
+Parabraccia Marmor LV6
+Protezioni Marmor LV6
+Parabraccia Marmor LV14
+Protezioni Marmor LV14
+Parabr. Imperatrix LV1
+Protezioni Imperatrix LV1
+Parabr. Imperatrix LV6
+Protezioni Imperatrix LV6
+Parabr. Imperatrix LV14
+Protezioni Imperatrix LV14
+Parabraccia Vis LV1
+Protezioni Vis LV1
+Parabraccia Vis LV6
+Protezioni Vis LV6
+Parabraccia Vis LV14
+Protezioni Vis LV14
+Parabraccia Ventus LV1
+Protezioni Ventus LV1
+Parabraccia Ventus LV6
+Protezioni Ventus LV6
+Parabraccia Ventus LV14
+Protezioni Ventus LV14
+Parabraccia Adamas LV1
+Protezioni Adamas LV1
+Parabraccia Adamas LV6
+Protezioni Adamas LV6
+Parabraccia Adamas LV14
+Protezioni Adamas LV14
+Parabraccia Caecus LV1
+Protezioni Caecus LV1
+Parabraccia Caecus LV6
+Protezioni Caecus LV6
+Parabraccia Caecus LV14
+Protezioni Caecus LV14
+Parabraccia Rex LV1
+Protezioni Rex LV1
+Parabraccia Rex LV6
+Protezioni Rex LV6
+Parabraccia Rex LV14
+Protezioni Rex LV14
+Parabraccia Fulgur LV1
+Protezioni Fulgur LV1
+Parabraccia Fulgur LV6
+Protezioni Fulgur LV6
+Parabraccia Fulgur LV14
+Protezioni Fulgur LV14
+Parabraccia Furor LV1
+Protezioni Furor LV1
+Parabraccia Furor LV6
+Protezioni Furor LV6
+Parabraccia Furor LV14
+Protezioni Furor LV14
+Parabraccia Ignis LV1
+Protezioni Ignis LV1
+Parabraccia Ignis LV6
+Protezioni Ignis LV6
+Parabraccia Ignis LV14
+Protezioni Ignis LV14
+Parabraccia Occultus LV1
+Protezioni Occultus LV1
+Parabraccia Occultus LV4
+Protezioni Occultus LV4
+Parabraccia Acutus LV1
+Protezioni Acutus LV1
+Parabraccia Acutus LV4
+Protezioni Acutus LV4
+Parabraccia Arcanum LV1
+Protezioni Arcanum LV1
+Parabraccia Arcanum LV4
+Protezioni Arcanum LV4
+Parabraccia Fulmen LV1
+Protezioni Fulmen LV1
+Parabraccia Fulmen LV4
+Protezioni Fulmen LV4
+Parabraccia Glacialis LV1
+Protezioni Glacialis LV1
+Parabraccia Glacialis LV4
+Protezioni Glacialis LV4
+Parabraccia Cruor LV1
+Protezioni Cruor LV1
+Parabraccia Cruor LV4
+Protezioni Cruor LV4
+Parabr. promettenti
+Parabr. eccelsi
+Guanti lucidi
+Guanti da sogno
+Arcfire Kote
+Bonfire Kote
+Waka Kote
+Wagaku Kote
+Gudetama Arm Tights
+Gudetama Arm Suit
+Guanti Captain J
+Polsini Captain J
+Guanti Buccaneer J
+Polsini Buccaneer J
+Parabraccia Zodias
+Protezioni Zodias
+Fasciature campione
+Fasciature energumeno
+Guantini Dynaqlo
+Guanti Dynaqlo
+Blue Star Braces
+Blue Star Sleeves
+Star Knight Vambraces
+Star Knight Guards
+Star Rook Vambraces
+Star Rook Guards
+Arcipar. promettenti
+Arcipar. eccelsi
+Arciparabr. lucidi
+Arciparabr. da sogno
+Ruler Arcfire Kote
+Ruler Bonfire Kote
+Ruler Waka Kote
+Ruler Wagaku Kote
+Gudetama Arm Tights S
+Gudetama Arm Suit S
+Protezioni Termotuta
+Scudo Termotuta
+Guanti Tuta Zero
+Mani Tuta Zero
+Parabr. dell'eroe
+Guanti dell'eroe
+Protezioni Lord supremo
+Polsini Lord supremo
+Parabraccia rabbia
+Protezioni rabbia
+Parabraccia Anat
+Protezioni Anat
+Kote Hiryu cielo
+Kote Hiryu terra
+Gon Braces
+Gon Guards
+Parabr. da criminale
+Mani da criminale
+Supreme Arcfire Kote
+Supreme Bonfire Kote
+Supreme Waka Kote
+Supreme Wagaku Kote
+Guanti di Garo
+Parabraccia di Garo
+Parabraccia Hylia
+Guanti Hylia

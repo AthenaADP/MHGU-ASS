@@ -1,0 +1,327 @@
+﻿Abilità che raddoppiano i punti abilità degli equipaggiamenti del torso.
+Protegge dal veleno letale e rende del tutto invulnerabili ai veleni meno potenti.
+Raddoppia i danni arrecati dal veleno.
+Previene gli effetti della paralisi.
+Raddoppia la durata della paralisi.
+Previene gli effetti del sonno.
+Raddoppia la durata del sonno.
+Previene gli effetti dello stordimento.
+Riduce del 50% la probabilità di subire uno stordimento.
+Rende più difficile riprendersi dallo stordimento.
+Annulla gli effetti dei ruggiti di tutti i mostri grandi.
+Annulla gli effetti dei ruggiti di alcuni mostri grandi.
+Annulla la pressione del vento da gran parte dei mostri.
+Riduce quasi completamente la pressione del vento.
+Annulla gli effetti delle vibrazioni causate dai mostri grandi.
+Annulla gli status che limitano il movimento, come effetti della neve e bolla.
+Annulla i danni causati da calore e lava.
+Aumenta la riduzione di vita dovuta al calore.
+Annulla del tutto il freddo.
+Aumenta la velocità di riduzione della resistenza massima a causa del freddo.
+Diventi più forte nelle regioni fredde. Se consumi una bevanda fresca...
+Diventi più forte nelle regioni calde. Se consumi una bevanda calda...
+Impedisce il furto di oggetti.
+Annulla gli effetti di difesa-.
+Riduce la probabilità di contrarre la frenesia e accelera il recupero.
+Potenzia la bomba-letame, annulla fetore e danni da scoppio, ritarda il virus.
+Potenzia la bomba-letame, annulla fetore e danni da scoppio.
+Previene l'emorragia.
+Raddoppia i danni subiti per l'emorragia.
+Aumenta molto l'attacco.
+Aumenta l'attacco.
+Aumenta leggermente l'attacco.
+Riduce leggermente l'attacco.
+Riduce l'attacco.
+Riduce molto l'attacco.
+Aumenta molto la difesa.
+Aumenta la difesa.
+Aumenta leggermente la difesa.
+Riduce leggermente la difesa.
+Riduce la difesa.
+Riduce molto la difesa.
+Aumenta la vita massima di 50 punti.
+Aumenta la vita massima di 20 punti.
+Riduce la vita massima di 10 punti.
+Riduce la vita massima di 30 punti.
+Aumenta la resistenza al fuoco di 20 punti.
+Aumenta la resistenza al fuoco di 15 punti.
+Riduce la resistenza al fuoco di 20 punti.
+Aumenta la resistenza all'acqua di 20 punti.
+Aumenta la resistenza all'acqua di 15 punti.
+Riduce la resistenza all'acqua di 20 punti.
+Aumenta la resistenza al tuono di 20 punti.
+Aumenta la resistenza al tuono di 15 punti.
+Riduce la resistenza al tuono di 20 punti.
+Aumenta la resistenza al gelo di 20 punti.
+Aumenta la resistenza al gelo di 15 punti.
+Riduce la resistenza al gelo di 20 punti.
+Aumenta la resistenza al drago di 20 punti.
+Aumenta la resistenza al drago di 15 punti.
+Riduce la resistenza al drago di 20 punti.
+Annulla gli effetti speciali degli attacchi elementali.
+Aumenta molto la potenza degli attacchi fuoco e dei proiettili fiamma (P fiamma).
+Aumenta la potenza degli attacchi fuoco e dei proiettili fiamma (P fiamma).
+Riduce la potenza degli attacchi fuoco e dei proiettili fiamma (P fiamma).
+Aumenta molto la potenza degli attacchi acqua e dei proiettili acqua (P acqua).
+Aumenta la potenza degli attacchi acqua e dei proiettili acqua (P acqua).
+Riduce la potenza degli attacchi acqua e dei proiettili acqua (P acqua).
+Aumenta molto la potenza degli attacchi tuono e dei proiettili tuono (P tuono).
+Aumenta la potenza degli attacchi tuono e dei proiettili tuono (P tuono).
+Riduce la potenza degli attacchi tuono e dei proiettili tuono (P tuono).
+Aumenta molto la potenza degli attacchi gelo e dei proiettili gelo (P gelo).
+Aumenta la potenza degli attacchi gelo e dei proiettili gelo (P gelo).
+Riduce la potenza degli attacchi gelo e dei proiettili gelo (P gelo).
+Aumenta molto la potenza degli attacchi drago e dei proiettili drago (P drago).
+Aumenta la potenza degli attacchi drago e dei proiettili drago (P drago).
+Riduce la potenza degli attacchi drago e dei proiettili drago (P drago).
+Aumenta la forza degli attacchi elementali.
+Riduce la potenza degli attacchi elementali.
+Aumenta la potenza degli attacchi con status alterato.
+Aumenta leggermente la potenza degli attacchi con status alterato.
+Riduce la potenza degli attacchi con status alterato.
+Accelera l'affilamento dell'arma.
+Rallenta l'affilamento dell'arma.
+Aumenta la capacità della barra acutezza della tua arma.
+Aumenta leggermente la capacità della barra acutezza della tua arma.
+Dimezza la velocità con cui la tua arma perde acutezza quando attacchi.
+Raddoppia la velocità con cui la tua arma perde acutezza quando attacchi.
+Impedisce ai tuoi attacchi di essere deviati.
+Rende i tuoi attacchi più facili da deviare.
+Usa una cote per levigare un'arma e aumentarne brevemente la potenza.
+Aumenta l'attacco al ridursi dell'acutezza della tua arma.
+Aumenta del 100% l'affinità per tutti gli attacchi rapidi.
+Può stordire con gli attacchi rapidi delle armi da taglio e aumenta leggermente l'attacco.
+Aumenta la velocità con cui rinfoderi le armi.
+Se rinfoderi quando un mostro è arrabbiato, hai una certa probabilità di aumentare l'acutezza dell'arma.
+Se schivi quando l'arma è estratta ottieni degli effetti speciali. Per l'arco si potenzia la boccetta cortoraggio.
+Accelera molto la ricarica della balestra e carica automaticamente le boccette.
+Accelera la ricarica della balestra e carica automaticamente le boccette.
+Accelera di poco la ricarica della balestra e l'utilizzo delle boccette per intingere frecce.
+Rallenta di poco la ricarica della balestra e l'utilizzo delle boccette per intingere frecce.
+Rallenta la ricarica della balestra e l'utilizzo delle boccette per intingere frecce.
+Rallenta molto la ricarica della balestra e l'utilizzo delle boccette per intingere frecce.
+Riduce molto il rinculo della balestra.
+Riduce il rinculo della balestra.
+Riduce leggermente il rinculo della balestra.
+Aumenta leggermente il rinculo della balestra.
+Aumenta il rinculo della balestra.
+Aumenta molto il rinculo della balestra.
+Diminuisce molto la deviazione al momento del tiro.
+Diminuisce la deviazione durante la mira.
+Aumenta la deviazione durante la mira.
+Aumenta molto la deviazione durante la mira.
+Aumenta la potenza di proiettili normali (P normali) e frecce rapide.
+Aumenta la potenza di proiettili perforanti (P perforanti) e frecce perforanti.
+Aumenta la potenza di proiettili a ventaglio (P ventaglio) e frecce a ventaglio.
+Aumenta la potenza dei proiettili pesanti (P pesanti) e delle frecce pesanti.
+Permette di caricare proiettili normali (P normali) di tutti i livelli.
+Permette di caricare proiettili perforanti (P perforanti) di tutti i livelli.
+Permette di caricare proiettili perforanti (P perforanti) di lv1.
+Permette di caricare proiettili a ventaglio (P ventaglio) di tutti i livelli.
+Permette di caricare proiettili a ventaglio (P ventaglio) di lv1.
+Permette di caricare proiettili esplosivi (P esplosivi) di tutti i livelli.
+Permette di caricare proiettili esplosivi (P esplosivi) di lv1.
+Permette di caricare proiettili a grappolo (P grappolo) di tutti i livelli.
+Permette di caricare proiettili a grappolo (P grappolo) di lv1.
+Permette di usare la boccetta veleno per intingere le frecce quando si usa un arco.
+Permette di usare la boccetta paralisi per intingere le frecce quando si usa un arco.
+Permette di usare la boccetta sonno per intingere le frecce quando si usa un arco.
+Permette di usare boccette potenza di ogni livello per intingere le frecce quando si usa un arco.
+Permette di usare boccette potenza di livello 1 per intingere le frecce quando si usa un arco.
+Permette di usare boccette elemen. di ogni livello per intingere le frecce quando si usa un arco.
+Permette di usare boccette elemen. di livello 1 per intingere le frecce quando si usa un arco.
+Permette di usare la boccetta cortor. per intingere le frecce quando si usa un arco.
+Permette di usare la boccetta fatica per intingere le frecce quando si usa un arco.
+Permette di usare la boccetta scoppio per intingere le frecce quando si usa un arco.
+Garantisce un colpo aggiuntivo durante il fuoco rapido.
+Prolunga l'arco temporale in cui certi colpi e frecce infliggono danni massimi.
+Più colpi per lancia-fucile e balestra, più carica per arco ed energia per spad-ascia car.
+Aumenta la potenza di P interni della balestra, tiri arco e tiri potenti dell'arco.
+Sporadicamente ripristina le munizioni o le boccette dopo aver sparato un colpo.
+Aumenta l'affinità del 30%.
+Aumenta l'affinità del 20%.
+Aumenta l'affinità del 10%.
+Riduce l'affinità del 5%.
+Riduce l'affinità del 10%.
+Riduce l'affinità del 15%.
+Aumenta l'affinità colpendo le zone del corpo contro cui i tuoi attacchi sono efficaci.
+Aumenta l'affinità sferrando attacchi a ripetizione.
+Potenzia gli status alterati (paralisi, veleno, sonno) indotti dai colpi critici.
+Aumenta i danni elementali (fuoco, acqua, tuono, gelo, drago) dei colpi critici.
+Aumenta i danni inflitti dai colpi critici.
+Gli attacchi con affinità negativa hanno una certa probabilità di diventare attacchi con affinità alta.
+Accelera barra s.lunga/s-ascia/s-a.car./ dop. lame, arte speciale balestra leg. e attacchi caricati spadone/martello/arco.
+Rallenta barra s.lunga/s-ascia/s-a.car./ dop. lame, arte speciale balestra leg. e attacchi caricati spadone/martello/arco.
+Rallenta il consumo di resistenza per azioni prolungate (come lo scatto).
+Accelera il consumo di resistenza per azioni prolungate (come lo scatto).
+Riduce molto il consumo di resistenza quando si schiva, blocca, ecc.
+Riduce il consumo di resistenza quando si schiva, blocca, ecc.
+Aumenta il consumo di resistenza quando si schiva, blocca, ecc.
+Aumenta molto il consumo di resistenza quando si schiva, blocca, ecc.
+Aumenta la velocità di recupero della resistenza.
+Riduce la velocità di recupero della resistenza.
+Blocca a un certo livello la riduzione della resistenza durante gli scatti, permettendo di prolungare lo scatto.
+Prolunga il periodo di invulnerabilità di una schivata.
+Prolunga leggermente il periodo di invulnerabilità di una schivata.
+Riduce il periodo di invulnerabilità di una schivata.
+Aumenta la distanza di schivata.
+Schivando accumuli bolle che aumentano la tua capacità di evitare gli attacchi nemici.
+Aumenta molto la probabilità di resistere al colpo quando blocchi un attacco.
+Aumenta la probabilità di resistere al colpo quando blocchi un attacco.
+Riduce la probabilità di resistere al colpo quando blocchi un attacco.
+Rende bloccabili attacchi che prima non lo erano.
+Rende più facile stordire i mostri.
+Aumenta la capacità di determinati attacchi di affaticare i mostri.
+Riduce la probabilità di rompere corni e flauti, prolunga l'effetto di melodie del corno da caccia.
+Potenzia balista, P esplosivi, bocc. impatto, ecc. Aiuta a gestire la barra calore.
+Potenzia leggermente balista, P esplosivi, bocc. impatto, ecc. Aiuta a gestire la barra calore.
+Rende più facile ferire, rompere o tagliare parti dei mostri.
+Aumenta i danni delle bombe. Il successo di combinazione delle bombe è del 100%.
+Ti rinforza molto, temporaneamente, in determinate condizioni.
+Ti rinforza temporaneamente in determinate condizioni.
+Aumenta molto attacco e affinità quando un mostro grande si arrabbia nella stessa area.
+Aumenta attacco e affinità quando un mostro grande si arrabbia nella stessa area.
+Aumenta l'attacco quando la tua barra vita è piena.
+Può potenziare le arti di caccia negli scontri con i mostri grandi.
+Se la vita scende sotto i 2/3, si attiva la dannazione del drago, ma la resistenza elementale e l'attacco migliorano.
+Aumenta molto attacco e difesa quando la vita è al di sotto del 40%.
+Aumenta molto la difesa se la barra vita è al di sotto del 40%.
+Riduce l'incremento di difesa e l'attacco quando la barra vita si riduce a meno del 40%.
+Aumenta l'attacco e difesa quando cadi in battaglia.
+Aumenta l'attacco quando la barra vita è in rosso.
+Aumenta l'attacco quando subisci gli effetti di status alterati.
+Previene uno svenimento se colpito da un colpo letale quando resta una certa quantità di vita.
+Riduce la probabilità di essere individuati dai mostri.
+Aumenta la probabilità di essere individuati dai mostri.
+Aumenta l'attacco e la difesa dei compagni.
+Richiama con il gesto Vittoria compagni svenuti o in recupero. Non permette l'uso ripetuto.
+Rende più facile salire e restare in groppa ai mostri.
+Rende più difficile salire e restare in groppa ai mostri.
+Aumenta i danni inflitti dagli attacchi in salto.
+Accelera la ricarica della barra delle arti, della barra del valore e della barra alchemica.
+Fa ricaricare la barra delle arti, la barra del valore e la barra alchemica quando subisci dei danni dai mostri.
+Prolunga gli status SP attivati con le arti di caccia SP.
+I mostri grandi compariranno sempre sulla mappa, come se fossero stati segnati.
+Aumenta le informazioni mostrate sulla mappa quando segni mostri grandi.
+Ti permette di sapere quando puoi catturare un mostro grande.
+Mostra la mappa, anche se non la possiedi. Rende più semplice la pesca e il barbecue.
+Rende più veloci quando si trasportano oggetti e riduce la probabilità di perderli.
+A volte riduce i danni subiti.
+A volte aumenta i danni subiti.
+Annulla i danni causati dagli attacchi nemici minori.
+Aumenta la quantità di punti vita recuperati.
+Riduce la quantità di punti vita recuperati.
+Accelera molto il recupero dai danni temporanei (parte rossa della barra vita).
+Accelera il recupero dai danni temporanei (parte rossa della barra vita).
+Rallenta il recupero dai danni temporanei (parte rossa della barra vita).
+Rallenta molto il recupero dai danni temporanei (parte rossa della barra vita).
+Aumenta la durata degli effetti di alcuni oggetti.
+Riduce la durata degli effetti di alcuni oggetti.
+Trasmette gli effetti di alcuni oggetti ai compagni nella stessa area.
+Trasmette parte degli effetti di alcuni oggetti ai compagni nell'area.
+Annulla il consumo della resistenza massima nel corso del tempo.
+Dimezza la velocità del consumo della resistenza massima nel corso del tempo.
+Accelera il consumo della resistenza massima nel corso del tempo.
+Accelera nettamente il consumo della resistenza massima nel corso del tempo.
+Tutto ciò che mangi o bevi aumenterà anche la tua resistenza massima.
+Aumenta l'efficacia della carne che aumenta la resistenza massima.
+Aumenta la velocità con cui mangi carne e consumi oggetti.
+Aumenta la velocità con cui mangi carne.
+Riduce la velocità con cui mangi carne.
+Permette saltuariamente di riutilizzare oggetti che hai mangiato o bevuto.
+La carne cruda è commestibile. Se al sangue e ben cotta, dona per poco resistenza illimitata.
+Abilità che permettono di consumare funghi, ottenendo benefici specifici.
+Aumenta la quantità di punti vita recuperati consumando erbe. È più efficace dell'abilità Erboristeria.
+Aumenta la quantità di punti vita recuperati consumando erbe.
+Aumenta del 45% la probabilità di successo delle combinazioni.
+Aumenta del 20% la probabilità di successo delle combinazioni.
+Riduce del 10% la probabilità di successo delle combinazioni.
+Riduce del 20% la probabilità di successo delle combinazioni.
+Assicura i migliori risultati nelle combinazioni che possono produrre più oggetti.
+Assicura il successo delle combinazioni per trappole e accelera trappole e bombe.
+Aumenta spesso il numero di utilizzi di un punto di raccolta.
+A volte aumenta il numero di utilizzi di un punto di raccolta.
+A volte riduce il numero di utilizzi di un punto di raccolta.
+Permette di raccogliere due porzioni di miele o miele reale alla volta.
+Permette di estrarre due amuleti per volta... forse.
+Permette di estrarre due amuleti per volta... fooorse.
+Riduce molto la probabilità di rompere picconi, retini insetti, boomerang, corni e flauti.
+Riduce la probabilità di rompere picconi, retini insetti, boomerang, corni e flauti.
+Aumenta la probabilità di rompere picconi, retini insetti, boomerang, corni e flauti.
+Aumenta molto la probabilità di rompere picconi, retini insetti, boomerang, corni e flauti.
+Aumenta molto spesso il numero di oggetti premio ricevuti alla fine di una missione.
+Aumenta spesso il numero di oggetti premio ricevuti alla fine di una missione.
+A volte aumenta il numero di oggetti premio ricevuti alla fine di una missione.
+A volte riduce il numero di oggetti premio ricevuti alla fine di una missione.
+Riduce spesso il numero di oggetti premio ricevuti alla fine di una missione.
+Aumenta di una le volte in cui puoi effettuare un ricavo e impedisce di essere spinti via.
+Impedisce di essere spinti via durante il ricavo.
+Aumenta spesso il numero di oggetti premio ricevuti per le catture.
+A volte aumenta il numero di oggetti premio ricevuti per le catture.
+Unisce gli effetti di "Fuoco +15" e "Fame dimezzata".
+Unisce gli effetti di "Proteggi-spirito" e "Tuono +15".
+Unisce gli effetti di "Gelo +15" e "Mangiatanto".
+Unisce gli effetti di "Orso" e "Acqua +15".
+Unisce gli effetti di "Drago +15" e "Bioricercatore".
+Unisce gli effetti di "Storditore" e "Maestro corno".
+Unisce gli effetti di "Carica rapida" e "Risentimento".
+Unisce gli effetti di "Schivatore+" e "Recupero res+".
+Unisce gli effetti di "Lama affilata", "Rid. rinculo +2" e "Angelo custode".
+Unisce gli effetti di "Adrenalina +2" e "Mangiatutto".
+Unisce gli effetti di "Att. status +2" e "Ampia area +2".
+Unisce gli effetti di "Amuleti +2" e "Fame annullata".
+Unisce gli effetti di "Schivata +2" e "Affinità +3".
+Unisce gli effetti di "Annulla-stordim." e "Sfidante +2".
+Unisce gli effetti di "Attacco +3" e "Vento +2".
+Unisce gli effetti di "Forza +2" e "Atleta +2".
+Unisce gli effetti di "Tappi orecchie+" e "Pasto veloce +2".
+Unisce gli effetti di "Acutezza +2", "Aumenta colpi" e "Affilatura+".
+Unisce gli effetti di "Tappi orecchie+", "Ricarica +3" e "Mano ferma".
+Unisce gli effetti di "Guardia +2" e "Rinfodero rapido".
+Unisce gli effetti di "Affinità +3" e "Sfidante +1".
+Unisce gli effetti di "Aumenta critico", "Colpo extra" e "Acutezza +1".
+Unisce gli effetti di "Resistenza+", "Contundente" e "Normale/Rapido+".
+Unisce gli effetti di "Attacco +3" e "Schivata +2".
+Unisce gli effetti di "Risentimento", "Carica rapida" e "Resistenza+".
+Unisce gli effetti di "Schivatore+", "Gran cavaliere" e "Recupero res+".
+Unisce gli effetti di "Lama affilata", "Rid. rinculo +2", "Angelo custode" e "Atleta +1".
+Unisce gli effetti di "Adrenalina +2", "Mangiatutto" e "Artigliere +2".
+Unisce gli effetti di "Att. status +2", "Ampia area +2" e "Erboristeria super".
+Unisce gli effetti di "Amuleti +2", "Talismano eroico" e "Fame annullata".
+Unisce gli effetti di "Schivata +2", "Affinità +3" e "Furtivo".
+Unisce gli effetti di "Annulla-stordim.", "Sfidante +2" e "Rafforzamento".
+Unisce gli effetti di "Vento +2", "Attacco +3" e "Adrenalina +1".
+Unisce gli effetti di "Forza +2", "Atleta +2" e "Carica rapida".
+Unisce gli effetti di "Pasto veloce +2", "Tappi orecchie+" e "Estensione SP".
+Unisce gli effetti di "Acutezza +2", "Bombarolo", "Aumenta colpi" e "Affilatura+".
+Unisce gli effetti di "Tappi orecchie+", "Ricarica +3", "Mano ferma" e "Maestro trappole".
+Unisce gli effetti di "Guardia +2", "Rinfodero rapido" e "Scaglialama acuta".
+Unisce gli effetti di "Affinità +3" e "Sfidante +2".
+Unisce gli effetti di "Aumenta critico", "Colpo extra", "Acutezza +1" e "Lato positivo".
+Unisce gli effetti di "Resistenza+", "Contundente", "Normale/Rapido+" e "Attacco +2".
+Unisce gli effetti di "Attacco +3", "Schivata +2" e "Serafico".
+Unisce gli effetti di "Rafforzamento", "Resistenza+" e "Ruba resistenza".
+Unisce gli effetti di "Preveggenza" e "Lama affilata".
+Unisce gli effetti di "Pasto veloce +2", "Carnivoro" e "Fungomante".
+Unisce gli effetti di "Bombarolo" e "Maestro trappole".
+Unisce gli effetti di "Ruba resistenza" e "Storditore".
+Unisce gli effetti di "Medicina+" e "Angelo custode".
+Unisce gli effetti di "Cartucciera+", "Combinazioni +20%" e "Furtivo".
+Unisce gli effetti di "Acutezza +1" e "Attacco +3".
+Unisce gli effetti di "Normale/Rapido+", "Perforante+" e "Ventaglio+".
+Unisce gli effetti di "Annulla-veleno", "Annulla-paralisi", "Annulla-sonno" e "Annulla-stordimento".
+Unisce gli effetti di "Adrenalina +2" e "Coraggio".
+Unisce gli effetti di "Atleta +1" e "Schivata +1".
+Unisce gli effetti di "Stordattacco" e "Rinfodero rapido".
+Unisce gli effetti di "Difesa +2" e "Pelle di ferro".
+Unisce gli effetti di "Affinità +2" e "Punto debole".
+Unisce gli effetti di "Blocco" e "Recupero res+".
+Unisce gli effetti di "Forma perfetta" e "Schivatore+".
+Unisce gli effetti di "Att. elementale+" e "Uso oggetti +".
+Unisce gli effetti di "Affinità +2" e "Raccolta +1".
+Unisce gli effetti di "Più fortuna" e "Premi +1".
+Unisce gli effetti di "Caccia polare", "Vento +2" e "Annulla-vincolo".
+Unisce gli effetti di "Annulla-veleno", "Anti-ladro" e "Autotracciamento".
+Unisce gli effetti di "Caccia tropicale", "Fuoco +20" e "Bioricercatore".
+Aggiunge 2 punti abilità alle abilità con punti.
+Raddoppia i punti abilità ottenuti con i talismani.

@@ -1,0 +1,1214 @@
+﻿Pantaloni di cuoio
+Pantaloni di cotta
+Schinieri Bherna
+Schinieri caccia
+Gambali caccia
+Stivali Mafumofu
+Hakama Yukumo
+Stivali Loc Lac
+Schinieri cacciatore
+Gambali cacciatore
+Schinieri d'osso
+Gambali d'osso
+Schinieri trapper
+Stivali trapper
+Parastinchi Maccao
+Stivali Maccao
+Parastinchi Jaggi
+Stivali Jaggi
+Schinieri Jaggi
+Gambali Jaggi
+Schinieri Maccao
+Gambali Maccao
+Schinieri Velociprey
+Gambali Velociprey
+Schinieri Giaprey
+Gambali Giaprey
+Schinieri Genprey
+Gambali Genprey
+Schinieri Vespoid
+Gambali Vespoid
+Schinieri Hornetaur
+Gambali Hornetaur
+Stivali Bnahabra
+Pantaloni Bnahabra
+Zampe Mosswine
+Schinieri Rhenoplos
+Gambali Rhenoplos
+Schin. Bulldrome
+Gambali Bulldrome
+Schinieri Arzuros
+Gambali Arzuros
+Schinieri Cephalos
+Gambali Cephalos
+Pantaloni arditi
+Schinieri in lega
+Gambali in lega
+Schin. da battaglia
+Gambali da battaglia
+Schinieri lingotto
+Gambali lingotto
+Schinieri Hi-Metal
+Gambali Hi-Metal
+Stivali di metallo
+Piedi di metallo
+Radici Melahoa
+Fittone Melahoa
+Pantaloni Makluva
+Gambali Makluva
+Jambe Necrologio
+Femur Necrologio
+Jambe farfalla
+Femur farfalla
+Tallone puzza morte
+Marcia puzza morte
+Radici Mosgharl
+Germogli Mosgharl
+Radici Edel
+Germogli Edel
+Jambe Skalda
+Femur Skalda
+Jambe Spio
+Femur Spio
+Schinieri Droth
+Gambali Droth
+Zampe Velociprey
+Calzam. Velociprey
+Zampe Genprey
+Calzamaglia Genprey
+Zampe Ioprey
+Calzamaglia Ioprey
+Zampe Remobra
+Calzamaglia Remobra
+Schinieri Ioprey
+Gambali Ioprey
+Schinieri Kut-Ku
+Gambali Kut-Ku
+Schinieri Lagombi
+Gambali Lagombi
+Schinieri Gypceros
+Gambali Gypceros
+Schinieri Tetsucabra
+Gambali Tetsucabra
+Schinieri Hermitaur
+Gambali Hermitaur
+Schinieri Volvidon
+Gambali Volvidon
+Schinieri Ludroth
+Gambali Ludroth
+Schinieri Malfestio
+Gambali Malfestio
+Schinieri Khezu
+Gambali Khezu
+Schinieri Rathian
+Gambali Rathian
+Schinieri Nibelsnarf
+Gambali Nibelsnarf
+Schinieri Blango
+Gambali Blango
+Schinieri Ceanataur
+Gambali Ceanataur
+Schinieri Najarala
+Gambali Najarala
+Schinieri Nargacuga
+Gambali Nargacuga
+Stivali sapienti
+Calzam. sapiente
+Schinieri Vaik
+Gambali Vaik
+Jambe Aelucanth
+Femur Aelucanth
+Jambe Rhopessa
+Femur Rhopessa
+Schinieri Artian
+Gambali Artian
+Schinieri Garuga
+Gambali Garuga
+Schinieri Uragaan
+Gambali Uragaan
+Schinieri Rathalos
+Gambali Rathalos
+Schinieri Lagiacrus
+Gambali Lagiacrus
+Schinieri Zinogre
+Gambali Zinogre
+Schin. Mizutsune
+Gambali Mizutsune
+Schinieri Astalos
+Gambali Astalos
+Schinieri Gammoth
+Gambali Gammoth
+Schinieri Glavenus
+Gambali Glavenus
+Schin. Gore Magala
+Gambali Gore Magala
+Schinieri Regios
+Gambali Regios
+Schinieri Tigrex
+Gambali Tigrex
+Paragambe Kirin
+Stivali Kirin
+Schinieri Brachydios
+Gambali Brachydios
+Schinieri dell'arco
+Gambali dell'arco
+Schinieri storge
+Gambali storge
+Tibia Kushala
+Stinco Kushala
+Gambali Mizuha
+Pant. stravaganti
+Schinieri Kaiser
+Gambali Kaiser
+Femore scheletrico
+Femore decomposto
+Piedi neri
+Gambe nere
+Schin. cintura nera
+Gambali cintura nera
+Stivali bardo
+Ghette bardo
+Calze damigella
+Calzam. french maid
+Calze aiutante
+Calze guaritrice
+Calzoni Dianthus
+Calzoni Campanile
+Sandali da bagno
+Stivali Gourmiao
+Zampe Gourmiao
+Schinieri di cuoio S
+Gambali di cuoio S
+Schinieri di cotta S
+Gambali di cotta S
+Schinieri Bherna S
+Gambali Bherna S
+Schinieri caccia S
+Gambali caccia S
+Stivali Mafumofu S
+Calzam. Mafumofu S
+Hakama Yukumo cielo
+Hakama Yukumo terra
+Stivali Loc Lac S
+Schin. cacciatore S
+Gambali cacciatore S
+Schin. cacciatore R
+Gambali cacciatore R
+Schinieri d'osso S
+Gambali d'osso S
+Stivali metallo arg.
+Piedi d'argento
+Radici Melahoa S
+Fittone Melahoa S
+Radici Melahoa U
+Fittone Melahoa U
+Pantaloni Makluva S
+Gambali Makluva S
+Pantaloni Makluva U
+Gambali Makluva U
+Radici Mosgharl S
+Germogli Mosgharl S
+Radici Edel S
+Germogli Edel S
+Zampe Velociprey S
+Calzam. Velociprey S
+Zampe di Giaprey
+Calzam. di Giaprey
+Zampe Genprey S
+Calzam. Genprey S
+Zampe Ioprey S
+Calzam. Ioprey S
+Zampe Remobra S
+Calzam. Remobra S
+Parastinchi trapper S
+Stivali trapper S
+Parastinchi Maccao S
+Stivali Maccao S
+Parastinchi Jaggi S
+Stivali Jaggi S
+Zampe Mosswine S
+Schin. Rhenoplos S
+Gambali Rhenoplos S
+Schinieri Jaggi S
+Gambali Jaggi S
+Schinieri Droth S
+Gambali Droth S
+Schinieri Maccao S
+Gambali Maccao S
+Schin. Velociprey S
+Gambali Velociprey S
+Schinieri Giaprey S
+Gambali Giaprey S
+Schinieri Genprey S
+Gambali Genprey S
+Schinieri Genprey EX
+Gambali Genprey EX
+Schinieri Ioprey S
+Gambali Ioprey S
+Schinieri Ioprey EX
+Gambali Ioprey EX
+Schinieri Vespoid S
+Gambali Vespoid S
+Schinieri Vespoid EX
+Gambali Vespoid EX
+Schinieri Hornet S
+Gambali Hornet S
+Schinieri Hornet EX
+Gambali Hornet EX
+Schinieri Hornet R
+Gambali Hornet R
+Stivali Bnahabra S
+Pantaloni Bnahabra S
+Schin. Bulldrome S
+Gambali Bulldrome S
+Schinieri Arzuros S
+Gambali Arzuros S
+Schinieri Cephalos S
+Gambali Cephalos S
+Schinieri Cephalos EX
+Gambali Cephalos EX
+Schinieri Kut-Ku S
+Gambali Kut-Ku S
+Schin. Kecha Wacha
+Gambali Kecha Wacha
+Schinieri Lagombi S
+Gambali Lagombi S
+Schinieri Gypceros S
+Gambali Gypceros S
+Schinieri Gypceros R
+Gambali Gypceros R
+Schin. Tetsucabra S
+Gambali Tetsucabra S
+Schin. Hermitaur S
+Gambali Hermitaur S
+Schin. Hermitaur EX
+Gambali Hermitaur EX
+Schin. Hermitaur R
+Gambali Hermitaur R
+Schinieri Volvidon S
+Gambali Volvidon S
+Schinieri Conga
+Gambali Conga
+Schinieri Ludroth S
+Gambali Ludroth S
+Schinieri Ludroth R
+Gambali Ludroth R
+Schinieri Barroth
+Gambali Barroth
+Stivali sapienza
+Calzature sapienza
+Schinieri in lega S
+Gambali in lega S
+Schinieri in lega R
+Gambali in lega R
+Schin. da battaglia S
+Gambali da battaglia S
+Schinieri lingotto S
+Gambali lingotto S
+Schinieri lingotto R
+Gambali lingotto R
+Schinieri Hi-Metal S
+Gambali Hi-Metal S
+Schinieri Hi-Metal U
+Gambali Hi-Metal U
+Stiv. metallo rosa
+Piedi di metallo rosa
+Schinieri aragosta
+Gambali aragosta
+Jambe Necrologio S
+Femur Necrologio S
+Jambe farfalla S
+Femur farfalla S
+Tall. puzza morte S
+Marcia puzza morte S
+Tall. puzza morte R
+Marcia puzza morte R
+Schinieri Vaik S
+Gambali Vaik S
+Jambe Aelucanth S
+Femur Aelucanth S
+Jambe Rhopessa S
+Femur Rhopessa S
+Stivali pasticciere
+Calzature pasticciere
+Jambe Skalda S
+Femur Skalda S
+Jambe Spio S
+Femur Spio S
+Schinieri Basarios
+Gambali Basarios
+Schinieri Malfestio S
+Gambali Malfestio S
+Schinieri Zamtrios
+Gambali Zamtrios
+Schinieri Khezu S
+Gambali Khezu S
+Schinieri Khezu R
+Gambali Khezu R
+Schinieri Nerscylla
+Gambali Nerscylla
+Schinieri Rathian S
+Gambali Rathian S
+Schinieri Rathian EX
+Gambali Rathian EX
+Schinieri Rathian R
+Gambali Rathian R
+Schin. Nibelsnarf S
+Gambali Nibelsnarf S
+Schinieri Plesioth
+Gambali Plesioth
+Schinieri Blango S
+Gambali Blango S
+Schinieri Blango EX
+Gambali Blango EX
+Schinieri Lavasioth
+Gambali Lavasioth
+Schin. Lavasioth EX
+Gambali Lavasioth EX
+Schin. Ceanataur S
+Gambali Ceanataur S
+Schin. Ceanataur EX
+Gambali Ceanataur EX
+Schin. Ceanataur R
+Gambali Ceanataur R
+Schinieri Najarala S
+Gambali Najarala S
+Schinieri Narga S
+Gambali Narga S
+Schinieri Garuga S
+Gambali Garuga S
+Schinieri Uragaan S
+Gambali Uragaan S
+Schin. cintura nera S
+Gamb. cintura nera S
+Stivali guardiano
+Pantaloni guardiano
+Stivali guardiano U
+Pantal. guardiano U
+Calze Gilda
+Sandali Gilda
+Calze marinaretta
+Sandali marinaretta
+Sandali lusso
+Pantaloni stella Kita
+Pantaloni oceano Umi
+Schinieri arditi S
+Gambali arditi S
+Schinieri Dober
+Gambali Dober
+Schinieri di Damasco
+Gambali di Damasco
+Schin. di Damasco R
+Gambali di Damasco R
+Stiv. metallo scuro
+Piedi di metallo nero
+Stivali cromati
+Piedi cromati
+Schinieri Artian S
+Gambali Artian S
+Schinieri Artian R
+Gambali Artian R
+Schinieri Barioth
+Gambali Barioth
+Schinieri Seltas
+Gambali Seltas
+Schinieri Rathalos S
+Gambali Rathalos S
+Schin. Rathalos EX
+Gambali Rathalos EX
+Schinieri Rathalos R
+Gambali Rathalos R
+Schin. Lagiacrus S
+Gambali Lagiacrus S
+Schin. Lagiacrus R
+Gambali Lagiacrus R
+Schinieri Zinogre S
+Gambali Zinogre S
+Schinieri Zinogre EX
+Gambali Zinogre EX
+Schinieri Gravios
+Gambali Gravios
+Schin. Mizutsune S
+Gambali Mizutsune S
+Schinieri Astalos S
+Gambali Astalos S
+Schinieri Gammoth S
+Gambali Gammoth S
+Schinieri Glavenus S
+Gambali Glavenus S
+Schinieri Agnaktor
+Gambali Agnaktor
+Schin. Gore Magala S
+Gamb. Gore Magala S
+Schin. G.Magala EX
+Gamb. Gore Magala EX
+Schin. Gore Magala R
+Gamb. Gore Magala R
+Schinieri Regios S
+Gambali Regios S
+Schinieri Duramboros
+Gambali Duramboros
+Schinieri Tigrex S
+Gambali Tigrex S
+Schinieri Tigrex EX
+Gambali Tigrex EX
+Schinieri Tigrex R
+Gambali Tigrex R
+Paragambe Kirin S
+Stivali Kirin S
+Paragambe Kirin R
+Stivali Kirin R
+Schin. Brachydios S
+Gambali Brachydios S
+Schin. Brachydios EX
+Gambali Brachydios EX
+Hakama d'oro
+Calze burattinaio
+Schinieri Vangis
+Gambali Vangis
+Stivali cavaliere
+Calzam. cavaliere
+Calze damigella S
+Calzam. french maid S
+Stiv. paladino blu
+Calzam. paladino blu
+Stiv. paladino blu
+Calzam. paladino blu
+Stiv. paladino ros.
+Calz. paladino ros.
+Stiv. paladino ros.
+Calz. paladino ros.
+Calze aiutante S
+Calze guaritrice S
+Calze aiutante U
+Calze guaritrice U
+Stivali bardo S
+Ghette bardo S
+Cavigliera Chakra
+Calz. ben. Dianthus
+Calz. ben. Campanile
+Schinieri Grancaccia
+Gambali Grancaccia
+Schinieri sorellanza
+Gambali sorellanza
+Stivali falco
+Piedi falco
+Stivali Gourmiao S
+Piedi Gourmiao S
+Stivali sapienti S
+Calzam. sapiente S
+Calzari ranger
+Calzari arciere
+Stiv. Shinobi aria
+Stiv. Shinobi terra
+Stiv. Shinobi cielo
+Stiv. Shinobi mare
+Stivali antichi
+Piedi antichi
+Schinieri del maestro
+Gambali del maestro
+Piedi neri S
+Gambe nere S
+Gusoku Toka
+Gusoku Mitsuaoi
+Stivali saggezza
+Ghette saggezza
+Stivali gioviali
+Zampe gioviali
+Calze marinaretta
+Sandali marinaretta
+Schin. Rathian EX S
+Gambali Rathian EX S
+Schin. Rathalos EX S
+Gambali Rathalos EX S
+Schin. Tigrex EX S
+Gambali Tigrex EX S
+Schinieri Diablos
+Gambali Diablos
+Schinieri Diablos R
+Gambali Diablos R
+Schin. dell'arco S
+Gambali dell'arco S
+Schinieri storge S
+Gambali storge S
+Schin. dell'arco EX
+Gambali dell'arco EX
+Schin. storge EX
+Gambali storge EX
+Schin. dell'arco R
+Gambali dell'arco R
+Schinieri storge R
+Gambali storge R
+Schinieri Valstrax
+Gambali Valstrax
+Tibia Kushala S
+Stinco Kushala S
+Tibia Kushala EX
+Stinco Kushala EX
+Tibia Kushala R
+Stinco Kushala R
+Gambali Mizuha S
+Pant. stravaganti S
+Gambali Mizuha EX
+Pant. stravaganti EX
+Schinieri Kaiser S
+Gambali Kaiser S
+Schinieri Kaiser EX
+Gambali Kaiser EX
+Schin. sole argent.
+Gambali sole argent.
+Schin. sole arg. EX
+Gambali sole arg. EX
+Schin. sole arg. R
+Gambali sole arg. R
+Schin. luna dorata
+Gambali luna dorata
+Schin. luna dorata EX
+Gambali luna dor. EX
+Hakama ira divina
+Tabi psichici
+Schinieri voraci
+Gambali voraci
+Schinieri voraci R
+Gambali voraci R
+Iuta Akantor
+Stivali Akantor
+Iuta Akantor R
+Stivali Akantor R
+Iuta Ukanlos
+Stivali Ukanlos
+Pantaloni tempesta
+Pantaloni celesti
+Pantaloni fantemp. R
+Pantaloni alumcel. R
+Femore arcischel. R
+Femore arcidecomp. R
+Stivali astrali
+Piedi astrali
+Schinieri Escadora
+Gambali Escadora
+Schinieri Escadora R
+Gambali Escadora R
+Schinieri di cuoio X
+Gambali di cuoio X
+Schinieri di cotta X
+Gambali di cotta X
+Schinieri Bherna X
+Gambali Bherna X
+Schinieri caccia X
+Gambali caccia X
+Stivali Mafumofu X
+Calzam. Mafumofu X
+Hakama Yuk. cie.Goku
+Hakama Yuk. te.Goku
+Sandali bagno lusso
+Stivali Loc Lac X
+Schin. cacciatore X
+Gambali cacciatore X
+Schin. cacciatore XR
+Gamb. cacciatore XR
+Schinieri d'osso X
+Gambali d'osso X
+Stivali d'argento X
+Piedi di metallo X
+Parast. trapper X
+Stivali trapper X
+Parastinchi Maccao X
+Stivali Maccao X
+Parastinchi Jaggi X
+Stivali Jaggi X
+Radici Melahoa X
+Fittone Melahoa X
+Radici Melahoa Z
+Fittone Melahoa Z
+Pantaloni Makluva X
+Gambali Makluva X
+Pantaloni Makluva Z
+Gambali Makluva Z
+Jambe Necrologio X
+Femur Necrologio X
+Jambe farfalla X
+Femur farfalla X
+Tall. puzza morte X
+Marcia puzza morte X
+Tallone puzza morte XR
+Marc. puzza morte XR
+Radici Mosgharl X
+Germogli Mosgharl X
+Radici Edel X
+Germogli Edel X
+Jambe Skalda X
+Femur Skalda X
+Jambe Spio X
+Femur Spio X
+Schinieri in lega X
+Gambali in lega X
+Schinieri in lega XR
+Gambali in lega XR
+Schin. battaglia X
+Gamb. da battaglia X
+Schinieri lingotto X
+Gambali lingotto X
+Schinieri lingotto XR
+Gambali lingotto XR
+Schin. Hi-Metal X
+Gambali Hi-Metal X
+Schinieri Hi-Metal Z
+Gambali Hi-Metal Z
+Stiv. metallo rosa X
+Piedi di met. rosa X
+Schinieri aragosta X
+Gambali aragosta X
+Schinieri Vaik X
+Gambali Vaik X
+Stivali pasticciere X
+Calzature pasticciere X
+Stivali Gourmiao X
+Piedi Gourmiao X
+Jambe Aelucanth X
+Femur Aelucanth X
+Jambe Rhopessa X
+Femur Rhopessa X
+Stivali sapienza X
+Calzature sapienza X
+Schinieri arditi X
+Gambali arditi X
+Schinieri Artian X
+Gambali Artian X
+Schinieri Artian XR
+Gambali Artian XR
+Calze damigella X
+Calzam. french maid X
+Calz. Dianthus lusso
+Calz. Campanile lusso
+Stivali falco X
+Piedi falco X
+Stivali sapienti X
+Calzam. sapiente X
+Schinieri Dober X
+Gambali Dober X
+Calze Gilda X
+Sandali Gilda X
+Calze marinaretta X
+Sandali marinar. X
+Calze da marinaio X
+Sand. da marinaio X
+Schinieri Jaggi X
+Gambali Jaggi X
+Schinieri Maccao X
+Gambali Maccao X
+Schinieri Velociprey X
+Gambali Velociprey X
+Schinieri Giaprey X
+Gambali Giaprey X
+Schinieri Genprey X
+Gambali Genprey X
+Schinieri Genprey GX
+Gambali Genprey GX
+Schinieri Vespoid X
+Gambali Vespoid X
+Schinieri Vespoid GX
+Gambali Vespoid GX
+Schinieri Hornet X
+Gambali Hornet X
+Schinieri Hornet GX
+Gambali Hornet GX
+Schinieri Hornet XR
+Gambali Hornet XR
+Stivali Bnahabra X
+Pant. Bnahabra X
+Zampe Mosswine X
+Schin. Rhenoplos X
+Gambali Rhenoplos X
+Schin. Bulldrome X
+Gambali Bulldrome X
+Schinieri Arzuros X
+Gambali Arzuros X
+Schinieri Cephalos X
+Gambali Cephalos X
+Schin. Cephalos GX
+Gambali Cephalos GX
+Schinieri Droth X
+Gambali Droth X
+Zampe Velociprey X
+Gambali Velociprey X
+Zampe di Giaprey X
+Calzam. di Giaprey X
+Zampe Genprey X
+Calzam. Genprey X
+Zampe Ioprey X
+Calzam. Ioprey X
+Zampe Remobra X
+Calzam. Remobra X
+Schinieri Ioprey X
+Gambali Ioprey X
+Schinieri Ioprey GX
+Gambali Ioprey GX
+Schinieri Kut-Ku X
+Gambali Kut-Ku X
+Schin. Kecha Wacha X
+Gambali Kecha Wacha X
+Schinieri Lagombi X
+Gambali Lagombi X
+Schinieri Gypceros X
+Gambali Gypceros X
+Schin. Gypceros XR
+Gambali Gypceros XR
+Schinieri Tetsucabra X
+Gambali Tetsucabra X
+Schin. Hermitaur X
+Gambali Hermitaur X
+Schin. Hermitaur GX
+Gambali Hermitaur GX
+Schin. Hermitaur XR
+Gambali Hermitaur XR
+Schinieri Volvidon X
+Gambali Volvidon X
+Schinieri Conga X
+Gambali Conga X
+Schinieri Conga GX
+Gambali Conga GX
+Schinieri Ludroth X
+Gambali Ludroth X
+Schinieri Ludroth XR
+Gambali Ludroth XR
+Schinieri Barroth X
+Gambali Barroth X
+Schinieri Basarios X
+Gambali Basarios X
+Schin. Malfestio X
+Gambali Malfestio X
+Schinieri Zamtrios X
+Gambali Zamtrios X
+Schinieri Khezu X
+Gambali Khezu X
+Schinieri Khezu XR
+Gambali Khezu XR
+Schinieri Nerscylla X
+Gambali Nerscylla X
+Schinieri Rathian X
+Gambali Rathian X
+Schinieri Rathian GX
+Gambali Rathian GX
+Schinieri Rathian XR
+Gambali Rathian XR
+Schin. Nibelsnarf X
+Gambali Nibelsnarf X
+Schinieri Plesioth X
+Gambali Plesioth X
+Schinieri Blango X
+Gambali Blango X
+Schinieri Blango GX
+Gambali Blango GX
+Schin. Lavasioth X
+Gambali Lavasioth X
+Schin. Lavasioth GX
+Gambali Lavasioth GX
+Schin. Ceanataur X
+Gambali Ceanataur X
+Schin. Ceanataur GX
+Gambali Ceanataur GX
+Schin. Ceanataur XR
+Gambali Ceanataur XR
+Schinieri Najarala X
+Gambali Najarala X
+Schin. Nargacuga X
+Gambali Nargacuga X
+Schinieri Garuga X
+Gambali Garuga X
+Schinieri Uragaan X
+Gambali Uragaan X
+Pant. stella Kita GX
+Pantal. oceano Umi GX
+Stivali cavaliere X
+Calzam. cavaliere X
+Stivali bardo X
+Ghette bardo X
+Stiv. metallo scuro X
+Piedi di met. nero X
+Stivali cromati X
+Piedi cromati X
+Calze aiutante X
+Calze guaritrice X
+Calze aiutante Z
+Calze guaritrice Z
+Stivali antichi X
+Piedi antichi X
+Schin. Grancaccia X
+Gambali Grancaccia X
+Schin. sorellanza X
+Gambali sorellanza X
+Calzari esploratore
+Calzari tiratore
+Hakama Yuk. cie.Goku
+Hakama Yuk. te.Goku
+Schin. del maestro X
+Gambali maestro X
+Gusoku Toka sup.
+Gusoku Mitsuaoi sup.
+Stivali Yaksha
+Stivali strage
+Schinieri Helios X
+Gambali Helios X
+Schinieri Selene X
+Gambali Selene X
+Schinieri sovrana
+Gambali sovrana
+Stivali saggezza X
+Ghette saggezza X
+Stivali ricerca
+Calzamaglia ricerca
+Stivali gioviali X
+Zampe gioviali X
+Stivali eleganti
+Pantaloni eleganti
+Stivali eleganti
+Calzamaglia elegante
+Schinieri Barioth X
+Gambali Barioth X
+Schinieri Seltas X
+Gambali Seltas X
+Schin. Rathalos X
+Gambali Rathalos X
+Schin. Rathalos GX
+Gambali Rathalos GX
+Schin. Rathalos XR
+Gambali Rathalos XR
+Schin. Lagiacrus X
+Gambali Lagiacrus X
+Schin. Lagiacrus XR
+Gambali Lagiacrus XR
+Schinieri Zinogre X
+Gambali Zinogre X
+Schinieri Zinogre GX
+Gambali Zinogre GX
+Schinieri Gravios X
+Gambali Gravios X
+Schin. Mizutsune X
+Gambali Mizutsune X
+Schinieri Astalos X
+Gambali Astalos X
+Schinieri Gammoth X
+Gambali Gammoth X
+Schinieri Glavenus X
+Gambali Glavenus X
+Schinieri Agnaktor X
+Gambali Agnaktor X
+Schin. Gore Magala X
+Gamb. Gore Magala X
+Schin. G.Magala GX
+Gamb. Gore Magala GX
+Schin. G.Magala XR
+Gamb. Gore Magala XR
+Schinieri Regios X
+Gambali Regios X
+Schin. Duramboros X
+Gambali Duramboros X
+Schinieri Tigrex X
+Gambali Tigrex X
+Schinieri Tigrex GX
+Gambali Tigrex GX
+Schinieri Tigrex XR
+Gambali Tigrex XR
+Schinieri Diablos X
+Gambali Diablos X
+Schinieri Diablos XR
+Gambali Diablos XR
+Paragambe Kirin X
+Stivali Kirin X
+Paragambe Kirin XR
+Stivali Kirin XR
+Schin. Brachydios X
+Gambali Brachydios X
+Schin. Brachydios GX
+Gam. Brachydios GX
+Schinieri dell'arco X
+Gambali dell'arco X
+Schinieri storge X
+Gambali storge X
+Schin. dell'arco GX
+Gambali arco GX
+Schin. storge GX
+Gambali storge GX
+Schin. dell'arco XR
+Gambali arco XR
+Schin. storge XR
+Gambali storge XR
+Schinieri Valstrax X
+Gambali Valstrax X
+Piedi divini superbi
+Piedi eremita sup.
+Schinieri Vangis X
+Gambali Vangis X
+Schinieri del caos
+Gambali del caos
+Schinieri nefilim
+Gambali nefilim
+Schin. cint. nera X
+Gambali cint. nera X
+Stivali guardiano X
+Pantaloni guardiano X
+Stivali guardiano Z
+Pantal. guardiano Z
+Stiv. paladino blu X
+Calzam. palad. blu X
+Stiv. paladino blu X
+Calzam. palad. blu X
+Stiv. palad. ros. X
+Calzam. pal. ros. X
+Stiv. palad. ros. X
+Calzam. pal. ros. X
+Piedi neri X
+Gambe nere X
+Schin. di Damasco X
+Gambali di Damasco X
+Schin. di Damasco XR
+Gamb. di Damasco XR
+Tibia Kushala X
+Stinco Kushala X
+Tibia Kushala GX
+Stinco Kushala GX
+Tibia Kushala XR
+Stinco Kushala XR
+Gambali Mizuha sup.
+Pant. stravag. sup.
+Gambali Mizuha GX
+Pant. stravaganti GX
+Schinieri Kaiser X
+Gambali Kaiser X
+Schinieri Kaiser GX
+Gambali Kaiser GX
+Schin. sole arg. Z
+Gamb. sole argen. Z
+Schin. sole arg. GX
+Gambali sole arg. GX
+Schin. sole arg. XR
+Gambali sole arg. XR
+Schin. luna dorata Z
+Gambali luna dor. Z
+Schin. luna dor. GX
+Gambali luna dor. GX
+Hakama ira div. sup.
+Tabi psichici sup.
+Schinieri voraci Z
+Gambali voraci Z
+Schinieri voraci XR
+Gambali voraci XR
+Schinieri Brachydium
+Gambali Brachydium
+Pantaloni Auroros
+Pantaloni Genesis
+Pantaloni Borealis
+Pantaloni Glifo
+Pantaloni Auroros GX
+Pantaloni Genesis GX
+Pantaloni Borealis GX
+Pantaloni Glifo GX
+Pantaloni Auroros XR
+Pantaloni Genesis XR
+Pantal. Borealis XR
+Pantaloni Glifo XR
+Pantaloni Auroros R
+Pantaloni Genesis R
+Pantaloni Borealis R
+Pantaloni Glifo R
+Iuta Akantor X
+Stivali Akantor X
+Iuta Akantor XR
+Stivali Akantor XR
+Iuta Ukanlos X
+Stivali Ukanlos X
+Pant. tempesta sup.
+Pantal. celesti sup.
+Pantal. tempesta XR
+Pantaloni celesti XR
+Femore schelet. sup.
+Femore decomp. sup.
+Stivali astrali X
+Piedi astrali X
+Stivali di Neset
+Piedi di Neset
+Piedi di drago
+Gambe di drago
+Schinieri Escadora X
+Gambali Escadora X
+Schin. Escadora XR
+Gambali Escadora XR
+Zampe Fatalis cr.
+Gambe Fatalis cr.
+Zampe Fatalis cr.GX
+Gambe Fatalis cr.GX
+Zampe Fatalis cr.XR
+Gambe Fatalis cr.XR
+Zampe Fatalis antico
+Arti Fatalis antico
+Zampe Fatalis ant.GX
+Arti Fatalis antico GX
+Schinieri strani
+Gambali strani
+Schinieri strani X
+Gambali strani X
+Schinieri Sanguis LV1
+Gambali Sanguis LV1
+Schinieri Sanguis LV6
+Gambali Sanguis LV6
+Schinieri Sanguis LV14
+Gambali Sanguis LV14
+Schinieri Nix LV1
+Gambali Nix LV1
+Schinieri Nix LV6
+Gambali Nix LV6
+Schinieri Nix LV14
+Gambali Nix LV14
+Schinieri Marmor LV1
+Gambali Marmor LV1
+Schinieri Marmor LV6
+Gambali Marmor LV6
+Schinieri Marmor LV14
+Gambali Marmor LV14
+Schinieri Imperatrix LV1
+Gambali Imperatrix LV1
+Schinieri Imperatrix LV6
+Gambali Imperatrix LV6
+Schinieri Imperatrix LV14
+Gambali Imperatrix LV14
+Schinieri Vis LV1
+Gambali Vis LV1
+Schinieri Vis LV6
+Gambali Vis LV6
+Schinieri Vis LV14
+Gambali Vis LV14
+Schinieri Ventus LV1
+Gambali Ventus LV1
+Schinieri Ventus LV6
+Gambali Ventus LV6
+Schinieri Ventus LV14
+Gambali Ventus LV14
+Schinieri Adamas LV1
+Gambali Adamas LV1
+Schinieri Adamas LV6
+Gambali Adamas LV6
+Schinieri Adamas LV14
+Gambali Adamas LV14
+Schinieri Caecus LV1
+Gambali Caecus LV1
+Schinieri Caecus LV6
+Gambali Caecus LV6
+Schinieri Caecus LV14
+Gambali Caecus LV14
+Schinieri Rex LV1
+Gambali Rex LV1
+Schinieri Rex LV6
+Gambali Rex LV6
+Schinieri Rex LV14
+Gambali Rex LV14
+Schinieri Fulgur LV1
+Gambali Fulgur LV1
+Schinieri Fulgur LV6
+Gambali Fulgur LV6
+Schinieri Fulgur LV14
+Gambali Fulgur LV14
+Schinieri Furor LV1
+Gambali Furor LV1
+Schinieri Furor LV6
+Gambali Furor LV6
+Schinieri Furor LV14
+Gambali Furor LV14
+Schinieri Ignis LV1
+Gambali Ignis LV1
+Schinieri Ignis LV6
+Gambali Ignis LV6
+Schinieri Ignis LV14
+Gambali Ignis LV14
+Schinieri Occultus LV1
+Gambali Occultus LV1
+Schinieri Occultus LV4
+Gambali Occultus LV4
+Schinieri Acutus LV1
+Gambali Acutus LV1
+Schinieri Acutus LV4
+Gambali Acutus LV4
+Schinieri Arcanum LV1
+Gambali Arcanum LV1
+Schinieri Arcanum LV4
+Gambali Arcanum LV4
+Schinieri Fulmen LV1
+Gambali Fulmen LV1
+Schinieri Fulmen LV4
+Gambali Fulmen LV4
+Schinieri Glacialis LV1
+Gambali Glacialis LV1
+Schinieri Glacialis LV4
+Gambali Glacialis LV4
+Schinieri Cruor LV1
+Gambali Cruor LV1
+Schinieri Cruor LV4
+Gambali Cruor LV4
+Balze promettenti
+Balze eccelse
+Schinieri lucidi
+Schinieri da sogno
+Arcfire Hakama
+Bonfire Hakama
+Waka Hakama
+Wagaku Hakama
+Gudetama Leg Tights
+Gudetama Leg Suit
+Stivali Captain J
+Pantaloni Captain J
+Stivali Buccaneer J
+Pantaloni Buccaneer J
+Schinieri Zodias
+Gambali Zodias
+Jeans Bouya
+Pantaloni Bouya
+Balze onnipotenti
+Pantaloni onnipotenti
+Pantaloncini campione
+Pant. energumeno
+Pantaloni Dynaqlo
+Cargo Dynaqlo
+Blue Star Boots
+Blue Star Footwear
+Star Knight Greaves
+Star Knight Leggings
+Star Rook Greaves
+Star Rook Leggings
+Arcibalze promettenti
+Arcibalze eccelse
+Arcibalze lucide
+Arcibalze da sogno
+Ruler Arcfire Hakama
+Ruler Bonfire Hakama
+Ruler Waka Hakama
+Ruler Wagaku Hakama
+Gudetama Leg Tights S
+Gudetama Leg Suit S
+Paragambe Termotuta
+Gambe Termotuta
+Stivali Tuta Zero
+Calzamaglia Tuta Zero
+Stivali dell'eroe
+Gambali dell'eroe
+Stivali Lord supremo
+Schinieri Lord supremo
+Schinieri rabbia
+Gambali rabbia
+Schinieri Anat
+Gambali Anat
+Gambali pelle nera
+Braghe pelle nera
+Stiv. Hiryu cielo
+Stiv. Hiryu terra
+Gon Greaves
+Gon Leggings
+Pantal. da criminale
+Piedi da criminale
+Supreme Arcfire Hakama
+Supreme Bonfire Hakama
+Supreme Waka Hakama
+Supreme Wagaku Hakama
+Gambali di Garo
+Schinieri di Garo
+Scarponi Hylia
+Stivali Hylia

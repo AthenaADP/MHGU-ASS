@@ -1,0 +1,532 @@
+﻿Veleno
+Paralisi
+Sonno
+Stordimento
+Udito
+Vento
+Antisismico
+Vincolo
+Calore
+Freddo
+Polare
+Tropicale
+Anti-ladro
+Difesa OK
+Antifrenesia
+Biologia
+Emorragia
+Attacco
+Difesa
+Vita
+Ignifugo
+Acquatico
+Isolante
+Antigelo
+Antidrago
+Res elem.
+Att. fuoco
+Att. acqua
+Att. tuono
+Att. gelo
+Att. drago
+Att. elem.
+Att. status
+Rasoio
+Artigiano
+Acutezza
+Scherma
+Metallurgia
+Levigazione
+Rapi-danno
+Punizione
+Rinfodero
+Rinfodero acuto
+Scaglialama
+Ricarica
+Rinculo
+Precisione
+Normale
+Perforante
+Ventaglio
+Pesante
+P normali
+P perforanti
+P ventaglio
+P esplosivi
+P grappolo
+B veleno
+B paralisi
+B sonno
+B potenza
+B elemento
+B cortor.
+B fatica
+B scoppio
+Fuoco rap.
+Mirino
+Cartucciera
+Balistica
+Risparmio
+Affinità
+Cecchino
+Serie critica
+Crit. status
+Crit. elemen.
+Critico+
+Critico-
+Carica
+Resistenza
+Atleta
+Resistente
+G corsa
+Schivata
+Schivatore
+Bolla
+Guardia
+Blocco
+KO
+Sfinitore
+Maestro
+Artigliere
+Spaccone
+Bombarolo
+Rinforzo
+Spirito
+Illeso
+Chance
+Spirito drago
+Potenziale
+Superstite
+Rabbia
+Emergenza
+Coraggio
+Presenza
+Gregario
+Capitano
+Cavaliere
+Balzo
+Intuito
+Sopportazione
+Estensione SP
+Sibilla
+Cattura
+Ranger
+Portatore
+Protezione
+Eroismo
+Medicina
+Recupero
+Oggetti
+Ampia area
+Fame
+Ingordigia
+Cucina
+Dieta
+Predatore
+Micologia
+Botanica
+Combinatore
+Alchimista
+Trappola
+Raccolta
+Miele
+Idolatra
+Fatalità
+Fato
+Ricavo
+Premi
+Bherna
+Kokoto
+Pokke
+Yukumo
+Solcacieli
+Taverna volante
+Sanguis
+Nix
+Marmor
+Vis
+Imperatrix
+Adamas
+Ventus
+Caecus
+Rex
+Fulgur
+Furor
+Ignis
+Occultus
+Acutus
+Arcanum
+Fulmen
+Glacialis
+Cruor
+Sanguis X
+Nix X
+Marmor X
+Vis X
+Imperatrix X
+Adamas X
+Ventus X
+Caecus X
+Rex X
+Fulgur X
+Furor X
+Ignis X
+Occultus X
+Acutus X
+Arcanum X
+Fulmen X
+Glacialis X
+Cruor X
+Schermidore
+Affilama
+Abbuffata
+Meccanico
+Possanza
+Preghiera
+Infiltrato
+Maestro d'armi
+Manoferma
+Benessere
+Furia
+Elusivo
+Invasato
+Coriaceità
+Percossa
+Scudo
+Prudenza
+Estensione
+Millemalie
+Avidità
+Anti-Kushala
+Anti-Chameleos
+Anti-Teostra
+Arti segrete
+Potenziamento talismani
+Torso+
+
+Annulla-veleno
+Veleno [x2]
+Annulla-paralisi
+Paralisi [x2]
+Annulla-sonno
+Sonno [x2]
+Annulla-stordim.
+Stordimento 1/2
+Stordimento [x2]
+Tappi orecchie+
+Tappi orecchie
+Vento +2
+Vento +1
+Antisismico
+Annulla-vincolo
+Annulla-calore
+Aumenta-calore
+Annulla-freddo
+Aumenta-freddo
+Caccia polare
+Caccia tropicale
+Anti-ladro
+Pelle di ferro
+Antivirus
+Biologo
+Bioricercatore
+Nega emorragia
+Doppia emorragia
+Attacco +3
+Attacco +2
+Attacco +1
+Attacco -1
+Attacco -2
+Attacco -3
+Difesa +3
+Difesa +2
+Difesa +1
+Difesa -1
+Difesa -2
+Difesa -3
+Vita +50
+Vita +20
+Vita -10
+Vita -30
+Fuoco +20
+Fuoco +15
+Fuoco -20
+Acqua +20
+Acqua +15
+Acqua -20
+Tuono +20
+Tuono +15
+Tuono -20
+Gelo +20
+Gelo +15
+Gelo -20
+Drago +20
+Drago +15
+Drago -20
+Annulla-elementi
+Att. fuoco +2
+Att. fuoco +1
+Att. fuoco -1
+Att. acqua +2
+Att. acqua +1
+Att. acqua -1
+Att. tuono +2
+Att. tuono +1
+Att. tuono -1
+Att. gelo +2
+Att. gelo +1
+Att. gelo -1
+Att. drago +2
+Att. drago +1
+Att. drago -1
+Att. elementale+
+Att. elementale-
+Att. status +2
+Att. status +1
+Att. status -1
+Affilatura+
+Affilatura-
+Acutezza +2
+Acutezza +1
+Lama affilata (Acutezza)
+Lama smussata
+Preveggenza
+Prevedibilità
+Gran levigatura
+Contundente
+Critico rapido
+Stordattacco
+Rinfodero rapido
+Rinfodero sfida
+Scaglialama acuta
+Ricarica +3
+Ricarica +2
+Ricarica +1
+Ricarica -1
+Ricarica -2
+Ricarica -3
+Rid. rinculo +3
+Rid. rinculo +2
+Rid. rinculo +1
+Rid. rinculo -1
+Rid. rinculo -2
+Rid. rinculo -3
+Precisione +2
+Precisione +1
+Precisione -1
+Precisione -2
+Normale/Rapido+
+Perforante+
+Ventaglio+
+Pesante+
+P normali
+P perforanti
+P perforanti lv1
+P ventaglio
+P ventaglio lv1
+P esplosivi
+P esplosivi lv1
+P grappolo
+P grappolo lv1
+B veleno
+B paralisi
+B sonno
+B potenza (tutti)
+B potenza (lv1)
+B element. (tutti)
+B element. (lv1)
+B cortoraggio
+B fatica
+B scoppio
+Colpo extra
+Aumenta colpi
+Cartucciera+
+Colpi+
+Risparmio
+Affinità +3
+Affinità +2
+Affinità +1
+Affinità -1
+Affinità -2
+Affinità -3
+Punto debole
+Recidivo
+Critico stat.
+Critico elem.
+Aumenta critico
+Amara affinità
+Carica rapida
+Carica lenta
+Resistenza+
+Resistenza-
+Atleta +2
+Atleta +1
+Atleta -1
+Atleta -2
+Recupero res+
+Recupero res-
+Corsa di resistenza
+Schivata +2
+Schivata +1
+Schivata -1
+Schivatore+
+Danza bollicine
+Guardia +2
+Guardia +1
+Guardia -1
+Blocco
+Storditore
+Ruba resistenza
+Maestro corno
+Artigliere +2
+Artigliere +1
+Spaccamostri
+Bombarolo
+Forza +2
+Forza +1
+Sfidante +2
+Sfidante +1
+Forma perfetta
+Asso
+Cuor di drago
+Adrenalina +2
+Adrenalina +1
+Inquietudine
+Rafforzamento
+Risentimento
+Rianimazione
+Coraggio
+Furtivo
+Rumoroso
+Adunata compagno
+Incita compagno
+Gran cavaliere
+Mal di sella
+Volante
+Serafico
+Lato positivo
+Estensione SP
+Autotracciamento
+Individua
+Guru cattura
+Campeggiatore
+Super-Portatore
+Angelo custode
+Demone custode
+Talismano eroico
+Medicina+
+Medicina-
+Recupero +2
+Recupero +1
+Recupero -1
+Recupero -2
+Uso oggetti+
+Uso oggetti-
+Ampia area +2
+Ampia area +1
+Fame annullata
+Fame dimezzata
+Fame aumentata
+Doppia fame
+Mangiatutto
+Mangiatanto
+Pasto veloce +2
+Pasto veloce +1
+Pasto lento
+Razionatore
+Carnivoro
+Fungomante
+Erboristeria super
+Erboristeria
+Combinazioni +45%
+Combinazioni +20%
+Combinazioni -10%
+Combinazioni -20%
+Alchimista
+Maestro trappole
+Raccolta +2
+Raccolta +1
+Raccolta -1
+Orso
+Amuleti +2
+Amuleti +1
+Proteggi-divino
+Proteggi-spirito
+Spacca-spettro
+Spacca-diavolo
+Gran fortuna
+Più fortuna
+Fortuna
+Sfortuna
+Gran sfortuna
+Celebrità ricavo
+Esperto ricavo
+Premi +2
+Premi +1
+Anima Bherna
+Anima Kokoto
+Anima Pokke
+Anima Yukumo
+Cuor del solcacieli
+Cuor della taverna
+Anima Sanguis
+Anima Nix
+Anima Marmor
+Anima Vis
+Anima Imperatrix
+Anima Adamas
+Anima Ventus
+Anima Caecus
+Anima Rex
+Anima Fulgur
+Anima Furor
+Anima Ignis
+Anima Occultus
+Anima Acutus
+Anima Arcanum
+Anima Fulmen
+Anima Glacialis
+Anima Cruor
+Anima Sanguis X
+Anima Nix X
+Anima Marmor X
+Anima Vis X
+Anima Imperatrix X
+Anima Adamas X
+Anima Ventus X
+Anima Caecus X
+Anima Rex X
+Anima Fulgur X
+Anima Furor X
+Anima Ignis X
+Anima Occultus X
+Anima Acutus X
+Anima Arcanum X
+Anima Fulmen X
+Anima Glacialis X
+Anima Cruor X
+Gran schermidore
+Mano ferma
+Gourmet
+Caccia esplosiva
+Colpo doloroso
+Benedizione
+Clandestino
+Lama affilata (Maestro d'armi)
+Super-munizioni
+Benessere
+Furia ridesta
+Agile
+Estrazione lampo
+Muro di ferro
+Inesorabilità
+Scudiero
+Piè veloce
+Elementalità
+Estrattore
+Cacciataglie
+Talismano del gelo
+Talism. piroscaglia
+Talism. guscioduro
+Abilità +2
+Doppio talismano

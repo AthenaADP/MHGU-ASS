@@ -1,0 +1,9 @@
+﻿Tutte
+Varie
+Associate
+Offensive
+Difensive
+Spadaccino
+Artigliere
+Raccolta
+Resistenza

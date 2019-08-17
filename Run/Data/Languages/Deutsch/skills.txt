@@ -1,0 +1,532 @@
+﻿Gift
+Lähmung
+Schlaf
+Betäuben
+Gehör
+Windabwehr
+Bebenabw.
+Bindeabw.
+Hitzeabwehr
+Kälteabwehr
+Kälteschutz
+Hitzeschutz
+Anti-Dieb
+Abw.-Sperre
+Rasereiab.
+Biologie
+Blutung
+Angriff
+Verteidig.
+Gesundheit
+Feuerabw.
+Wasserabw.
+Donnerabw.
+Eisabwehr
+Drachenab.
+Brandabw.
+Feuerangriff
+Wasseran.
+Donnerang.
+Eisangriff
+Drachenan.
+Element
+Status
+Schärfer
+Handwerk
+Schärfe
+Fechten
+Schleifer
+Stumpf
+KritHieb
+StrafHieb
+Wegstecken
+WegstcknSchärfer
+Klingenschuppe
+NachlGesch
+Rückstoß
+Präzision
+Normal +
+Perforier +
+Schrot +
+Schwer +
+Normal S+
+Perfor. S+
+Schrot S+
+Explosiv S+
+Streu S+
+ B+
+Lähm B+
+Schlaf B+
+Kraft B+
+Elem B+
+Nhkmpf B+
+Ermüd. B+
+Spreng B+
+Schnellfeuer
+Mstrschütze
+Kapazität
+Willkür
+MunitSpar
+Experte
+Klopfer
+Kettenkrit
+KritStatus
+KritElement
+Krit +
+Krit -
+Schn. lad.
+Ausdauer
+Konstitution
+AusdErholg
+Dauerlauf
+Ausweichen
+Asweichdst
+Blase
+Block
+Block +
+Knock-out
+Ausd.Entzug
+Maestro
+Artillerie
+Zerstörer
+Bombast
+Brachial
+Elan
+Unversehrt
+Chance
+Drachengeist
+Potenzial
+Überleben
+Furore
+Krise
+Mut
+Spürsinn
+Teamspieler
+Teamanfüh.
+Aufsteigen
+Katapult
+Erkenntnis
+Willensstärke
+SP-Verlängerung
+Vision
+Wahrnehmen
+Ranger
+Rucksack
+Schutz
+Heldschild
+ErholStufe
+ErholGschw
+Ewige Kraft
+Großraum
+Hunger
+Schlemmen
+Essen
+Genügsamkt
+Fleischfr.
+Mykologe
+Botanik
+Kombi-Rate
+Kombi-Bonus
+SchnellAufb.
+Sammeln
+Honig
+Amulettf.
+Laune
+Schicksal
+Zerlegen
+Fänger
+Bherna
+Kokoto
+Pokke
+Yukumo
+Aerotorium
+Flug-Taverne
+Rothelm
+Schneesturm
+Steinfaust
+Bohrhauer
+stachel
+Kristallbart
+Silberwind
+Narbig.
+Dunkelfeuer
+Donnrschlag
+Düsterklaue
+Zornklinge
+Mondschein
+Rostklauen
+Karmaseher
+Blitzschlag
+Eiszapfen
+Blutbad
+Rothelm X
+Schneesturm X
+Steinfaust X
+Bohrhauer X
+stachel X
+Kristallbart X
+Silberwind X
+Narbiger X
+Dunkelfeuer X
+Donnerschlag X
+Düsterklauen X
+Zornklingen X
+Mondschein X
+Rostklauen X
+Karmaseher X
+Blitzschlag X
+Eiszapfen X
+Blutbad X
+S. Fechten
+Schnittkunde
+Großer Appetit
+Mechaniker
+Muskelkraft
+Gebet
+Tarnung
+Schneidemeister
+Sichere Hand
+Statusabwehr
+Zorn
+Gewandheit
+Bereit
+Widerstand
+Rohheit
+Tapferkeit
+Vernunft
+Verstärken
+Horten
+Habgier
+Anti-Kushala
+Anti-Chameleos
+Anti-Teostra
+Geheimwissen
+Mächtiger Talisman
+Torso+
+
+Gift aufheben
+Doppeltes Gift
+Lähmung aufheben
+Doppelte Lähmung
+Schlaf aufheben
+Doppelter Schlaf
+Betäuben aufheben
+Halbes Betäuben
+Dopp. Betäuben
+Ohrstöpsel +
+Ohrstöpsel
+Windsicher +2
+Windsicher +1
+Bebenabwehr
+Binden aufheben
+Hitze aufheben
+Hitze erhöhen
+Kälte aufheben
+Kälte erhöhen
+Polarjäger
+Tropenjäger
+Anti-Dieb
+Eisenhaut
+Antivirus
+Bio-Meister
+Bio-Forscher
+Blutung aufheben
+Doppelte Blutung
+Angriff +3
+Angriff +2
+Angriff +1
+Angriff -1
+Angriff -2
+Angriff -3
+Verteidigung +3
+Verteidigung +2
+Verteidigung +1
+Verteidigung -1
+Verteidigung -2
+Verteidigung -3
+Gesundheit +50
+Gesundheit +20
+Gesundheit -10
+Gesundheit -30
+Feuerabwehr +20
+Feuerabwehr +15
+Feuerabwehr -20
+Wasserabwehr +20
+Wasserabwehr +15
+Wasserabwehr -20
+Donnerabwehr +20
+Donnerabwehr +15
+Donnerabwehr -20
+Eisabwehr +20
+Eisabwehr +15
+Eisabwehr -20
+Drachenabwehr +20
+Drachenabwehr +15
+Drachenabwehr -20
+Schadenssicher
+Feuerangriff +2
+Feuerangriff +1
+Feuerangriff -
+Wasserangriff +2
+Wasserangriff +1
+Wasserangriff -
+Donnerangriff +2
+Donnerangriff +1
+Donnerangriff -
+Eisangriff +2
+Eisangriff +1
+Eisangriff -
+Drachenangriff +2
+Drachenangriff +1
+Drachenangriff -
+Elementangriff +
+Elementangriff -
+Statusangriff +2
+Statusangriff +1
+Statusangriff -
+Schnell Schärfen
+Langsam Schärfen
+Schärfe +2
+Schärfe +1
+Scharfschwert
+Stumpf
+Übersinnliche Kraft
+Fehlsichtig
+Schwere Politur
+Knüppler
+Kritischer Hieb
+Strafender Hieb
+Schn. Wegstecken
+WegstcknSchärfer
+KlingenschVerbess
+NachladeGeschw +3
+NachladeGeschw +2
+NachladeGeschw +1
+NachladeGeschw -1
+NachladeGeschw -2
+NachladeGeschw -3
+Rückstoßdämpfer +3
+Rückstoßdämpfer +2
+Rückstoßdämpfer +1
+Rückstoßdämpfer -1
+Rückstoßdämpfer -2
+Rückstoßdämpfer -3
+Zielsicherheit +2
+Zielsicherheit +1
+Zielsicherheit -1
+Zielsicherheit -2
+Normal/Schnell+
+Perfr/Perfr +
+Schr/StrPf +
+Schw/SchwPf +
+Alle Normal S
+Alle Perfor S
+Perfor S St1
+Alle Schrot S
+Schrot S St1
+Alle Explosiv S
+Explosiv S St1
+Alle Streu S
+Streu S St1
+Giftbeschichtung
+Lähmbeschichtung
+Schlafbeschicht.
+Kraft-Phiole A
+Kraft-Phiole St1
+Element-Phiole A
+Elmnt-Phiole St1
+Nahkampfbesch.
+Ermüdbeschichtg.
+Sprengbeschicht.
+Bonus-Schuss
+Schuss-Booster
+Kapazität +
+Wahrschuss +
+Munitions-Sparer
+Krit. Auge +3
+Krit. Auge +2
+Krit. Auge +1
+Krit. Auge -1
+Krit. Auge -2
+Krit. Auge -3
+Schwächeausnutzg
+Wiederholungstäter
+Krit. Statusschaden
+Krit. Elemntschadn
+Kritischer Boost
+Bittere Affinität
+Fokus
+Ablenkung
+Läufer
+Sprinter
+Konstitution +2
+Konstitution +1
+Konstitution -1
+Konstitution -2
+Ausdauererhlg. +
+Ausdauererhlg. -
+Ausdauerläufer
+Ausweichen +2
+Ausweichen +1
+Ausweichen -
+Ausweichen hoch
+Blasentanz
+Block +2
+Block +1
+Block -1
+Block +
+Knock-out-König
+Ausdauerdieb
+Horn-Maestro
+Artillerieexperte
+Artillerienovize
+Teilebrecher
+Bombardier
+Latente Kraft +2
+Latente Kraft +1
+Herausforderer +2
+Herausforderer +1
+Höchstleistung
+Trumpfkarte
+Drachenherz
+Adrenalin +2
+Adrenalin +1
+Pessimist
+Kräftigen
+Verstimmung
+Reanimierung
+Mut
+Schleichen
+Provozieren
+Kameradentreffen
+Kameradenjubel
+Aufsteigmeister
+Wundgeritten
+Luftherrschaft
+Gefasst
+Chancennutzer
+SP-Verlängerung
+Auto-Aufspürer
+Aufspüren
+Fang-Guru
+Naturbursche
+Rucksackexperte
+Göttlicher Schutz
+Dämonischer Schutz
+Heldentalisman
+Erholung +
+Erholung -
+ErholGeschw +2
+ErholGeschw +1
+ErholGeschw -1
+ErholGeschw -2
+Objektnutzung +
+Objektnutzung -
+Wirkbereich +2
+Wirkbereich +1
+Hunger aufheben
+Halber Hunger
+Mehr Hunger
+Doppelter Hunger
+Allesfresser
+Feinschmecker
+Schnellessen +2
+Schnellessen +1
+Langsamer Esser
+Rationierer
+Fleischfan
+Pilzmagier
+Profi-Kräuterkunde
+Kräuterkunde
+Kombination +45%
+Kombination +20%
+Kombination -10%
+Kombination -20%
+Kombi-Profi
+Fallenmeister
+Sammeln +2
+Sammeln +1
+Sammeln -1
+Honigjäger
+Amulettjäger
+Amulettsammler
+Göttliche Laune
+Seelenlaune
+Gespensterlaune
+Teufelslaune
+Glücksverstärker
+Glückserhöher
+Glück
+Pech
+Unglück
+Zerleger-Promi
+Zerleger-Profi
+Fangmeister
+Fangexperte
+Seele von Bherna
+Seele von Kokoto
+Seele von Pokke
+Seele von Yukumo
+Aerotorium-Seele
+Flug-TaverneSeele
+Rothelm-Seele
+Schneesturm-Seele
+Steinfaust-Seele
+Bohrhauer-Seele
+Giftstachel-Seele
+Kristallbart-Seele
+Silberwind-Seele
+NarbigerYian-Seele
+Dunkelfeuer-Seele
+Donnerschlag-Seele
+Düsterklauen-Seele
+Zornklingen-Seele
+Mondschein-Seele
+Rostklauen-Seele
+Karmaseher-Seele
+Blitzschlag-Seele
+Eiszapfen-Seele
+Blutbad-Seele
+Rothelm-Seele X
+SchnstrmSeele X
+Steinfaust-Seele X
+Bohrhauer-Seele X
+GiftstachelSeele X
+KristallbartSeele X
+Silberwind-Seele X
+Narbiger-Seele X
+DnklfeuerSeele X
+DonnrschlgSeele X
+DstrklauenSeele X
+ZornklingnSeele X
+MndscheinSeele X
+RostklauenSeele X
+KrmaseherSeele X
+Blitzschlag-Seele X
+Eiszapfen-Seele X
+Blutbad-Seele X
+Profi-S.-Fechter
+Ruhige Hand
+Eisenmagen
+ExplosFallensteller
+Knallharter Hieb
+Segen
+Klammheimlich
+Geschl. Klinge
+Silberkugel
+Wohlbefinden
+Erwachter Zorn
+Akrobat
+WegsteckKontrlle
+Eiserne Wand
+Rücksichtslosigkeit
+Schildträger
+Leichtfuß
+Elementalität
+Sammelwut
+Kopfgeldjäger
+Eiskalt-Talisman
+PyroschppnTalismn
+StahlpanzerTalismn
+Fähigkeit +2
+Talisman-Doppler

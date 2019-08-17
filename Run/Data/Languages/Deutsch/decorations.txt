@@ -1,0 +1,242 @@
+﻿GegengiftJwl1
+GegengiftJwl2
+Lähm-Juwel 1
+Lähm-Juwel 2
+Pepp-Juwel 1
+Pepp-Juwel 2
+FelsenfestJwl1
+StandfestJwl1
+OhrstöpselJwl1
+OhrstöpselJwl3
+WindabwehrJwl1
+WindabwehrJwl2
+FundamentJwl1
+TektonikJuwel1
+Binde-Juwel 1
+FesselJuwel 1
+HitzeabwehrJwl1
+KälteabwehrJwl1
+Polar-Juwel 1
+Polar-Juwel 3
+Solar-Juwel 1
+Solar-Juwel 3
+Halte-Jwl 1
+AbwhrsperJwl1
+Vernunft-Juwel 1
+Vernunft-Juwel 3
+BiologieJwl1
+MikrobioJwl1
+Stillung-Juwel 1
+Angriff-Juwel 1
+Angriff-Juwel 2
+Angriff-Juwel 3
+VerteidigngJwl1
+VerteidigngJwl2
+LebenskraftJwl1
+FeuerabwrJwl1
+0-Feuer-Jwl1
+WasserabwJwl1
+0-WasserJwl1
+DonnerabwJwl1
+0-DonnerJwl1
+EisabwehrJwl1
+0-Eis-Juwel 1
+DrachenabwJwl1
+0-DrachenJwl1
+WiderstandJwl1
+WiderstandJwl3
+Lohe-Juwel 1
+Lohe-Juwel 2
+Fluss-Juwel 1
+Fluss-Juwel 2
+Blitz-Juwel 1
+Blitz-Juwel 2
+Frost-Juwel 1
+Frost-Juwel 2
+DrachenJuwel1
+DrachenJuwel2
+Element-Juwel 1
+Element-Juwel 3
+AbschaltJuwel1
+AbschaltJuwel2
+Schleif-Juwel 1
+HandwerkJuwel1
+HandwerkJuwel3
+Klingen-Juwel 1
+Klingen-Juwel 3
+Fecht-Juwel 1
+Fecht-Juwel 3
+SchärfeJuwel1
+SchärfeJuwel3
+StumpfJuwel 1
+StumpfJuwel 2
+Hieb-Juwel 1
+Hieb-Juwel 2
+Gambit-Juwel 1
+Gambit-Juwel 3
+WegsteckJwl1
+WegsteckJwl2
+RasierWegsteckJwl1
+Klingenschuppenjuwel 1
+Klingenschuppenjuwel 3
+NachladeJuwel1
+NachladeJuwel2
+AbsorberJuwel1
+AbsorberJuwel3
+HcknschützJwl1
+StarkschusJwl1
+StarkschusJwl3
+PerforierenJwl1
+PerforierenJwl3
+Schrot-Juwel 1
+Schrot-Juwel 3
+StarkschJwl1
+StarkschJwl3
+BonuschusJwl1
+BonuschusJwl2
+PerfBonusJwl1
+SchrotBnsJwl1
+ExplosBnsJwl1
+StreuBonusJwl1
+StreuBonusJwl3
+GiftbeschJwl1
+LähmbeschJwl1
+LähmbeschJwl2
+Schlaf-Jwl 1
+KraftbeschJwl1
+KraftbeschJwl2
+ElembeschJwl1
+ElembeschJwl2
+NhkmpfbschJwl1
+EntzugbschJwl1
+SprengbschJwl1
+Salven-Juwel 1
+Salven-Juwel 3
+Präzises Juwel 1
+Präzises Juwel 2
+KapazitätJuwel1
+KapazitätJuwel3
+UnreglmäJwl1
+Spar-Juwel 1
+Spar-Juwel 2
+ExpertenJuwel1
+ExpertenJuwel2
+ExpertenJuwel3
+Klopfer-Juwel 1
+Klopfer-Juwel 3
+KettenJuwel 1
+KettenJuwel 3
+Krit.Status-Jwl1
+Krit.Status-Jwl2
+Krit.ElementJwl1
+Krit.ElementJwl2
+KritischJwl1
+KritischJwl3
+Krit-Minus-Juwel 1
+Krit-Minus-Juwel 3
+SchnellladJwl1
+SchnellladJwl3
+SprinterJuwel1
+SprinterJuwel3
+Figur-Juwel 1
+Figur-Juwel 2
+ErfrischngJwl1
+ErfrischngJwl2
+Dauerlaufjuwel 1
+Dauerlaufjuwel 2
+AusweichJuwel1
+AusweichJuwel2
+Sprung-Juwel 1
+Sprung-Juwel 3
+BlubberJuwel1
+Blubber-Juwel 3
+EisenmauerJwl1
+EisenmauerJwl2
+Schild-Juwel 1
+Schild-Juwel 2
+KnockOutJuwel1
+KnockOutJuwel2
+Entzug-Juwel 1
+Entzug-Juwel 2
+Klang-Juwel 1
+ArtillerieJwl1
+ZerstörerJwl1
+ZerstörerJwl3
+BombardierJwl1
+Vollgas-Juwel 1
+Vollgas-Juwel 2
+Elan-Juwel 1
+Elan-Juwel 2
+MakellosJwl1
+MakellosJwl2
+Gunst-Juwel 1
+Gunst-Juwel 3
+Drachengeistjuwel 1
+Drachengeistjuwel 3
+PotenzialJwl1
+PotenzialJwl2
+Kraft-Juwel 1
+Kraft-Juwel 2
+Furor-Juwel 1
+Furor-Juwel 2
+Krise-Juwel 1
+Krise-Juwel 2
+Mut-Juwel 1
+Mut-Juwel 2
+Ninja-Juwel 1
+Spieler-Juwel 1
+Moral-Juwel 1
+AnführerJwl1
+AnführerJwl2
+Rodeo-Juwel 1
+Flug-Juwel 1
+ErkenntnisJwl1
+ErkenntnisJwl3
+Ausdauerjuwel 1
+Verlängerungsjuwel 1
+Verlängerungsjuwel 2
+Vision-Juwel 1
+WahrnehmJwl1
+Ranger-Juwel 1
+RucksackJwl1
+Schutz-Juwel 1
+ZufluchtJuwel1
+HeldenJuwel1
+HeldenJuwel3
+Medizin-Juwel 1
+Medizin-Juwel 2
+ErholungJuwel1
+ErholungJuwel2
+Dauer-Juwel 1
+FreundschftJwl1
+FreundschftJwl2
+HungerfreiJwl1
+StoffwechslJwl1
+VerschlingJwl1
+VerschlingJwl3
+Gesättigtes Jwl1
+FleischfresJwl1
+FleischfanJwl1
+Pilzform-Juwel 1
+Gras-Juwel 1
+ProfessorJwl1
+FertigungJuwel1
+FallenmstrJwl1
+Sammel-Juwel 1
+Bienen-Juwel 1
+BienenkönJwl1
+AmulettfindJwl1
+AmulettfindJwl3
+Segen-Juwel 1
+SchicksalJuwel1
+SchicksalJuwel3
+SchneideJuwel1
+SchneideJuwel3
+Fang-Juwel 1
+Fang-Juwel 3
+GlockenJuwel1
+NovizenJwl 1
+SchneefloJwl1
+Quell-Juwel 1
+Forscherjuwel 1
+Himmelsbankettjuwel 1

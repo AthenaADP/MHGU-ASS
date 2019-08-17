@@ -31,7 +31,7 @@ Atq. hielo
 Atq. draco
 Atq. elem.
 Estado
-Afilado
+Afilador
 Artesano
 Afilado
 Esgrima
@@ -200,9 +200,9 @@ Codicia
 Antikushala
 Antichameleos
 Antiteostra
-Torso+
 Técnicas secretas
 Mejora de talismán
+Torso+
 
 Anula veneno
 Doble veneno

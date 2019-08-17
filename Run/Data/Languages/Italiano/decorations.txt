@@ -1,0 +1,242 @@
+﻿G veleno 1
+G veleno 2
+G paralisi 1
+G paralisi 2
+G sonno 1
+G sonno 2
+G stordim. 1
+G stordim. 1+
+G udito 1
+G udito 3
+G vento 1
+G vento 2
+G antisism. 1
+G antisism. 1+
+G vincolo 1
+G vincolo 1+
+G calore 1
+G freddo 1
+G polare 1
+G polare 3
+G solare 1
+G solare 3
+G anti-ladro 1+
+G difesa OK 1
+G antifrenesia 1
+G antifrenesia 3
+G biologia 1
+G biologia 1+
+G emorragia 1
+G attacco 1
+G attacco 2
+G attacco 3
+G difesa 1
+G difesa 2
+G vita 1
+G ignifugo 1
+G ignifugo 1+
+G acquatico 1
+G acquatico 1+
+G isolante 1
+G isolante 1+
+G antigelo 1
+G antigelo 1+
+G antidrago 1
+G antidrago 1+
+G res. elem. 1
+G res. elem. 3
+G att. fuoco 1
+G att. fuoco 2
+G att. acqua 1
+G att. acqua 2
+G att. tuono 1
+G att. tuono 2
+G att. gelo 1
+G att. gelo 2
+G att. drago 1
+G att. drago 2
+G att. elem. 1
+G att. elem. 3
+G att. status 1
+G att. status 2
+G rasoio 1
+G artigiano 1
+G artigiano 3
+G acutezza 1
+G acutezza 3
+G scherma 1
+G scherma 3
+G metall. 1
+G metall. 3
+G levigaz. 1
+G levigaz. 2
+G rapi-danno 1
+G rapi-danno 2
+G punizione 1
+G punizione 3
+G rinfodero 1
+G rinfodero 2
+G affilatura 1
+G scaglialama 1
+G scaglialama 3
+G ricarica 1
+G ricarica 2
+G rinculo 1
+G rinculo 3
+G precisione 1
+G normale 1
+G normale 3
+G perforan. 1
+G perforan. 3
+G ventaglio 1
+G ventaglio 3
+G esplos. 1
+G esplos. 3
+G P normali 1
+G P normali 2
+G P perfor. 1
+G P ventaglio 1
+G P esplosivi 1
+G P grappolo 1
+G P grappolo 3
+G B veleno 1
+G B paralisi 1
+G B paralisi 2
+G B sonno 1
+G B potenza 1
+G B potenza 2
+G B elem. 1
+G B elem. 2
+G B cortor. 1
+G B fatica 1
+G B scoppio 1
+G fuoco rap. 1
+G fuoco rap. 3
+G mirino 1
+G mirino 2
+G cartucc. 1
+G cartucc. 3
+G balistica 1
+G risparmio 1
+G risparmio 2
+G affinità 1
+G affinità 2
+G affinità 3
+G cecchino 1
+G cecchino 3
+G serie 1
+G serie 3
+G critico status 1
+G critico status 2
+G critico elem. 1
+G critico elem. 2
+G critico 1
+G critico 3
+G critico -1
+G critico -3
+G carica 1
+G carica 3
+G resistenza 1
+G resistenza 3
+G atleta 1
+G atleta 2
+G resistente 1
+G resistente 2
+G corsa 1
+G corsa 2
+G schivata 1
+G schivata 2
+G schivatore 1
+G schivatore 3
+G bolla 1
+G bolla 3
+G guardia 1
+G guardia 2
+G blocco 1
+G blocco 2
+G KO 1
+G KO 2
+G sfinitore 1
+G sfinitore 2
+G maestro 1
+G artigliere 1
+G spaccone 1
+G spaccone 3
+G bombarolo 1
+G rinforzo 1
+G rinforzo 2
+G spirito 1
+G spirito 2
+G illeso 1
+G illeso 2
+G chance 1
+G chance 3
+G spirito drago 1
+G spirito drago 3
+G potenziale 1
+G potenziale 2
+G superstite 1
+G superstite 2
+G rabbia 1
+G rabbia 2
+G emergenza 1
+G emergenza 2
+G coraggio 1
+G coraggio 2
+G presenza 1
+G gregario 1
+G gregario 1+
+G capitano 1
+G capitano 2
+G cavaliere 1
+G balzo 1
+G intuito 1
+G intuito 3
+G sopportazione 1
+G estensione 1
+G estensione 2
+G sibilla 1
+G cattura 1
+G ranger 1
+G portatore 1
+G protez. 1
+G protez. 1+
+G eroismo 1
+G eroismo 3
+G medicina 1
+G medicina 2
+G recupero 1
+G recupero 2
+G oggetti 1
+G ampia area 1
+G ampia area 2
+G fame 1
+G ingordigia 1
+G cucina 1
+G cucina 3
+G dieta 1
+G predatore 1
+G predatore 1+
+G micologia 1
+G botanica 1
+G combinat. 1
+G alchimista 1
+G trappola 1
+G raccolta 1
+G miele 1
+G miele 1+
+G idolatra 1
+G idolatra 3
+G fatalità 1
+G fato 1
+G fato 3
+G ricavo 1
+G ricavo 3
+G premi 1
+G premi 3
+G Bherna 1
+G Kokoto 1
+G Pokke 1
+G Yukumo 1
+G studio 1
+G taverna volante 1
